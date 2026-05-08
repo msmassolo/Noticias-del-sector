@@ -1,0 +1,380 @@
+[
+  {
+    "name": "The Coca-Cola Company",
+    "country": "United States",
+    "segments": ["soft_drinks", "water", "energy_drinks", "coffee_tea"],
+    "aliases": ["Coca-Cola", "Coke", "Sprite", "Fanta", "Dasani", "Costa Coffee", "Powerade", "Minute Maid", "Topo Chico"]
+  },
+  {
+    "name": "PepsiCo",
+    "country": "United States",
+    "segments": ["soft_drinks", "water", "energy_drinks"],
+    "aliases": ["Pepsi", "Gatorade", "Mountain Dew", "Aquafina", "Rockstar Energy", "SodaStream"]
+  },
+  {
+    "name": "Keurig Dr Pepper",
+    "country": "United States",
+    "segments": ["soft_drinks", "coffee_tea", "energy_drinks"],
+    "aliases": ["KDP", "Dr Pepper", "Keurig", "Canada Dry", "Snapple", "7UP", "A&W", "Mott's"]
+  },
+  {
+    "name": "Nestle Waters",
+    "country": "Switzerland",
+    "segments": ["water"],
+    "aliases": ["Nestle Water", "Perrier", "S.Pellegrino", "San Pellegrino", "Acqua Panna"]
+  },
+  {
+    "name": "Red Bull",
+    "country": "Austria",
+    "segments": ["energy_drinks"],
+    "aliases": ["Red Bull GmbH", "Red Bull Energy Drink"]
+  },
+  {
+    "name": "Monster Beverage",
+    "country": "United States",
+    "segments": ["energy_drinks"],
+    "aliases": ["Monster Energy", "Monster Beverage Corporation", "Reign Total Body Fuel"]
+  },
+  {
+    "name": "Celsius Holdings",
+    "country": "United States",
+    "segments": ["energy_drinks", "functional_drinks"],
+    "aliases": ["Celsius", "Celsius Energy", "Celsius Holdings Inc"]
+  },
+  {
+    "name": "Oatly",
+    "country": "Sweden",
+    "segments": ["plant_based", "coffee_tea"],
+    "aliases": ["Oatly Group", "Oatly Group AB", "oat milk"]
+  },
+  {
+    "name": "Danone",
+    "country": "France",
+    "segments": ["water", "functional_drinks"],
+    "aliases": ["Evian", "Volvic", "Aqua", "Actimel", "Danone Waters"]
+  },
+  {
+    "name": "Suntory Beverage & Food",
+    "country": "Japan",
+    "segments": ["soft_drinks", "water", "coffee_tea", "energy_drinks"],
+    "aliases": ["Suntory Beverage", "Suntory Food", "Boss Coffee", "Orangina", "Lucozade", "Ribena"]
+  },
+  {
+    "name": "Yakult Honsha",
+    "country": "Japan",
+    "segments": ["functional_drinks", "probiotics"],
+    "aliases": ["Yakult", "Yakult Honsha Co"]
+  },
+  {
+    "name": "AG Barr",
+    "country": "United Kingdom",
+    "segments": ["soft_drinks", "energy_drinks"],
+    "aliases": ["A.G. Barr", "IRN-BRU", "Irn Bru", "Rubicon", "Boost Drinks"]
+  },
+  {
+    "name": "Fevertree Drinks",
+    "country": "United Kingdom",
+    "segments": ["soft_drinks", "premium_mixers"],
+    "aliases": ["Fever-Tree", "Fever Tree", "Fevertree"]
+  },
+  {
+    "name": "Britvic",
+    "country": "United Kingdom",
+    "segments": ["soft_drinks"],
+    "aliases": ["Robinsons", "Tango soft drink", "Tango drink", "J2O", "Fruit Shoot"]
+  },
+  {
+    "name": "Arizona Beverages",
+    "country": "United States",
+    "segments": ["soft_drinks", "coffee_tea"],
+    "aliases": ["AriZona", "Arizona Iced Tea", "AriZona Beverages"]
+  },
+  {
+    "name": "National Beverage Corp",
+    "country": "United States",
+    "segments": ["soft_drinks", "water"],
+    "aliases": ["National Beverage", "LaCroix", "La Croix", "Faygo", "Shasta"]
+  },
+  {
+    "name": "Olipop",
+    "country": "United States",
+    "segments": ["functional_drinks", "prebiotics", "soft_drinks"],
+    "aliases": ["OLIPOP", "Olipop soda"]
+  },
+  {
+    "name": "Poppi",
+    "country": "United States",
+    "segments": ["functional_drinks", "prebiotics", "soft_drinks"],
+    "aliases": ["Poppi soda", "prebiotic soda"]
+  },
+  {
+    "name": "AB InBev",
+    "country": "Belgium/Brazil",
+    "segments": ["beer"],
+    "aliases": ["Anheuser-Busch InBev", "ABInBev", "AB InBev", "Budweiser", "Corona beer", "Corona Cero", "Stella Artois", "Michelob Ultra", "Quilmes", "Beck's", "Brahma", "Skol"]
+  },
+  {
+    "name": "Heineken",
+    "country": "Netherlands",
+    "segments": ["beer"],
+    "aliases": ["Heineken NV", "Heineken N.V.", "Amstel", "Sol beer", "Dos Equis", "Tecate"]
+  },
+  {
+    "name": "Carlsberg Group",
+    "country": "Denmark",
+    "segments": ["beer"],
+    "aliases": ["Carlsberg", "Tuborg", "Kronenbourg", "1664", "Grimbergen"]
+  },
+  {
+    "name": "Molson Coors",
+    "country": "United States/Canada",
+    "segments": ["beer"],
+    "aliases": ["Coors", "Miller Lite", "Blue Moon", "Carling", "Madrí Excepcional", "Madri Excepcional"]
+  },
+  {
+    "name": "Asahi Group",
+    "country": "Japan",
+    "segments": ["beer", "soft_drinks"],
+    "aliases": ["Asahi", "Asahi Super Dry", "Peroni", "Grolsch", "Fuller's"]
+  },
+  {
+    "name": "Kirin Holdings",
+    "country": "Japan",
+    "segments": ["beer", "soft_drinks"],
+    "aliases": ["Kirin", "Kirin Brewery", "Kirin Ichiban", "Lion Nathan"]
+  },
+  {
+    "name": "China Resources Snow Breweries",
+    "country": "China",
+    "segments": ["beer"],
+    "aliases": ["China Resources Beer", "CR Beer", "Snow Beer", "Snow Breweries"]
+  },
+  {
+    "name": "Tsingtao Brewery",
+    "country": "China",
+    "segments": ["beer"],
+    "aliases": ["Tsingtao", "Qingdao Beer"]
+  },
+  {
+    "name": "Mahou San Miguel",
+    "country": "Spain",
+    "segments": ["beer"],
+    "aliases": ["Mahou", "San Miguel beer", "Alhambra beer"]
+  },
+  {
+    "name": "Boston Beer Company",
+    "country": "United States",
+    "segments": ["beer", "hard_seltzer", "rtd"],
+    "aliases": ["Boston Beer", "Samuel Adams", "Sam Adams", "Truly Hard Seltzer", "Dogfish Head", "Twisted Tea"]
+  },
+  {
+    "name": "Diageo",
+    "country": "United Kingdom",
+    "segments": ["spirits", "beer", "rtd"],
+    "aliases": ["Johnnie Walker", "Smirnoff", "Guinness", "Tanqueray", "Baileys", "Captain Morgan", "Don Julio"]
+  },
+  {
+    "name": "Pernod Ricard",
+    "country": "France",
+    "segments": ["spirits", "wine"],
+    "aliases": ["Absolut", "Chivas Regal", "Jameson", "Ballantine's", "Martell", "Mumm", "Beefeater"]
+  },
+  {
+    "name": "Bacardi",
+    "country": "Bermuda",
+    "segments": ["spirits"],
+    "aliases": ["Bacardi Limited", "Grey Goose", "Bombay Sapphire", "Patron", "Patron Tequila", "Dewar's", "Martini"]
+  },
+  {
+    "name": "Campari Group",
+    "country": "Italy",
+    "segments": ["spirits", "aperitifs"],
+    "aliases": ["Campari", "Aperol", "Wild Turkey", "Grand Marnier", "Espolon", "SKYY"]
+  },
+  {
+    "name": "Brown-Forman",
+    "country": "United States",
+    "segments": ["spirits"],
+    "aliases": ["Jack Daniel's", "Woodford Reserve", "Old Forester", "Herradura"]
+  },
+  {
+    "name": "Constellation Brands",
+    "country": "United States",
+    "segments": ["beer", "wine", "spirits"],
+    "aliases": ["Modelo Especial", "Corona Premier", "Robert Mondavi", "Kim Crawford", "The Prisoner Wine Company"]
+  },
+  {
+    "name": "Remy Cointreau",
+    "country": "France",
+    "segments": ["spirits"],
+    "aliases": ["Remy Martin", "Rémy Martin", "Cointreau", "Mount Gay", "Bruichladdich"]
+  },
+  {
+    "name": "Beam Suntory",
+    "country": "Japan/United States",
+    "segments": ["spirits"],
+    "aliases": ["Suntory Global Spirits", "Jim Beam", "Maker's Mark", "Yamazaki", "Hibiki", "Laphroaig"]
+  },
+  {
+    "name": "Treasury Wine Estates",
+    "country": "Australia",
+    "segments": ["wine"],
+    "aliases": ["TWE", "Penfolds", "Wolf Blass", "19 Crimes", "Beringer"]
+  },
+  {
+    "name": "E. & J. Gallo Winery",
+    "country": "United States",
+    "segments": ["wine", "spirits"],
+    "aliases": ["Gallo", "E&J Gallo", "Barefoot Wine", "Apothic", "High Noon"]
+  },
+  {
+    "name": "LVMH Wines & Spirits",
+    "country": "France",
+    "segments": ["wine", "spirits"],
+    "aliases": ["Moet Hennessy", "Moët Hennessy", "Hennessy", "Moet & Chandon", "Moët & Chandon", "Veuve Clicquot", "Dom Perignon", "Belvedere Vodka"]
+  },
+  {
+    "name": "Kweichow Moutai",
+    "country": "China",
+    "segments": ["spirits"],
+    "aliases": ["Kweichow Moutai Co", "Moutai", "Maotai"]
+  },
+  {
+    "name": "Coca-Cola Europacific Partners",
+    "country": "United Kingdom",
+    "segments": ["bottling_distribution", "soft_drinks"],
+    "aliases": ["CCEP", "Coca-Cola European Partners"]
+  },
+  {
+    "name": "Coca-Cola FEMSA",
+    "country": "Mexico",
+    "segments": ["bottling_distribution", "soft_drinks", "water"],
+    "aliases": ["KOF", "Coca Cola FEMSA"]
+  },
+  {
+    "name": "Arca Continental",
+    "country": "Mexico",
+    "segments": ["bottling_distribution", "soft_drinks", "water"],
+    "aliases": ["AC Bebidas"]
+  },
+  {
+    "name": "Sysco",
+    "country": "United States",
+    "segments": ["distribution", "foodservice"],
+    "aliases": ["Sysco Corporation"]
+  },
+  {
+    "name": "US Foods",
+    "country": "United States",
+    "segments": ["distribution", "foodservice"],
+    "aliases": ["US Foods Holding", "US Foods Holding Corp"]
+  },
+  {
+    "name": "Walmart",
+    "country": "United States",
+    "segments": ["retail"],
+    "aliases": ["Walmart Inc", "Sam's Club", "Sams Club"]
+  },
+  {
+    "name": "Costco",
+    "country": "United States",
+    "segments": ["retail"],
+    "aliases": ["Costco Wholesale", "Kirkland Signature"]
+  },
+  {
+    "name": "Ball Corporation",
+    "country": "United States",
+    "segments": ["packaging"],
+    "aliases": ["Ball Corp", "Ball aluminum cans", "Ball Packaging"]
+  },
+  {
+    "name": "Tetra Pak",
+    "country": "Switzerland/Sweden",
+    "segments": ["packaging"],
+    "aliases": ["Tetra Laval", "Tetra Pak cartons"]
+  },
+  {
+    "name": "Givaudan",
+    "country": "Switzerland",
+    "segments": ["ingredients", "flavors"],
+    "aliases": ["Givaudan flavors", "Givaudan Taste & Wellbeing"]
+  },
+  {
+    "name": "Cerveceria y Malteria Quilmes",
+    "country": "Argentina",
+    "segments": ["beer", "soft_drinks", "water", "bottling_distribution"],
+    "aliases": ["Cervecería y Maltería Quilmes", "Quilmes", "Brahma Argentina", "Andes Origen", "Pepsi Argentina", "Eco de los Andes"]
+  },
+  {
+    "name": "Refres Now",
+    "country": "Argentina",
+    "segments": ["soft_drinks", "water"],
+    "aliases": ["Manaos", "Villa del Sur", "Villavicencio", "Levite"]
+  },
+  {
+    "name": "Grupo Cepas",
+    "country": "Argentina",
+    "segments": ["spirits", "aperitifs", "wine"],
+    "aliases": ["Cepas Argentinas", "Gancia", "Terma", "Bodega Graffigna", "Bodega Colón"]
+  },
+  {
+    "name": "CCU",
+    "country": "Chile",
+    "segments": ["beer", "soft_drinks", "water", "wine"],
+    "aliases": ["Compania Cervecerias Unidas", "Compañía Cervecerías Unidas", "CCU Chile", "Cristal beer", "Escudo beer", "Bilz y Pap", "Cachantun"]
+  },
+  {
+    "name": "Embotelladora Andina",
+    "country": "Chile",
+    "segments": ["bottling_distribution", "soft_drinks", "water"],
+    "aliases": ["Coca-Cola Andina", "Andina Bottling", "Andina"]
+  },
+  {
+    "name": "AJE Group",
+    "country": "Peru",
+    "segments": ["soft_drinks", "water", "energy_drinks"],
+    "aliases": ["AJE", "Ajegroup", "Big Cola", "Kola Real", "Cielo", "Volt energy drink"]
+  },
+  {
+    "name": "Postobon",
+    "country": "Colombia",
+    "segments": ["soft_drinks", "water", "energy_drinks"],
+    "aliases": ["Postobón", "Hit juice", "Colombiana soda", "Manzana Postobon", "Agua Cristal"]
+  },
+  {
+    "name": "Backus",
+    "country": "Peru",
+    "segments": ["beer", "soft_drinks", "water"],
+    "aliases": ["Union de Cervecerias Peruanas Backus", "Backus y Johnston", "Cusqueña", "Cristal Peru", "Pilsen Callao"]
+  },
+  {
+    "name": "Marie Brizard Wine & Spirits",
+    "country": "France",
+    "segments": ["spirits", "wine"],
+    "aliases": ["Marie Brizard", "MBWS", "William Peel", "Cognac Gautier", "Fruits and Wine"]
+  },
+  {
+    "name": "Sazerac Company",
+    "country": "United States",
+    "segments": ["spirits", "RTD"],
+    "aliases": ["Sazerac", "BuzzBallz", "Buffalo Trace", "Fireball", "Pappy Van Winkle", "Benchmark Bourbon", "Weller"]
+  },
+  {
+    "name": "Jackson Family Wines",
+    "country": "United States",
+    "segments": ["wine"],
+    "aliases": ["Jackson Family", "Kendall-Jackson", "La Crema", "Cardinale", "Stonestreet", "Byron Winery"]
+  },
+  {
+    "name": "Endeavour Group",
+    "country": "Australia",
+    "segments": ["retail"],
+    "aliases": ["Endeavour", "BWS", "Dan Murphy's", "Dan Murphys", "ALH Group"]
+  },
+  {
+    "name": "Wuliangye",
+    "country": "China",
+    "segments": ["spirits"],
+    "aliases": ["Wuliangye Yibin", "五粮液", "Wuliangye baijiu"]
+  }
+]
