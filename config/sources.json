@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Just Drinks",
+    "url": "https://www.just-drinks.com/",
+    "rss": ["https://www.just-drinks.com/feed/"],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Beverage Daily",
+    "url": "https://www.beveragedaily.com/",
+    "rss": [],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "FoodBev Media",
+    "url": "https://www.foodbev.com/",
+    "rss": ["https://www.foodbev.com/blog-feed.xml"],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "The Drinks Business",
+    "url": "https://www.thedrinksbusiness.com/",
+    "rss": ["https://www.thedrinksbusiness.com/feed/"],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/",
+    "rss": [],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": false
+  },
+  {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/",
+    "rss": [],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": false
+  },
+  {
+    "name": "Reuters Business",
+    "url": "https://www.reuters.com/business/",
+    "rss": [],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": false
+  },
+  {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/",
+    "rss": ["https://www.infobae.com/arc/outboundfeeds/rss/argentina/"],
+    "sections": [
+      "https://www.infobae.com/economia/",
+      "https://www.infobae.com/tag/cerveza/",
+      "https://www.infobae.com/tag/vino/",
+      "https://www.infobae.com/tag/bebidas/",
+      "https://www.infobae.com/inhouse/"
+    ],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "La Nacion",
+    "url": "https://www.lanacion.com.ar/",
+    "rss": [],
+    "sections": ["https://www.lanacion.com.ar/economia/", "https://www.lanacion.com.ar/economia/negocios/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Clarin",
+    "url": "https://www.clarin.com/",
+    "rss": [],
+    "sections": ["https://www.clarin.com/economia/", "https://www.clarin.com/gourmet/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Ambito",
+    "url": "https://www.ambito.com/",
+    "rss": [],
+    "sections": ["https://www.ambito.com/economia", "https://www.ambito.com/negocios"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Cronista",
+    "url": "https://www.cronista.com/",
+    "rss": [],
+    "sections": ["https://www.cronista.com/negocios/", "https://www.cronista.com/apertura/empresas/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "iProfesional",
+    "url": "https://www.iprofesional.com/",
+    "rss": ["https://www.iprofesional.com/rss/noticias.xml"],
+    "sections": ["https://www.iprofesional.com/negocios", "https://www.iprofesional.com/economia"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Los Andes",
+    "url": "https://www.losandes.com.ar/",
+    "rss": ["https://www.losandes.com.ar/arc/outboundfeeds/rss/"],
+    "sections": ["https://www.losandes.com.ar/economia/", "https://www.losandes.com.ar/vinos/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "MDZ Online",
+    "url": "https://www.mdzol.com/",
+    "rss": ["https://www.mdzol.com/rss/news.xml"],
+    "sections": ["https://www.mdzol.com/economia/", "https://www.mdzol.com/vinos-bodegas/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "La Voz",
+    "url": "https://www.lavoz.com.ar/",
+    "rss": ["https://www.lavoz.com.ar/rss/"],
+    "sections": ["https://www.lavoz.com.ar/negocios/", "https://www.lavoz.com.ar/vinos/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Planeta Joy",
+    "url": "https://www.planetajoy.com/",
+    "rss": [],
+    "sections": ["https://www.planetajoy.com/categoria/bebidas/", "https://www.planetajoy.com/categoria/vino/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Wines of Argentina",
+    "url": "https://www.winesofargentina.org/",
+    "rss": [],
+    "sections": ["https://www.winesofargentina.org/noticias/", "https://www.winesofargentina.org/prensa/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Coviar",
+    "url": "https://www.coviar.com.ar/",
+    "rss": [],
+    "sections": ["https://www.coviar.com.ar/noticias/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Vinos y Bodegas",
+    "url": "https://www.vinosybodegas.com/",
+    "rss": ["https://www.vinosybodegas.com/feed/"],
+    "sections": [],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Mercado",
+    "url": "https://www.mercado.com.ar/",
+    "rss": [],
+    "sections": ["https://www.mercado.com.ar/negocios/", "https://www.mercado.com.ar/empresas/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "El Economista Argentina",
+    "url": "https://eleconomista.com.ar/",
+    "rss": ["https://eleconomista.com.ar/feed"],
+    "sections": [],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Forbes Argentina",
+    "url": "https://www.forbesargentina.com/",
+    "rss": [],
+    "sections": ["https://www.forbesargentina.com/negocios/", "https://www.forbesargentina.com/money/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "BAE Negocios",
+    "url": "https://www.baenegocios.com/",
+    "rss": [],
+    "sections": ["https://www.baenegocios.com/negocios/", "https://www.baenegocios.com/economia/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Valor Local",
+    "url": "https://www.valorlocal.com.ar/",
+    "rss": [],
+    "sections": ["https://www.valorlocal.com.ar/economia/", "https://www.valorlocal.com.ar/empresas/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Ciudadano News",
+    "url": "https://ciudadano.news/",
+    "rss": ["https://ciudadano.news/feed/"],
+    "sections": [],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/",
+    "rss": [],
+    "sections": ["https://www.todojujuy.com/tecnologias-y-tendencias/", "https://www.todojujuy.com/economia/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Valor Economico",
+    "url": "https://valor.globo.com/",
+    "rss": ["https://valor.globo.com/rss/valor"],
+    "sections": ["https://valor.globo.com/empresas/"],
+    "country": "Brazil",
+    "region": "Regional",
+    "language": "pt",
+    "trade": false
+  },
+  {
+    "name": "DFSud",
+    "url": "https://dfsud.com/",
+    "rss": [],
+    "sections": ["https://dfsud.com/empresas", "https://dfsud.com/industria"],
+    "country": "South America",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "America Retail",
+    "url": "https://america-retail.com/",
+    "rss": [],
+    "sections": ["https://america-retail.com/industria-y-mercado/", "https://america-retail.com/paises/argentina/"],
+    "country": "Latin America",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Exame",
+    "url": "https://exame.com/",
+    "rss": [],
+    "sections": ["https://exame.com/negocios/"],
+    "country": "Brazil",
+    "region": "Regional",
+    "language": "pt",
+    "trade": false
+  },
+  {
+    "name": "Diario Financiero",
+    "url": "https://www.df.cl/",
+    "rss": [],
+    "sections": ["https://www.df.cl/empresas"],
+    "country": "Chile",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "La Tercera",
+    "url": "https://www.latercera.com/",
+    "rss": [],
+    "sections": ["https://www.latercera.com/categoria/pulso/empresas/"],
+    "country": "Chile",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Gestion",
+    "url": "https://gestion.pe/",
+    "rss": [],
+    "sections": ["https://gestion.pe/economia/empresas/", "https://gestion.pe/g-de-gestion/"],
+    "country": "Peru",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Portafolio",
+    "url": "https://www.portafolio.co/",
+    "rss": [],
+    "sections": ["https://www.portafolio.co/negocios/empresas", "https://www.portafolio.co/economia"],
+    "country": "Colombia",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "El Observador",
+    "url": "https://www.elobservador.com.uy/",
+    "rss": [],
+    "sections": ["https://www.elobservador.com.uy/economia-y-empresas", "https://www.elobservador.com.uy/negocios"],
+    "country": "Uruguay",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Brewbound",
+    "url": "https://www.brewbound.com/",
+    "rss": ["https://www.brewbound.com/feed"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "VinePair",
+    "url": "https://vinepair.com/",
+    "rss": ["https://vinepair.com/feed/"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "The Spirits Business",
+    "url": "https://www.thespiritsbusiness.com/",
+    "rss": ["https://www.thespiritsbusiness.com/feed/"],
+    "sections": [],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Wine Business",
+    "url": "https://www.winebusiness.com/",
+    "rss": ["https://www.winebusiness.com/rss/"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "iProfesional",
+    "url": "https://www.iprofesional.com/",
+    "rss": ["https://www.iprofesional.com/rss/noticias.xml"],
+    "sections": [],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "BAE Negocios",
+    "url": "https://www.baenegocios.com/",
+    "rss": [],
+    "sections": ["https://www.baenegocios.com/negocios", "https://www.baenegocios.com/economia"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Mercado",
+    "url": "https://www.mercado.com.ar/",
+    "rss": [],
+    "sections": ["https://www.mercado.com.ar/negocios/", "https://www.mercado.com.ar/empresas/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "El Economista Argentina",
+    "url": "https://eleconomista.com.ar/",
+    "rss": ["https://eleconomista.com.ar/feed"],
+    "sections": [],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "América Economía",
+    "url": "https://www.americaeconomia.com/",
+    "rss": [],
+    "sections": ["https://www.americaeconomia.com/negocios-industrias", "https://www.americaeconomia.com/economia-mercados"],
+    "country": "Pan-LATAM",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/",
+    "rss": ["https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/"],
+    "sections": [],
+    "country": "Mexico",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "SevenFifty Daily",
+    "url": "https://daily.sevenfifty.com/",
+    "rss": [],
+    "sections": ["https://daily.sevenfifty.com/category/news/", "https://daily.sevenfifty.com/category/business/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  }
+]
