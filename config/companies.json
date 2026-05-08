@@ -376,5 +376,29 @@
     "country": "China",
     "segments": ["spirits"],
     "aliases": ["Wuliangye Yibin", "五粮液", "Wuliangye baijiu"]
+  },
+  {
+    "name": "Ambev",
+    "country": "Brazil",
+    "segments": ["beer", "soft_drinks", "water"],
+    "aliases": ["AmBev", "Companhia de Bebidas das Americas", "Brahma", "Antarctica", "Skol", "Guaraná Antarctica", "Bohemia", "Bohemia cerveja"]
+  },
+  {
+    "name": "Coca-Cola Andina",
+    "country": "Chile",
+    "segments": ["soft_drinks", "water", "energy_drinks"],
+    "aliases": ["Embotelladora Andina", "Andina bebidas"]
+  },
+  {
+    "name": "CCU",
+    "country": "Chile",
+    "segments": ["beer", "soft_drinks", "wine", "spirits", "water"],
+    "aliases": ["Compañia Cervecerías Unidas", "Cervecerías Unidas", "Cristal Chile", "Escudo cerveza", "Kunstmann"]
+  },
+  {
+    "name": "Concha y Toro",
+    "country": "Chile",
+    "segments": ["wine"],
+    "aliases": ["Viña Concha y Toro", "Casillero del Diablo", "Don Melchor", "Trivento"]
   }
 ]
