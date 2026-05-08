@@ -2,10 +2,11 @@ from datetime import datetime, timezone, timedelta
 
 from .models import Candidate
 from .text import normalize_text, term_in_text
-from .urls import normalize_url
+from .urls import domain_of, normalize_url
 
 MAX_AGE_HOURS_MUNDIAL = 48
-MAX_AGE_HOURS_LOCAL_REGIONAL = 72
+MAX_AGE_HOURS_LOCAL = 72
+MAX_AGE_HOURS_REGIONAL = 96
 MAX_PER_SOURCE = 10
 
 
@@ -16,7 +17,12 @@ def _is_too_old(published_str, region=None):
         parsed = datetime.fromisoformat(published_str.replace("Z", "+00:00"))
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
-        max_hours = MAX_AGE_HOURS_LOCAL_REGIONAL if region in {"Local", "Regional"} else MAX_AGE_HOURS_MUNDIAL
+        if region == "Regional":
+            max_hours = MAX_AGE_HOURS_REGIONAL
+        elif region == "Local":
+            max_hours = MAX_AGE_HOURS_LOCAL
+        else:
+            max_hours = MAX_AGE_HOURS_MUNDIAL
         return (datetime.now(timezone.utc) - parsed.astimezone(timezone.utc)) > timedelta(hours=max_hours)
     except (ValueError, TypeError):
         return False
@@ -180,7 +186,9 @@ def filter_candidates(candidates, companies, keywords, published_urls=None):
             seen_urls.add(url)
             seen_titles.add(title_key)
             continue
-        if source_counts.get(candidate.source, 0) >= MAX_PER_SOURCE:
+        source_key = candidate.source if candidate.source != "Google News" else (domain_of(candidate.url) or "Google News")
+        source_limit = MAX_PER_SOURCE * 4 if source_key == "news.google.com" else MAX_PER_SOURCE
+        if source_counts.get(source_key, 0) >= source_limit:
             diagnostics["discarded"]["source_limit"] = diagnostics["discarded"].get("source_limit", 0) + 1
             continue
 
@@ -217,7 +225,7 @@ def filter_candidates(candidates, companies, keywords, published_urls=None):
             reason = "trade_source_keyword_match"
         elif (
             candidate.region in {"Local", "Regional"}
-            and candidate.discovery.startswith("section:")
+            and (candidate.discovery.startswith("section:") or candidate.discovery.startswith("google_news:"))
             and beverage_context
             and business_context
         ):
@@ -240,7 +248,7 @@ def filter_candidates(candidates, companies, keywords, published_urls=None):
         )
         diagnostics["accepted"] += 1
         diagnostics["accepted_reasons"][reason] = diagnostics["accepted_reasons"].get(reason, 0) + 1
-        source_counts[candidate.source] = source_counts.get(candidate.source, 0) + 1
+        source_counts[source_key] = source_counts.get(source_key, 0) + 1
         seen_urls.add(url)
         seen_titles.add(title_key)
 
