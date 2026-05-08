@@ -100,13 +100,21 @@ def extract_title_summary_body(html_text):
 def extract_article_item(item):
     candidate = item["candidate"]
     html_text, status = fetch_text(candidate.url, timeout=10, retries=1)
-    if not html_text:
-        return None, {"url": candidate.url, "reason": status}
 
-    extracted = extract_title_summary_body(html_text)
-    body = extracted["body"]
+    body = ""
+    extracted = {}
+    if html_text:
+        extracted = extract_title_summary_body(html_text)
+        body = extracted.get("body", "")
+
     if len(body) < 180:
-        return None, {"url": candidate.url, "reason": "body_too_short"}
+        # Fall back to the RSS/section summary if available and long enough
+        fallback = (candidate.summary or "").strip()
+        if len(fallback) >= 180:
+            body = fallback
+        else:
+            reason = status if not html_text else "body_too_short"
+            return None, {"url": candidate.url, "reason": reason}
 
     article = Article(
         title=extracted["title"] or candidate.title,
