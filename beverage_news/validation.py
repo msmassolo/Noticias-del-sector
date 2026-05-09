@@ -27,6 +27,17 @@ PAYWALL_PATTERNS = (
     "unlock this article",
     "read the full article",
     "lee el artículo completo",
+    # Páginas de login / newsletter gate
+    "sign in to your account",
+    "log in to your account",
+    "enter your email",
+    "enter your password",
+    "forgot your password",
+    "please log in",
+    "please sign in",
+    "inicia sesión",
+    "ingresa tu contraseña",
+    "ingresá tu contraseña",
 )
 
 # Títulos que son nombres de sección/newsletter, no de artículo

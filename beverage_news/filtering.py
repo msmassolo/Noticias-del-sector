@@ -1,9 +1,16 @@
 import logging
+import re
 from datetime import datetime, timezone, timedelta
 
 from .models import Candidate
 from .text import normalize_text, term_in_text
 from .urls import domain_of, normalize_url
+
+# Segmentos de path que indican página de login / paywall / suscripción
+_LOGIN_PATH_RE = re.compile(
+    r'/(login|signin|sign-in|signup|sign-up|subscribe|subscription|register|account/login|auth)[/\?]?',
+    re.IGNORECASE,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -185,6 +192,11 @@ def filter_candidates(candidates, companies, keywords, published_urls=None):
             continue
         if not url or url in seen_urls or title_key in seen_titles:
             diagnostics["duplicates"] += 1
+            continue
+        if _LOGIN_PATH_RE.search(url):
+            diagnostics["discarded"]["login_url"] = diagnostics["discarded"].get("login_url", 0) + 1
+            seen_urls.add(url)
+            seen_titles.add(title_key)
             continue
         if _is_too_old(candidate.published, candidate.region):
             diagnostics["too_old"] += 1
