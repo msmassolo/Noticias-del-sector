@@ -12,6 +12,7 @@ from .discovery import discover_candidates
 from .extraction import extract_article_item
 from .filtering import filter_candidates
 from .ranking import rank_items, select_balanced_articles
+from .validation import validate_articles
 from .web import generate_web
 
 
@@ -128,6 +129,7 @@ def run_pipeline(
     logger.info("Pipeline: extraction queue has %d items (direct=%d, gn=%d)", len(extraction_queue), len(direct), len(gn))
     extracted_articles, extraction_diagnostics = _extract_ranked_selection(extraction_queue, target_count, min_per_region, min_body_chars)
     logger.info("Pipeline: extracted %d / %d articles", extraction_diagnostics["extracted"], extraction_diagnostics["attempted"])
+    extracted_articles, validation_diagnostics = validate_articles(extracted_articles)
     articles, selection_diagnostics = select_balanced_articles(
         extracted_articles,
         target_count=target_count,
@@ -139,6 +141,7 @@ def run_pipeline(
         "discovery": discovery_diagnostics,
         "filtering": filtering_diagnostics,
         "extraction": extraction_diagnostics,
+        "validation": validation_diagnostics,
         "selection": selection_diagnostics,
     }
     _write_json("diagnostics.json", diagnostics)
