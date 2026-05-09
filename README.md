@@ -27,7 +27,7 @@ Monitor privado y automatizado de noticias del sector global de bebidas. Recopil
 
 ## Temas monitoreados
 
-Resultados financieros · Innovación de producto · M&A y estrategia · Marketing · Regulación e impuestos · Sustentabilidad · Cadena de suministro · Tendencias de consumo · Bebidas sin alcohol · Ingredientes alternativos
+Financial Results · Marketing & Innovation · M&A / Strategy · Regulation & Policy · Consumer & Market Trends · Risk & Reputation · Company News
 
 ## Estructura del proyecto
 

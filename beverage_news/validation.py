@@ -30,6 +30,12 @@ PAYWALL_PATTERNS = (
     # Páginas de login / newsletter gate
     "sign in to your account",
     "log in to your account",
+    "log in to your insider",
+    "log in to your insider account",
+    "if you're not an insider",
+    "if you are not an insider",
+    "view the full daily briefing",
+    "continue to the free version",
     "enter your email",
     "enter your password",
     "forgot your password",
@@ -93,7 +99,7 @@ def _is_truncated_title(title):
 def _has_paywall_body(body):
     lowered = body.lower()
     # Si el body es muy corto Y contiene señal de paywall
-    if len(body) < 400:
+    if len(body) < 600:
         return any(pattern in lowered for pattern in PAYWALL_PATTERNS)
     # Body largo pero abre directo con paywall
     first_300 = lowered[:300]

@@ -11,6 +11,7 @@ class Source:
     region: str = "Mundial"
     language: str = "en"
     trade: bool = False
+    require_section: bool = False
 
 
 @dataclass
@@ -34,6 +35,7 @@ class Candidate:
     summary: str = ""
     discovery: str = ""
     trade_source: bool = False
+    require_section: bool = False
 
 
 @dataclass

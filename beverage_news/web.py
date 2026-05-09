@@ -20,6 +20,14 @@ TOPIC_LABELS = {
     "company_news":             "Company News",
 }
 
+AUDIENCE_TOPICS = {
+    "Marketing":  ["marketing_innovation", "product_innovation", "consumer_market_trends"],
+    "Finanzas":   ["financial_results", "ma_and_strategy"],
+    "I+D":        ["product_innovation", "alternative_ingredients", "packaging_sustainability"],
+    "Logística":  ["distribution_execution", "supply_chain_commodities"],
+    "Planning":   ["consumer_market_trends", "ma_and_strategy", "regulation_tax_policy", "risk_crisis_reputation"],
+}
+
 REGION_LABELS = {
     "Local":    "Local",
     "Regional": "Regional",
@@ -133,6 +141,7 @@ def _article_html(article):
     pub_date = _format_date(article["published"])
 
     translate_url = f"https://translate.google.com/translate?sl=auto&tl=es&u={escape(article['url'], quote=True)}"
+    pub_iso = escape(article["published"] or "", quote=True)
     return f"""
         <article class="news-card"
             data-search="{escape(search, quote=True)}"
@@ -146,7 +155,7 @@ def _article_html(article):
             <div class="card-topline">
                 <span class="region-badge" style="background:{region_color}">{escape(REGION_LABELS.get(region, region).upper())}</span>
                 <span class="topline-source">{escape(article['source'])}</span>
-                <span class="topline-date">{escape(pub_date)}</span>
+                <span class="topline-date" data-iso="{pub_iso}" title="{escape(pub_date)}">{escape(pub_date)}</span>
             </div>
             <h2>{escape(article["title"])}</h2>
             <p class="summary">{escape(summary)}</p>
@@ -204,6 +213,13 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
     languages = _uniq(article["language"] for article in article_dicts)
 
     sections_html = _sections_html(article_dicts)
+
+    # Pre-compute AUDIENCE_TOPICS as JS object literal (can't use nested f-strings with quotes)
+    _aud_parts = []
+    for _k, _v in AUDIENCE_TOPICS.items():
+        _topics = ", ".join('"' + t + '"' for t in _v)
+        _aud_parts.append('"' + _k + '": [' + _topics + ']')
+    audience_topics_js = "{" + ", ".join(_aud_parts) + "}"
 
     diagnostics = diagnostics or {}
     discovery_count = diagnostics.get("discovery", {}).get("candidates_found", 0)
@@ -522,7 +538,7 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
         <p class="eyebrow">Beverage Sector</p>
         <h1>Industry News Update</h1>
         <p class="intro">A curated digest of the latest news from the global beverage industry — covering product innovation, corporate moves, consumer trends, and regulatory changes — to stay ahead of what's happening, build better products, and make smarter business decisions.</p>
-        <p class="timestamp">Updated {escape(now.strftime("%b %d, %Y at %H:%M"))} (Buenos Aires time) · {len(article_dicts)} articles · {escape(region_stats)}</p>
+        <p class="timestamp">Updated {escape(now.strftime("%b %d, %Y at %H:%M"))} (Buenos Aires time)</p>
         <div class="toolbar">
             <input type="search" id="search" placeholder="Search by title, company, source or country…" aria-label="Search articles">
             <button class="clear-btn" type="button" id="clear">Clear</button>
@@ -535,7 +551,7 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
             </div>
             <div class="filter-row">
                 <span class="filter-row-label">Topic</span>
-                <div class="filters">{_filter_buttons("segments", segments, TOPIC_LABELS)}</div>
+                <div class="filters" id="topic-filters">{_filter_buttons("segments", segments, TOPIC_LABELS)}</div>
             </div>
         </div>
     </header>
@@ -547,6 +563,8 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
         <p class="empty-state" id="empty" hidden>No articles match the current filters.</p>
     </main>
     <script>
+        const AUDIENCE_TOPICS = {audience_topics_js};
+
         const search = document.querySelector("#search");
         const clear = document.querySelector("#clear");
         const count = document.querySelector("#count");
@@ -554,9 +572,22 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
         const cards = Array.from(document.querySelectorAll(".news-card"));
         const sections = Array.from(document.querySelectorAll(".topic-section"));
         const activeFilters = new Map();
+        let activeAudience = null;
 
         function normalize(text) {{
             return (text || "").toLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g, "");
+        }}
+
+        function relativeTime(isoStr) {{
+            if (!isoStr) return "";
+            try {{
+                const dt = new Date(isoStr);
+                const diffH = Math.floor((Date.now() - dt) / 3600000);
+                if (diffH < 1) return "< 1h ago";
+                if (diffH < 24) return diffH + "h ago";
+                const diffD = Math.floor(diffH / 24);
+                return diffD === 1 ? "yesterday" : diffD + "d ago";
+            }} catch(e) {{ return ""; }}
         }}
 
         function cardHas(card, filter, value) {{
@@ -575,7 +606,13 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
                 const text = normalize(card.dataset.search || "");
                 const matchesSearch = terms.every((term) => text.includes(term));
                 const matchesFilters = Array.from(activeFilters.entries()).every(([filter, value]) => cardHas(card, filter, value));
-                const show = matchesSearch && matchesFilters;
+                let matchesAudience = true;
+                if (activeAudience) {{
+                    const allowed = AUDIENCE_TOPICS[activeAudience] || [];
+                    const segs = (card.dataset.segments || "").split("|");
+                    matchesAudience = allowed.some((t) => segs.includes(t));
+                }}
+                const show = matchesSearch && matchesFilters && matchesAudience;
                 card.hidden = !show;
                 if (show) visible += 1;
             }});
@@ -583,11 +620,11 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
                 const sectionCards = Array.from(section.querySelectorAll(".news-card"));
                 section.hidden = sectionCards.every((card) => card.hidden);
             }});
-            count.textContent = `${{visible}} VISIBLE ARTICLES`;
+            count.textContent = `${{visible}} ARTICLES`;
             empty.hidden = visible !== 0;
         }}
 
-        document.querySelectorAll(".filter").forEach((button) => {{
+        document.querySelectorAll(".filter[data-filter]").forEach((button) => {{
             button.addEventListener("click", () => {{
                 const filter = button.dataset.filter;
                 const value = button.dataset.value;
@@ -598,13 +635,32 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
                 applyFilters();
             }});
         }});
+
+        document.querySelectorAll(".filter[data-audience]").forEach((button) => {{
+            button.addEventListener("click", () => {{
+                document.querySelectorAll(".filter[data-audience]").forEach((b) => b.classList.remove("active"));
+                button.classList.add("active");
+                const aud = button.dataset.audience;
+                activeAudience = aud === "ALL" ? null : aud;
+                applyFilters();
+            }});
+        }});
+
         search.addEventListener("input", applyFilters);
         clear.addEventListener("click", () => {{
             search.value = "";
             activeFilters.clear();
-            document.querySelectorAll(".filter").forEach((button) => button.classList.toggle("active", button.dataset.value === "ALL"));
+            activeAudience = null;
+            document.querySelectorAll(".filter[data-filter]").forEach((button) => button.classList.toggle("active", button.dataset.value === "ALL"));
+            document.querySelectorAll(".filter[data-audience]").forEach((button) => button.classList.toggle("active", button.dataset.audience === "ALL"));
             applyFilters();
         }});
+
+        document.querySelectorAll(".topline-date[data-iso]").forEach((el) => {{
+            const rel = relativeTime(el.dataset.iso);
+            if (rel) el.textContent = rel;
+        }});
+
         applyFilters();
     </script>
 </body>

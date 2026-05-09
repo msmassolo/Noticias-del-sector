@@ -475,7 +475,8 @@
     "country": "Mexico",
     "region": "Regional",
     "language": "es",
-    "trade": false
+    "trade": false,
+    "require_section": true
   },
   {
     "name": "Expansión México",
@@ -506,5 +507,55 @@
     "region": "Regional",
     "language": "en",
     "trade": false
+  },
+  {
+    "name": "Wine Business",
+    "url": "https://www.winebusiness.com/",
+    "rss": ["https://www.winebusiness.com/rss/news.cfm"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Brewers Journal",
+    "url": "https://www.brewersjournal.info/",
+    "rss": ["https://www.brewersjournal.info/feed/"],
+    "sections": [],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Packaging Digest",
+    "url": "https://www.packagingdigest.com/",
+    "rss": ["https://www.packagingdigest.com/rss.xml"],
+    "sections": ["https://www.packagingdigest.com/beverage-packaging"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Food Navigator",
+    "url": "https://www.foodnavigator.com/",
+    "rss": ["https://www.foodnavigator.com/arc/outboundfeeds/rss/"],
+    "sections": ["https://www.foodnavigator.com/News/Beverage"],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Food Navigator USA",
+    "url": "https://www.foodnavigator-usa.com/",
+    "rss": ["https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/"],
+    "sections": ["https://www.foodnavigator-usa.com/News/Beverage"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
   }
 ]

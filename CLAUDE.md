@@ -2,7 +2,7 @@
 
 ## Qué hace este proyecto
 
-Pipeline ETL automatizado que recopila, filtra, clasifica y presenta noticias del sector global de bebidas (soft drinks, cerveza, espirituosos, vino, agua, energy drinks, etc.). Corre localmente y publica un `index.html` interactivo en GitHub Pages o similar.
+Pipeline ETL automatizado que recopila, filtra, clasifica y presenta noticias del sector global de bebidas (soft drinks, cerveza, espirituosos, vino, agua, energy drinks, etc.). Se ejecuta automáticamente 6 veces por día vía GitHub Actions y publica un `index.html` interactivo en GitHub Pages.
 
 **Flujo completo:**
 ```
@@ -21,6 +21,8 @@ Noticias del sector/
 ├── publish_github.py        ← Publica index.html via GitHub Contents API
 ├── requirements.txt         ← requests, beautifulsoup4, python-dotenv
 ├── index.html               ← Salida generada (NO editar a mano)
+├── published_urls.json      ← Historial de URLs publicadas (deduplicación cross-run, rolling 7 días)
+├── .github/workflows/       ← GitHub Actions: cron 6x/día (6, 8, 11, 14, 17, 20 hs ART)
 ├── beverage_news/           ← Módulo principal
 │   ├── config.py            ← Carga companies/keywords/sources desde config/
 │   ├── discovery.py         ← RSS, secciones HTML, Google News RSS (multithreaded)
@@ -141,11 +143,14 @@ Diccionario `{categoria: [término1, término2, ...]}`. Términos en EN/ES/PT. E
 
 ## Salida generada (index.html)
 
-- Búsqueda full-text instantánea (accent-insensitive)
-- Filtros: Topic, Coverage (Local/Regional/Mundial), Company, Country, Source, Language
-- Grid 2 columnas, cards colapsables con body completo
-- Responsive (1 columna ≤860px)
-- Timestamp Buenos Aires
+- Búsqueda full-text instantánea (accent-insensitive, tokenizada por espacios, mínimo 2 chars)
+- Filtros interactivos: **Coverage** (Todo/Local/Regional/Global) + **Topic** (7 categorías)
+  - Company, Country, Source, Language están como `data-*` en cada card pero no como botones de filtro
+- Cards organizadas por sección de topic; secciones vacías se ocultan automáticamente
+- Cada card muestra: badge de región, fuente, fecha, título, resumen, botones "Read original" y "Translate to Spanish", cuerpo completo colapsable (`<details>`)
+- Contador de artículos visibles en tiempo real
+- Grid 2 columnas, responsive (1 columna ≤860px)
+- Timestamp Buenos Aires, conteo por región en el header
 
 ---
 
@@ -163,13 +168,16 @@ Diccionario `{categoria: [término1, término2, ...]}`. Términos en EN/ES/PT. E
 
 ## Estado actual y mejoras posibles
 
-El agente tiene la siguiente arquitectura sólida. Áreas donde se puede mejorar:
+### Problemas conocidos (observados en producción)
+- **Falsos positivos de fuentes genéricas**: El Financiero México está generando artículos de clima (pronóstico del tiempo) y OVNIS vinculados a AJE Group por match superficial. El filtro `company_match` es demasiado permisivo para fuentes con secciones no-bebidas.
+- **Artículos de Brewbound con paywall**: los cards muestran "Log in to your Insider account..." como body — el contenido no se puede extraer. Considerar filtrar o marcar artículos de newsletter gateados.
+- **Categorías del HTML vs keywords.json**: el HTML solo muestra 7 tópicos (los con artículos); las 4 categorías sin artículos frecuentes (`product_innovation`, `distribution_execution`, `packaging_sustainability`, `supply_chain_commodities`) raramente aparecen como botones activos.
 
+### Mejoras posibles
 1. **Fuentes**: agregar más RSS regionales o trade media europeo
 2. **Empresas**: ampliar aliases o agregar empresas relevantes faltantes
 3. **Scoring**: ajustar pesos de categorías o añadir nuevas señales
 4. **Extracción**: mejorar fallbacks para sitios que bloquean scraping
-5. **Filtering**: afinar criterios para reducir falsos positivos/negativos
-6. **HTML**: agregar nuevas vistas, gráficos de tendencias, exportación CSV
-7. **Automatización**: programar ejecución periódica (Task Scheduler, GitHub Actions)
-8. **Deduplicación cross-run**: evitar republicar noticias de corridas anteriores
+5. **Filtering**: afinar criterios para reducir falsos positivos en fuentes generalistas (El Financiero México, Google News)
+6. **HTML**: agregar filtros por Company/Country/Source (los `data-*` ya están, falta el UI)
+7. **HTML**: agregar nuevas vistas, gráficos de tendencias, exportación CSV
