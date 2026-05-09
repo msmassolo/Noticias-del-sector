@@ -73,6 +73,7 @@ def parse_rss(xml_text, source):
                     summary=description,
                     discovery="rss",
                     trade_source=source.trade,
+                    require_section=source.require_section,
                 )
             )
 
@@ -142,6 +143,7 @@ def discover_from_sections(sources, diagnostics):
                             language=source.language,
                             discovery=f"section:{section_url}",
                             trade_source=source.trade,
+                            require_section=source.require_section,
                         )
                     )
                 diagnostics["section_counts"][section_url] = len(section_candidates)
@@ -223,6 +225,14 @@ def discover_from_google_news(companies, keywords, sources, diagnostics, max_que
         "spirits earnings",
         "bottled water market",
         "energy drinks regulation",
+        "beverage ingredient innovation",
+        "functional beverage ingredient",
+        "cold chain beverage logistics",
+        "non-alcoholic spirits market",
+        "beverage contract manufacturing",
+        "alcohol-free beverage trend",
+        "beverage packaging sustainability",
+        "kombucha kefir fermented beverage",
         "cerveza cervecera resultados",
         "bebidas gaseosas impuesto",
         "bebidas energéticas regulación",
@@ -352,6 +362,7 @@ def discover_from_google_news(companies, keywords, sources, diagnostics, max_que
                         summary=description,
                         discovery=f"google_news:{query}",
                         trade_source=matched_source.trade if matched_source else False,
+                        require_section=matched_source.require_section if matched_source else False,
                     )
                 )
 

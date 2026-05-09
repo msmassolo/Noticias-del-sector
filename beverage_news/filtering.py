@@ -203,6 +203,11 @@ def filter_candidates(candidates, companies, keywords, published_urls=None):
             seen_urls.add(url)
             seen_titles.add(title_key)
             continue
+        if candidate.require_section and not candidate.discovery.startswith("section:"):
+            diagnostics["discarded"]["require_section"] = diagnostics["discarded"].get("require_section", 0) + 1
+            seen_urls.add(url)
+            seen_titles.add(title_key)
+            continue
         source_key = candidate.source if candidate.source != "Google News" else (domain_of(candidate.url) or "Google News")
         source_limit = MAX_PER_SOURCE * 4 if source_key == "news.google.com" else MAX_PER_SOURCE
         if source_counts.get(source_key, 0) >= source_limit:
