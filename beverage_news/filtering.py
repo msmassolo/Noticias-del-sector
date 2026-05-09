@@ -222,7 +222,7 @@ def filter_candidates(candidates, companies, keywords, published_urls=None):
         business_context = _has_business_context(text)
 
         reason = ""
-        if company_matches:
+        if company_matches and (beverage_context or candidate.trade_source):
             reason = "company_match"
         elif (
             keyword_hit_count >= 2

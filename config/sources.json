@@ -180,7 +180,7 @@
   {
     "name": "Cronista",
     "url": "https://www.cronista.com/",
-    "rss": ["https://www.cronista.com/arc/outboundfeeds/rss/"],
+    "rss": [],
     "sections": ["https://www.cronista.com/negocios/", "https://www.cronista.com/apertura/empresas/"],
     "country": "Argentina",
     "region": "Local",
@@ -200,7 +200,7 @@
   {
     "name": "Los Andes",
     "url": "https://www.losandes.com.ar/",
-    "rss": ["https://www.losandes.com.ar/rss/pages/ultimas-noticias.xml"],
+    "rss": [],
     "sections": ["https://www.losandes.com.ar/economia/", "https://www.losandes.com.ar/vinos/"],
     "country": "Argentina",
     "region": "Local",
@@ -210,7 +210,7 @@
   {
     "name": "MDZ Online",
     "url": "https://www.mdzol.com/",
-    "rss": ["https://www.mdzol.com/rss/pages/noticias.xml"],
+    "rss": [],
     "sections": ["https://www.mdzol.com/economia/", "https://www.mdzol.com/vinos-bodegas/"],
     "country": "Argentina",
     "region": "Local",
@@ -470,8 +470,8 @@
   {
     "name": "El Financiero Mexico",
     "url": "https://www.elfinanciero.com.mx/",
-    "rss": ["https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml"],
-    "sections": [],
+    "rss": [],
+    "sections": ["https://www.elfinanciero.com.mx/empresas/", "https://www.elfinanciero.com.mx/economia/"],
     "country": "Mexico",
     "region": "Regional",
     "language": "es",
