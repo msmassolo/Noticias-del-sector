@@ -56,7 +56,7 @@
   {
     "name": "Wine Business",
     "url": "https://www.winebusiness.com/",
-    "rss": ["https://www.winebusiness.com/rss/"],
+    "rss": [],
     "country": "United States",
     "region": "Mundial",
     "language": "en",
@@ -65,7 +65,7 @@
   {
     "name": "SevenFifty Daily",
     "url": "https://daily.sevenfifty.com/",
-    "rss": [],
+    "rss": ["https://daily.sevenfifty.com/feed/"],
     "sections": ["https://daily.sevenfifty.com/category/news/", "https://daily.sevenfifty.com/category/business/"],
     "country": "United States",
     "region": "Mundial",
@@ -85,7 +85,7 @@
   {
     "name": "Beverage Daily",
     "url": "https://www.beveragedaily.com/",
-    "rss": [],
+    "rss": ["https://www.beveragedaily.com/arc/outboundfeeds/rss/"],
     "sections": [],
     "country": "Global",
     "region": "Mundial",
@@ -150,7 +150,7 @@
   {
     "name": "La Nacion",
     "url": "https://www.lanacion.com.ar/",
-    "rss": [],
+    "rss": ["https://www.lanacion.com.ar/arc/outboundfeeds/rss/"],
     "sections": ["https://www.lanacion.com.ar/economia/", "https://www.lanacion.com.ar/economia/negocios/"],
     "country": "Argentina",
     "region": "Local",
@@ -170,7 +170,7 @@
   {
     "name": "Ambito",
     "url": "https://www.ambito.com/",
-    "rss": [],
+    "rss": ["https://www.ambito.com/rss/economia.xml"],
     "sections": ["https://www.ambito.com/economia", "https://www.ambito.com/negocios"],
     "country": "Argentina",
     "region": "Local",
@@ -180,7 +180,7 @@
   {
     "name": "Cronista",
     "url": "https://www.cronista.com/",
-    "rss": [],
+    "rss": ["https://www.cronista.com/arc/outboundfeeds/rss/"],
     "sections": ["https://www.cronista.com/negocios/", "https://www.cronista.com/apertura/empresas/"],
     "country": "Argentina",
     "region": "Local",
@@ -190,7 +190,7 @@
   {
     "name": "iProfesional",
     "url": "https://www.iprofesional.com/",
-    "rss": ["https://www.iprofesional.com/rss/noticias.xml"],
+    "rss": ["https://www.iprofesional.com/rss/home"],
     "sections": ["https://www.iprofesional.com/negocios", "https://www.iprofesional.com/economia"],
     "country": "Argentina",
     "region": "Local",
@@ -200,7 +200,7 @@
   {
     "name": "Los Andes",
     "url": "https://www.losandes.com.ar/",
-    "rss": ["https://www.losandes.com.ar/arc/outboundfeeds/rss/"],
+    "rss": ["https://www.losandes.com.ar/rss/pages/ultimas-noticias.xml"],
     "sections": ["https://www.losandes.com.ar/economia/", "https://www.losandes.com.ar/vinos/"],
     "country": "Argentina",
     "region": "Local",
@@ -210,7 +210,7 @@
   {
     "name": "MDZ Online",
     "url": "https://www.mdzol.com/",
-    "rss": ["https://www.mdzol.com/rss/news.xml"],
+    "rss": ["https://www.mdzol.com/rss/pages/noticias.xml"],
     "sections": ["https://www.mdzol.com/economia/", "https://www.mdzol.com/vinos-bodegas/"],
     "country": "Argentina",
     "region": "Local",
@@ -220,7 +220,7 @@
   {
     "name": "La Voz",
     "url": "https://www.lavoz.com.ar/",
-    "rss": ["https://www.lavoz.com.ar/rss/"],
+    "rss": [],
     "sections": ["https://www.lavoz.com.ar/negocios/", "https://www.lavoz.com.ar/vinos/"],
     "country": "Argentina",
     "region": "Local",
@@ -240,7 +240,7 @@
   {
     "name": "El Economista Argentina",
     "url": "https://eleconomista.com.ar/",
-    "rss": ["https://eleconomista.com.ar/feed"],
+    "rss": ["https://eleconomista.com.ar/feed/"],
     "sections": [],
     "country": "Argentina",
     "region": "Local",
@@ -260,7 +260,7 @@
   {
     "name": "BAE Negocios",
     "url": "https://www.baenegocios.com/",
-    "rss": [],
+    "rss": ["https://www.baenegocios.com/feed/"],
     "sections": ["https://www.baenegocios.com/negocios/", "https://www.baenegocios.com/economia/"],
     "country": "Argentina",
     "region": "Local",
@@ -289,9 +289,9 @@
   },
   {
     "name": "Coviar",
-    "url": "https://www.coviar.com.ar/",
-    "rss": [],
-    "sections": ["https://www.coviar.com.ar/noticias/"],
+    "url": "https://coviar.ar/",
+    "rss": ["https://coviar.ar/feed/"],
+    "sections": ["https://coviar.ar/noticias/"],
     "country": "Argentina",
     "region": "Local",
     "language": "es",
@@ -300,7 +300,7 @@
   {
     "name": "Vinos y Bodegas",
     "url": "https://www.vinosybodegas.com/",
-    "rss": ["https://www.vinosybodegas.com/feed/"],
+    "rss": [],
     "sections": [],
     "country": "Argentina",
     "region": "Local",
@@ -369,9 +369,9 @@
   },
   {
     "name": "DFSud",
-    "url": "https://dfsud.com/",
+    "url": "https://www.df.cl/dfsud",
     "rss": [],
-    "sections": ["https://dfsud.com/empresas", "https://dfsud.com/industria"],
+    "sections": ["https://www.df.cl/dfsud/empresas", "https://www.df.cl/dfsud"],
     "country": "South America",
     "region": "Regional",
     "language": "es",
@@ -410,7 +410,7 @@
   {
     "name": "La Tercera",
     "url": "https://www.latercera.com/",
-    "rss": ["https://www.latercera.com/feed/"],
+    "rss": [],
     "sections": ["https://www.latercera.com/categoria/pulso/empresas/"],
     "country": "Chile",
     "region": "Regional",
@@ -420,7 +420,7 @@
   {
     "name": "El Mostrador",
     "url": "https://www.elmostrador.cl/",
-    "rss": ["https://www.elmostrador.cl/feed/"],
+    "rss": [],
     "sections": ["https://www.elmostrador.cl/mercados/"],
     "country": "Chile",
     "region": "Regional",
@@ -430,7 +430,7 @@
   {
     "name": "Gestion",
     "url": "https://gestion.pe/",
-    "rss": ["https://gestion.pe/feed/"],
+    "rss": ["https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml"],
     "sections": ["https://gestion.pe/economia/empresas/", "https://gestion.pe/economia/"],
     "country": "Peru",
     "region": "Regional",
@@ -440,7 +440,7 @@
   {
     "name": "El Comercio Peru",
     "url": "https://elcomercio.pe/",
-    "rss": ["https://elcomercio.pe/arcio/rss/"],
+    "rss": [],
     "sections": ["https://elcomercio.pe/economia/negocios/"],
     "country": "Peru",
     "region": "Regional",
@@ -450,7 +450,7 @@
   {
     "name": "Portafolio",
     "url": "https://www.portafolio.co/",
-    "rss": ["https://www.portafolio.co/rss/feed.xml"],
+    "rss": [],
     "sections": ["https://www.portafolio.co/negocios/empresas", "https://www.portafolio.co/economia"],
     "country": "Colombia",
     "region": "Regional",
@@ -460,7 +460,7 @@
   {
     "name": "La Republica Colombia",
     "url": "https://www.larepublica.co/",
-    "rss": ["https://www.larepublica.co/rss/feed.xml"],
+    "rss": [],
     "sections": ["https://www.larepublica.co/empresas", "https://www.larepublica.co/consumo"],
     "country": "Colombia",
     "region": "Regional",
@@ -470,7 +470,7 @@
   {
     "name": "El Financiero Mexico",
     "url": "https://www.elfinanciero.com.mx/",
-    "rss": ["https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/"],
+    "rss": ["https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml"],
     "sections": [],
     "country": "Mexico",
     "region": "Regional",

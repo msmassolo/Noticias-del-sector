@@ -21,7 +21,6 @@ BOILERPLATE_PATTERNS = (
     "experience unmatched clarity",
 )
 
-
 def _iter_json_ld(data):
     if isinstance(data, dict):
         yield data
@@ -59,6 +58,7 @@ def _meta_content(soup, *names):
 def _is_boilerplate(text):
     lowered = text.lower()
     return any(pattern in lowered for pattern in BOILERPLATE_PATTERNS)
+
 
 
 def extract_title_summary_body(html_text):
@@ -120,8 +120,17 @@ def extract_article_item(item, min_body_chars=80):
             logger.debug("Extraction skipped: %s — %s", reason, candidate.url)
             return None, {"url": candidate.url, "reason": reason}
 
+    from .validation import GENERIC_TITLES
+    extracted_title = extracted.get("title", "").strip()
+    lowered = extracted_title.lower()
+    title_is_generic = not extracted_title or any(
+        lowered == g or lowered.startswith(g + " -") or lowered.startswith(g + " |")
+        for g in GENERIC_TITLES
+    )
+    title = candidate.title if title_is_generic else extracted_title
+
     article = Article(
-        title=extracted["title"] or candidate.title,
+        title=title,
         url=candidate.url,
         source=candidate.source,
         country=candidate.country,
