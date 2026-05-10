@@ -8,7 +8,7 @@ from .urls import domain_of, normalize_url
 
 # Segmentos de path que indican página de login / paywall / suscripción
 _LOGIN_PATH_RE = re.compile(
-    r'/(login|signin|sign-in|signup|sign-up|subscribe|subscription|register|account/login|auth)[/\?]?',
+    r'/(login|signin|sign-in|signup|sign-up|subscribe|subscription|register|account/login|auth)(/|\?|$)',
     re.IGNORECASE,
 )
 
