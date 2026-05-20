@@ -12,7 +12,7 @@ No hay backend ni base de datos. El estado operativo vive en archivos versionado
 
 - `config/*.json`: fuentes, empresas y keywords.
 - `published_urls.json`: deduplicación rolling (7 días) de URLs y títulos publicados.
-- `data/*.json`: intermedios y diagnósticos por corrida (no commiteado).
+- `data/*.json`: intermedios y diagnósticos por corrida (no commiteado). Incluye `candidates.json`, `accepted_candidates.json`, `articles.json` y `diagnostics.json`.
 - `index.html`: salida web generada.
 
 ## Volumen esperado
@@ -112,7 +112,19 @@ Permite publicar notas con empresa o fuente trade; exige señales de negocio/ind
 
 ### `web.py`
 
-HTML estático con: búsqueda client-side, filtros por cobertura y tópico, agrupación por tópico principal, enlaces a original y traducción, body expandible. No editar `index.html` a mano.
+HTML estático con: búsqueda client-side, filtros por cobertura y tópico, agrupación por tópico principal, bloque **Destacados de hoy** (top 5), enlaces a original y traducción, body expandible. No editar `index.html` a mano.
+
+### Utilidades
+
+- `http.py`: cliente HTTP con headers, timeouts y manejo de redirects.
+- `text.py`: limpieza, normalización accent-insensitive y matching de keywords/empresas.
+- `urls.py`: normalización de URLs, remoción de tracking params, resolución de redirects de Google News.
+- `models.py`: dataclasses (`Candidate`, `Article`, `Source`, etc.).
+- `config.py`: carga y validación de los JSON de configuración.
+
+### `publish_github.py`
+
+CLI auxiliar para publicar `index.html` a un repo de GitHub vía Contents API cuando no se usa el workflow. Lee `GITHUB_TOKEN` desde `.env`.
 
 ## Configuración
 
@@ -139,6 +151,10 @@ Después de cada corrida revisar:
 - `extraction.by_source` / `by_region`: extractabilidad real.
 - `validation.by_reason`: paywalls, títulos genéricos, baja relevancia.
 - `selection.selected_by_region`: balance final.
+
+## Automatización
+
+GitHub Actions ejecuta [.github/workflows/update-news.yml](.github/workflows/update-news.yml) **6 veces por día** (06, 08, 11, 14, 17 y 20 ART). Cada corrida instala dependencias, corre `python main.py`, commitea `index.html` + `published_urls.json` si hubo cambios y hace `git push`. La salida queda servida desde GitHub Pages.
 
 ## Tests
 
