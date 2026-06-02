@@ -175,3 +175,56 @@ Agregar tests cuando se modifiquen: reglas de aceptación/rechazo, keywords/alia
 - No hardcodear tokens.
 - Limpiar `__pycache__` después de pruebas si quedan.
 - Preservar diagnósticos: son la herramienta principal para mejorar cobertura y calidad.
+
+## Roadmap y Evolución (Integración LLM)
+
+### API seleccionada: Anthropic Claude
+
+- **Proveedor**: Anthropic (`console.anthropic.com`)
+- **SDK**: `anthropic` (Python) — instalar en `Bibliotecas/Bibliotecas py/`
+- **Credencial**: `ANTHROPIC_API_KEY` en `.env` (ya existe para GitHub token)
+- **Modelos**: Haiku 4.5 para volumen, Sonnet 4.6 para QA editorial
+
+### Módulo nuevo: `beverage_news/llm.py`
+
+Funciones a implementar:
+
+```python
+summarize_article(title, body) → list[str]      # 3 bullets TL;DR
+classify_relevance(title, summary, body) → bool  # relevante al sector
+detect_duplicate_pair(title_a, title_b) → bool   # mismo evento
+review_dashboard(articles: list) → dict          # QA final del tablero
+```
+
+Usar **prompt caching** de Anthropic en todas las llamadas: el system prompt es fijo por corrida y se cachea, reduciendo costo un ~70% en la parte del contexto estático.
+
+Implementar caché local `llm_cache.json` (clave: hash de URL) para no reprocesar artículos ya analizados entre corridas del mismo día.
+
+### Fases de implementación
+
+**Fase 1** (impacto alto, bajo riesgo):
+1. **Resúmenes TL;DR** — generar 3 bullets desde `body` extraído. Integrar post-`validate_articles()` en `pipeline.py`. Reemplaza el `summary` del RSS en el dashboard.
+2. **Clasificación de relevancia LLM** — segunda opinión para artículos con score < 30 que pasaron por margen estrecho en `validation.py`. Reduce falsos positivos.
+
+**Fase 2**:
+3. **Deduplicación semántica LLM** — comparar pares de títulos de candidatos de la misma región + mismo día. Reemplaza la dedup por primeras 7 palabras.
+4. **Caché local** (`llm_cache.json`) — evitar recosto por URL ya procesada.
+
+**Fase 3**:
+5. **QA final del tablero (Sonnet)** — 1 llamada por corrida. Detecta: dominancia de una empresa, bajo impacto editorial, bugs en datos. Genera "Briefing del Día" para la cabecera del dashboard.
+
+### Costos estimados (referencia junio 2026)
+
+| Corridas/día | Costo/mes | Costo/año |
+|---|---|---|
+| 6 | ~$15 | ~$183 |
+| 4 | ~$10 | ~$122 |
+| 3 | ~$8 | ~$91 |
+
+Corridas recomendadas: **3-4/día** (06:00, 11:00, 17:00 ART o + 20:00 si se quieren 4). Reducción del 33-50% de costo sin impacto en calidad para un equipo de oficina.
+
+Desglose por corrida (~50 artículos):
+- TL;DR (Haiku, con cache): ~$0.051
+- Clasificación relevancia (Haiku): ~$0.014
+- QA editorial (Sonnet, 1 llamada): ~$0.019
+- **Total: ~$0.084/corrida**
