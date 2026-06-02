@@ -11,6 +11,7 @@ from .config import load_companies, load_keywords, load_sources
 from .discovery import discover_candidates
 from .extraction import extract_article_item
 from .filtering import filter_candidates
+from .llm import summarize_articles, review_dashboard
 from .ranking import build_extraction_queue, rank_items, select_balanced_articles
 from .validation import validate_articles
 from .web import generate_web
@@ -65,6 +66,40 @@ def _merge_accepted_candidates(primary, fallback):
         seen.add(key)
         merged.append(item)
     return merged
+
+
+_TITLE_STOPWORDS = {
+    "el", "la", "los", "las", "de", "del", "en", "y", "a", "que", "se",
+    "con", "por", "para", "un", "una", "al", "su", "the", "a", "an", "of",
+    "in", "and", "to", "for", "on", "is", "are", "with", "at", "by", "its",
+}
+
+
+def _title_tokens(title):
+    from .text import normalize_text
+    words = normalize_text(title).split()
+    return {w for w in words if len(w) > 2 and w not in _TITLE_STOPWORDS}
+
+
+def _dedup_similar_titles(articles, threshold=0.60):
+    """Remove articles whose title shares ≥60% token overlap with a higher-ranked article."""
+    kept = []
+    for article in articles:
+        tokens = _title_tokens(article.title)
+        is_dup = False
+        for ref in kept:
+            ref_tokens = _title_tokens(ref.title)
+            union = tokens | ref_tokens
+            if not union:
+                continue
+            jaccard = len(tokens & ref_tokens) / len(union)
+            if jaccard >= threshold:
+                is_dup = True
+                logger.info("Dedup similar titles (%.0f%%): %r vs %r", jaccard * 100, article.title[:60], ref.title[:60])
+                break
+        if not is_dup:
+            kept.append(article)
+    return kept
 
 
 def _extract_ranked_selection(extraction_queue, target_count, min_per_region, min_body_chars=80):
@@ -170,7 +205,11 @@ def run_pipeline(
         target_count=target_count,
         min_per_region=min_per_region,
     )
+    articles = _dedup_similar_titles(articles)
     _write_json("articles.json", [asdict(article) for article in articles])
+
+    articles, llm_diagnostics = summarize_articles(articles)
+    qa_result = review_dashboard(articles)
 
     diagnostics = {
         "discovery": discovery_diagnostics,
@@ -180,10 +219,12 @@ def run_pipeline(
         "extraction": extraction_diagnostics,
         "validation": validation_diagnostics,
         "selection": selection_diagnostics,
+        "llm": llm_diagnostics,
+        "qa": qa_result,
     }
     _write_json("diagnostics.json", diagnostics)
 
     _update_published_urls(articles)
-    generate_web(articles, diagnostics=diagnostics, output_path=output_path)
+    generate_web(articles, diagnostics=diagnostics, output_path=output_path, qa=qa_result)
     logger.info("Pipeline: done — %d articles published to %s", len(articles), output_path)
     return articles, diagnostics

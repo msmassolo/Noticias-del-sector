@@ -1,7 +1,11 @@
 import argparse
 import logging
 import shutil
+import sys
 from pathlib import Path
+
+# Bibliotecas instaladas localmente (no en el intérprete del sistema)
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "Bibliotecas" / "Bibliotecas py"))
 
 from dotenv import load_dotenv
 

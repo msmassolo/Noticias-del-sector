@@ -8,19 +8,19 @@ from zoneinfo import ZoneInfo
 
 
 TOPIC_LABELS = {
-    "product_innovation":       "Product Innovation",
-    "marketing_innovation":     "Marketing & Innovation",
-    "financial_results":        "Financial Results",
-    "ma_and_strategy":          "M&A / Strategy",
-    "distribution_execution":   "Distribution & Execution",
-    "regulation_tax_policy":    "Regulation & Policy",
-    "packaging_sustainability":  "Packaging & Sustainability",
-    "consumer_market_trends":   "Consumer & Market Trends",
-    "supply_chain_commodities": "Supply Chain & Commodities",
-    "risk_crisis_reputation":   "Risk & Reputation",
-    "non_alcoholic_beverages":  "Non-Alcoholic Beverages",
-    "alternative_ingredients":  "Alternative Ingredients",
-    "company_news":             "Company News",
+    "product_innovation":       "Innovación de Producto",
+    "marketing_innovation":     "Marketing e Innovación",
+    "financial_results":        "Resultados Financieros",
+    "ma_and_strategy":          "M&A / Estrategia",
+    "distribution_execution":   "Distribución y Ejecución",
+    "regulation_tax_policy":    "Regulación y Política",
+    "packaging_sustainability":  "Packaging y Sustentabilidad",
+    "consumer_market_trends":   "Tendencias del Consumidor",
+    "supply_chain_commodities": "Cadena de Suministro",
+    "risk_crisis_reputation":   "Riesgo y Reputación",
+    "non_alcoholic_beverages":  "Bebidas Sin Alcohol",
+    "alternative_ingredients":  "Ingredientes Alternativos",
+    "company_news":             "Noticias Corporativas",
 }
 
 
@@ -135,7 +135,9 @@ def _article_html(article):
     region_color = REGION_COLORS.get(region, "#4c5fa3")
     topic_color = TOPIC_COLORS.get(primary_topic, "#374151")
     body_html = escape(article["body"]).replace("\n", "<br>")
-    summary = article["summary"] or "No source summary available."
+    llm_summary = (article.get("llm_summary") or "").strip()
+    rss_summary = (article.get("summary") or "").strip()
+    displayed_summary = llm_summary or rss_summary or "Sin resumen disponible."
     pub_date = _format_date(article["published"])
 
     translate_url = f"https://translate.google.com/translate?sl=auto&tl=es&u={escape(article['url'], quote=True)}"
@@ -157,13 +159,13 @@ def _article_html(article):
                 <span class="topline-date" data-iso="{pub_iso}" title="{escape(pub_date)}">{escape(pub_date)}</span>
             </div>
             <h2>{escape(article["title"])}</h2>
-            <p class="summary">{escape(summary)}</p>
+            <p class="summary">{escape(displayed_summary)}</p>
             <div class="card-actions">
-                <a class="original-btn" href="{escape(article['url'], quote=True)}" target="_blank" rel="noopener noreferrer">Read original</a>
-                <a class="translate-btn" href="{translate_url}" target="_blank" rel="noopener noreferrer">Translate to Spanish</a>
+                <a class="original-btn" href="{escape(article['url'], quote=True)}" target="_blank" rel="noopener noreferrer">Leer nota original</a>
+                <a class="translate-btn" href="{translate_url}" target="_blank" rel="noopener noreferrer">Ver en español</a>
             </div>
             <details>
-                <summary>Full article text</summary>
+                <summary>Texto completo del artículo</summary>
                 <div class="body-text">{body_html}</div>
             </details>
         </article>
@@ -259,7 +261,7 @@ def _sections_html(article_dicts):
             <section class="topic-section" data-topic="{escape(topic, quote=True)}">
                 <div class="section-heading">
                     <h2 style="border-left-color:{topic_color}">{escape(_label_topic(topic))}</h2>
-                    <span>{len(items)} ARTICLES</span>
+                    <span>{len(items)} NOTICIAS</span>
                 </div>
                 <div class="grid">
                     {cards}
@@ -270,7 +272,7 @@ def _sections_html(article_dicts):
     return "\n".join(sections)
 
 
-def generate_web(articles, diagnostics=None, output_path="index.html"):
+def generate_web(articles, diagnostics=None, output_path="index.html", qa=None):
     article_dicts = [_article_dict(article) for article in articles]
     now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires"))
 
@@ -302,6 +304,25 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
     extracted_count = diagnostics.get("extraction", {}).get("extracted", len(article_dicts))
     selected_by_region = diagnostics.get("selection", {}).get("selected_by_region", {})
     region_stats = " · ".join(f"{region}: {selected_by_region.get(region, 0)}" for region in ("Local", "Regional", "Mundial"))
+
+    qa = qa or {}
+    qa_briefing = escape(qa.get("briefing") or "")
+    qa_warnings = qa.get("warnings") or []
+    qa_score = qa.get("quality_score") or 0
+    qa_score_color = "#0e5f57" if qa_score >= 7 else ("#b45309" if qa_score >= 4 else "#9f1239")
+    qa_html = ""
+    if qa_briefing:
+        warnings_html = "".join(f'<li>{escape(w)}</li>' for w in qa_warnings)
+        warnings_block = f'<ul class="qa-warnings">{warnings_html}</ul>' if qa_warnings else ""
+        qa_html = f"""
+        <div class="qa-block">
+            <div class="qa-header">
+                <span class="qa-label">Briefing del día</span>
+                <span class="qa-score" style="background:{qa_score_color}" title="Calidad editorial del tablero">{qa_score}/10</span>
+            </div>
+            <p class="qa-briefing">{qa_briefing}</p>
+            {warnings_block}
+        </div>"""
 
     html = f"""<!doctype html>
 <html lang="es">
@@ -552,6 +573,17 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
             color: var(--muted);
             font-size: 12px;
         }}
+        .llm-badge {{
+            margin-left: auto;
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 0.03em;
+            color: #7c3aed;
+            background: #f3eeff;
+            border: 1px solid #c4b5fd;
+            border-radius: 4px;
+            padding: 2px 6px;
+        }}
         .news-card h2 {{
             margin: 0 0 8px;
             font-size: 19px;
@@ -624,6 +656,45 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
             color: var(--muted);
             text-align: center;
         }}
+        .qa-block {{
+            margin-top: 16px;
+            padding: 14px 16px;
+            border: 1px solid var(--accent);
+            border-radius: 10px;
+            background: linear-gradient(135deg, #f0f7f5 0%, #ffffff 100%);
+        }}
+        .qa-header {{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+        }}
+        .qa-label {{
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--accent);
+            letter-spacing: 0.05em;
+        }}
+        .qa-score {{
+            font-size: 11px;
+            font-weight: 700;
+            color: #fff;
+            border-radius: 4px;
+            padding: 2px 7px;
+        }}
+        .qa-briefing {{
+            margin: 0;
+            color: var(--text);
+            font-size: 14px;
+            line-height: 1.5;
+        }}
+        .qa-warnings {{
+            margin: 8px 0 0;
+            padding-left: 18px;
+            color: #b45309;
+            font-size: 13px;
+        }}
         @media (max-width: 860px) {{
             h1 {{ font-size: 28px; }}
             .toolbar {{ grid-template-columns: 1fr; }}
@@ -635,22 +706,23 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
 </head>
 <body>
     <header>
-        <p class="eyebrow">Beverage Sector</p>
-        <h1>Industry News Update</h1>
-        <p class="intro">A curated digest of the latest news from the global beverage industry — covering product innovation, corporate moves, consumer trends, and regulatory changes — to stay ahead of what's happening, build better products, and make smarter business decisions.</p>
-        <p class="timestamp">Updated {escape(now.strftime("%b %d, %Y at %H:%M"))} (Buenos Aires time)</p>
+        <p class="eyebrow">Sector de Bebidas</p>
+        <h1>Actualización de Noticias del Sector</h1>
+        <p class="intro">Resumen curado de las últimas noticias de la industria global de bebidas — innovación de producto, movimientos corporativos, tendencias del consumidor y cambios regulatorios — para estar un paso adelante, desarrollar mejores productos y tomar decisiones más inteligentes.</p>
+        <p class="timestamp">Actualizado el {escape(now.strftime("%d/%m/%Y a las %H:%M"))} (hora Buenos Aires)</p>
         <div class="toolbar">
-            <input type="search" id="search" placeholder="Search by title, company, source or country…" aria-label="Search articles">
-            <button class="clear-btn" type="button" id="clear">Clear</button>
+            <input type="search" id="search" placeholder="Buscar por título, empresa, fuente o país…" aria-label="Buscar noticias">
+            <button class="clear-btn" type="button" id="clear">Limpiar</button>
         </div>
+        {qa_html}
         <div class="filter-panel">
-            <p class="filter-panel-title">Filter articles</p>
+            <p class="filter-panel-title">Filtrar noticias</p>
             <div class="filter-row">
-                <span class="filter-row-label">Coverage</span>
+                <span class="filter-row-label">Cobertura</span>
                 <div class="filters">{_filter_buttons("region", regions, REGION_LABELS)}</div>
             </div>
             <div class="filter-row">
-                <span class="filter-row-label">Topic</span>
+                <span class="filter-row-label">Tópico</span>
                 <div class="filters" id="topic-filters">{_filter_buttons("topic", primary_topics, TOPIC_LABELS)}</div>
             </div>
         </div>
@@ -663,7 +735,7 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
         <div id="sections">
             {sections_html}
         </div>
-        <p class="empty-state" id="empty" hidden>No articles match the current filters.</p>
+        <p class="empty-state" id="empty" hidden>Ninguna noticia coincide con los filtros seleccionados.</p>
     </main>
     <script>
         const search = document.querySelector("#search");
@@ -685,10 +757,10 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
             try {{
                 const dt = new Date(isoStr);
                 const diffH = Math.floor((Date.now() - dt) / 3600000);
-                if (diffH < 1) return "< 1h ago";
-                if (diffH < 24) return diffH + "h ago";
+                if (diffH < 1) return "hace < 1h";
+                if (diffH < 24) return "hace " + diffH + "h";
                 const diffD = Math.floor(diffH / 24);
-                return diffD === 1 ? "yesterday" : diffD + "d ago";
+                return diffD === 1 ? "ayer" : "hace " + diffD + "d";
             }} catch(e) {{ return ""; }}
         }}
 
@@ -720,7 +792,7 @@ def generate_web(articles, diagnostics=None, output_path="index.html"):
                 const hlCards = Array.from(highlightsSection.querySelectorAll(".news-card"));
                 highlightsSection.hidden = hlCards.every((card) => card.hidden);
             }}
-            count.textContent = `${{visible}} ARTICLES`;
+            count.textContent = `${{visible}} NOTICIAS`;
             empty.hidden = visible !== 0;
         }}
 

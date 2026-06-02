@@ -2,12 +2,8 @@ name: Update Beverage News
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # 06:00 ART
-    - cron: '0 11 * * *'  # 08:00 ART
-    - cron: '0 14 * * *'  # 11:00 ART
-    - cron: '0 17 * * *'  # 14:00 ART
-    - cron: '0 20 * * *'  # 17:00 ART
-    - cron: '0 23 * * *'  # 20:00 ART
+    - cron: '0 11 * * *'  # 08:00 ART (UTC-3)
+    - cron: '0 15 * * *'  # 12:00 ART (UTC-3)
   workflow_dispatch:       # permite correrlo manualmente desde GitHub
 
 jobs:
@@ -26,9 +22,11 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 python-dotenv
+        run: pip install requests beautifulsoup4 python-dotenv anthropic
 
       - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python main.py
 
       - name: Commit and push results
