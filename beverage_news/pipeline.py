@@ -11,7 +11,7 @@ from .config import load_companies, load_keywords, load_sources
 from .discovery import discover_candidates
 from .extraction import extract_article_item
 from .filtering import filter_candidates
-from .llm import summarize_articles, review_dashboard
+from .llm import summarize_articles, semantic_dedup_articles, review_dashboard
 from .ranking import build_extraction_queue, rank_items, select_balanced_articles
 from .validation import validate_articles
 from .web import generate_web
@@ -240,8 +240,12 @@ def run_pipeline(
         target_count=target_count,
         min_per_region=min_per_region,
     )
-    # Merge duplicates and refill gaps before LLM (cheaper: only summarize final set)
-    articles, n_merged = _dedup_and_merge(articles)
+    # 1. Jaccard dedup: same event, near-identical title (free, fast)
+    articles, n_merged_jaccard = _dedup_and_merge(articles)
+    # 2. Semantic dedup: same event, different title wording (LLM, per company+segment group)
+    articles, n_merged_semantic = semantic_dedup_articles(articles)
+    n_merged = n_merged_jaccard + n_merged_semantic
+    # 3. Refill gaps freed by both dedup passes
     articles = _refill_from_pool(articles, extracted_articles, target_count)
     _write_json("articles.json", [asdict(article) for article in articles])
 

@@ -176,6 +176,120 @@ def summarize_articles(articles: list) -> tuple[list, dict]:
     return articles, diagnostics
 
 
+# ── Semantic deduplication ────────────────────────────────────────────────────
+
+_DEDUP_SYSTEM = """\
+You are a news deduplication assistant for a beverage industry monitor.
+
+Your task: given a numbered list of article titles, identify which ones cover the \
+SAME specific news event — even when written with different words or angles.
+
+Two titles cover the SAME event when they report the same specific announcement, \
+result, deal, or development (e.g. both about Coca-Cola Q1 2026 earnings).
+
+They do NOT cover the same event if they are about the same general topic but \
+different specific events (e.g. Q1 results vs Q2 results, or two different product launches).
+
+Respond with ONLY a valid JSON array of arrays. Each inner array contains the \
+1-based indices of titles covering the same event. Only include groups of 2 or more. \
+If no duplicates exist, respond with: []
+
+Example: [[1,3],[2,5]] means titles 1 & 3 are the same event, and 2 & 5 are the same event.
+No extra text, no markdown.
+"""
+
+
+def _find_semantic_duplicates_in_group(client, titles: list) -> list:
+    """Single Haiku call: which titles in this list cover the same event?"""
+    numbered = "\n".join(f"{i + 1}. {title}" for i, title in enumerate(titles))
+    try:
+        response = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=150,
+            system=[{"type": "text", "text": _DEDUP_SYSTEM, "cache_control": {"type": "ephemeral"}}],
+            messages=[{"role": "user", "content": f"Identify duplicate events:\n\n{numbered}"}],
+        )
+        raw = response.content[0].text.strip()
+        result = json.loads(raw)
+        return result if isinstance(result, list) else []
+    except Exception as exc:
+        logger.warning("Semantic dedup group call failed: %s", exc)
+        return []
+
+
+def semantic_dedup_articles(articles: list) -> tuple:
+    """
+    Detect articles covering the same event via LLM title comparison.
+    Groups articles by primary company + primary segment, then asks Haiku
+    to identify duplicate events within each group.
+    Returns (deduplicated_articles, n_merged).
+    """
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    if not api_key:
+        return articles, 0
+
+    try:
+        client = _get_client()
+    except Exception:
+        return articles, 0
+
+    # Group by (primary_company, primary_segment)
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for idx, article in enumerate(articles):
+        company = article.companies[0] if article.companies else "__none__"
+        segment = article.segments[0] if article.segments else "__none__"
+        groups[(company, segment)].append(idx)
+
+    # Only process groups with 2+ articles
+    merge_into = {}  # global_idx → global_idx of article to merge into
+    call_count = 0
+    for (company, segment), indices in groups.items():
+        if len(indices) < 2:
+            continue
+        titles = [articles[i].title for i in indices]
+        if call_count > 0:
+            time.sleep(_CALL_DELAY_SECONDS)
+        dup_groups = _find_semantic_duplicates_in_group(client, titles)
+        call_count += 1
+        logger.debug(
+            "Semantic dedup: %s / %s → %d articles, %d dup groups found",
+            company, segment, len(titles), len(dup_groups),
+        )
+        for dup_group in dup_groups:
+            if len(dup_group) < 2:
+                continue
+            keep_global = indices[dup_group[0] - 1]  # 1-based → 0-based → global
+            for local_one_based in dup_group[1:]:
+                merge_global = indices[local_one_based - 1]
+                if merge_global not in merge_into:
+                    merge_into[merge_global] = keep_global
+
+    if not merge_into:
+        logger.info("Semantic dedup: no duplicates found across %d groups checked", call_count)
+        return articles, 0
+
+    # Apply merges: keep first occurrence, fold duplicates into merged_sources
+    n_merged = 0
+    result = []
+    for idx, article in enumerate(articles):
+        if idx in merge_into:
+            keep_idx = merge_into[idx]
+            kept = articles[keep_idx]
+            kept.merged_sources.append(f"{article.source}|||{article.url}")
+            n_merged += 1
+            logger.info(
+                "Semantic dedup merged (%s/%s): %r → %r",
+                article.companies[:1], article.segments[:1],
+                article.title[:55], kept.title[:55],
+            )
+        else:
+            result.append(article)
+
+    logger.info("Semantic dedup: %d articles merged into existing ones (%d API calls)", n_merged, call_count)
+    return result, n_merged
+
+
 # ── Dashboard QA ───────────────────────────────────────────────────────────────
 
 _QA_SYSTEM = """\
