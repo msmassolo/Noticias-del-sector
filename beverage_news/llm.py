@@ -13,8 +13,13 @@ import hashlib
 import json
 import logging
 import os
+import time
 from datetime import date
 from pathlib import Path
+
+# Delay between API calls to stay within free-tier rate limits (~5 RPM = 1 req/12s).
+# Set to 1 after reaching Anthropic Tier 1 (50 RPM).
+_CALL_DELAY_SECONDS = 13
 
 logger = logging.getLogger(__name__)
 
@@ -148,6 +153,8 @@ def summarize_articles(articles: list) -> tuple[list, dict]:
             continue
 
         diagnostics["attempted"] += 1
+        if diagnostics["attempted"] > 1:
+            time.sleep(_CALL_DELAY_SECONDS)
         try:
             result = _summarize_one(client, article.title, article.summary, article.body)
             article.llm_summary = result

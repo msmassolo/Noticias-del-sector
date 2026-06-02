@@ -142,6 +142,21 @@ def _article_html(article):
 
     translate_url = f"https://translate.google.com/translate?sl=auto&tl=es&u={escape(article['url'], quote=True)}"
     pub_iso = escape(article["published"] or "", quote=True)
+
+    # Build extra source links for merged duplicates
+    merged_sources = article.get("merged_sources") or []
+    extra_links = ""
+    for entry in merged_sources:
+        if "|||" in entry:
+            src_name, src_url = entry.split("|||", 1)
+        else:
+            src_name, src_url = "Fuente alternativa", entry
+        extra_links += (
+            f'<a class="alt-source-btn" href="{escape(src_url, quote=True)}" '
+            f'target="_blank" rel="noopener noreferrer">'
+            f'También en: {escape(src_name)}</a>'
+        )
+
     return f"""
         <article class="news-card"
             data-search="{escape(search, quote=True)}"
@@ -163,6 +178,7 @@ def _article_html(article):
             <div class="card-actions">
                 <a class="original-btn" href="{escape(article['url'], quote=True)}" target="_blank" rel="noopener noreferrer">Leer nota original</a>
                 <a class="translate-btn" href="{translate_url}" target="_blank" rel="noopener noreferrer">Ver en español</a>
+                {extra_links}
             </div>
             <details>
                 <summary>Texto completo del artículo</summary>
@@ -622,8 +638,21 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None):
             color: var(--muted);
             background: var(--surface-soft);
         }}
-        .original-btn:hover, .translate-btn:hover {{
+        .original-btn:hover, .translate-btn:hover, .alt-source-btn:hover {{
             filter: brightness(0.97);
+        }}
+        .alt-source-btn {{
+            display: inline-flex;
+            align-items: center;
+            min-height: 31px;
+            border-radius: 6px;
+            padding: 0 10px;
+            font-size: 12px;
+            font-weight: 700;
+            text-decoration: none;
+            border: 1px solid #c4b5fd;
+            color: #6d28d9;
+            background: #f5f3ff;
         }}
         details {{
             border-top: 1px solid var(--border);

@@ -81,12 +81,18 @@ def _title_tokens(title):
     return {w for w in words if len(w) > 2 and w not in _TITLE_STOPWORDS}
 
 
-def _dedup_similar_titles(articles, threshold=0.60):
-    """Remove articles whose title shares ≥60% token overlap with a higher-ranked article."""
+def _dedup_and_merge(articles, threshold=0.60):
+    """
+    Detect articles covering the same event (Jaccard ≥ threshold on title tokens).
+    Instead of discarding duplicates, merge their URL+source into the kept article's
+    merged_sources list so the dashboard can show links to all coverage.
+    Returns (kept_articles, n_merged).
+    """
     kept = []
+    n_merged = 0
     for article in articles:
         tokens = _title_tokens(article.title)
-        is_dup = False
+        matched_ref = None
         for ref in kept:
             ref_tokens = _title_tokens(ref.title)
             union = tokens | ref_tokens
@@ -94,12 +100,41 @@ def _dedup_similar_titles(articles, threshold=0.60):
                 continue
             jaccard = len(tokens & ref_tokens) / len(union)
             if jaccard >= threshold:
-                is_dup = True
-                logger.info("Dedup similar titles (%.0f%%): %r vs %r", jaccard * 100, article.title[:60], ref.title[:60])
+                matched_ref = ref
                 break
-        if not is_dup:
+        if matched_ref is not None:
+            matched_ref.merged_sources.append(f"{article.source}|||{article.url}")
+            n_merged += 1
+            logger.info(
+                "Merged duplicate into %r: %r (from %s)",
+                matched_ref.title[:50], article.title[:50], article.source,
+            )
+        else:
             kept.append(article)
-    return kept
+    return kept, n_merged
+
+
+def _refill_from_pool(articles, full_validated_pool, target_count):
+    """
+    After dedup+merge reduces the article count below target_count,
+    fill in from the validated pool (articles that passed validation but
+    weren't selected in the initial balanced selection).
+    Returns the filled article list.
+    """
+    if len(articles) >= target_count:
+        return articles
+    selected_urls = {a.url for a in articles}
+    refilled = 0
+    for candidate in full_validated_pool:
+        if len(articles) >= target_count:
+            break
+        if candidate.url not in selected_urls:
+            articles.append(candidate)
+            selected_urls.add(candidate.url)
+            refilled += 1
+    if refilled:
+        logger.info("Refill: added %d articles from validated pool to reach target", refilled)
+    return articles
 
 
 def _extract_ranked_selection(extraction_queue, target_count, min_per_region, min_body_chars=80):
@@ -205,7 +240,9 @@ def run_pipeline(
         target_count=target_count,
         min_per_region=min_per_region,
     )
-    articles = _dedup_similar_titles(articles)
+    # Merge duplicates and refill gaps before LLM (cheaper: only summarize final set)
+    articles, n_merged = _dedup_and_merge(articles)
+    articles = _refill_from_pool(articles, extracted_articles, target_count)
     _write_json("articles.json", [asdict(article) for article in articles])
 
     articles, llm_diagnostics = summarize_articles(articles)
@@ -219,6 +256,7 @@ def run_pipeline(
         "extraction": extraction_diagnostics,
         "validation": validation_diagnostics,
         "selection": selection_diagnostics,
+        "dedup_merged": n_merged,
         "llm": llm_diagnostics,
         "qa": qa_result,
     }
