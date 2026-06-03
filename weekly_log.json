@@ -1,19 +1,8 @@
 {
   "2026-06-03": [
     {
-      "title": "Brown-Forman pausa la producción en su destilería irlandesa de Slane",
-      "summary": "Brown-Forman pausó la producción en su destilería de Slane (Irlanda), una planta adquirida en 2015 con inversión de $50M, como ajuste estratégico a condiciones de mercado antes de reportar resultados.",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Local"
-    },
-    {
       "title": "Mahou consolida su liderazgo en los hogares españoles",
-      "summary": "Mahou consolida su posición como marca líder de cerveza en hogares españoles según Brand Footprint de Worldpanel by Numerator, manteniéndose entre las 20 marcas top del sector. La compañía atribuye su",
+      "summary": "Mahou mantiene su posición como cerveza líder en hogares españoles según Brand Footprint de Worldpanel by Numerator, consolidando su presencia en el top 20 de marcas de gran consumo. La compañía atrib",
       "companies": [
         "Mahou San Miguel"
       ],
@@ -24,7 +13,7 @@
     },
     {
       "title": "Las bebidas de lujo se blindan ante la ola de falsificaciones",
-      "summary": "La industria de bebidas alcohólicas enfrenta contracción de volumen (-2%) y valor (-4%) en mercados representativos del 75% global durante 2025, según IWSR. Simultáneamente, crece la amenaza de falsif",
+      "summary": "La industria global de bebidas alcohólicas enfrenta contracción de volumen (-2%) y valor (-4%) en 2025, mientras crece el problema de falsificaciones en vinos y destilados premium. Las bodegas y desti",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -34,7 +23,7 @@
     },
     {
       "title": "Kola Real: el secreto del éxito que superó a Coca-Cola en el Caribe",
-      "summary": "Kola Real, marca de Industrias San Miguel, logró dominar el mercado de gaseosas en República Dominicana con 50% de market share, superando a Coca-Cola (21.2%) en 2012. La expansión desde 240,000 cajas",
+      "summary": "Kola Real (Industrias San Miguel) logró capturar el 50% del market share en gaseosas de República Dominicana, superando a Coca-Cola (21.2%) en 2012 tras invertir casi una década en expansión. Partiend",
       "companies": [
         "The Coca-Cola Company",
         "AJE Group"
@@ -47,7 +36,7 @@
     },
     {
       "title": "Empaquetadora de Nestlé y otras multinacionales alista expansión industrial en Chorrillos",
-      "summary": "Emusa Perú, proveedor de empaques flexibles para grandes marcas de bebidas y alimentos (Nestlé, PepsiCo, Mondelez, Bimbo), ejecuta expansión en su planta de Chorrillos mediante inversión en maquinaria",
+      "summary": "Emusa Perú, proveedor de empaques flexibles para grandes multinacionales de bebidas y alimentos (Nestlé, PepsiCo, Mondelez, Bimbo), anuncia expansión de capacidades en su planta de Chorrillos mediante",
       "companies": [
         "PepsiCo"
       ],
@@ -57,8 +46,20 @@
       "region": "Regional"
     },
     {
+      "title": "Campaña publicitaria de Coors Light: así convierten las cámaras térmicas el frío en un recurso de marketing",
+      "summary": "Coors Light ejecuta una campaña publicitaria innovadora mediante cámaras térmicas para materializar visualmente su atributo diferencial de frialdad, reforzando su posicionamiento histórico 'Cold As Th",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Walmart encuentra en China un nuevo motor de crecimiento: eCommerce ya representa la mitad del negocio",
-      "summary": "Walmart está acelerando su crecimiento en China donde eCommerce ya representa el 50% del negocio, combinando su modelo de clubes con entregas ultrarrápidas y membresías. Esta estrategia de omnicanalid",
+      "summary": "Walmart acelera su modelo de clubes en China integrando eCommerce, logrando que las ventas digitales representen el 50% del negocio. Esta estrategia híbrida de membresías + entregas ultrarrápidas es r",
       "companies": [
         "Walmart"
       ],
@@ -69,7 +70,7 @@
     },
     {
       "title": "La otra factura de la inflación",
-      "summary": "En mayo se registró deflación en alimentos y bebidas no alcohólicas (-1.76%) y transporte (-0.26%) en Perú, según INEI. Estos dos segmentos representan el 36% del índice de precios al consumidor, lo q",
+      "summary": "En mayo, los precios de alimentos y bebidas no alcohólicas cayeron 1.76% en Perú respecto a abril, revirtiendo la tendencia inflacionaria de meses previos. Dado que este segmento representa el 36% del",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -78,7 +79,7 @@
     },
     {
       "title": "Interview: Vita Pop eyes US after building European base",
-      "summary": "Vita Pop, marca española de soda prebiótica, expande operaciones hacia EE.UU. tras consolidar presencia en Europa. El cofundador Matus Vavercak (con experiencia previa en The Gutsy Captain kombucha) p",
+      "summary": "Vita Pop, marca española de prebiotic soda funcional, acelera expansión hacia mercado estadounidense tras consolidarse en Europa. Fundada por Matus Vavercak (ex-Gutsy Captain kombucha) en marzo 2023, ",
       "companies": [
         "Poppi"
       ],
@@ -90,7 +91,7 @@
     },
     {
       "title": "Disaronno Group completes Amaro Averna acquisition",
-      "summary": "Disaronno Group completó la adquisición de Amaro Averna y Zedda Piras de Campari Group por €100 millones, consolidando su portafolio de licores italianos premium. La transacción, anunciada en diciembr",
+      "summary": "Disaronno Group completó la adquisición de Amaro Averna y Zedda Piras de Campari Group por €100 millones, cerrando un acuerdo anunciado seis meses atrás. La compra refuerza el portafolio de licores pr",
       "companies": [
         "Campari Group"
       ],
@@ -102,7 +103,7 @@
     },
     {
       "title": "The Coca-Cola Company readies listing of India bottler",
-      "summary": "The Coca-Cola Company prepara una posible salida a bolsa de su socio embotellador en India (Hindustan Coca-Cola Holdings) para el próximo año, mediante la cual reducirá su participación accionaria. Es",
+      "summary": "The Coca-Cola Company prepara una oferta pública inicial (IPO) de su socio embotellador en India, Hindustan Coca-Cola Holdings (HCCH), planeada para 2025. A través de esta flotación, Coca-Cola reducir",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -114,7 +115,7 @@
     },
     {
       "title": "Jack Daniel’s Tennessee Apple sales pass 1m cases",
-      "summary": "Jack Daniel's Tennessee Apple de Brown-Forman alcanzó 1.1 millones de cajas en 2025, crecimiento del 16.8% desde 0.9M en 2024, ingresando al exclusive club de spirits de 1M+ casos anuales. Este desemp",
+      "summary": "Jack Daniel's Tennessee Apple de Brown-Forman alcanzó 1.1 millones de cajas en 2025, creciendo 16.8% respecto a 2024 y superando por primera vez el umbral del millón de cajas. Este hito posiciona al p",
       "companies": [
         "Brown-Forman"
       ],
@@ -126,19 +127,7 @@
     },
     {
       "title": "Kendall Jenner’s 818 Tequila debuts summer campaign",
-      "summary": "818 Tequila, marca cofundada por Kendall Jenner, lanzó su primera campaña tras la inversión estratégica de Sazerac en abril. El acuerdo incluyó inversión no divulgada y asociación exclusiva de distrib",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "818 Tequila kicks off summer push after Sazerac deal",
-      "summary": "818 Tequila, la marca de Kendall Jenner, lanzó una campaña estival tras recibir una inversión estratégica de Sazerac, el mayor distribuidor de bebidas alcohólicas en EE.UU. La campaña \"Best Summer Eve",
+      "summary": "818 Tequila, co-fundada por Kendall Jenner, lanzó su primera campaña tras la inversión estratégica de Sazerac en abril. La alianza incluyó inversión no revelada y un acuerdo exclusivo de distribución ",
       "companies": [
         "Sazerac Company"
       ],
@@ -150,7 +139,7 @@
     },
     {
       "title": "Nestlé snaps up smart food brand Yfood",
-      "summary": "Nestlé adquirió la totalidad de Yfood mediante compra de acciones remanentes de sus fundadores por monto no revelado. La incorporación fortalece la nueva división de Nutrición de Nestlé junto a marcas",
+      "summary": "Nestlé adquirió la totalidad de las acciones de Yfood, marca de alimentos inteligentes, a sus fundadores Benjamin Kremer y Noel Bollmann en operación de monto no revelado. La compra refuerza la nueva ",
       "companies": [
         "Danone"
       ],
@@ -162,7 +151,7 @@
     },
     {
       "title": "Celsius eyeing overseas push for Alani Nu - Just Drinks",
-      "summary": "Celsius, tras adquirir la marca Alani Nu (bebidas y snacks enfocados en mujeres) el año pasado, está evaluando expansión internacional para la marca en 2024. Esta estrategia de crecimiento geográfico ",
+      "summary": "Celsius avanza con su estrategia de expansión internacional de Alani Nu, la marca de bebidas y snacks orientada a mujeres que adquirió el año pasado. La compañía está evaluando nuevos mercados para el",
       "companies": [
         "Celsius Holdings"
       ],
@@ -173,7 +162,7 @@
     },
     {
       "title": "Court: Boston Beer Owes Ardagh $191M in Aluminum Can Contract Dispute | Brewbound",
-      "summary": "Boston Beer Company fue condenada a pagar $191 millones ($175,5M + $15,5M en intereses) por incumplimiento de contrato de compra mínima de latas de aluminio con Ardagh Metal Packaging entre 2021-2025.",
+      "summary": "Boston Beer Company fue condenada a pagar $191 millones totales ($175.5M de sentencia + $15.5M en intereses) a Ardagh Metal Packaging por incumplimiento de contrato de compra mínima de latas de alumin",
       "companies": [
         "Boston Beer Company"
       ],
@@ -185,7 +174,7 @@
     },
     {
       "title": "Marketing: Danny Trejo Has a Baja Blast; Liquid I.V. Swings into Hollywood with Spider-Man - BevNET.com",
-      "summary": "Mountain Dew Baja Blast lanzó una campaña nacional de publicidad protagonizada por Danny Trejo, aprovechando su visibilidad como actor de la franquicia Machete. Simultáneamente, Liquid I.V. se asoció ",
+      "summary": "Mountain Dew Baja Blast lanzó una campaña publicitaria nacional protagonizada por el actor Danny Trejo, buscando fortalecer su posicionamiento en el segmento de bebidas refrescantes. La campaña repres",
       "companies": [
         "PepsiCo"
       ],
@@ -195,19 +184,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola explores 2027 listing of Indian bottling business | FoodBev Media",
-      "summary": "Coca-Cola planea explorar una salida a bolsa (IPO) de Hindustan Coca-Cola Holdings (HCCH), su principal operación de embotellamiento en India, para 2027. Esta maniobra estratégica permitiría a la comp",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Court rejects Heineken appeal in Greece competition case - Just Drinks",
-      "summary": "La Corte Suprema de Países Bajos rechazó la apelación de Heineken en un caso de competencia desleal contra Macedonian Thrace Brewery en Grecia. Heineken y su subsidiaria griega Athenian Brewery enfren",
+      "summary": "La Corte Suprema holandesa rechazó la apelación de Heineken en un caso de competencia contra Macedonian Thrace Brewery en Grecia. Heineken y su subsidiaria griega Athenian Brewery enfrentan una conden",
       "companies": [
         "Heineken"
       ],
@@ -218,7 +196,7 @@
     },
     {
       "title": "Sazerac enters Tennessee whiskey category",
-      "summary": "Sazerac, propietaria de Buffalo Trace, lanzó su primer whisky de Tennessee bajo la marca AJ Bond, capitalizando la adquisición de una destilería en Newport realizada en 2016. El movimiento estratégico",
+      "summary": "Sazerac, propietaria de Buffalo Trace, lanzó su primer whiskey de Tennessee con la marca AJ Bond, resultado de la adquisición de una destilería en Newport en 2016. El movimiento permite a Sazerac comp",
       "companies": [
         "Sazerac Company"
       ],
@@ -229,7 +207,7 @@
     },
     {
       "title": "Cointreau caters to Spicy Marg trend",
-      "summary": "Cointreau lanza una expresión infusionada con chiles para capitalizar la tendencia de Margaritas Picantes en crecimiento. El producto, disponible en UK desde junio, es un licor de naranja al 30% ABV (",
+      "summary": "Cointreau lanza una expresión infusionada con chiles para capitalizar la tendencia de Margaritas Picantes en crecimiento, particularmente en el mercado UK. El nuevo producto, con 30% ABV, se posiciona",
       "companies": [
         "Remy Cointreau"
       ],
@@ -239,19 +217,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Heineken loses latest appeal in Greek beer competition battle",
-      "summary": "Heineken pierde su apelación final en Corte Suprema holandesa en disputa por daños antimonopolio en Grecia. Macedonian Thrace Brewery demanda por abuso de posición dominante de la filial griega Atheni",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Irn-Bru targets growth outside of Scotland with World Cup campaign",
-      "summary": "AG Barr lanzó una campaña publicitaria para Irn-Bru aprovechando el Mundial de fútbol, buscando expandir su presencia fuera de Escocia hacia Inglaterra y Gales. La estrategia incluye influencers de pe",
+      "summary": "AG Barr, propietaria de Irn-Bru, lanza campaña publicitaria agresiva durante el Mundial para expandir presencia fuera de Escocia hacia Inglaterra y Gales. La estrategia reactiva su icónico jingle de l",
       "companies": [
         "AG Barr"
       ],
@@ -262,7 +229,7 @@
     },
     {
       "title": "Clean Simple Eats Broadens National Retail Presence with Walmart and Costco Launches",
-      "summary": "Clean Simple Eats expande su distribución nacional en EE.UU. con lanzamientos en Walmart (2.000 tiendas) y Costco, fortaleciendo su posición en el segmento de salud y bienestar. Esta aceleración de pr",
+      "summary": "Clean Simple Eats (CSE) expande su distribución nacional con lanzamientos en Walmart y Costco, alcanzando 2.000 tiendas Walmart adicionales. Este movimiento representa un hito estratégico en la penetr",
       "companies": [
         "Walmart",
         "Costco"
@@ -274,7 +241,7 @@
     },
     {
       "title": "Nestlé CEO sanguine on margin as coffee, cocoa prices retreat",
-      "summary": "El CEO de Nestlé proyecta mejora de márgenes operacionales en 2024 gracias a la caída de precios de café y cacao, sus insumos clave. La estrategia se enfoca en innovación y marketing para mantener com",
+      "summary": "El CEO de Nestlé proyecta mejora en márgenes durante 2024-2025 gracias a la retracción de precios de café y cacao, dos commodities críticos para la industria de bebidas y alimentos. La estrategia corp",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -284,7 +251,7 @@
     },
     {
       "title": "How PepsiCo plans to grow a 220-year-old nut brand",
-      "summary": "PepsiCo busca revitalizar una marca de frutos secos con 220 años de historia, enfrentando el dilema estratégico de aprovechar el patrimonio de marca para generar confianza y reconocimiento mientras la",
+      "summary": "PepsiCo está desarrollando una estrategia para revitalizar una marca de frutos secos con 220 años de historia, enfrentando el desafío de mantener relevancia en un mercado donde el patrimonio no garant",
       "companies": [
         "PepsiCo"
       ],
@@ -295,7 +262,7 @@
     },
     {
       "title": "How audio ads are behind food and drinks’ next sales boost",
-      "summary": "Las marcas de alimentos y bebidas están incorporando publicidad de audio como canal estratégico de marketing, posicionándola como puente entre la conciencia de marca y la compra. A diferencia de canal",
+      "summary": "La publicidad de audio emerge como canal estratégico en la industria de bebidas y alimentos para conectar conciencia de marca con decisión de compra en entornos retail. Marcas globales adoptan audio c",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -305,7 +272,7 @@
     },
     {
       "title": "Thailand extends alcohol sales from 11am to midnight",
-      "summary": "Tailandia amplió el horario de venta de bebidas alcohólicas de 11 AM a medianoche tras una prueba piloto exitosa de seis meses. La medida permite la comercialización en establecimientos licenciados, r",
+      "summary": "Tailandia amplió las ventanas horarias de venta de bebidas alcohólicas a 11:00-24:00, tras una prueba piloto exitosa de seis meses. La nueva regulación, firmada en mayo de 2026, aplica a minoristas au",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -315,7 +282,7 @@
     },
     {
       "title": "Bodegas Muga-owner backs new non-alc wine brand Paragraph",
-      "summary": "Familia Muga, propietaria de Bodegas Muga, respalda el lanzamiento de Paragraph, una nueva marca de vino sin alcohol que debuta en EE.UU., Reino Unido, España, Suiza e Islandia. La marca fue fundada p",
+      "summary": "Bodegas Muga, bodega española histórica, respalda el lanzamiento de Paragraph, una marca de vino sin alcohol que debuta en EE.UU., Reino Unido, España, Suiza e Islandia. El proyecto es liderado por el",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -325,7 +292,7 @@
     },
     {
       "title": "How Spade's 'Approachable,' Anti-Functional Modern Soda Landed Walmart - BevNET.com",
-      "summary": "Spade, una marca de soda moderna, logró colocarse en Walmart, consolidando su presencia en una de las mayores cadenas minoristas de EE.UU. El hito valida la estrategia de diferenciación del branded si",
+      "summary": "Spade, una marca de soda moderna, logró la distribución en Walmart, uno de los mayores retailers en establecer un segmento definido de 'modern soda'. El hallazgo valida la estrategia de posicionamient",
       "companies": [
         "Walmart"
       ],
@@ -335,8 +302,18 @@
       "region": "Mundial"
     },
     {
+      "title": "RTD startup Bevi targets Gen Z with new SachetCan",
+      "summary": "Bevi lanzó SachetCan, un formato innovador de bebida RTD que combina latas de Journey Juice (220ml, vodka + frutas, 12% ABV) con sachets de polvo funcional efervescente (50mg cafeína). Se posiciona co",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Dutch Supreme Court rejects Heineken appeal in Greek beer market damages case | FoodBev Media",
-      "summary": "La Corte Suprema holandesa rechazó el recurso de Heineken y su filial griega Athenian Brewery en un caso de daños por competencia iniciado por la cervecería griega Macedonian Thrace Brewery (MTB). Est",
+      "summary": "La Corte Suprema Holandesa rechazó el recurso de apelación de Heineken y su filial griega Athenian Brewery en un caso de daños por competencia antimonopolio llevado adelante por la cervecería griega M",
       "companies": [
         "Heineken"
       ],
@@ -346,22 +323,46 @@
       "region": "Mundial"
     },
     {
-      "title": "RTD startup Bevi targets Gen Z with new SachetCan",
-      "summary": "Bevi, startup de bebidas RTD, lanzó SachetCan, un formato modular dirigido a Gen Z que combina latas de 220ml de Journey Juice (vodka + frutas, 12% ABV) con sachets de polvos funcionales efervescentes",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Ste. Michelle to boost reach with Southern Glazer’s deal",
-      "summary": "Ste. Michelle Wine Group amplió su acuerdo de distribución con Southern Glazer's Wine & Spirits, principal distribuidor estadounidense. Southern Glazer's asumirá la distribución de todo el portafolio ",
+      "summary": "Ste. Michelle, gigante vinícola de Washington, amplió su acuerdo de distribución con Southern Glazer's para que la división de exportaciones de este distribuidor estadounidense asuma la comercializaci",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "818 Tequila kicks off summer push after Sazerac deal",
+      "summary": "818 Tequila, marca co-propiedad de Kendall Jenner, lanzó una campaña de verano tras recibir inversión estratégica de Sazerac, uno de los mayores distribuidores de bebidas alcohólicas globales. Este mo",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola explores 2027 listing of Indian bottling business | FoodBev Media",
+      "summary": "Coca-Cola analiza un potencial IPO de Hindustan Coca-Cola Holdings (HCCH), su mayor operación de embotellado en India, para 2027. Este movimiento permitiría liberar capital de uno de los mercados estr",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken loses latest appeal in Greek beer competition battle",
+      "summary": "Heineken perdió su última apelación ante la Corte Suprema holandesa en un litigio de competencia en Grecia, donde se le acusa de abuso de posición dominante. Macedonian Thrace Brewery busca indemnizac",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
