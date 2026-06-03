@@ -3,6 +3,7 @@
     "name": "Just Drinks",
     "url": "https://www.just-drinks.com/",
     "rss": ["https://www.just-drinks.com/feed/"],
+    "sections": [],
     "country": "Global",
     "region": "Mundial",
     "language": "en",
@@ -12,6 +13,7 @@
     "name": "FoodBev Media",
     "url": "https://www.foodbev.com/",
     "rss": ["https://www.foodbev.com/blog-feed.xml"],
+    "sections": [],
     "country": "Global",
     "region": "Mundial",
     "language": "en",
@@ -21,6 +23,7 @@
     "name": "The Drinks Business",
     "url": "https://www.thedrinksbusiness.com/",
     "rss": ["https://www.thedrinksbusiness.com/feed/"],
+    "sections": [],
     "country": "Global",
     "region": "Mundial",
     "language": "en",
@@ -30,6 +33,7 @@
     "name": "The Spirits Business",
     "url": "https://www.thespiritsbusiness.com/",
     "rss": ["https://www.thespiritsbusiness.com/feed/"],
+    "sections": [],
     "country": "United Kingdom",
     "region": "Mundial",
     "language": "en",
@@ -39,6 +43,7 @@
     "name": "Brewbound",
     "url": "https://www.brewbound.com/",
     "rss": ["https://www.brewbound.com/feed"],
+    "sections": [],
     "country": "United States",
     "region": "Mundial",
     "language": "en",
@@ -48,6 +53,7 @@
     "name": "VinePair",
     "url": "https://vinepair.com/",
     "rss": ["https://vinepair.com/feed/"],
+    "sections": [],
     "country": "United States",
     "region": "Mundial",
     "language": "en",
@@ -56,7 +62,8 @@
   {
     "name": "Wine Business",
     "url": "https://www.winebusiness.com/",
-    "rss": [],
+    "rss": ["https://www.winebusiness.com/rss/news.cfm"],
+    "sections": [],
     "country": "United States",
     "region": "Mundial",
     "language": "en",
@@ -75,7 +82,7 @@
   {
     "name": "Beverage Industry",
     "url": "https://www.bevindustry.com/",
-    "rss": ["https://www.bevindustry.com/rss/"],
+    "rss": ["https://www.bevindustry.com/rss/topic/2632-news.xml"],
     "sections": [],
     "country": "United States",
     "region": "Mundial",
@@ -98,6 +105,66 @@
     "rss": ["https://harpers.co.uk/feed/"],
     "sections": [],
     "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Food Navigator",
+    "url": "https://www.foodnavigator.com/",
+    "rss": ["https://www.foodnavigator.com/arc/outboundfeeds/rss/"],
+    "sections": ["https://www.foodnavigator.com/News/Beverage"],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Food Navigator USA",
+    "url": "https://www.foodnavigator-usa.com/",
+    "rss": ["https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/"],
+    "sections": ["https://www.foodnavigator-usa.com/News/Beverage"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "The Food Institute",
+    "url": "https://foodinstitute.com/",
+    "rss": ["https://foodinstitute.com/feed/"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "FoodDive Beverages",
+    "url": "https://www.fooddive.com/topic/beverage/",
+    "rss": ["https://www.fooddive.com/feeds/topic/beverage/"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Brewers Journal",
+    "url": "https://www.brewersjournal.info/",
+    "rss": ["https://www.brewersjournal.info/feed/"],
+    "sections": [],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Packaging Digest",
+    "url": "https://www.packagingdigest.com/",
+    "rss": ["https://www.packagingdigest.com/rss.xml"],
+    "sections": ["https://www.packagingdigest.com/beverage-packaging"],
+    "country": "United States",
     "region": "Mundial",
     "language": "en",
     "trade": true
@@ -133,6 +200,256 @@
     "trade": false
   },
   {
+    "name": "BevNET",
+    "url": "https://www.bevnet.com/",
+    "rss": ["https://www.bevnet.com/news/feed/"],
+    "sections": ["https://www.bevnet.com/news/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Decanter",
+    "url": "https://www.decanter.com/",
+    "rss": ["https://www.decanter.com/wine-news/feed/"],
+    "sections": ["https://www.decanter.com/wine-news/"],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Food Business News",
+    "url": "https://www.foodbusinessnews.net/",
+    "rss": ["https://www.foodbusinessnews.net/rss"],
+    "sections": ["https://www.foodbusinessnews.net/topic/beverages/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Craft Brewing Business",
+    "url": "https://www.craftbrewingbusiness.com/",
+    "rss": ["https://www.craftbrewingbusiness.com/feed/"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Wine Enthusiast",
+    "url": "https://www.wineenthusiast.com/",
+    "rss": ["https://www.wineenthusiast.com/feed/"],
+    "sections": ["https://www.wineenthusiast.com/wine-news/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": false
+  },
+  {
+    "name": "Drinks International",
+    "url": "https://drinksint.com/",
+    "rss": ["https://drinksint.com/feed/"],
+    "sections": ["https://drinksint.com/news/"],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "New Food Magazine",
+    "url": "https://www.newfoodmagazine.com/",
+    "rss": ["https://www.newfoodmagazine.com/feed/"],
+    "sections": ["https://www.newfoodmagazine.com/category/beverage/"],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Winsight Grocery Business",
+    "url": "https://www.winsightgrocerybusiness.com/",
+    "rss": ["https://www.winsightgrocerybusiness.com/feed/"],
+    "sections": ["https://www.winsightgrocerybusiness.com/beverages/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Food Navigator Asia",
+    "url": "https://www.foodnavigator-asia.com/",
+    "rss": ["https://www.foodnavigator-asia.com/arc/outboundfeeds/rss/"],
+    "sections": ["https://www.foodnavigator-asia.com/News/Beverage"],
+    "country": "Asia",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Packaging World",
+    "url": "https://www.packworld.com/",
+    "rss": ["https://www.packworld.com/feed/"],
+    "sections": ["https://www.packworld.com/technology/beverage/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Bar & Restaurant",
+    "url": "https://www.barandrestaurant.com/",
+    "rss": ["https://www.barandrestaurant.com/feed/"],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": false
+  },
+  {
+    "name": "Wine Searcher News",
+    "url": "https://www.wine-searcher.com/",
+    "rss": [],
+    "sections": ["https://www.wine-searcher.com/news"],
+    "country": "International",
+    "region": "Mundial",
+    "language": "en",
+    "trade": false
+  },
+  {
+    "name": "The Morning Advertiser",
+    "url": "https://www.morningadvertiser.co.uk/",
+    "rss": ["https://www.morningadvertiser.co.uk/rss/topic/news.xml"],
+    "sections": ["https://www.morningadvertiser.co.uk/"],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Supermarket News",
+    "url": "https://www.supermarketnews.com/",
+    "rss": ["https://www.supermarketnews.com/rss/topic/news.xml"],
+    "sections": ["https://www.supermarketnews.com/beverage"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "The Grocer",
+    "url": "https://www.thegrocer.co.uk/",
+    "rss": ["https://www.thegrocer.co.uk/rss"],
+    "sections": ["https://www.thegrocer.co.uk/drinks/"],
+    "country": "United Kingdom",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Progressive Grocer",
+    "url": "https://progressivegrocer.com/",
+    "rss": ["https://progressivegrocer.com/rss.xml"],
+    "sections": ["https://progressivegrocer.com/category/beverages/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Convenience Store News",
+    "url": "https://csnews.com/",
+    "rss": ["https://csnews.com/rss.xml"],
+    "sections": ["https://csnews.com/category/beverages/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Beer & Brewer",
+    "url": "https://beerandbrewer.com/",
+    "rss": ["https://beerandbrewer.com/feed/"],
+    "sections": ["https://beerandbrewer.com/news/"],
+    "country": "Australia",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "The Canopy",
+    "url": "https://www.thecanopy.wine/",
+    "rss": ["https://www.thecanopy.wine/feed/"],
+    "sections": ["https://www.thecanopy.wine/news/"],
+    "country": "International",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Meininger's Wine Business International",
+    "url": "https://www.meininger.de/en/wine-business-international",
+    "rss": [],
+    "sections": ["https://www.meininger.de/en/wine-business-international/news"],
+    "country": "Germany",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Global Beer Network",
+    "url": "https://www.globalbeernews.com/",
+    "rss": ["https://www.globalbeernews.com/feed/"],
+    "sections": [],
+    "country": "Global",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Wine Industry Advisor",
+    "url": "https://wineindustryadvisor.com/",
+    "rss": ["https://wineindustryadvisor.com/feed"],
+    "sections": ["https://wineindustryadvisor.com/news/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Shanken News Daily",
+    "url": "https://www.shanken.com/",
+    "rss": [],
+    "sections": ["https://www.shanken.com/news/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Distillery Trail",
+    "url": "https://www.distillerytrail.com/",
+    "rss": ["https://www.distillerytrail.com/feed/"],
+    "sections": ["https://www.distillerytrail.com/blog/"],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Wine & Spirits Daily",
+    "url": "https://www.wineandspiritswhosalers.org/",
+    "rss": [],
+    "sections": [],
+    "country": "United States",
+    "region": "Mundial",
+    "language": "en",
+    "trade": true
+  },
+  {
     "name": "Infobae",
     "url": "https://www.infobae.com/",
     "rss": ["https://www.infobae.com/arc/outboundfeeds/rss/argentina/"],
@@ -152,7 +469,11 @@
     "name": "La Nacion",
     "url": "https://www.lanacion.com.ar/",
     "rss": ["https://www.lanacion.com.ar/arc/outboundfeeds/rss/"],
-    "sections": ["https://www.lanacion.com.ar/economia/", "https://www.lanacion.com.ar/economia/negocios/"],
+    "sections": [
+      "https://www.lanacion.com.ar/economia/",
+      "https://www.lanacion.com.ar/economia/negocios/",
+      "https://www.lanacion.com.ar/tema/vinos-tid28732/"
+    ],
     "country": "Argentina",
     "region": "Local",
     "language": "es",
@@ -173,7 +494,11 @@
     "name": "Ambito",
     "url": "https://www.ambito.com/",
     "rss": ["https://www.ambito.com/rss/economia.xml"],
-    "sections": ["https://www.ambito.com/economia", "https://www.ambito.com/negocios"],
+    "sections": [
+      "https://www.ambito.com/economia",
+      "https://www.ambito.com/negocios",
+      "https://www.ambito.com/vinos-a5124062"
+    ],
     "country": "Argentina",
     "region": "Local",
     "language": "es",
@@ -183,7 +508,10 @@
     "name": "Cronista",
     "url": "https://www.cronista.com/",
     "rss": [],
-    "sections": ["https://www.cronista.com/negocios/", "https://www.cronista.com/apertura/empresas/"],
+    "sections": [
+      "https://www.cronista.com/negocios/",
+      "https://www.cronista.com/apertura/empresas/"
+    ],
     "country": "Argentina",
     "region": "Local",
     "language": "es",
@@ -203,7 +531,11 @@
     "name": "Los Andes",
     "url": "https://www.losandes.com.ar/",
     "rss": [],
-    "sections": ["https://www.losandes.com.ar/economia/", "https://www.losandes.com.ar/vinos/"],
+    "sections": [
+      "https://www.losandes.com.ar/economia/",
+      "https://www.losandes.com.ar/vinos/",
+      "https://www.losandes.com.ar/viticultura/"
+    ],
     "country": "Argentina",
     "region": "Local",
     "language": "es",
@@ -213,7 +545,10 @@
     "name": "MDZ Online",
     "url": "https://www.mdzol.com/",
     "rss": [],
-    "sections": ["https://www.mdzol.com/economia/", "https://www.mdzol.com/vinos-bodegas/"],
+    "sections": [
+      "https://www.mdzol.com/economia/",
+      "https://www.mdzol.com/vinos-bodegas/"
+    ],
     "country": "Argentina",
     "region": "Local",
     "language": "es",
@@ -340,6 +675,76 @@
     "trade": false
   },
   {
+    "name": "Bodegas de Argentina",
+    "url": "https://bodegasdeargentina.org/",
+    "rss": ["https://bodegasdeargentina.org/feed/"],
+    "sections": ["https://bodegasdeargentina.org/noticias/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Infocampo",
+    "url": "https://www.infocampo.com.ar/",
+    "rss": ["https://www.infocampo.com.ar/feed/"],
+    "sections": ["https://www.infocampo.com.ar/categoria/agroindustria/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Mendoza Post",
+    "url": "https://www.mendozapost.com/",
+    "rss": ["https://www.mendozapost.com/feed/"],
+    "sections": ["https://www.mendozapost.com/categoria/economia/", "https://www.mendozapost.com/categoria/vinos/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Agrofy News",
+    "url": "https://news.agrofy.com.ar/",
+    "rss": ["https://news.agrofy.com.ar/rss"],
+    "sections": ["https://news.agrofy.com.ar/categoria/agroindustria"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Vinos y Negocios",
+    "url": "https://www.vinosynegocios.com/",
+    "rss": [],
+    "sections": ["https://www.vinosynegocios.com/noticias/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Argentina Wine",
+    "url": "https://www.argentinawine.com/",
+    "rss": [],
+    "sections": ["https://www.argentinawine.com/news/"],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "en",
+    "trade": true
+  },
+  {
+    "name": "Punto a Punto",
+    "url": "https://www.puntoapunto.com.ar/",
+    "rss": ["https://www.puntoapunto.com.ar/feed/"],
+    "sections": [],
+    "country": "Argentina",
+    "region": "Local",
+    "language": "es",
+    "trade": false
+  },
+  {
     "name": "Valor Economico",
     "url": "https://valor.globo.com/",
     "rss": ["https://valor.globo.com/rss/valor"],
@@ -368,6 +773,36 @@
     "region": "Regional",
     "language": "pt",
     "trade": false
+  },
+  {
+    "name": "Mercado e Consumo",
+    "url": "https://mercadoeconsumo.com.br/",
+    "rss": ["https://mercadoeconsumo.com.br/feed/"],
+    "sections": [],
+    "country": "Brazil",
+    "region": "Regional",
+    "language": "pt",
+    "trade": true
+  },
+  {
+    "name": "Mundo do Marketing",
+    "url": "https://www.mundodomarketing.com.br/",
+    "rss": ["https://www.mundodomarketing.com.br/feed/"],
+    "sections": [],
+    "country": "Brazil",
+    "region": "Regional",
+    "language": "pt",
+    "trade": false
+  },
+  {
+    "name": "Canal Food Brasil",
+    "url": "https://canalfood.com.br/",
+    "rss": ["https://canalfood.com.br/feed/"],
+    "sections": ["https://canalfood.com.br/categoria/bebidas/"],
+    "country": "Brazil",
+    "region": "Regional",
+    "language": "pt",
+    "trade": true
   },
   {
     "name": "DFSud",
@@ -430,6 +865,36 @@
     "trade": false
   },
   {
+    "name": "Wines of Chile",
+    "url": "https://www.winesofchile.org/",
+    "rss": [],
+    "sections": ["https://www.winesofchile.org/news/"],
+    "country": "Chile",
+    "region": "Regional",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Vinetur Chile",
+    "url": "https://www.vinetur.com/chile/",
+    "rss": [],
+    "sections": ["https://www.vinetur.com/chile/"],
+    "country": "Chile",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Portal Frutícola",
+    "url": "https://www.portalfruticola.com/",
+    "rss": ["https://www.portalfruticola.com/feed/"],
+    "sections": ["https://www.portalfruticola.com/noticias/industria/"],
+    "country": "Chile",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
     "name": "Gestion",
     "url": "https://gestion.pe/",
     "rss": ["https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml"],
@@ -444,6 +909,16 @@
     "url": "https://elcomercio.pe/",
     "rss": [],
     "sections": ["https://elcomercio.pe/economia/negocios/"],
+    "country": "Peru",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "Semana Económica",
+    "url": "https://semanaeconomica.com/",
+    "rss": ["https://semanaeconomica.com/feed/"],
+    "sections": ["https://semanaeconomica.com/sectores/consumo/"],
     "country": "Peru",
     "region": "Regional",
     "language": "es",
@@ -491,10 +966,30 @@
     "trade": false
   },
   {
+    "name": "Merca 2.0",
+    "url": "https://www.merca20.com/",
+    "rss": ["https://www.merca20.com/feed/"],
+    "sections": [],
+    "country": "Mexico",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
     "name": "El Observador",
     "url": "https://www.elobservador.com.uy/",
     "rss": [],
     "sections": ["https://www.elobservador.com.uy/economia-y-empresas", "https://www.elobservador.com.uy/negocios"],
+    "country": "Uruguay",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
+  },
+  {
+    "name": "El País Uruguay",
+    "url": "https://www.elpais.com.uy/",
+    "rss": [],
+    "sections": ["https://www.elpais.com.uy/economia-y-mercado/"],
     "country": "Uruguay",
     "region": "Regional",
     "language": "es",
@@ -511,113 +1006,43 @@
     "trade": false
   },
   {
-    "name": "Wine Business",
-    "url": "https://www.winebusiness.com/",
-    "rss": ["https://www.winebusiness.com/rss/news.cfm"],
-    "sections": [],
-    "country": "United States",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "Brewers Journal",
-    "url": "https://www.brewersjournal.info/",
-    "rss": ["https://www.brewersjournal.info/feed/"],
-    "sections": [],
-    "country": "United Kingdom",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "Packaging Digest",
-    "url": "https://www.packagingdigest.com/",
-    "rss": ["https://www.packagingdigest.com/rss.xml"],
-    "sections": ["https://www.packagingdigest.com/beverage-packaging"],
-    "country": "United States",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "Food Navigator",
-    "url": "https://www.foodnavigator.com/",
-    "rss": ["https://www.foodnavigator.com/arc/outboundfeeds/rss/"],
-    "sections": ["https://www.foodnavigator.com/News/Beverage"],
-    "country": "Global",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "Food Navigator USA",
-    "url": "https://www.foodnavigator-usa.com/",
-    "rss": ["https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/"],
-    "sections": ["https://www.foodnavigator-usa.com/News/Beverage"],
-    "country": "United States",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "Mundo do Marketing",
-    "url": "https://www.mundodomarketing.com.br/",
-    "rss": ["https://www.mundodomarketing.com.br/feed/"],
-    "sections": [],
-    "country": "Brazil",
+    "name": "Mundo Alimentario",
+    "url": "https://www.mundoalimentario.com/",
+    "rss": ["https://www.mundoalimentario.com/feed/"],
+    "sections": ["https://www.mundoalimentario.com/categoria/bebidas/"],
+    "country": "Pan-LATAM",
     "region": "Regional",
-    "language": "pt",
+    "language": "es",
+    "trade": true
+  },
+  {
+    "name": "Agrolatam",
+    "url": "https://www.agrolatam.com/",
+    "rss": ["https://www.agrolatam.com/feed/"],
+    "sections": ["https://www.agrolatam.com/noticias/"],
+    "country": "Pan-LATAM",
+    "region": "Regional",
+    "language": "es",
     "trade": false
   },
   {
-    "name": "Mercado e Consumo",
-    "url": "https://mercadoeconsumo.com.br/",
-    "rss": ["https://mercadoeconsumo.com.br/feed/"],
-    "sections": [],
-    "country": "Brazil",
-    "region": "Regional",
-    "language": "pt",
-    "trade": true
-  },
-  {
-    "name": "Merca 2.0",
-    "url": "https://www.merca20.com/",
-    "rss": ["https://www.merca20.com/feed/"],
-    "sections": [],
+    "name": "El Economista Mexico",
+    "url": "https://www.eleconomista.com.mx/",
+    "rss": ["https://www.eleconomista.com.mx/rss/rssnews.xml"],
+    "sections": ["https://www.eleconomista.com.mx/empresas/"],
     "country": "Mexico",
     "region": "Regional",
     "language": "es",
     "trade": false
   },
   {
-    "name": "The Food Institute",
-    "url": "https://foodinstitute.com/",
-    "rss": ["https://foodinstitute.com/feed/"],
-    "sections": [],
-    "country": "United States",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "Beverage Industry News",
-    "url": "https://www.bevindustry.com/",
-    "rss": ["https://www.bevindustry.com/rss/topic/2632-news.xml"],
-    "sections": [],
-    "country": "United States",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
-  },
-  {
-    "name": "FoodDive Beverages",
-    "url": "https://www.fooddive.com/topic/beverage/",
-    "rss": ["https://www.fooddive.com/feeds/topic/beverage/"],
-    "sections": [],
-    "country": "United States",
-    "region": "Mundial",
-    "language": "en",
-    "trade": true
+    "name": "Estrategia & Negocios",
+    "url": "https://www.estrategiaynegocios.net/",
+    "rss": ["https://www.estrategiaynegocios.net/feed/"],
+    "sections": ["https://www.estrategiaynegocios.net/empresasnegocios/"],
+    "country": "Pan-LATAM",
+    "region": "Regional",
+    "language": "es",
+    "trade": false
   }
 ]

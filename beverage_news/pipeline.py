@@ -12,6 +12,7 @@ from .discovery import discover_candidates
 from .extraction import extract_article_item
 from .filtering import filter_candidates
 from .llm import summarize_articles, semantic_dedup_articles, review_dashboard
+from .source_discovery import record_and_suggest
 from .ranking import build_extraction_queue, rank_items, select_balanced_articles
 from .validation import validate_articles
 from .web import generate_web
@@ -303,9 +304,9 @@ def run_pipeline(
     logger.info("Pipeline: extraction queue has %d items", len(extraction_queue))
     extracted_articles, extraction_diagnostics = _extract_ranked_selection(extraction_queue, target_count, min_per_region, min_body_chars)
     logger.info("Pipeline: extracted %d / %d articles", extraction_diagnostics["extracted"], extraction_diagnostics["attempted"])
-    extracted_articles, validation_diagnostics = validate_articles(extracted_articles)
+    validated_articles, validation_diagnostics = validate_articles(extracted_articles)
     articles, selection_diagnostics = select_balanced_articles(
-        extracted_articles,
+        validated_articles,
         target_count=target_count,
         min_per_region=min_per_region,
         region_targets=region_targets,
@@ -316,9 +317,9 @@ def run_pipeline(
     articles, n_merged_semantic = semantic_dedup_articles(articles)
     n_merged = n_merged_jaccard + n_merged_semantic
     # 3. Enforce per-company cap (max 5 articles per company)
-    articles, was_capped = _apply_company_cap(articles, extracted_articles, target_count)
+    articles, was_capped = _apply_company_cap(articles, validated_articles, target_count)
     # 4. Refill gaps freed by dedup and cap
-    articles = _refill_from_pool(articles, extracted_articles, target_count)
+    articles = _refill_from_pool(articles, validated_articles, target_count)
     _write_json("articles.json", [asdict(article) for article in articles])
 
     # 5. LLM summarization — only articles without a cached summary
@@ -326,9 +327,10 @@ def run_pipeline(
 
     # 6. QA validation + automated correction loop (max 1 extra pass)
     qa_result = review_dashboard(articles)
-    articles, was_qa_corrected = _apply_company_cap(articles, extracted_articles, target_count)
+    articles, was_qa_corrected = _apply_company_cap(articles, validated_articles, target_count)
     if was_qa_corrected:
-        logger.info("QA correction pass: re-summarizing new articles and re-validating")
+        logger.info("QA correction pass: refilling gaps and re-summarizing new articles")
+        articles = _refill_from_pool(articles, validated_articles, target_count)
         articles, extra_llm = summarize_articles(articles)
         llm_diagnostics["generated"] += extra_llm.get("generated", 0)
         llm_diagnostics["cached"] += extra_llm.get("cached", 0)
@@ -349,6 +351,7 @@ def run_pipeline(
     _write_json("diagnostics.json", diagnostics)
 
     _update_published_urls(articles)
+    record_and_suggest(articles)  # Log domains not in sources.json for future review
     generate_web(articles, diagnostics=diagnostics, output_path=output_path, qa=qa_result)
     logger.info("Pipeline: done — %d articles published to %s", len(articles), output_path)
     return articles, diagnostics

@@ -25,8 +25,35 @@ TRADE_SOURCES = {
     "Harpers Wine & Spirit",
     "Food Navigator",
     "Food Navigator USA",
+    "Food Navigator Asia",
     "Wines of Argentina",
     "Coviar",
+    # New global trade
+    "BevNET",
+    "Decanter",
+    "Food Business News",
+    "Craft Brewing Business",
+    "Drinks International",
+    "New Food Magazine",
+    "Winsight Grocery Business",
+    "Packaging World",
+    "The Morning Advertiser",
+    "Supermarket News",
+    "The Grocer",
+    "Progressive Grocer",
+    "Convenience Store News",
+    "Beer & Brewer",
+    "The Canopy",
+    "Meininger's Wine Business International",
+    "Global Beer Network",
+    "Wine Industry Advisor",
+    "Brewers Journal",
+    "Packaging Digest",
+    "Bodegas de Argentina",
+    "Vinos y Negocios",
+    "Mundo Alimentario",
+    "Mercado e Consumo",
+    "Canal Food Brasil",
 }
 INDUSTRY_RELEVANCE_TERMS = {
     "resultados", "ventas", "ingresos", "ganancias", "facturacion",
@@ -242,9 +269,11 @@ def validate_article(article):
     if not title:
         return False, "empty_title"
 
-    # Reject articles whose URL was never resolved out of Google News
+    # If URL was never resolved from Google News, only reject if content is also insufficient.
+    # If extraction got good title+body, keep it — Google News may be the only source.
     if _GOOGLE_NEWS_URL_PATTERN.match(article.url or ""):
-        return False, "unresolved_google_news_url"
+        if len(body) < 150 and len(summary) < 60:
+            return False, "unresolved_google_news_url"
 
     # Reject sensational/non-executive content unless it's a trade source or has a company match
     is_protected = article.source in TRADE_SOURCES or bool(article.companies)

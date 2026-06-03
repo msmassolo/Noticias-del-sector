@@ -125,13 +125,28 @@ def _classify_and_summarize_one(client, title: str, body: str) -> tuple:
         messages=[{"role": "user", "content": user_content}],
     )
     raw = response.content[0].text.strip()
+    # Strip markdown code fences that the model occasionally adds despite instructions
+    clean = raw
+    if clean.startswith("```"):
+        lines = clean.split("\n")
+        # Drop first line (```json / ```) and last ``` if present
+        inner = lines[1:-1] if len(lines) > 2 and lines[-1].strip().startswith("```") else lines[1:]
+        clean = "\n".join(inner).strip()
     try:
-        result = json.loads(raw)
+        result = json.loads(clean)
         return bool(result.get("relevant")), result.get("summary", "")
     except Exception:
-        # If JSON parsing fails, treat as relevant and use raw text as summary
+        # Last resort: find a JSON object anywhere in the response
+        import re as _re
+        match = _re.search(r'\{[^{}]*"relevant"[^{}]*\}', clean, _re.DOTALL)
+        if match:
+            try:
+                result = json.loads(match.group())
+                return bool(result.get("relevant")), result.get("summary", "")
+            except Exception:
+                pass
         logger.warning("LLM classify JSON parse failed, treating as relevant: %r", raw[:80])
-        return True, raw
+        return True, ""
 
 
 def classify_and_summarize(articles: list) -> tuple[list, dict]:
@@ -261,12 +276,14 @@ def semantic_dedup_articles(articles: list) -> tuple:
     except Exception:
         return articles, 0
 
+    time.sleep(_CALL_DELAY_SECONDS)  # Respect rate limit before batch call
+
     from collections import defaultdict
     groups = defaultdict(list)
     for idx, article in enumerate(articles):
+        # Group only by company — same event can have different segment tags
         company = article.companies[0] if article.companies else "__none__"
-        segment = article.segments[0] if article.segments else "__none__"
-        groups[(company, segment)].append(idx)
+        groups[company].append(idx)
 
     # Collect only groups with 2+ articles
     active_groups = {k: v for k, v in groups.items() if len(v) >= 2}
@@ -276,10 +293,10 @@ def semantic_dedup_articles(articles: list) -> tuple:
     # Build one prompt with all groups
     lines = []
     group_keys = []  # ordered list matching prompt sections
-    for (company, segment), indices in active_groups.items():
+    for company, indices in active_groups.items():
         group_id = len(group_keys)
-        group_keys.append(((company, segment), indices))
-        lines.append(f"[Grupo {group_id}: {company} / {segment}]")
+        group_keys.append((company, indices))
+        lines.append(f"[Grupo {group_id}: {company}]")
         for local_i, global_i in enumerate(indices):
             lines.append(f"  {group_id}.{local_i + 1}. {articles[global_i].title}")
 
@@ -319,7 +336,7 @@ def semantic_dedup_articles(articles: list) -> tuple:
             def _resolve(ref):
                 parts = str(ref).split(".")
                 g_id, l_pos = int(parts[0]), int(parts[1]) - 1
-                _, indices = group_keys[g_id]
+                _company, indices = group_keys[g_id]
                 return indices[l_pos]
 
             keep_global = _resolve(pair[0])

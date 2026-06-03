@@ -397,14 +397,31 @@ def discover_from_google_news(companies, keywords, sources, diagnostics, max_que
 
     candidates = []
     search_queries = []
+    consecutive_timeouts = 0
+    MAX_CONSECUTIVE_TIMEOUTS = 3  # Abort early if Google is blocking (e.g. CI IPs)
+
     for region, region_key, queries in query_groups:
+        if consecutive_timeouts >= MAX_CONSECUTIVE_TIMEOUTS:
+            logger.warning(
+                "Google News: %d consecutive timeouts — aborting search discovery (likely IP-blocked)",
+                consecutive_timeouts,
+            )
+            break
         for query in queries:
+            if consecutive_timeouts >= MAX_CONSECUTIVE_TIMEOUTS:
+                break
             search_queries.append({"region": region, "query": query})
             rss_url = _google_news_url(query, region_key)
-            xml_text, status = fetch_text(rss_url)
+            # Use short timeout + no retries: if Google is blocked, fail fast (6s max vs 15s with retries)
+            xml_text, status = fetch_text(rss_url, timeout=6, retries=0)
             if not xml_text:
+                if status == "timeout":
+                    consecutive_timeouts += 1
+                else:
+                    consecutive_timeouts = 0  # non-timeout error, don't count toward abort
                 diagnostics["search_errors"].append({"region": region, "query": query, "reason": status})
                 continue
+            consecutive_timeouts = 0
             try:
                 root = ET.fromstring(xml_text)
             except ET.ParseError:
