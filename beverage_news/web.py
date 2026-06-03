@@ -143,7 +143,7 @@ def _article_html(article):
     translate_url = f"https://translate.google.com/translate?sl=auto&tl=es&u={escape(article['url'], quote=True)}"
     pub_iso = escape(article["published"] or "", quote=True)
 
-    # Build extra source links for merged duplicates
+    # Build extra source links for merged duplicates (skip unresolved google.com URLs)
     merged_sources = article.get("merged_sources") or []
     extra_links = ""
     for entry in merged_sources:
@@ -151,6 +151,8 @@ def _article_html(article):
             src_name, src_url = entry.split("|||", 1)
         else:
             src_name, src_url = "Fuente alternativa", entry
+        if "news.google.com" in src_url or "google.com/url" in src_url:
+            continue  # Skip unresolved Google News redirects — not a real source link
         extra_links += (
             f'<a class="alt-source-btn" href="{escape(src_url, quote=True)}" '
             f'target="_blank" rel="noopener noreferrer">'

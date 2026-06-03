@@ -216,6 +216,20 @@ def _is_historical_body(body):
     return recent_hits == 0
 
 
+# Reject articles whose URL was never resolved from Google News
+_GOOGLE_NEWS_URL_PATTERN = re.compile(r"https?://(news\.google\.com|www\.google\.com/url)", re.IGNORECASE)
+
+# Patterns in the TITLE that flag sensational/non-executive content
+# (only applied to non-trade, non-company-match articles)
+_SENSATIONAL_TITLE_PATTERNS = (
+    re.compile(r"\b(serpiente|culebra|alacrán|escorpión|insecto|cucaracha|rata|ratón|roedor|animal)\b", re.IGNORECASE),
+    re.compile(r"\b(video[:\s]|viral|mira\s+c[oó]mo|impactante|increíble|sorprendente|descubrieron)\b", re.IGNORECASE),
+    re.compile(r"\bcanasta\s+(de\s+)?(precios|básica|2025|2026)\b", re.IGNORECASE),
+    re.compile(r"\b(oferta|descuento|precio\s+hist[oó]rico|liquidaci[oó]n)\b", re.IGNORECASE),
+    re.compile(r"\b(receta|c[oó]mo\s+preparar|cu[aá]nto\s+cuesta|por\s+qu[eé]\s+tomar|beneficios\s+de\s+tomar)\b", re.IGNORECASE),
+)
+
+
 def validate_article(article):
     """
     Valida un artículo post-extracción.
@@ -227,6 +241,17 @@ def validate_article(article):
 
     if not title:
         return False, "empty_title"
+
+    # Reject articles whose URL was never resolved out of Google News
+    if _GOOGLE_NEWS_URL_PATTERN.match(article.url or ""):
+        return False, "unresolved_google_news_url"
+
+    # Reject sensational/non-executive content unless it's a trade source or has a company match
+    is_protected = article.source in TRADE_SOURCES or bool(article.companies)
+    if not is_protected:
+        for pattern in _SENSATIONAL_TITLE_PATTERNS:
+            if pattern.search(title):
+                return False, f"sensational_non_executive:{title[:60]!r}"
 
     # Doble check de antigüedad post-extracción: el candidato puede haber pasado
     # el filtro de 36h en filtering.py con published="" (listings de sección sin

@@ -26,22 +26,31 @@ logger = logging.getLogger(__name__)
 LLM_CACHE_FILE = Path("data/llm_cache.json")
 MAX_BODY_FOR_LLM = 6000  # chars sent to LLM (enough context, lower cost)
 
-_SYSTEM_PROMPT = """\
-You are an editorial analyst for a beverage industry news monitor used by executives at a \
-consumer goods company in Argentina. Your output is always in Spanish.
+_CLASSIFY_AND_SUMMARIZE_SYSTEM = """\
+Sos un filtro editorial para un briefing de inteligencia ejecutiva de la industria de bebidas \
+de consumo masivo, usado por directivos de una empresa argentina.
 
-Your task: given the title, summary, and article body of a news article, produce a \
-comprehensive editorial summary that explains:
-- What happened (the main fact or announcement)
-- Who is involved (companies, brands, executives if mentioned)
-- Why it matters to the beverage industry (market impact, strategic relevance, implications)
-- Any relevant numbers, markets, or timeframes mentioned
+Tu tarea es DOBLE en una sola respuesta:
+1. Determinar si la noticia es RELEVANTE para este briefing ejecutivo.
+2. Si es relevante, generar un resumen ejecutivo en español.
 
-Write 3–5 sentences. Be direct and informative — this replaces the original article summary \
-in a daily briefing read by busy executives. Do not use bullet points. Do not start with \
-"El artículo..." or "Esta nota...". Write as if you are explaining the news to a colleague.
+RELEVANTE: M&A, adquisiciones, IPO, resultados financieros, lanzamientos de productos, \
+estrategia corporativa, regulación, cambios de distribución, sustentabilidad con impacto \
+estratégico, innovación en packaging, tendencias de mercado con implicancias de negocio, \
+movimientos de competidores clave, tecnología aplicada a la industria.
 
-Respond with ONLY the summary text — no preamble, no labels, no markdown.
+NO RELEVANTE: videos virales, incidentes con animales en plantas, promociones de \
+supermercados no vinculadas a bebidas, recetas, consejos de salud, deportes, \
+entretenimiento, noticias sensacionalistas sin valor estratégico, precios de canastas \
+básicas sin análisis de industria, contenido de lifestyle.
+
+Respondé ÚNICAMENTE con un JSON válido, sin texto adicional ni markdown:
+- Si es relevante: {"relevant": true, "summary": "3-5 oraciones ejecutivas en español"}
+- Si no es relevante: {"relevant": false, "summary": ""}
+
+El resumen debe explicar: qué pasó, quién está involucrado, por qué importa a la \
+industria de bebidas, cifras o mercados clave. Directo, sin "El artículo dice..." ni \
+"Esta nota...". Como si le explicaras a un colega ejecutivo.
 """
 
 _client = None
@@ -92,43 +101,58 @@ def _save_cache(cache: dict) -> None:
 
 # ── Core summarization ─────────────────────────────────────────────────────────
 
-def _summarize_one(client, title: str, summary: str, body: str) -> str:
-    """Single API call. Uses prompt caching on the system prompt."""
-    user_content = f"Title: {title}\n\nSummary: {summary or '(none)'}\n\nBody:\n{body[:MAX_BODY_FOR_LLM]}"
+MAX_EXCERPT_FOR_LLM = 500  # chars — enough for relevance+summary, 12x cheaper than 6000
+
+
+def _classify_and_summarize_one(client, title: str, body: str) -> tuple:
+    """
+    Single Haiku call: classify relevance AND generate summary if relevant.
+    Input uses only title + first 500 chars of body (cheap).
+    Returns (is_relevant: bool, summary: str).
+    """
+    excerpt = body[:MAX_EXCERPT_FOR_LLM] if body else ""
+    user_content = f"Título: {title}\n\nFragmento: {excerpt or '(sin cuerpo)'}"
     response = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=400,
+        max_tokens=350,
         system=[
             {
                 "type": "text",
-                "text": _SYSTEM_PROMPT,
+                "text": _CLASSIFY_AND_SUMMARIZE_SYSTEM,
                 "cache_control": {"type": "ephemeral"},
             }
         ],
         messages=[{"role": "user", "content": user_content}],
     )
-    return response.content[0].text.strip()
+    raw = response.content[0].text.strip()
+    try:
+        result = json.loads(raw)
+        return bool(result.get("relevant")), result.get("summary", "")
+    except Exception:
+        # If JSON parsing fails, treat as relevant and use raw text as summary
+        logger.warning("LLM classify JSON parse failed, treating as relevant: %r", raw[:80])
+        return True, raw
 
 
-def summarize_articles(articles: list) -> tuple[list, dict]:
+def classify_and_summarize(articles: list) -> tuple[list, dict]:
     """
-    Generates LLM summaries for a list of Article objects.
-    Returns (articles_with_llm_summary, diagnostics).
-
-    Articles where the API call fails keep their original summary.
-    If ANTHROPIC_API_KEY is not set, returns articles unchanged with a warning.
+    Classify each article for executive relevance AND generate summary in one Haiku call.
+    Uses only title + first 500 chars of body — ~67% cheaper than full summarization.
+    Irrelevant articles are removed from the returned list.
+    Returns (relevant_articles_with_summaries, diagnostics).
     """
     diagnostics = {
         "attempted": 0,
         "cached": 0,
         "generated": 0,
+        "rejected_not_relevant": 0,
         "failed": 0,
         "skipped_no_key": False,
     }
 
     api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if not api_key:
-        logger.warning("LLM summarization skipped: ANTHROPIC_API_KEY not set")
+        logger.warning("LLM classify+summarize skipped: ANTHROPIC_API_KEY not set")
         diagnostics["skipped_no_key"] = True
         for article in articles:
             article.llm_summary = ""
@@ -144,11 +168,20 @@ def summarize_articles(articles: list) -> tuple[list, dict]:
 
     cache = _load_cache()
     today = date.today().isoformat()
+    relevant = []
 
     for article in articles:
         key = _cache_key(article.url)
         if key in cache:
-            article.llm_summary = cache[key]["summary"]
+            cached = cache[key]
+            # Cache stores whether article was relevant
+            if not cached.get("relevant", True):
+                diagnostics["cached"] += 1
+                diagnostics["rejected_not_relevant"] += 1
+                logger.debug("LLM cached rejection: %r", article.title[:60])
+                continue
+            article.llm_summary = cached.get("summary", "")
+            relevant.append(article)
             diagnostics["cached"] += 1
             continue
 
@@ -156,24 +189,37 @@ def summarize_articles(articles: list) -> tuple[list, dict]:
         if diagnostics["attempted"] > 1:
             time.sleep(_CALL_DELAY_SECONDS)
         try:
-            result = _summarize_one(client, article.title, article.summary, article.body)
-            article.llm_summary = result
-            cache[key] = {"summary": result, "date": today, "url": article.url}
-            diagnostics["generated"] += 1
-            logger.debug("LLM summary generated for: %r", article.title[:60])
+            is_relevant, summary = _classify_and_summarize_one(client, article.title, article.body)
+            cache[key] = {"relevant": is_relevant, "summary": summary, "date": today, "url": article.url}
+            if is_relevant:
+                article.llm_summary = summary
+                relevant.append(article)
+                diagnostics["generated"] += 1
+                logger.debug("LLM classified RELEVANT: %r", article.title[:60])
+            else:
+                diagnostics["rejected_not_relevant"] += 1
+                logger.info("LLM rejected (not executive-relevant): %r", article.title[:60])
         except Exception as exc:
-            logger.warning("LLM summary failed for %r: %s", article.url, exc)
+            logger.warning("LLM classify failed for %r: %s", article.url, exc)
             article.llm_summary = ""
+            relevant.append(article)  # Keep on failure to avoid losing content
             diagnostics["failed"] += 1
 
     _save_cache(cache)
     logger.info(
-        "LLM summarization: %d generated, %d from cache, %d failed",
+        "LLM classify+summarize: %d relevant, %d rejected, %d from cache, %d failed (of %d input)",
         diagnostics["generated"],
+        diagnostics["rejected_not_relevant"],
         diagnostics["cached"],
         diagnostics["failed"],
+        len(articles),
     )
-    return articles, diagnostics
+    return relevant, diagnostics
+
+
+# Keep summarize_articles as alias for backward compatibility
+def summarize_articles(articles: list) -> tuple[list, dict]:
+    return classify_and_summarize(articles)
 
 
 # ── Semantic deduplication ────────────────────────────────────────────────────
@@ -199,29 +245,11 @@ No extra text, no markdown.
 """
 
 
-def _find_semantic_duplicates_in_group(client, titles: list) -> list:
-    """Single Haiku call: which titles in this list cover the same event?"""
-    numbered = "\n".join(f"{i + 1}. {title}" for i, title in enumerate(titles))
-    try:
-        response = client.messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=150,
-            system=[{"type": "text", "text": _DEDUP_SYSTEM, "cache_control": {"type": "ephemeral"}}],
-            messages=[{"role": "user", "content": f"Identify duplicate events:\n\n{numbered}"}],
-        )
-        raw = response.content[0].text.strip()
-        result = json.loads(raw)
-        return result if isinstance(result, list) else []
-    except Exception as exc:
-        logger.warning("Semantic dedup group call failed: %s", exc)
-        return []
-
-
 def semantic_dedup_articles(articles: list) -> tuple:
     """
-    Detect articles covering the same event via LLM title comparison.
-    Groups articles by primary company + primary segment, then asks Haiku
-    to identify duplicate events within each group.
+    Detect articles covering the same event via ONE batch Haiku call.
+    Groups articles by primary company + primary segment, then sends ALL
+    groups in a single request — no per-group API calls.
     Returns (deduplicated_articles, n_merged).
     """
     api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
@@ -233,7 +261,6 @@ def semantic_dedup_articles(articles: list) -> tuple:
     except Exception:
         return articles, 0
 
-    # Group by (primary_company, primary_segment)
     from collections import defaultdict
     groups = defaultdict(list)
     for idx, article in enumerate(articles):
@@ -241,52 +268,83 @@ def semantic_dedup_articles(articles: list) -> tuple:
         segment = article.segments[0] if article.segments else "__none__"
         groups[(company, segment)].append(idx)
 
-    # Only process groups with 2+ articles
-    merge_into = {}  # global_idx → global_idx of article to merge into
-    call_count = 0
-    for (company, segment), indices in groups.items():
-        if len(indices) < 2:
-            continue
-        titles = [articles[i].title for i in indices]
-        if call_count > 0:
-            time.sleep(_CALL_DELAY_SECONDS)
-        dup_groups = _find_semantic_duplicates_in_group(client, titles)
-        call_count += 1
-        logger.debug(
-            "Semantic dedup: %s / %s → %d articles, %d dup groups found",
-            company, segment, len(titles), len(dup_groups),
-        )
-        for dup_group in dup_groups:
-            if len(dup_group) < 2:
-                continue
-            keep_global = indices[dup_group[0] - 1]  # 1-based → 0-based → global
-            for local_one_based in dup_group[1:]:
-                merge_global = indices[local_one_based - 1]
-                if merge_global not in merge_into:
-                    merge_into[merge_global] = keep_global
-
-    if not merge_into:
-        logger.info("Semantic dedup: no duplicates found across %d groups checked", call_count)
+    # Collect only groups with 2+ articles
+    active_groups = {k: v for k, v in groups.items() if len(v) >= 2}
+    if not active_groups:
         return articles, 0
 
-    # Apply merges: keep first occurrence, fold duplicates into merged_sources
+    # Build one prompt with all groups
+    lines = []
+    group_keys = []  # ordered list matching prompt sections
+    for (company, segment), indices in active_groups.items():
+        group_id = len(group_keys)
+        group_keys.append(((company, segment), indices))
+        lines.append(f"[Grupo {group_id}: {company} / {segment}]")
+        for local_i, global_i in enumerate(indices):
+            lines.append(f"  {group_id}.{local_i + 1}. {articles[global_i].title}")
+
+    prompt_body = "\n".join(lines)
+    user_msg = (
+        "Identificá cuáles títulos dentro de cada grupo cubren el MISMO evento específico.\n\n"
+        + prompt_body
+        + "\n\nRespondé SOLO con JSON: lista de listas con los IDs de duplicados. "
+        "Formato: [[\"0.1\",\"0.3\"],[\"2.1\",\"2.2\"]] — "
+        "donde el primer número es el grupo y el segundo la posición. "
+        "Si no hay duplicados: []"
+    )
+
+    try:
+        response = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=300,
+            system=[{"type": "text", "text": _DEDUP_SYSTEM, "cache_control": {"type": "ephemeral"}}],
+            messages=[{"role": "user", "content": user_msg}],
+        )
+        raw = response.content[0].text.strip()
+        dup_pairs = json.loads(raw)
+    except Exception as exc:
+        logger.warning("Semantic dedup batch call failed: %s", exc)
+        return articles, 0
+
+    if not dup_pairs or not isinstance(dup_pairs, list):
+        logger.info("Semantic dedup: no duplicate events found (1 batch call)")
+        return articles, 0
+
+    # Apply merges
+    merge_into = {}
+    for pair in dup_pairs:
+        if not isinstance(pair, list) or len(pair) < 2:
+            continue
+        try:
+            def _resolve(ref):
+                parts = str(ref).split(".")
+                g_id, l_pos = int(parts[0]), int(parts[1]) - 1
+                _, indices = group_keys[g_id]
+                return indices[l_pos]
+
+            keep_global = _resolve(pair[0])
+            for other in pair[1:]:
+                merge_global = _resolve(other)
+                if merge_global != keep_global and merge_global not in merge_into:
+                    merge_into[merge_global] = keep_global
+        except (ValueError, IndexError):
+            continue
+
+    if not merge_into:
+        return articles, 0
+
     n_merged = 0
     result = []
     for idx, article in enumerate(articles):
         if idx in merge_into:
-            keep_idx = merge_into[idx]
-            kept = articles[keep_idx]
+            kept = articles[merge_into[idx]]
             kept.merged_sources.append(f"{article.source}|||{article.url}")
             n_merged += 1
-            logger.info(
-                "Semantic dedup merged (%s/%s): %r → %r",
-                article.companies[:1], article.segments[:1],
-                article.title[:55], kept.title[:55],
-            )
+            logger.info("Semantic dedup merged: %r → %r", article.title[:55], kept.title[:55])
         else:
             result.append(article)
 
-    logger.info("Semantic dedup: %d articles merged into existing ones (%d API calls)", n_merged, call_count)
+    logger.info("Semantic dedup: %d merged (1 batch API call)", n_merged)
     return result, n_merged
 
 
