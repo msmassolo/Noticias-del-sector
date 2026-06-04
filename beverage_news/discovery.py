@@ -684,10 +684,12 @@ def discover_candidates(companies, keywords, sources, enable_search=True, max_se
             )
             candidates.extend(cse_results)
             logger.info("Discovery: %d candidates from Google CSE", len(candidates) - before_search)
-            # Only fall back to Google News RSS if quota was exhausted mid-run
-            use_rss_fallback = quota_exhausted
+            # Fall back to Google News RSS if quota exhausted OR CSE returned nothing (errors, blocks, etc.)
+            use_rss_fallback = quota_exhausted or len(cse_results) == 0
             if quota_exhausted:
                 logger.info("Discovery: CSE quota exhausted — falling back to Google News RSS for this run")
+            elif len(cse_results) == 0:
+                logger.info("Discovery: CSE returned 0 candidates — falling back to Google News RSS")
 
         if use_rss_fallback:
             before_rss = len(candidates)
@@ -697,7 +699,7 @@ def discover_candidates(companies, keywords, sources, enable_search=True, max_se
     if diagnostics["source_errors"]:
         logger.warning("Discovery: %d RSS source errors", len(diagnostics["source_errors"]))
     if diagnostics["search_errors"]:
-        logger.warning("Discovery: %d Google News errors", len(diagnostics["search_errors"]))
+        logger.warning("Discovery: %d search errors (CSE + Google News)", len(diagnostics["search_errors"]))
 
     diagnostics["candidates_found"] = len(candidates)
     logger.info("Discovery: %d total candidates found", len(candidates))
