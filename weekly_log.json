@@ -369,8 +369,8 @@
   ],
   "2026-06-04": [
     {
-      "title": "La IA transforma la forma en que los fabricantes de bebidas alcohólicas elaboran sus bebidas",
-      "summary": "La inteligencia artificial se posiciona como herramienta estratégica en la industria de bebidas alcohólicas, aplicada a desarrollo de productos, formulación de sabores, pronóstico de demanda y relació",
+      "title": "Hijos de Rivera eleva su facturación a 945 millones tras abrir Morás y reforzar su negocio exterior",
+      "summary": "Corporación Hijos de Rivera (productor español clave de bebidas) reportó facturación de 945 millones de euros en 2025, crecimiento de 6,7% interanual impulsado por la nueva fábrica Morás en Arteixo, e",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -379,8 +379,50 @@
       "region": "Local"
     },
     {
+      "title": "La IA transforma la forma en que los fabricantes de bebidas alcohólicas elaboran sus bebidas",
+      "summary": "La IA está transformando la industria de bebidas alcohólicas más allá de gestión administrativa, integrándose en formulación de sabores, previsión de demanda y relación con consumidor. Bodegas, cervec",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Coca-Cola trae Estrella Galicia a Argentina para entrar en el mundo de las cervezas (pero nadie comunica nada de esa marca) - InfoNegocios",
+      "summary": "Coca-Cola ingresa al mercado cervecero argentino mediante la introducción de Estrella Galicia, marca de origen español. Este movimiento representa una diversificación estratégica de la compañía hacia ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "El vino se compra con señales, no solo con sabor",
+      "summary": "Estudios de comportamiento del consumidor revelan que la decisión de compra de vino va más allá del precio y variedad, siendo influenciada por familiaridad de marca, diseño de etiqueta, tipo de cierre",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Trivento, la filial argentina de Concha y Toro, aspira a liderar exportaciones de vino de ese país - MSN",
+      "summary": "Trivento, subsidiaria argentina de Concha y Toro, busca posicionarse como líder en exportaciones de vino argentino. Esta estrategia de la principal empresa vitivinícola chilena refleja una apuesta por",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Taiwán endurece el etiquetado del vino importado",
-      "summary": "Taiwán implementó nuevas regulaciones de etiquetado para bebidas alcohólicas importadas, afectando directamente los vinos exportados. La National Treasury Administration exige especificaciones en añad",
+      "summary": "Taiwán implementó nuevas regulaciones de etiquetado para bebidas alcohólicas importadas, establecidas por la National Treasury Administration. Los requisitos incluyen especificaciones sobre añada, ind",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -389,18 +431,8 @@
       "region": "Local"
     },
     {
-      "title": "Por primera vez en Argentina el vino se analiza con neurociencia | Coviar",
-      "summary": "Argentina realiza por primera vez un estudio de neuromarketing para analizar respuestas emocionales de consumidores frente al vino argentino, combinando cata sensorial con tecnología de reconocimiento",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Local"
-    },
-    {
       "title": "Empaquetadora de Nestlé y otras multinacionales alista expansión industrial en Chorrillos",
-      "summary": "Emusa Perú, proveedor de empaques flexibles para Nestlé, PepsiCo, Mondelez y Bimbo, anuncia expansión industrial en su planta de Chorrillos con inversión en maquinaria y mejoras tecnológicas. Esta dec",
+      "summary": "Emusa Perú, proveedora de empaques flexibles para Nestlé, PepsiCo, Mondelez y Bimbo, anuncia expansión industrial en Chorrillos con inversión en nueva maquinaria y mejoras tecnológicas. Esta iniciativ",
       "companies": [
         "PepsiCo"
       ],
@@ -411,7 +443,7 @@
     },
     {
       "title": "TERRANOBLE y Tetra Pak: la alianza que apuesta por revolucionar el envase sustentable en México",
-      "summary": "TerraNOBLE se alió con Tetra Pak para desarrollar soluciones de envases sustentables en México, cerrando una búsqueda de tres décadas del productor de bebidas. La alianza representa una inversión estr",
+      "summary": "Terranoble y Tetra Pak formalizaron una alianza estratégica en México para desarrollar soluciones de envase sustentable. La iniciativa busca revolucionar el packaging en la industria de bebidas a trav",
       "companies": [
         "Tetra Pak"
       ],
@@ -422,7 +454,7 @@
     },
     {
       "title": "La otra factura de la inflación",
-      "summary": "En mayo se registró deflación en alimentos y bebidas no alcohólicas (-1.76%) y transporte (-0.26%) en Perú, según el INEI. Estos dos segmentos concentran el 36% de la canasta de consumo, generando un ",
+      "summary": "En mayo, los precios de alimentos y bebidas no alcohólicas cayeron 1.76% respecto a abril en Perú, revirtiendo la tendencia inflacionaria de meses anteriores. Este movimiento tiene impacto significati",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -431,7 +463,7 @@
     },
     {
       "title": "Disaronno Group completes Amaro Averna acquisition",
-      "summary": "Disaronno Group completó la adquisición de Amaro Averna y Zedda Piras de Campari Group por €100 millones, consolidando su portafolio de licores italianos premium. La operación, anunciada en diciembre ",
+      "summary": "Disaronno Group completó la adquisición de Amaro Averna y Zedda Piras de Campari Group por €100 millones, seis meses después del anuncio inicial. Esta transacción fortalece el portafolio de licores it",
       "companies": [
         "Campari Group"
       ],
@@ -443,7 +475,7 @@
     },
     {
       "title": "Jack Daniel’s Tennessee Apple sales pass 1m cases",
-      "summary": "Jack Daniel's Tennessee Apple alcanzó 1.1 millones de cajas en 2025, superando el millón de casos por primera vez con un crecimiento del 16.8% interanual. Este hito de Brown-Forman refleja el éxito de",
+      "summary": "Jack Daniel's Tennessee Apple de Brown-Forman alcanzó 1.1 millones de cajas en 2025, creciendo 16.8% respecto a 2024 y superando por primera vez el umbral del millón de cajas. Este producto flavored s",
       "companies": [
         "Brown-Forman"
       ],
@@ -455,7 +487,7 @@
     },
     {
       "title": "Rémy Cointreau targets €100m profit boost",
-      "summary": "Rémy Cointreau, productor francés de espirituosos premium, lanzó un plan de recuperación de tres años para agregar €100 millones a su ganancia operativa para 2028/29, en respuesta a la tercera caída a",
+      "summary": "Rémy Cointreau, grupo francés de destilados, presentó un plan de recuperación de tres años con objetivo de agregar €100M al profit operativo para 2028/29, tras reportar la tercera caída anual consecut",
       "companies": [
         "Remy Cointreau"
       ],
@@ -467,7 +499,7 @@
     },
     {
       "title": "BuzzBallz goes global for the FIFA World Cup",
-      "summary": "BuzzBallz, marca de cócteles RTD, lanza una estrategia de marketing global vinculada a la Copa Mundial de Fútbol con un carrito bar de edición limitada y cócteles temáticos. La iniciativa busca captur",
+      "summary": "BuzzBallz lanza una estrategia de marketing experiencial alrededor del Mundial de Fútbol con un carrito bar edición limitada temático y cócteles de edición especial. La iniciativa busca capitalizar el",
       "companies": [
         "Sazerac Company"
       ],
@@ -478,8 +510,8 @@
       "region": "Mundial"
     },
     {
-      "title": "818 Tequila kicks off summer push after Sazerac deal",
-      "summary": "818 Tequila, marca impulsada por Kendall Jenner, lanzó su campaña \"Best Summer Ever\" tras la inversión estratégica de Sazerac, un distribuidor alcohólico global de primer nivel. Esta alianza represent",
+      "title": "Kendall Jenner’s 818 Tequila debuts summer campaign",
+      "summary": "818 Tequila, codirigida por Kendall Jenner, lanzó su primera campaña tras la inversión estratégica de Sazerac en abril. El acuerdo incluye financiamiento no revelado y asociación exclusiva de distribu",
       "companies": [
         "Sazerac Company"
       ],
@@ -491,7 +523,7 @@
     },
     {
       "title": "Nestlé snaps up smart food brand Yfood",
-      "summary": "Nestlé adquirió las acciones restantes de Yfood, marca de alimentos inteligentes, a sus fundadores por monto no revelado. La incorporación refuerza la nueva división de Nutrición de Nestlé junto a mar",
+      "summary": "Nestlé adquirió las acciones restantes de Yfood de sus fundadores Benjamin Kremer y Noel Bollmann por monto no revelado. La marca se integra a la nueva división de Nutrición de Nestlé junto con Boost ",
       "companies": [
         "Danone"
       ],
@@ -503,7 +535,7 @@
     },
     {
       "title": "Keurig Dr Pepper’s meteoric rise in energy offers blueprint for CPG category expansion",
-      "summary": "Keurig Dr Pepper logró posicionarse como jugador relevante en energizantes en apenas 4 años, alcanzando participación de mercado de doble dígito desde prácticamente cero en 2021. El portafolio de ener",
+      "summary": "Keurig Dr Pepper logró posicionarse como actor relevante en la categoría de bebidas energéticas en solo cuatro años mediante una estrategia disciplinada de «build-buy-partner», alcanzando cerca de dob",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -515,7 +547,7 @@
     },
     {
       "title": "Treasury cuts brands in bid to revive growth",
-      "summary": "Treasury Wine Estates (mayor productor de vino australiano) implementa plan estratégico \"Ascent\" reduciendo su portafolio de 76 a menos de 30 marcas, enfocándose en vinos de lujo con mayor potencial d",
+      "summary": "Treasury Wine Estates (TWE), el principal productor de vinos australiano, implementa su plan estratégico 'Ascent' reduciendo su portafolio de 76 a menos de 30 marcas para enfocarse en el segmento prem",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -527,7 +559,7 @@
     },
     {
       "title": "Ballantine’s tees up Malbon collab",
-      "summary": "Pernod Ricard lanza una colaboración limitada entre Ballantine's y la marca lifestyle Malbon en Corea del Sur, con dos whiskies premium (17 y 21 años) y una colección de ropa. La estrategia apunta a c",
+      "summary": "Pernod Ricard lanza colaboración entre Ballantine's y la marca de lifestyle Malbon en Corea del Sur, incluyendo ediciones limitadas de whisky (17 y 21 años) y colección de ropa co-branded. La estrateg",
       "companies": [
         "Pernod Ricard"
       ],
@@ -539,7 +571,7 @@
     },
     {
       "title": "Court: Boston Beer Owes Ardagh $191M in Aluminum Can Contract Dispute | Brewbound",
-      "summary": "Un tribunal estadounidense condenó a Boston Beer Company a pagar $191 millones (sentencia de $175.5M más $15.5M de intereses) por incumplimiento de contrato de compra mínima de latas de aluminio con A",
+      "summary": "Boston Beer Company fue condenada a pagar $191 millones a Ardagh Metal Packaging por incumplimiento de contrato de compra mínima de latas de aluminio (2021-2025). Esta sentencia refleja un conflicto e",
       "companies": [
         "Boston Beer Company"
       ],
@@ -551,7 +583,7 @@
     },
     {
       "title": "Heineken loses latest appeal in Greek beer competition battle",
-      "summary": "Heineken pierde su último recurso en Holanda en una disputa antimonopolio con la cervecería macedónica Thrace Brewery por abuso de posición dominante en Grecia. La sentencia del tribunal supremo holan",
+      "summary": "Heineken pierde su último recurso ante la Corte Suprema holandesa en un litigio por competencia desleal en Grecia. La sentencia allanó el camino para una resolución final de daños en Ámsterdam, con Ma",
       "companies": [
         "Heineken"
       ],
@@ -561,8 +593,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Constellation Brands stock (US21036P1084): June earnings setup after Goldman keeps Buy - AD HOC NEWS",
+      "summary": "Goldman Sachs mantiene recomendación de compra en Constellation Brands previo a resultados de junio. Constellation es el mayor productor de cerveza en México y distribuidor de Corona, marca líder glob",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Clean Simple Eats Broadens National Retail Presence with Walmart and Costco Launches",
-      "summary": "Clean Simple Eats (CSE) expande su distribución nacional con lanzamientos en Walmart y Costco, llegando a 2,000 tiendas Walmart. Este movimiento es estratégicamente relevante para la industria de bebi",
+      "summary": "Clean Simple Eats expande su presencia nacional mediante lanzamientos en Walmart y Costco, alcanzando 2,000 tiendas Walmart en los últimos meses. Este movimiento de distribución masiva en dos de los m",
       "companies": [
         "Walmart",
         "Costco"
@@ -574,7 +618,7 @@
     },
     {
       "title": "Distribution: Recess Makes Club Debut as ‘Modern Unwind’ Space Heats Up - BevNET.com",
-      "summary": "Recess, marca de bebidas sin alcohol, inició distribución en canal club a través de Costco con un formato de 15-pack de sus cócteles Zero Proof. Este movimiento refleja la expansión estratégica hacia ",
+      "summary": "Recess, marca de bebidas sin alcohol, ingresa al canal club mediante una asociación con Costco con un formato de 15 unidades de sus cócteles sin prueba. Este movimiento refleja la expansión de marcas ",
       "companies": [
         "Costco"
       ],
@@ -584,8 +628,19 @@
       "region": "Mundial"
     },
     {
+      "title": "The Coca-Cola Company stock (US1912161007): shares steady after recent dividend and earnings updates - AD HOC NEWS",
+      "summary": "Coca-Cola mantiene estabilidad accionaria tras la publicación de sus últimos resultados y anuncio de dividendos. La noticia refleja la fortaleza financiera del principal competidor global en bebidas n",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Maison Pommery’s shares rise on back of Henkel merger talks",
-      "summary": "Maison Pommery negocia exclusivamente con Henkell International (subsidiaria de Henkell Freixenet) para que esta asuma el control accionario de la casa champañera de 190 años. La operación busca crear",
+      "summary": "Maison Pommery negocia exclusivamente con Henkell International (filial de Henkell Freixenet) para que esta se convierta en accionista mayoritario, generando una suba de cotización. La operación crear",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -594,8 +649,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Coca-Cola Plans HCCH IPO in India by 2027: What It Means for the Beverage Industry - ICICI Direct",
+      "summary": "Coca-Cola planifica el lanzamiento a bolsa (IPO) de su subsidiaria Hindustan Coca-Cola Beverages (HCCH) en India para 2027, movimiento que fortalecería su posición de mercado en el segundo país más po",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "RTD startup Bevi targets Gen Z with new SachetCan",
-      "summary": "Bevi, startup RTD, lanzó SachetCan: latas de 220ml de vodka con jugo (12% ABV) acompañadas de sachets con cafeína y ingredientes funcionales. El formato modular apunta a Gen Z como sistema de bebida i",
+      "summary": "Bevi, startup de RTD, lanzó SachetCan, un sistema modular que combina bebidas alcohólicas listas para beber (220ml de vodka con jugo a 12% ABV) con sachets de polvo funcional efervescente (50mg cafeín",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -605,7 +672,7 @@
     },
     {
       "title": "Cointreau unveils chilli-infused variant as spicy margarita demand heats up | FoodBev Media",
-      "summary": "Cointreau lanzó Cointreau Spicy, una variante de su licor de naranja infusionado con chilli, en el mercado británico. La innovación responde a la creciente demanda de margaritas y cócteles picantes en",
+      "summary": "Cointreau lanzó Cointreau Spicy, una variante infusionada con chilli de su licor de naranja, en el Reino Unido respondiendo a la demanda creciente de margaritas picantes. Esta innovación de producto r",
       "companies": [
         "Remy Cointreau"
       ],
@@ -615,8 +682,44 @@
       "region": "Mundial"
     },
     {
+      "title": "Brown Forman earnings ahead: Can spirits maker weather demand slump? - Investing.com",
+      "summary": "Brown-Forman reportará resultados en un contexto de debilitamiento de la demanda global de bebidas espirituosas. La compañía enfrenta presiones por consumo reducido en mercados clave, particularmente ",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage Company (TAP) Raises Debt After Impressive Q1 Results - Yahoo Finance",
+      "summary": "Molson Coors emitió deuda tras reportar resultados positivos en Q1, evidenciando confianza de mercado en su desempeño operativo. Este movimiento refleja estrategia de refinanciamiento y fortalecimient",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Boston Beer (SAM)ʼs Litigation Windfall Clarify or Cloud Its True Earnings Power? - simplywall.st",
+      "summary": "Boston Beer (SAM) registró un beneficio extraordinario por litigio que impacta sus resultados financieros reportados, generando interrogantes sobre la rentabilidad operativa real de la compañía. Este ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Muscle Milk undergoes it’s ‘biggest transformation’ with Pro lineup",
-      "summary": "Muscle Milk, marca de PepsiCo (portafolio Gatorade), lanza su línea Pro con una reformulación estratégica de sus bebidas proteicas para realinearse con la evolución del mercado de proteínas. La transf",
+      "summary": "Muscle Milk, marca de PepsiCo, lanza su línea Pro con una reformulación estratégica de sus batidos de proteína para alinearse con la evolución del mercado de bebidas proteicas. La transformación respo",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -625,68 +728,8 @@
       "region": "Mundial"
     },
     {
-      "title": "RTDs overtake vodka in global value",
-      "summary": "Los RTD (ready-to-drink) superaron al vodka en valor global en 2025, creciendo 3% en volumen según IWSR. La categoría registra un CAGR de 8% (2019-2025) con proyección de 2% anual hasta 2030. El creci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Tito’s Homemade Vodka embarks on first ever UK campaign",
-      "summary": "Tito's Handmade Vodka, marca texana de vodka premium, lanza su primera campaña de expansión en Reino Unido con activaciones en retail, trade y hostelería durante el verano. La inversión incluye más de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The big interview: Bryan Cranston and Aaron Paul tackle Tequila",
-      "summary": "Bryan Cranston y Aaron Paul, a través de su marca Dos Hombres, expanden su presencia en el segmento de tequila y mezcal. Los fundadores abordan la percepción de marcas de celebridades en la industria ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Outshinery Releases Mid-Year Visual Scorecard for Beer, Cider and RTD Marketing Teams",
-      "summary": "Outshinery, empresa especializada en imagenología 3D fotorrealista para bebidas, lanzó un diagnóstico gratuito (Mid-Year Visual Scorecard) para evaluar la calidad y readiness de activos visuales en eq",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Next Century Spirits on building the Tito’s of rum",
-      "summary": "Next Century Spirits adquirió Blue Chair Bay Rum de Kenny Chesney en marzo 2025, sumándose a seis marcas previamente compradas a Southwest Spirits & Wine en abril 2024. La estrategia de la empresa con",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Draft Nearly 10% of 2025 Beer Volume, Highest Level Since COVID-19 Pandemic, per Beer Institute Packaging Mix Report | Brewbound",
-      "summary": "Draft beer alcanzó casi 10% del volumen total en 2025, el nivel más alto desde la pandemia de COVID-19, según el informe de mix de empaque de la Beer Institute. Este dato refleja la recuperación soste",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kendall Jenner’s 818 Tequila debuts summer campaign",
-      "summary": "818 Tequila, marca co-fundada por Kendall Jenner, lanzó su primera campaña desde la inversión estratégica de Sazerac en abril. El acuerdo incluyó inversión financiera no revelada y asociación exclusiv",
+      "title": "818 Tequila kicks off summer push after Sazerac deal",
+      "summary": "818 Tequila, marca de Kendall Jenner, lanzó la campaña \"Best Summer Ever\" tras la inversión estratégica de Sazerac. El acuerdo representa un hito significativo en la consolidación de la marca en su qu",
       "companies": [
         "Sazerac Company"
       ],
@@ -698,7 +741,7 @@
     },
     {
       "title": "Rémy Cointreau turnaround strategy to boost profits by €100m",
-      "summary": "Rémy Cointreau implementa plan de transformación de cinco puntos para recuperar rentabilidad, con target de €100m adicionales en ganancias operativas en tres años. El CEO Franck Marilly prioriza react",
+      "summary": "Rémy Cointreau implementa plan de transformación para generar €100M en creación de valor hacia 2028/29, con expectativa de retorno al crecimiento orgánico sostenible en 2026/27. El grupo de bebidas al",
       "companies": [
         "Remy Cointreau"
       ],
@@ -709,7 +752,7 @@
     },
     {
       "title": "Treasury Wine Estates to cull over 40 brands in portfolio rationalisation",
-      "summary": "Treasury Wine Estates anuncia la racionalización de su portafolio eliminando más de 40 marcas para concentrar recursos en tres 'marcas poder' (Penfolds, DAOU, Matua) y siete 'héroes regionales'. Esta ",
+      "summary": "Treasury Wine Estates, mayor productor de vinos australiano, eliminará más de 40 marcas de su portafolio para concentrar inversión en tres 'marcas potencia' (Penfolds, DAOU, Matua) y siete 'héroes reg",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -721,12 +764,24 @@
     },
     {
       "title": "Dutch Supreme Court rejects Heineken appeal in Greek beer market damages case | FoodBev Media",
-      "summary": "La Corte Suprema holandesa rechazó la apelación de Heineken y su filial griega (Athenian Brewery) en un caso de daños por competencia en el mercado cervecero griego iniciado por la cervecería Macedoni",
+      "summary": "La Corte Suprema holandesa rechazó el recurso de apelación de Heineken y su filial griega Athenian Brewery en un caso de daños por competencia desleal presentado por el fabricante griego Macedonian Th",
       "companies": [
         "Heineken"
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown Forman earnings ahead: Can spirits maker weather demand slump? By Investing.com - Investing.com South Africa",
+      "summary": "Brown-Forman, principal productor global de bebidas espirituosas, enfrenta presión por caída en la demanda mientras se acerca a la publicación de resultados. La noticia analiza la capacidad de la empr",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     }
