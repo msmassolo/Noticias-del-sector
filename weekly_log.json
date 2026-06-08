@@ -1443,5 +1443,257 @@
       ],
       "region": "Mundial"
     }
+  ],
+  "2026-06-08": [
+    {
+      "title": "El 63% de los consumidores cambia su compra de bebidas y alimentos por la subida de precios",
+      "summary": "El 63% de consumidores españoles modificó sus hábitos de compra de bebidas y alimentos por la inflación de precios, según el Barómetro de consumo de AINIA. La tendencia refleja una compra más racional",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Madrid acoge el 10 de junio el primer barómetro de sostenibilidad del vino español",
+      "summary": "Se presentará el primer Barómetro de Sostenibilidad del sector vitivinícola español el 10 de junio en Madrid, elaborado por Cajamar y la Federación Española del Vino. El estudio proporciona una evalua",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "¿Alivio para el vino de Argentina? Las exportaciones crecen 8,9% en mayo - LM Neuquén",
+      "summary": "Las exportaciones de vino argentino crecieron 8,9% en mayo, señalando una recuperación en un sector estratégico para el país. Este crecimiento es relevante para el sector de bebidas alcohólicas de exp",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Dueño de Riccadonna y Aperol se asocia con embotellador local de Pepsi: CBC y su nueva ‘fórmula’",
+      "summary": "Diageo (propietario de Riccadonna y Aperol) se asocia con CBC, embotellador multilatino con 140 años de trayectoria y presencia en 20+ países. CBC opera en Perú desde hace 11 años embotellando Pepsi, ",
+      "companies": [
+        "PepsiCo",
+        "Campari Group"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "La fórmula de Concha y Toro para esquivar la crisis del vino y escalar al tercer lugar mundial por valor de ventas - Ex-Ante",
+      "summary": "Concha y Toro, empresa de bebidas alcohólicas, implementó una estrategia que le permitió posicionarse como tercer productor mundial por valor de ventas, sorteando la crisis del sector vinícola. La est",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Trivento, la filial argentina de Concha y Toro, aspira a liderar exportaciones de vino de ese país - MSN",
+      "summary": "Trivento, filial argentina de la bodega chilena Concha y Toro, busca posicionarse como líder en las exportaciones de vino argentino. La estrategia refleja la apuesta de un competidor regional importan",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Bodega Aurrera reducirá 30% su catálogo para disminuir costos y mantener precios bajos",
+      "summary": "Bodega Aurrera implementará reducción del 30% de su catálogo de productos para optimizar costos operativos y mantener política de precios competitivos. La estrategia de racionalización de SKUs busca m",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Hennessy brings luxury to casual drinking occasions",
+      "summary": "Hennessy (LVMH) lanzó Hennessy Very Special Cocktails, una línea de bebidas listas para consumir que expande su presencia en el segmento de cócteles premium. Esta estrategia busca democratizar el acce",
+      "companies": [
+        "LVMH Wines & Spirits"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo India to close manufacturing unit in Hyderabad",
+      "summary": "Diageo India (United Spirits) cierra su planta de manufactura en Hyderabad antes de agosto de 2026, que generaba el 2% de sus ingresos. La compañía transferirá la licencia de excisa a un tercero aún n",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Bull Case For Coca-Cola (KO) Could Change Following Planned India Bottler IPO Move – Learn Why - simplywall.st",
+      "summary": "Coca-Cola planea una salida a bolsa de su embotellador en India, movimiento que podría alterar significativamente la narrativa alcista de la compañía. Este IPO de su operación embotelladora en uno de ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Did Adding McDonald’s Marketer Morgan Flatley to the Board Just Shift Constellation Brands' (STZ) Investment Narrative? - simplywall.st",
+      "summary": "Constellation Brands incorporó a Morgan Flatley, ejecutivo de marketing de McDonald's, a su directorio. Este movimiento sugiere un giro estratégico en la narrativa de inversión de STZ, uno de los mayo",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage stock (US60871R2094): earnings, dividend and brand strategy in focus - AD HOC NEWS",
+      "summary": "Molson Coors Beverage reporta resultados financieros y estrategia de marcas bajo escrutinio del mercado. La noticia aborda desempeño de earnings, política de dividendos y posicionamiento de portfolio ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "A Look At Boston Beer Company (SAM) Valuation After US$191 Million Legal Judgment And Earnings Impact - simplywall.st",
+      "summary": "Boston Beer Company (SAM) enfrentó un fallo legal de USD 191 millones con impacto directo en resultados financieros, afectando su valuación. Este tipo de contingencias legales impacta la rentabilidad ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken Report : Changing Consumer Tastes Push UK Pub Beer Sales to £14bn - Food & Beverage Outlook",
+      "summary": "El mercado de cerveza en pubs británicos alcanzó £14 mil millones, impulsado por cambios en las preferencias de los consumidores. El informe de Heineken evidencia una reconfiguración del consumo de ce",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Teremana debuts limited design series",
+      "summary": "Teremana Tequila (marca del actor Dwayne Johnson) lanzó su primera serie limitada de diseño llamada The Craft Editions, con botellas rediseñadas para sus variantes blanco y reposado. El blanco present",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks And 2 Other UK Stocks That May Be Priced Below Their Estimated Value - Yahoo Finance",
+      "summary": "Fevertree Drinks, empresa líder en mezcladores premium para bebidas alcohólicas, aparece subvaluada según análisis de Yahoo Finance. La noticia señala oportunidades de inversión en el mercado UK, rele",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola launches BodyArmor Fit as it branches out in the 'better-for-you' category (KO:NYSE) - Seeking Alpha",
+      "summary": "Coca-Cola lanzó BodyArmor Fit, expandiendo su portafolio en la categoría de bebidas 'better-for-you', segmento de alto crecimiento impulsado por demanda de consumidores por opciones más saludables. El",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The death of premiumisation?",
+      "summary": "Análisis crítico sobre la estrategia de premiumización que ha dominado la industria de bebidas alcohólicas y no alcohólicas durante una década. La premiumización fue utilizada para compensar caídas vo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kirin Holdings, which has grown into beer for more than 100 years, is speeding up its transformation.. - 매일경제",
+      "summary": "Kirin Holdings está acelerando su transformación estratégica tras más de 100 años enfocado en cerveza. La diversificación del portafolio y la reorientación del modelo de negocio responden a cambios en",
+      "companies": [
+        "Kirin Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RWC Asset Management LLP Grows Stock Position in Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "RWC Asset Management LLP aumentó su posición accionaria en Molson Coors Beverage Company (TAP), uno de los mayores productores de cerveza en Norteamérica. Este movimiento de un gestor de activos insti",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Hotel Chocolat targets growing premium iced beverage market with Coconut Macaroon launch | FoodBev Media",
+      "summary": "Hotel Chocolat lanza Coconut Macaroon, su primer chocolate para beber premium en formato iced, dirigido al segmento de bebidas frías de alto valor. Este movimiento refleja la convergencia hacia bebida",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Yah Yah Yah Enters Premium RTD Coffee with Clean-Label, Honey-Sweetened Line",
+      "summary": "Yah Yah Yah, marca heritage de capital femenino y minoritario, lanza línea de café RTD premium en verano 2026 con propuesta diferenciada en clean-label y beneficios funcionales de salud digestiva. La ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors’ New Debt Raise And Dividend Hike Might Change The Case For Investing In TAP - simplywall.st",
+      "summary": "Molson Coors elevó su endeudamiento y aumentó el dividendo, señalando cambios en su estructura de capital y política de retorno a accionistas. Esta movida impacta la evaluación de riesgo financiero y ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    }
   ]
 }
