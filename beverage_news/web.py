@@ -203,7 +203,7 @@ def _article_html(article):
             <p class="summary">{escape(displayed_summary)}</p>
             <div class="card-actions">
                 <a class="original-btn" href="{escape(article['url'], quote=True)}" target="_blank" rel="noopener noreferrer">Leer nota original</a>
-                <a class="translate-btn" href="{translate_url}" target="_blank" rel="noopener noreferrer">Ver en español</a>
+                {"" if article.get("language") == "es" else f'<a class="translate-btn" href="{translate_url}" target="_blank" rel="noopener noreferrer">Ver en español</a>'}
                 {extra_links}
             </div>
             <details>
@@ -303,7 +303,7 @@ def _sections_html(article_dicts):
             <section class="topic-section" data-topic="{escape(topic, quote=True)}">
                 <div class="section-heading">
                     <h2 style="border-left-color:{topic_color}">{escape(_label_topic(topic))}</h2>
-                    <span>{len(items)} NOTICIAS</span>
+                    <span>{len(items)} {"NOTICIA" if len(items) == 1 else "NOTICIAS"}</span>
                 </div>
                 <div class="grid">
                     {cards}
@@ -607,20 +607,6 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None, 
             border-left-color: var(--accent) !important;
             color: var(--accent);
         }}
-        .health-pill {{
-            display: inline-block;
-            padding: 1px 7px;
-            border-radius: 4px;
-            color: #fff;
-            font-size: 10px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
-        }}
-        .health-detail {{
-            color: var(--muted);
-            font-size: 12px;
-        }}
         .topic-section {{
             margin-top: 32px;
         }}
@@ -780,45 +766,6 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None, 
             background: var(--surface);
             color: var(--muted);
             text-align: center;
-        }}
-        .qa-block {{
-            margin-top: 16px;
-            padding: 14px 16px;
-            border: 1px solid var(--accent);
-            border-radius: 10px;
-            background: linear-gradient(135deg, #f0f7f5 0%, #ffffff 100%);
-        }}
-        .qa-header {{
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-bottom: 8px;
-        }}
-        .qa-label {{
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            color: var(--accent);
-            letter-spacing: 0.05em;
-        }}
-        .qa-score {{
-            font-size: 11px;
-            font-weight: 700;
-            color: #fff;
-            border-radius: 4px;
-            padding: 2px 7px;
-        }}
-        .qa-briefing {{
-            margin: 0;
-            color: var(--text);
-            font-size: 14px;
-            line-height: 1.5;
-        }}
-        .qa-warnings {{
-            margin: 8px 0 0;
-            padding-left: 18px;
-            color: #b45309;
-            font-size: 13px;
         }}
         /* Area profiles */
         .area-profiles-row {{
@@ -1002,10 +949,10 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None, 
         <div class="filter-panel">
             <div class="area-profiles-row">
                 <span class="area-profiles-label">Vista por área</span>
-                <button class="area-btn" type="button" data-area="finanzas" style="--area-color:#b45309">Finanzas</button>
-                <button class="area-btn" type="button" data-area="marketing" style="--area-color:#7c3aed">Marketing</button>
-                <button class="area-btn" type="button" data-area="supply_chain" style="--area-color:#0e5f57">Supply Chain</button>
-                <button class="area-btn" type="button" data-area="ventas" style="--area-color:#1d4ed8">Ventas / Comercial</button>
+                <button class="area-btn" type="button" data-area="finanzas">Finanzas</button>
+                <button class="area-btn" type="button" data-area="marketing">Marketing</button>
+                <button class="area-btn" type="button" data-area="supply_chain">Supply Chain</button>
+                <button class="area-btn" type="button" data-area="ventas">Ventas / Comercial</button>
             </div>
             {area_briefings_html}
             <p class="filter-panel-title" style="margin-top:14px">Filtrar noticias</p>
@@ -1020,7 +967,7 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None, 
         </div>
     </header>
     <main>
-        <p class="result-count" id="count"></p>
+        <p class="result-count" id="count">{len(article_dicts)} NOTICIAS</p>
         <div id="highlights">
             {highlights_html}
         </div>
@@ -1082,7 +1029,7 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None, 
                 const matchesFilters = Array.from(activeFilters.entries()).every(([filter, value]) => cardHas(card, filter, value));
                 const show = matchesSearch && matchesFilters;
                 card.hidden = !show;
-                if (show && topicCards.includes(card)) visible += 1;
+                if (show) visible += 1;
             }});
             sections.forEach((section) => {{
                 const sectionCards = Array.from(section.querySelectorAll(".news-card"));
@@ -1190,7 +1137,6 @@ def generate_web(articles, diagnostics=None, output_path="index.html", qa=None, 
         }});
 
         // Reset area when clear button clicked
-        const _origClearListener = clear.onclick;
         clear.addEventListener("click", () => {{
             if (activeArea) {{
                 activeArea = null;
