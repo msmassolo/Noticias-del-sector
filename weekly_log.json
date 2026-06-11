@@ -1700,7 +1700,7 @@
   "2026-06-11": [
     {
       "title": "Arca Continental alista cambios en planta de Pucusana: la jugada de la embotelladora de Coca-Cola",
-      "summary": "Arca Continental, principal embotelladora de Coca-Cola en Perú, implementa mejoras operacionales en su planta Pucusana de Lima, enfocándose en optimizar su logística mediante modificaciones en el tall",
+      "summary": "Arca Continental, embotelladora de Coca-Cola en Perú, implementa cambios operacionales en su planta de Pucusana (Lima) enfocados en mejorar la eficiencia logística. El proyecto incluye modificaciones ",
       "companies": [
         "The Coca-Cola Company",
         "Arca Continental"
@@ -1713,7 +1713,7 @@
     },
     {
       "title": "Monster Energy acelera su expansión global con una estrategia adaptada a cada mercado",
-      "summary": "Monster Energy implementa una estrategia de expansión global diferenciada por mercado, incluyendo ajustes de precios regionales y desarrollo de submarcas para mercados emergentes como India y China. E",
+      "summary": "Monster Energy implementa una estrategia de expansión global con ajustes regionales, incluyendo pricing diferenciado y submarcas para penetrar mercados emergentes como India y China. Esta aproximación",
       "companies": [
         "Monster Beverage"
       ],
@@ -1725,7 +1725,7 @@
     },
     {
       "title": "Cerveja de baixa caloria é principal aposta da AB InBev para Copa nos EUA",
-      "summary": "AB InBev posiciona Michelob Ultra, su cerveza de baja calorías, como eje de su estrategia de marketing para la Copa del Mundo en EE.UU., reflejando un reposicionamiento corporativo hacia segmentos de ",
+      "summary": "AB InBev posiciona a Michelob Ultra, su cerveza baja en calorías, como eje central de su estrategia para la Copa del Mundo en EE.UU., reflejando una tendencia global de la industria hacia productos má",
       "companies": [
         "AB InBev"
       ],
@@ -1735,18 +1735,29 @@
       "region": "Regional"
     },
     {
-      "title": "Precios más claros: las claves de la medida que propone el gobierno para facilitar la compra en el supermercado",
-      "summary": "El gobierno argentino propuso en su Ley de Competitividad una medida que obliga a publicar precios de referencia unitarios en supermercados, facilitando la comparación entre marcas y tamaños de envase",
-      "companies": [],
+      "title": "Heineken 0.0 e Strava: Parceria amplia Finish Line Club com experiência pós-corrida em bares parceiros - Vivente Andante",
+      "summary": "Heineken 0.0 se asoció con Strava, la plataforma líder de fitness, para expandir su programa Finish Line Club, integrando experiencias post-entreno en bares asociados. La iniciativa posiciona la cerve",
+      "companies": [
+        "Heineken"
+      ],
       "segments": [
-        "consumer_market_trends",
         "distribution_execution"
       ],
       "region": "Regional"
     },
     {
+      "title": "Copa sem álcool? Busca por cerveja zero dispara quase 1.000% no Mercado Livre",
+      "summary": "Las búsquedas de cerveza sin alcohol en Mercado Libre crecieron 985% durante mayo de 2026 comparado con la Copa 2022, según datos de Meli Trends. Este incremento exponencial refleja un cambio estructu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Champagne growers and houses rethink old partnerships",
-      "summary": "Productores de Champagne están reestructurando sus relaciones con viticultores ante cambios climáticos y preferencias del consumidor. Casas como Laurent-Perrier profundizan colaboraciones para asegura",
+      "summary": "Productores de Champagne están restructurando sus relaciones con viticultores ante el cambio climático y evolución de preferencias de consumidores. Casas como Laurent-Perrier profundizan colaboracione",
       "companies": [
         "Nestle Waters"
       ],
@@ -1756,32 +1767,31 @@
       "region": "Mundial"
     },
     {
-      "title": "High Noon Transfusion",
-      "summary": "High Noon lanzó su primer limited flavor drop, 'Transfusion', una seltzer alcohólica premium con vodka real y jugo (uva, lima y jengibre). La innovación refuerza la posición de High Noon como líder en",
+      "title": "Boston Beer Challenges $175M Court Award in Ardagh Can Contract Dispute | Brewbound",
+      "summary": "Boston Beer impugna un fallo de $175.5M a favor de Ardagh Metal Group en un litigio por incumplimiento de contrato de suministro de latas. La disputa refleja tensiones críticas en la cadena de suminis",
       "companies": [
-        "E. & J. Gallo Winery"
+        "Boston Beer Company"
       ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Aqua Glow appoints ex-Red Bull exec as CEO",
-      "summary": "Aqua Glow, marca de bebidas de colágeno con gas, designó a Daniel Beatty, ex ejecutivo de Red Bull, como CEO. La marca ya logró distribución en retailers estratégicos como Boots, Holland & Barrett, WH",
+      "title": "PEPSI® GLOBAL LAUNCHES PEPSI 'HOUSE OF TREATS' A NEW AWAY FROM HOME EXPERIENTIAL BEVERAGE PLATFORM - TradingView",
+      "summary": "PepsiCo lanzó 'House of Treats', una plataforma experiencial de bebidas para el canal fuera del hogar (on-premise). La iniciativa representa una estrategia de diferenciación en el segmento de gastrono",
       "companies": [
-        "Red Bull",
-        "Danone"
+        "PepsiCo"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "marketing_innovation"
       ],
       "region": "Mundial"
     },
     {
       "title": "World Cup offers drinks trade a much-needed boost",
-      "summary": "El Mundial de Fútbol 2026 representa una oportunidad estratégica para empresas de bebidas alcohólicas en Reino Unido y América del Norte, impulsada por extensiones de horarios en bares e incremento en",
+      "summary": "Las empresas de bebidas en Reino Unido y América del Norte ven en el Mundial de Fútbol 2026 una oportunidad para impulsar ventas, con inversiones significativas en activaciones alrededor del torneo. A",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1790,8 +1800,18 @@
       "region": "Mundial"
     },
     {
+      "title": "What’s next for Impossibrew?",
+      "summary": "Impossibrew, marca británica de cerveza funcional sin alcohol, lanza nueva ronda de crowdfunding en Crowdcube para financiar expansión retail y aumentar inventario. La estrategia pivota desde ventas o",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Mother Root is UK’s fastest-growing drinks company",
-      "summary": "Mother Root, marca de 'espíritus' sin alcohol, fue reconocida como la empresa de bebidas de mayor crecimiento en el Reino Unido según el ranking 2026 de The Sunday Times 100. Este posicionamiento refl",
+      "summary": "Mother Root, marca de bebidas espirituosas sin alcohol, es reconocida como la empresa de bebidas de más rápido crecimiento en el Reino Unido según The Sunday Times 100 (2026). El ranking mide empresas",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1800,10 +1820,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Endeavour Group unveils new merchandise structure",
-      "summary": "Endeavour Group (distribuidor australiano de bebidas alcohólicas) implementó una reestructuración organizacional que integra la función de merchandising directamente en sus banners Dan Murphy's y BWS,",
+      "title": "F.X. Matt Brewing’s Fred Matt on Mid-Strength Beer and Generating Retail Energy; Plus, Changes Coming to GABF",
+      "summary": "F.X. Matt Brewing, cervecería de 138 años con sede en Utica, Nueva York, lanza nuevos productos estratégicos para 2026: Saranac Weekend Warrior (cerveza mid-strength de 3% ABV) y Right Coast Spirits I",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why dairy giants see growth in meal replacement brands",
+      "summary": "Los gigantes lácteos están adquiriendo marcas de sustitutos de comidas y nutrición completa: Danone compró Huel, mientras que Lactalis y Nestlé se movieron para adquirir The Protein Works del Reino Un",
       "companies": [
-        "Endeavour Group"
+        "Danone"
       ],
       "segments": [
         "consumer_market_trends"
@@ -1811,8 +1841,20 @@
       "region": "Mundial"
     },
     {
-      "title": "US RTD cocktails surge as category nears 80m cases",
-      "summary": "Los cócteles listos para beber (RTD) a base de spirits crecieron más de 10 millones de cajas en EE.UU. durante 2025, alcanzando casi 80 millones de cajas. El segmento es impulsado por formatos simples",
+      "title": "Brown-Forman Corp. stock (US1170431092): Spirits group updates outlook after latest quarterly result - AD HOC NEWS",
+      "summary": "Brown-Forman actualizó su outlook tras los resultados trimestrales recientes. Como uno de los mayores productores globales de destilados (Jack Daniel's, Woodford Reserve, entre otros), sus movimientos",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Shepherd Neame: ‘We saw an opportunity’ for Whitstable Bay 0.5%",
+      "summary": "Shepherd Neame, cervecería británica, lanzó Whitstable Bay 0.5%, una cerveza sin alcohol que se alinea con la tendencia global de bebidas bajas/sin alcohol. El producto incorpora nueva identidad visua",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1821,8 +1863,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Shepherd Neame: ‘We saw an opportunity’ for Whitstable Bay 0.5%",
-      "summary": "Shepherd Neame, cervecería británica, lanza Whitstable Bay 0.5%, una cerveza sin/baja alcohol que capitaliza la tendencia creciente del segmento. El nuevo producto incorpora innovación en formulación ",
+      "title": "US RTD cocktails surge as category nears 80m cases",
+      "summary": "La categoría de cócteles preparados (RTD) a base de destilados en EE.UU. creció más de 10 millones de cajas en 2025, alcanzando cerca de 80 millones de cajas totales. El crecimiento está impulsado por",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1832,7 +1874,7 @@
     },
     {
       "title": "Macallan debuts campaign with James and Jack Marsden",
-      "summary": "Edrington lanzó la campaña 'Drink of a Generation' para The Macallan, featuring al actor James Marsden y su hijo Jack, enfocada en single malts premium Sherry Oak de 25 y 30 años. La estrategia de mar",
+      "summary": "The Macallan (Edrington) lanzó la campaña 'Drink of a Generation' con los actores James y Jack Marsden para promover sus single malts premium Sherry Oak de 25 y 30 años. La estrategia de marketing de ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1842,7 +1884,7 @@
     },
     {
       "title": "Beverage Sales Rise Amid Memorial Day Holiday - BevNET.com",
-      "summary": "Las ventas de bebidas no alcohólicas crecieron 4.5% en dólares durante la segunda mitad de mayo, impulsadas por las celebraciones del Día de Conmemoración. Este fenómeno refleja la estacionalidad posi",
+      "summary": "Las ventas de bebidas no alcohólicas aceleraron en la segunda mitad de mayo con aumentos de 4,5% impulsados por las celebraciones del Memorial Day en EE.UU. Este patrón de demanda estacional refleja o",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1852,7 +1894,7 @@
     },
     {
       "title": "Uncrustables tops $1 billion as JM Smucker posts strong Q4",
-      "summary": "J.M. Smucker reportó que su marca Uncrustables superó los $1.000 millones en ventas en Q4, consolidándose como un producto estrella impulsado por inversión estratégica y ejecución disciplinada. Este h",
+      "summary": "La marca Uncrustables de J.M. Smucker superó los $1.000 millones en ventas anuales en Q4, consolidándose como un actor relevante en el segmento de snacks listos para consumir. Este hito refleja la est",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1861,79 +1903,11 @@
       "region": "Mundial"
     },
     {
-      "title": "El vino italiano resiste en casa mientras se enfría su negocio exterior",
-      "summary": "El vino italiano experimenta desaceleración en exportaciones mientras mantiene fortaleza en mercado interno, según Federvini. Las ventas externas enfrentan presión en 2026 con especial debilidad en Es",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Preocupante: el vino encadena su cuarto año de caída en Estados Unidos",
-      "summary": "El mercado vinícola estadounidense experimenta su cuarto año consecutivo de caída de ventas, con proyecciones pesimistas para 2026. El informe Winescape evidencia exceso de inventarios, debilitamiento",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Winemakers Co-op Launches Collaborative Wine-on-Tap Program",
-      "summary": "The Winemakers Co-Op en Nueva Jersey lanza un programa de vino en grifo (wine-on-tap), evaluando aceptación del consumidor, costos e impacto ambiental. La iniciativa busca validar un modelo de distrib",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Momo Kombucha invests in custom fermentation technology and new brewery to support growth | FoodBev Media",
-      "summary": "Momo Kombucha, marca de kombucha del Reino Unido, invierte en tecnología de fermentación personalizada y construye una nueva cervecería para escalar producción. La inversión en equipamiento propietari",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Emeny hails ‘healthy’ trading at Fuller’s",
-      "summary": "Fuller's, operador británico de pubs y bares, reportó resultados positivos para el período de 52 semanas terminado el 28 de marzo de 2026, con incrementos en ventas comparable en todos sus establecimi",
+      "title": "A Look At Monster Beverage (MNST) Valuation As International Growth And Margin Hopes Draw Attention - Yahoo Finance",
+      "summary": "Monster Beverage (MNST) está siendo analizado por su potencial de crecimiento internacional y mejora de márgenes operacionales. La compañía, líder en energizantes, atrae atención de inversores por su ",
       "companies": [
-        "Asahi Group"
+        "Monster Beverage"
       ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Low and no drinks fuel food and beverage dealmaking as Asia Pacific leads global M&A market",
-      "summary": "La demanda creciente de bebidas bajas en alcohol, sin alcohol y funcionales está impulsando M&A en el sector global de alimentos y bebidas, con Asia Pacífico liderando el mercado. Los inversores se en",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "VINOERA Launches Premium Non-Alcoholic Wine Collection for Luxury Hospitality",
-      "summary": "VINOERA lanzó una colección premium de vinos sin alcohol (hasta 0.5% ABV) dirigida al segmento de hotelería de lujo, con tres expresiones (Tinto, Sauvignon Blanc y Rosé). La innovación utiliza tecnolo",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El vino italiano resiste en facturación, pero se desploma un 30% en Estados Unidos",
-      "summary": "El vino italiano mantiene facturación en el mercado doméstico (+2,2% en H1 2026) a pesar de caída de volumen (-1%), indicando estrategia de premiumización exitosa en distribución masiva. Sin embargo, ",
-      "companies": [],
       "segments": [
         "consumer_market_trends",
         "financial_results"
@@ -1941,11 +1915,24 @@
       "region": "Mundial"
     },
     {
-      "title": "Alcohol spending in South Korea posts sharpest drop in seven years",
-      "summary": "El gasto en alcohol por hogar en Corea del Sur registró su caída más pronunciada en siete años durante Q1 2026, con un gasto promedio de 13,000 won mensuales. La contracción responde al cambio de pref",
-      "companies": [],
+      "title": "Brown‑Forman (BF.B) Valuation In Focus After Mixed Earnings, Cautious 2027 Guidance And Analyst Upgrade - simplywall.st",
+      "summary": "Brown-Forman reportó resultados mixtos con guidance cautelosa para 2027, generando volatilidad en valuación pese a upgrades de analistas. Como productor global de bebidas alcohólicas premium (Jack Dan",
+      "companies": [
+        "Brown-Forman"
+      ],
       "segments": [
-        "consumer_market_trends"
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev expands global agreement with FIFA ahead of history-making FIFA World Cup 2026™ - Retail Times",
+      "summary": "AB InBev amplía su acuerdo global con FIFA en preparación para el Mundial 2026, consolidando su posición como patrocinador oficial de la competencia. Esta expansión representa una oportunidad estratég",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
