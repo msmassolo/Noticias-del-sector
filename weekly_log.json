@@ -1,372 +1,4 @@
 {
-  "2026-06-03": [
-    {
-      "title": "Mahou consolida su liderazgo en los hogares españoles",
-      "summary": "Mahou mantiene su posición como cerveza líder en hogares españoles según Brand Footprint de Worldpanel by Numerator, consolidando su presencia en el top 20 de marcas de gran consumo. La compañía atrib",
-      "companies": [
-        "Mahou San Miguel"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Las bebidas de lujo se blindan ante la ola de falsificaciones",
-      "summary": "La industria global de bebidas alcohólicas enfrenta contracción de volumen (-2%) y valor (-4%) en 2025, mientras crece el problema de falsificaciones en vinos y destilados premium. Las bodegas y desti",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Kola Real: el secreto del éxito que superó a Coca-Cola en el Caribe",
-      "summary": "Kola Real (Industrias San Miguel) logró capturar el 50% del market share en gaseosas de República Dominicana, superando a Coca-Cola (21.2%) en 2012 tras invertir casi una década en expansión. Partiend",
-      "companies": [
-        "The Coca-Cola Company",
-        "AJE Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Empaquetadora de Nestlé y otras multinacionales alista expansión industrial en Chorrillos",
-      "summary": "Emusa Perú, proveedor de empaques flexibles para grandes multinacionales de bebidas y alimentos (Nestlé, PepsiCo, Mondelez, Bimbo), anuncia expansión de capacidades en su planta de Chorrillos mediante",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Campaña publicitaria de Coors Light: así convierten las cámaras térmicas el frío en un recurso de marketing",
-      "summary": "Coors Light ejecuta una campaña publicitaria innovadora mediante cámaras térmicas para materializar visualmente su atributo diferencial de frialdad, reforzando su posicionamiento histórico 'Cold As Th",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Walmart encuentra en China un nuevo motor de crecimiento: eCommerce ya representa la mitad del negocio",
-      "summary": "Walmart acelera su modelo de clubes en China integrando eCommerce, logrando que las ventas digitales representen el 50% del negocio. Esta estrategia híbrida de membresías + entregas ultrarrápidas es r",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "La otra factura de la inflación",
-      "summary": "En mayo, los precios de alimentos y bebidas no alcohólicas cayeron 1.76% en Perú respecto a abril, revirtiendo la tendencia inflacionaria de meses previos. Dado que este segmento representa el 36% del",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Interview: Vita Pop eyes US after building European base",
-      "summary": "Vita Pop, marca española de prebiotic soda funcional, acelera expansión hacia mercado estadounidense tras consolidarse en Europa. Fundada por Matus Vavercak (ex-Gutsy Captain kombucha) en marzo 2023, ",
-      "companies": [
-        "Poppi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Disaronno Group completes Amaro Averna acquisition",
-      "summary": "Disaronno Group completó la adquisición de Amaro Averna y Zedda Piras de Campari Group por €100 millones, cerrando un acuerdo anunciado seis meses atrás. La compra refuerza el portafolio de licores pr",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Coca-Cola Company readies listing of India bottler",
-      "summary": "The Coca-Cola Company prepara una oferta pública inicial (IPO) de su socio embotellador en India, Hindustan Coca-Cola Holdings (HCCH), planeada para 2025. A través de esta flotación, Coca-Cola reducir",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jack Daniel’s Tennessee Apple sales pass 1m cases",
-      "summary": "Jack Daniel's Tennessee Apple de Brown-Forman alcanzó 1.1 millones de cajas en 2025, creciendo 16.8% respecto a 2024 y superando por primera vez el umbral del millón de cajas. Este hito posiciona al p",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kendall Jenner’s 818 Tequila debuts summer campaign",
-      "summary": "818 Tequila, co-fundada por Kendall Jenner, lanzó su primera campaña tras la inversión estratégica de Sazerac en abril. La alianza incluyó inversión no revelada y un acuerdo exclusivo de distribución ",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nestlé snaps up smart food brand Yfood",
-      "summary": "Nestlé adquirió la totalidad de las acciones de Yfood, marca de alimentos inteligentes, a sus fundadores Benjamin Kremer y Noel Bollmann en operación de monto no revelado. La compra refuerza la nueva ",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Celsius eyeing overseas push for Alani Nu - Just Drinks",
-      "summary": "Celsius avanza con su estrategia de expansión internacional de Alani Nu, la marca de bebidas y snacks orientada a mujeres que adquirió el año pasado. La compañía está evaluando nuevos mercados para el",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Court: Boston Beer Owes Ardagh $191M in Aluminum Can Contract Dispute | Brewbound",
-      "summary": "Boston Beer Company fue condenada a pagar $191 millones totales ($175.5M de sentencia + $15.5M en intereses) a Ardagh Metal Packaging por incumplimiento de contrato de compra mínima de latas de alumin",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marketing: Danny Trejo Has a Baja Blast; Liquid I.V. Swings into Hollywood with Spider-Man - BevNET.com",
-      "summary": "Mountain Dew Baja Blast lanzó una campaña publicitaria nacional protagonizada por el actor Danny Trejo, buscando fortalecer su posicionamiento en el segmento de bebidas refrescantes. La campaña repres",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Court rejects Heineken appeal in Greece competition case - Just Drinks",
-      "summary": "La Corte Suprema holandesa rechazó la apelación de Heineken en un caso de competencia contra Macedonian Thrace Brewery en Grecia. Heineken y su subsidiaria griega Athenian Brewery enfrentan una conden",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac enters Tennessee whiskey category",
-      "summary": "Sazerac, propietaria de Buffalo Trace, lanzó su primer whiskey de Tennessee con la marca AJ Bond, resultado de la adquisición de una destilería en Newport en 2016. El movimiento permite a Sazerac comp",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cointreau caters to Spicy Marg trend",
-      "summary": "Cointreau lanza una expresión infusionada con chiles para capitalizar la tendencia de Margaritas Picantes en crecimiento, particularmente en el mercado UK. El nuevo producto, con 30% ABV, se posiciona",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Irn-Bru targets growth outside of Scotland with World Cup campaign",
-      "summary": "AG Barr, propietaria de Irn-Bru, lanza campaña publicitaria agresiva durante el Mundial para expandir presencia fuera de Escocia hacia Inglaterra y Gales. La estrategia reactiva su icónico jingle de l",
-      "companies": [
-        "AG Barr"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Clean Simple Eats Broadens National Retail Presence with Walmart and Costco Launches",
-      "summary": "Clean Simple Eats (CSE) expande su distribución nacional con lanzamientos en Walmart y Costco, alcanzando 2.000 tiendas Walmart adicionales. Este movimiento representa un hito estratégico en la penetr",
-      "companies": [
-        "Walmart",
-        "Costco"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nestlé CEO sanguine on margin as coffee, cocoa prices retreat",
-      "summary": "El CEO de Nestlé proyecta mejora en márgenes durante 2024-2025 gracias a la retracción de precios de café y cacao, dos commodities críticos para la industria de bebidas y alimentos. La estrategia corp",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How PepsiCo plans to grow a 220-year-old nut brand",
-      "summary": "PepsiCo está desarrollando una estrategia para revitalizar una marca de frutos secos con 220 años de historia, enfrentando el desafío de mantener relevancia en un mercado donde el patrimonio no garant",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How audio ads are behind food and drinks’ next sales boost",
-      "summary": "La publicidad de audio emerge como canal estratégico en la industria de bebidas y alimentos para conectar conciencia de marca con decisión de compra en entornos retail. Marcas globales adoptan audio c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Thailand extends alcohol sales from 11am to midnight",
-      "summary": "Tailandia amplió las ventanas horarias de venta de bebidas alcohólicas a 11:00-24:00, tras una prueba piloto exitosa de seis meses. La nueva regulación, firmada en mayo de 2026, aplica a minoristas au",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bodegas Muga-owner backs new non-alc wine brand Paragraph",
-      "summary": "Bodegas Muga, bodega española histórica, respalda el lanzamiento de Paragraph, una marca de vino sin alcohol que debuta en EE.UU., Reino Unido, España, Suiza e Islandia. El proyecto es liderado por el",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Spade's 'Approachable,' Anti-Functional Modern Soda Landed Walmart - BevNET.com",
-      "summary": "Spade, una marca de soda moderna, logró la distribución en Walmart, uno de los mayores retailers en establecer un segmento definido de 'modern soda'. El hallazgo valida la estrategia de posicionamient",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "RTD startup Bevi targets Gen Z with new SachetCan",
-      "summary": "Bevi lanzó SachetCan, un formato innovador de bebida RTD que combina latas de Journey Juice (220ml, vodka + frutas, 12% ABV) con sachets de polvo funcional efervescente (50mg cafeína). Se posiciona co",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Dutch Supreme Court rejects Heineken appeal in Greek beer market damages case | FoodBev Media",
-      "summary": "La Corte Suprema Holandesa rechazó el recurso de apelación de Heineken y su filial griega Athenian Brewery en un caso de daños por competencia antimonopolio llevado adelante por la cervecería griega M",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ste. Michelle to boost reach with Southern Glazer’s deal",
-      "summary": "Ste. Michelle, gigante vinícola de Washington, amplió su acuerdo de distribución con Southern Glazer's para que la división de exportaciones de este distribuidor estadounidense asuma la comercializaci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "818 Tequila kicks off summer push after Sazerac deal",
-      "summary": "818 Tequila, marca co-propiedad de Kendall Jenner, lanzó una campaña de verano tras recibir inversión estratégica de Sazerac, uno de los mayores distribuidores de bebidas alcohólicas globales. Este mo",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola explores 2027 listing of Indian bottling business | FoodBev Media",
-      "summary": "Coca-Cola analiza un potencial IPO de Hindustan Coca-Cola Holdings (HCCH), su mayor operación de embotellado en India, para 2027. Este movimiento permitiría liberar capital de uno de los mercados estr",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken loses latest appeal in Greek beer competition battle",
-      "summary": "Heineken perdió su última apelación ante la Corte Suprema holandesa en un litigio de competencia en Grecia, donde se le acusa de abuso de posición dominante. Macedonian Thrace Brewery busca indemnizac",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-06-04": [
     {
       "title": "Las exportaciones vitivinícolas argentinas: El vino a granel y el mosto lideran el avance en 2026 - El Zonda",
@@ -2061,6 +1693,259 @@
       ],
       "segments": [
         "company_news"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-06-11": [
+    {
+      "title": "Arca Continental alista cambios en planta de Pucusana: la jugada de la embotelladora de Coca-Cola",
+      "summary": "Arca Continental, principal embotelladora de Coca-Cola en Perú, implementa mejoras operacionales en su planta Pucusana de Lima, enfocándose en optimizar su logística mediante modificaciones en el tall",
+      "companies": [
+        "The Coca-Cola Company",
+        "Arca Continental"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Monster Energy acelera su expansión global con una estrategia adaptada a cada mercado",
+      "summary": "Monster Energy implementa una estrategia de expansión global diferenciada por mercado, incluyendo ajustes de precios regionales y desarrollo de submarcas para mercados emergentes como India y China. E",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Cerveja de baixa caloria é principal aposta da AB InBev para Copa nos EUA",
+      "summary": "AB InBev posiciona Michelob Ultra, su cerveza de baja calorías, como eje de su estrategia de marketing para la Copa del Mundo en EE.UU., reflejando un reposicionamiento corporativo hacia segmentos de ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Precios más claros: las claves de la medida que propone el gobierno para facilitar la compra en el supermercado",
+      "summary": "El gobierno argentino propuso en su Ley de Competitividad una medida que obliga a publicar precios de referencia unitarios en supermercados, facilitando la comparación entre marcas y tamaños de envase",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Champagne growers and houses rethink old partnerships",
+      "summary": "Productores de Champagne están reestructurando sus relaciones con viticultores ante cambios climáticos y preferencias del consumidor. Casas como Laurent-Perrier profundizan colaboraciones para asegura",
+      "companies": [
+        "Nestle Waters"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "High Noon Transfusion",
+      "summary": "High Noon lanzó su primer limited flavor drop, 'Transfusion', una seltzer alcohólica premium con vodka real y jugo (uva, lima y jengibre). La innovación refuerza la posición de High Noon como líder en",
+      "companies": [
+        "E. & J. Gallo Winery"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Aqua Glow appoints ex-Red Bull exec as CEO",
+      "summary": "Aqua Glow, marca de bebidas de colágeno con gas, designó a Daniel Beatty, ex ejecutivo de Red Bull, como CEO. La marca ya logró distribución en retailers estratégicos como Boots, Holland & Barrett, WH",
+      "companies": [
+        "Red Bull",
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "World Cup offers drinks trade a much-needed boost",
+      "summary": "El Mundial de Fútbol 2026 representa una oportunidad estratégica para empresas de bebidas alcohólicas en Reino Unido y América del Norte, impulsada por extensiones de horarios en bares e incremento en",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mother Root is UK’s fastest-growing drinks company",
+      "summary": "Mother Root, marca de 'espíritus' sin alcohol, fue reconocida como la empresa de bebidas de mayor crecimiento en el Reino Unido según el ranking 2026 de The Sunday Times 100. Este posicionamiento refl",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Endeavour Group unveils new merchandise structure",
+      "summary": "Endeavour Group (distribuidor australiano de bebidas alcohólicas) implementó una reestructuración organizacional que integra la función de merchandising directamente en sus banners Dan Murphy's y BWS,",
+      "companies": [
+        "Endeavour Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "US RTD cocktails surge as category nears 80m cases",
+      "summary": "Los cócteles listos para beber (RTD) a base de spirits crecieron más de 10 millones de cajas en EE.UU. durante 2025, alcanzando casi 80 millones de cajas. El segmento es impulsado por formatos simples",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Shepherd Neame: ‘We saw an opportunity’ for Whitstable Bay 0.5%",
+      "summary": "Shepherd Neame, cervecería británica, lanza Whitstable Bay 0.5%, una cerveza sin/baja alcohol que capitaliza la tendencia creciente del segmento. El nuevo producto incorpora innovación en formulación ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Macallan debuts campaign with James and Jack Marsden",
+      "summary": "Edrington lanzó la campaña 'Drink of a Generation' para The Macallan, featuring al actor James Marsden y su hijo Jack, enfocada en single malts premium Sherry Oak de 25 y 30 años. La estrategia de mar",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beverage Sales Rise Amid Memorial Day Holiday - BevNET.com",
+      "summary": "Las ventas de bebidas no alcohólicas crecieron 4.5% en dólares durante la segunda mitad de mayo, impulsadas por las celebraciones del Día de Conmemoración. Este fenómeno refleja la estacionalidad posi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Uncrustables tops $1 billion as JM Smucker posts strong Q4",
+      "summary": "J.M. Smucker reportó que su marca Uncrustables superó los $1.000 millones en ventas en Q4, consolidándose como un producto estrella impulsado por inversión estratégica y ejecución disciplinada. Este h",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El vino italiano resiste en casa mientras se enfría su negocio exterior",
+      "summary": "El vino italiano experimenta desaceleración en exportaciones mientras mantiene fortaleza en mercado interno, según Federvini. Las ventas externas enfrentan presión en 2026 con especial debilidad en Es",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Preocupante: el vino encadena su cuarto año de caída en Estados Unidos",
+      "summary": "El mercado vinícola estadounidense experimenta su cuarto año consecutivo de caída de ventas, con proyecciones pesimistas para 2026. El informe Winescape evidencia exceso de inventarios, debilitamiento",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Winemakers Co-op Launches Collaborative Wine-on-Tap Program",
+      "summary": "The Winemakers Co-Op en Nueva Jersey lanza un programa de vino en grifo (wine-on-tap), evaluando aceptación del consumidor, costos e impacto ambiental. La iniciativa busca validar un modelo de distrib",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Momo Kombucha invests in custom fermentation technology and new brewery to support growth | FoodBev Media",
+      "summary": "Momo Kombucha, marca de kombucha del Reino Unido, invierte en tecnología de fermentación personalizada y construye una nueva cervecería para escalar producción. La inversión en equipamiento propietari",
+      "companies": [],
+      "segments": [
+        "alternative_ingredients",
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Emeny hails ‘healthy’ trading at Fuller’s",
+      "summary": "Fuller's, operador británico de pubs y bares, reportó resultados positivos para el período de 52 semanas terminado el 28 de marzo de 2026, con incrementos en ventas comparable en todos sus establecimi",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Low and no drinks fuel food and beverage dealmaking as Asia Pacific leads global M&A market",
+      "summary": "La demanda creciente de bebidas bajas en alcohol, sin alcohol y funcionales está impulsando M&A en el sector global de alimentos y bebidas, con Asia Pacífico liderando el mercado. Los inversores se en",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "VINOERA Launches Premium Non-Alcoholic Wine Collection for Luxury Hospitality",
+      "summary": "VINOERA lanzó una colección premium de vinos sin alcohol (hasta 0.5% ABV) dirigida al segmento de hotelería de lujo, con tres expresiones (Tinto, Sauvignon Blanc y Rosé). La innovación utiliza tecnolo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El vino italiano resiste en facturación, pero se desploma un 30% en Estados Unidos",
+      "summary": "El vino italiano mantiene facturación en el mercado doméstico (+2,2% en H1 2026) a pesar de caída de volumen (-1%), indicando estrategia de premiumización exitosa en distribución masiva. Sin embargo, ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Alcohol spending in South Korea posts sharpest drop in seven years",
+      "summary": "El gasto en alcohol por hogar en Corea del Sur registró su caída más pronunciada en siete años durante Q1 2026, con un gasto promedio de 13,000 won mensuales. La contracción responde al cambio de pref",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
