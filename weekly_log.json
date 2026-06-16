@@ -1,290 +1,4 @@
 {
-  "2026-06-08": [
-    {
-      "title": "Sin chofer y las 24 horas: la apuesta de PepsiCo que anticipa el fin de los camioneros",
-      "summary": "PepsiCo despliega camiones autónomos a gran escala en EE.UU. en alianza con Gatik para distribución a supermercados y centros de distribución. La iniciativa busca reducir costos logísticos, acelerar e",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "El 63% de los consumidores cambia su compra de bebidas y alimentos por la subida de precios",
-      "summary": "El 63% de los consumidores españoles ha modificado sus hábitos de compra de bebidas y alimentos por la inflación de precios, según el Barómetro de AINIA. La tendencia refleja un comportamiento más rac",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Los RTD arrebatan cuota a los espirituosos en el supermercado británico",
-      "summary": "Las bebidas RTD (listas para tomar) crecen 12% en volumen y 17% en valor en Reino Unido, ganando participación a espirituosos tradicionales en canales minoristas. Esta tendencia refleja un cambio estr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Bruselas abre la vía para retirar una indicación geográfica del vino",
-      "summary": "La Unión Europea ha iniciado un proceso de cancelación de una indicación geográfica protegida (IGP) en el sector de vinos y bebidas espirituosas, conforme al nuevo Reglamento (UE) 2024/1143. Este proc",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Italia blinda el vino con penas de cárcel más duras por fraude alimentario",
-      "summary": "Italia implementó una nueva ley (75/2026) con sanciones penales y administrativas más severas contra el fraude alimentario y falsificación de productos protegidos, entrando en vigor el 29 de mayo. La ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Dueño de Riccadonna y Aperol se asocia con embotellador local de Pepsi: CBC y su nueva ‘fórmula’",
-      "summary": "Campari Group (dueño de Riccadonna y Aperol) se asocia con CBC, embotellador multilatino de marcas Pepsi, 7Up y Gatorade con presencia en 20+ países. La estrategia de CBC en Perú se enfoca en consolid",
-      "companies": [
-        "PepsiCo",
-        "Campari Group"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "La fórmula de Concha y Toro para esquivar la crisis del vino y escalar al tercer lugar mundial por valor de ventas - Ex-Ante",
-      "summary": "Concha y Toro, empresa chilena líder en vinos, ha implementado una estrategia que la posicionó como tercera a nivel mundial por valor de ventas, logrando esquivar la crisis que afecta al sector vitivi",
-      "companies": [
-        "Concha y Toro"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Coca-Cola prepara megaoperação no Brasil com 11 fábricas e 53 centros de distribuição para transformar a Copa de 2026 em uma corrida bilionária por consumo - CPG Click Petróleo e Gás",
-      "summary": "Coca-Cola está ejecutando una megaoperación en Brasil con inversión en 11 fábricas y 53 centros de distribución orientada a capitalizar la Copa del Mundo 2026. Esta estrategia de infraestructura busca",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "FT: Fabricantes de cerveja preparam-se para salto no consumo durante a Copa do Mundo",
-      "summary": "Los fabricantes de cerveza esperan un incremento de demanda superior a 1.000 millones de pintas durante la Copa del Mundo, evento que representa un respiro crítico para la industria global ante proble",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Bodega Aurrera reducirá 30% su catálogo para disminuir costos y mantener precios bajos",
-      "summary": "Bodega Aurrera (Walmart México) implementa reducción de 30% en su catálogo de productos para optimizar costos operativos y mantener su estrategia de precios bajos. Esta iniciativa de racionalización d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Monster chases global energy drink growth with Coca-Cola distribution muscle",
-      "summary": "Monster Beverage expande globalmente aprovechando la red de distribución de Coca-Cola, su accionista mayoritario, para penetrar mercados clave como Sudeste Asiático, China e India. El mercado de bebid",
-      "companies": [
-        "The Coca-Cola Company",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hennessy brings luxury to casual drinking occasions",
-      "summary": "LVMH ha lanzado Hennessy Very Special Cocktails, una línea de bebidas listas para beber basadas en su cognac insignia. La estrategia busca democratizar el consumo de lujo mediante formatos conveniente",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo India to close manufacturing unit in Hyderabad",
-      "summary": "Diageo India (United Spirits) cerrará su planta manufacturera en Hyderabad antes de agosto de 2026, que representaba el 2% de ingresos anuales. La compañía transferirá la licencia de excisión asociada",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Did Adding McDonald’s Marketer Morgan Flatley to the Board Just Shift Constellation Brands' (STZ) Investment Narrative? - simplywall.st",
-      "summary": "Constellation Brands incorporó a Morgan Flatley, ejecutivo de marketing de McDonald's, a su consejo directivo. Este movimiento señala un posible giro estratégico hacia fortalecer capacidades de market",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken Report : Changing Consumer Tastes Push UK Pub Beer Sales to £14bn - Food & Beverage Outlook",
-      "summary": "Las ventas de cerveza en pubs británicos alcanzaron £14 mil millones, impulsadas por cambios en las preferencias del consumidor. El reporte de Heineken documenta una transformación significativa en el",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage stock (US60871R2094): earnings, dividend and brand strategy in focus - AD HOC NEWS",
-      "summary": "Molson Coors Beverage reporta resultados de ganancias y estrategia de marcas bajo revisión de mercado. Como productor global de bebidas alcohólicas y no alcohólicas, los movimientos de la compañía en ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "A Look At Boston Beer Company (SAM) Valuation After US$191 Million Legal Judgment And Earnings Impact - simplywall.st",
-      "summary": "Boston Beer Company enfrenta un fallo legal de US$191 millones con impacto directo en sus ganancias. Esta sentencia afecta la valuación de un productor cervecero importante con operaciones en mercados",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Teremana debuts limited design series",
-      "summary": "Teremana Tequila lanzó su primera serie limitada de diseño (Craft Editions) para sus líneas blanco y reposado, con botellas que comunican su proceso artesanal: azul para reflejar el agave Blue Weber 1",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks And 2 Other UK Stocks That May Be Priced Below Their Estimated Value - Yahoo Finance",
-      "summary": "Fevertree Drinks, empresa especializada en bebidas mixers premium, está siendo analizada como potencialmente subvaluada en el mercado UK. La noticia cobra relevancia para empresas de bebidas por la es",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola launches BodyArmor Fit as it branches out in the 'better-for-you' category (KO:NYSE) - Seeking Alpha",
-      "summary": "Coca-Cola lanzó BodyArmor Fit, una nueva línea dentro de su portafolio de bebidas de mayor valor nutricional, expandiendo su presencia en la categoría de bebidas 'better-for-you'. Esta estrategia resp",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The death of premiumisation?",
-      "summary": "Análisis sobre el fin potencial de la estrategia de premiumización que dominó la industria de bebidas la última década. La premiumización fue la respuesta a la caída de volúmenes en alcohol y la difer",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kirin Holdings, which has grown into beer for more than 100 years, is speeding up its transformation.. - 매일경제",
-      "summary": "Kirin Holdings, uno de los principales productores de bebidas a nivel global con más de 100 años de trayectoria en cerveza, está acelerando su transformación estratégica. Esta noticia es relevante par",
-      "companies": [
-        "Kirin Holdings"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Contrarius Group Holdings Ltd Invests $33.39 Million in Molson Coors Beverage Company $TAP - MarketBeat",
-      "summary": "Contrarius Group Holdings Ltd realizó una inversión de $33.39 millones en Molson Coors Beverage Company, uno de los principales productores de cerveza en Norteamérica. Este movimiento de inversión ins",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "RWC Asset Management LLP Grows Stock Position in Molson Coors Beverage Company $TAP - MarketBeat",
-      "summary": "RWC Asset Management LLP aumentó su posición accionaria en Molson Coors Beverage Company (TAP), uno de los principales productores de bebidas alcohólicas en Norteamérica. Este movimiento de un gestor ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hotel Chocolat targets growing premium iced beverage market with Coconut Macaroon launch | FoodBev Media",
-      "summary": "Hotel Chocolat lanza Coconut Macaroon, su primer chocolate para beber premium diseñado específicamente para consumo en frío, posicionándose en el segmento de bebidas iced premium de alto crecimiento. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Yah Yah Yah Enters Premium RTD Coffee with Clean-Label, Honey-Sweetened Line",
-      "summary": "Yah Yah Yah, marca heritage con liderazgo femenino y minority-owned, lanza línea de café RTD premium en verano 2026 con diferenciación en clean-label y beneficios funcionales de salud digestiva. La es",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-06-09": [
     {
       "title": "Arca Continental, embotelladora de Coca-Cola, alista cambios en planta de Pucusana: ¿qué prepara?",
@@ -2056,6 +1770,343 @@
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-06-16": [
+    {
+      "title": "Coca-Cola quiere impulsar sus bebidas sin azúcar: la estrategia para aumentar las ventas de su bebida Zero",
+      "summary": "Coca-Cola impulsa una estrategia agresiva para acelerar el crecimiento de Coca-Cola Zero, aprovechando el Mundial 2026 como plataforma de marketing emocional en México, donde se disputarán 13 partidos",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "La estrategia de Walmart para aumentar ganancias sin subir precios: el crecimiento de Great Value, Equate y sus private brands",
+      "summary": "Walmart acelera el crecimiento de sus marcas privadas (Great Value, Equate) con expansión de doble dígito en EE.UU., incrementando su participación en general merchandise en 175 puntos base. Esta estr",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Mercado de bebidas: 4 de cada 10 jóvenes consumen a diario té listo para tomar",
+      "summary": "El té RTD (listo para tomar) registra crecimiento dinámico en mercados latinoamericanos, con 4 de cada 10 jóvenes consumiendo diariamente según datos de Tetra Pak. La categoría se posiciona como una d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Stella Artois serves up Wimbledon-inspired Strawberries & Cream beer | FoodBev Media",
+      "summary": "Stella Artois lanza Strawberries & Cream, una cerveza de edición limitada inspirada en la tradición de Wimbledon, como parte de su estrategia de expansión en cervezas saborizadas. La iniciativa aprove",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is Iron Maiden releasing a West Coast IPA with Lagunitas an ‘evolution’ for Trooper?",
+      "summary": "Iron Maiden y Lagunitas (Heineken) lanzan Trooper West Coast IPA, expandiendo la línea de cerveza que la banda produce desde 2013 con 11 cervecerías globales. La variante representa una evolución estr",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands (STZ) Is Up 5.4% After Beer Drives 91% Of Sales In Fiscal 2026 - Yahoo Finance",
+      "summary": "Constellation Brands (STZ) reportó que la cerveza representa el 91% de sus ventas en el fiscal 2026, resultado que impulsó un alza de 5.4% en el precio de sus acciones. Este dato refleja la consolidac",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jack Daniel’s lanza una edición limitada con McLaren Fórmula 1 de solo 5.500 botellas",
+      "summary": "Jack Daniel's lanza edición limitada de Tennessee Whiskey en colaboración con McLaren F1, producción de 5.500 botellas de 700ml. La iniciativa aprovecha dos hitos: el aniversario 1.000 de McLaren y 16",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why PepsiCo Is Making Protein Central to Its Functional Beverage Strategy - Athletech News",
+      "summary": "PepsiCo posiciona la proteína como eje central de su estrategia en bebidas funcionales, respondiendo a la creciente demanda de productos de alto valor nutricional en el segmento premium. Este movimien",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Oatley Fine Wine set to distribute Casella’s premium wine",
+      "summary": "Casella Family Brands (productor de Yellow Tail) designó a Oatley Fine Wine Merchants como nuevo distribuidor para su portafolio premium en Australia a partir de julio 2026. El cambio busca fortalecer",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Spirits Continue to Outshine Beer and Wine as Bev-Alc Sales Slip to Start June, per Circana Weekly Scans | Brewbound",
+      "summary": "Las ventas totales de bebidas alcohólicas en canal off-premise cayeron tanto interanual como semana a semana en la primera semana de junio, según datos de Circana. Los destilados continúan superando e",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The 20 Most Popular Scotch Brands in the World for 2026",
+      "summary": "Las exportaciones globales de whisky escocés cayeron 4,3% en volumen el año pasado, con 13 de las 20 marcas líderes registrando declina interanual. El Spirits Business Brand Champions Report atribuye ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev announces next ‘Brewing Futures’ US investment, in Missouri - Global Drinks Intel",
+      "summary": "AB InBev anuncia una nueva inversión en su programa 'Brewing Futures' en Missouri, consolidando su estrategia de fortalecimiento de capacidades productivas en Estados Unidos. La iniciativa refleja el ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Chance Clean Cider raises funds to boost next stage of expansion",
+      "summary": "Chance Clean Cider, marca de sidra sin y baja en alcohol fundada en 2024, busca recaudar hasta £1 millón para acelerar su expansión en Reino Unido e internacionalmente. La marca, liderada por John Log",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo Challenges Coca-Cola With “House of Treats” Beverage Platform Set to Disrupt Global Soda Market in 2026 - TTYBrand Africa",
+      "summary": "PepsiCo lanza 'House of Treats', una plataforma de bebidas diseñada para disrumpir el mercado global de gaseosas a partir de 2026, directamente desafiando el dominio de Coca-Cola. La iniciativa repres",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pepsi Launches New 'House of Treats' Soda Lineup That Gives Coca-Cola Some Serious Competition - Parade",
+      "summary": "PepsiCo lanzó la línea 'House of Treats', una nueva propuesta de bebidas que busca competir directamente con Coca-Cola en el segmento de sodas. El lanzamiento representa una estrategia ofensiva de pro",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer (SAM) Stock After Litigation Ruling Rethinks GAAP Earnings What Does The Valuation Signal Now - simplywall.st",
+      "summary": "Boston Beer enfrenta un fallo en litigio que impacta la reinterpretación de sus ganancias GAAP, afectando significativamente su valuación. Esta situación es crítica para inversores y competidores, ya ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bayou Rum receives makeover",
+      "summary": "Stoli Group relanza su portafolio Bayou Rum con receta mejorada y nuevo packaging, producido en Louisiana Spirits Distillery. La marca revitaliza su posicionamiento en el segmento de ron americano con",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El Rayo expands RTD range",
+      "summary": "El Rayo, marca de tequila con base en Londres, expande su portafolio RTD (Ready-to-Drink) con un nuevo producto de tequila, lima y soda en lata, sumándose a su anterior lanzamiento de Tequila Tonic & ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nestlé USA eliminates artificial colors as part of broader reformulation overhaul",
+      "summary": "Nestlé USA completó anticipadamente su compromiso de eliminar colorantes artificiales (FD&C) de su portafolio de alimentos y bebidas en Estados Unidos, cumpliendo con estándares regulatorios más exige",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "La Luna Mezcal partners with Charter Brands",
+      "summary": "Charter Brands, distribuidor exportador de spirits premium, incorpora La Luna Mezcal como partner exclusivo en su portafolio de agave, junto a El Tequileño Tequila. La marca michoacana, presente en EE",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Wip Energy Pouches Now Available in Over 330 Walmart Fuel Centers Nationwide",
+      "summary": "Wip, marca líder en categoría de cafeína limpia, expande su distribución a más de 330 centros de combustible Walmart en EE.UU., posicionándose en un canal estratégico de alto tráfico (conductores, via",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Macallan targets Gen Z in latest social media campaign with Emmy-nominated actor",
+      "summary": "The Macallan lanzó una campaña en redes sociales protagonizada por el actor James Marsden para conquistar a la Gen Z, segmento de crecimiento estratégico en el mercado de bebidas premium. La campaña '",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Digital influence rises, but consumers still trust people over AI, study finds",
+      "summary": "Un estudio de Chelsea Co. revela que aunque los canales digitales crecen en importancia para el descubrimiento de bebidas, los consumidores siguen confiando más en recomendaciones humanas y experienci",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Angostura secures new UK retail listings",
+      "summary": "Angostura aseguró listados minoristas en dos cadenas británicas clave (M&S y Sainsbury's) para su Orange Bitters, complementando su presencia en Waitrose. La expansión responde a una tendencia de cons",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "China is rebuilding its on-trade around a new kind of drinker",
+      "summary": "China experimenta una crisis estructural en su canal on-trade (bares, restaurantes, hoteles): las importaciones de vino cayeron 70% en volumen entre 2018 y 2025 debido a cambios en patrones de consumo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Press Clips: Tilray’s Portfolio Plans for UK BrewDog Locations, This Year’s Top New Products & The Importance of Beer Bars | Brewbound",
+      "summary": "Tilray implementa una estrategia de distribución en ubicaciones BrewDog del Reino Unido, expandiendo su portfolio de bebidas en canales de retail especializados. El movimiento refleja una tendencia de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo expands farming work, partners with House of Treats for personalized drinks - TechStock²",
+      "summary": "PepsiCo expande sus operaciones agrícolas y establece una alianza estratégica con House of Treats para desarrollar bebidas personalizadas. Esta iniciativa refleja la tendencia de la industria hacia la",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "McDonald's Red Bull Drinks Test Brand Perception And Valuation Gap - Yahoo Finance",
+      "summary": "McDonald's está realizando pruebas comerciales con bebidas Red Bull, evaluando la percepción de marca y potencial de valoración. Esta iniciativa representa una oportunidad estratégica para Red Bull de",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) Reaches New 12-Month High - Here's What Happened - MarketBeat",
+      "summary": "Monster Beverage alcanzó un nuevo máximo de 12 meses en su cotización bursátil, reflejando un desempeño positivo del principal competidor global en energéticas. Este movimiento sugiere fortaleza en la",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stella Artois unveils new limited-edition beer",
+      "summary": "Stella Artois lanzará una cerveza limitada Strawberries & Cream en Wimbledon 2026, consolidando su estrategia de innovación de portafolio y activaciones de marca en eventos premium. Esta iniciativa si",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Trump threatens new 100% tariff on French wine",
+      "summary": "Trump amenaza con aranceles del 100% sobre vinos franceses si Francia no elimina su impuesto digital del 3% a empresas tecnológicas estadounidenses. Esta medida impactaría directamente la importación ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
       ],
       "region": "Mundial"
     }
