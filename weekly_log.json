@@ -1,194 +1,4 @@
 {
-  "2026-06-09": [
-    {
-      "title": "Arca Continental, embotelladora de Coca-Cola, alista cambios en planta de Pucusana: ¿qué prepara?",
-      "summary": "Arca Continental, principal embotelladora de Coca-Cola en Perú, implementa modificaciones operacionales en su Planta Pucusana de Lima, enfocándose en optimizar su operación logística mediante cambios ",
-      "companies": [
-        "The Coca-Cola Company",
-        "Arca Continental"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Coca-Cola, PepsiCo, Mars and DoorDash among CPG brands chasing $7.5 billion World Cup spend",
-      "summary": "Coca-Cola, PepsiCo, Mars y DoorDash entre las marcas CPG que compiten por capturar los $7.5 mil millones en gasto asociado a la Copa Mundial de Fútbol. El torneo, organizado en 16 ciudades entre Estad",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cove Soda Expands North American Retail Footprint with National Launch at Walmart Canada",
-      "summary": "Cove Soda, marca de gaseosa funcional sin azúcar, anunció su lanzamiento nacional en Walmart Canada, representando su mayor expansión minorista hasta la fecha. La distribución se suma a su anterior la",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "CleanCo adds convenience to its alcohol-free line",
-      "summary": "CleanCo, marca de bebidas alcohólicas sin alcohol, lanzó una línea de cócteles listos para beber (RTD) en latas con cuatro variantes (Margarita, Mojito, G&T e Italian Spritz). El movimiento responde a",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Premium Private Label: Friend or Foe of Today’s Emerging Brands?",
-      "summary": "Walmart aceleró significativamente su estrategia de private label premium lanzando Bettergoods en 2024, compitiendo directamente con Simple Truth de Kroger (líder desde 2012). Este movimiento represen",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Former Bacardi executive joins Drinksology Kirker Greer - Drinks International - The global choice for drinks buyers",
-      "summary": "Drinksology Kirker Greer (DKG), empresa de bebidas espirituosas con base en Belfast, designó a Mike Birch como director no ejecutivo para fortalecer su junta directiva durante una aceleración de su es",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "A Look At Molson Coors (TAP) Valuation After Recent Share Weakness And Forecasts For A Return To Profit - simplywall.st",
-      "summary": "Molson Coors enfrenta debilidad en su valuación accionaria pero proyecta un retorno a la rentabilidad. El análisis evalúa la posición de mercado del gigante cervecero norteamericano post-desempeño neg",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jonathan Bailey Steps Into His New Role as The MARTINI Man",
-      "summary": "MARTINI anuncia una asociación de múltiples años con el actor Jonathan Bailey como el nuevo rostro de la marca, en reemplazo de embajadores anteriores. La campaña enfatiza posicionamiento de aperitivo",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo is now delivering Doritos and soft drinks to stores using driverless trucks - The Independent",
-      "summary": "PepsiCo implementa camiones autónomos para la distribución de Doritos y bebidas gaseosas, reduciendo costos operacionales y mejorando eficiencia logística. Esta iniciativa de tecnología de vehículos s",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Anheuser-Busch InBev Set for Payday as Beer Flows from the World Cup - The Daily Upside",
-      "summary": "Anheuser-Busch InBev (AB InBev), principal productor mundial de cerveza, se posiciona para obtener ganancias significativas por el flujo de consumo de cerveza durante la Copa del Mundo. El evento gene",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo (Pepsi), a leading U.S. food and beverage company, has introduced an unmanned truck that doe.. - 매일경제",
-      "summary": "PepsiCo ha implementado camiones autónomos no tripulados para su operación de distribución y logística. Esta iniciativa representa un cambio estratégico en la cadena de suministro de una de las mayore",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo deploys fleet of driverless trucks to deliver Doritos and drinks in three states - TechSpot",
-      "summary": "PepsiCo implementa una flota de camiones autónomos para la distribución de bebidas y snacks en tres estados de EE.UU., optimizando su cadena logística mediante tecnología de conducción autónoma. Esta ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks extends share buyback after solid start to year - London South East",
-      "summary": "Fevertree Drinks, fabricante británico de bebidas premium (mixers y refrescos), amplió su programa de recompra de acciones tras un sólido desempeño en el primer semestre del año. La decisión refleja c",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks PLC announces an Increase in Equity Buyback. - marketscreener.com",
-      "summary": "Fevertree Drinks PLC, líder global en mixers premium, amplió su programa de recompra de acciones. Esta decisión refleja confianza en el desempeño financiero de la compañía y generalmente indica flujo ",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why is Fevertree Drinks stock surging today? By Investing.com - Investing.com South Africa",
-      "summary": "Las acciones de Fevertree Drinks experimentan un movimiento alcista significativo. Fevertree es un productor líder de mixers premium para bebidas spirits, con fuerte presencia en mercados desarrollado",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El vino sin alcohol deja de ser un nicho y entra en la estrategia del sector",
-      "summary": "El vino sin alcohol transita de nicho a estrategia mainstream en la industria vitivinícola, impulsado por cambios en patrones de consumo hacia bebidas con menor contenido alcohólico. El sector inviert",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Orendain 100% agave Tequila lands in UK",
-      "summary": "Destilería Orendain lanzó su línea 100% Agave en el Reino Unido a través de Maison Ferrand UK, marcando su expansión en mercados europeos clave. La línea incluye tres expresiones premium (blanco, repo",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-06-10": [
     {
       "title": "Monster Beverage Corp stock (US6092071058): Energy drink specialist after latest earnings update - AD HOC NEWS",
@@ -2082,6 +1892,320 @@
       "segments": [
         "consumer_market_trends",
         "marketing_innovation"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-06-17": [
+    {
+      "title": "EEUU vuelve al conflicto con Francia y amenaza con un arancel del 100% al vino y champagne",
+      "summary": "Trump amenaza con aranceles del 100% sobre vino y champagne franceses para presionar a Francia a eliminar su impuesto digital del 3% a empresas tecnológicas. Esta escalada comercial impactaría directa",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Coca-Cola quiere impulsar sus bebidas sin azúcar: la estrategia para aumentar las ventas de su bebida Zero",
+      "summary": "Coca-Cola aprovechará el Mundial 2026 como plataforma de marketing en México para impulsar Coca-Cola Zero y acelerar su estrategia de bebidas sin azúcar/bajas en calorías. La compañía ve en el evento ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Bacardi pierde apelación en Estados Unidos en la disputa por la marca \"Havana Club\"",
+      "summary": "Bacardi perdió una apelación crítica ante el Tribunal de Apelaciones del Cuarto Circuito de EE.UU. respecto a los derechos de la marca Havana Club en el mercado estadounidense. La decisión valida la r",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "“Para los bares, un partido de Colombia mueve el consumo como si fuera un viernes”",
+      "summary": "Durante la Copa del Mundo, los eventos de la selección colombiana generan picos de consumo en bares equivalentes a un viernes. Evedesa, distribuidora mayorista, proyecta vender más de 17.000 botellas ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Mercado de bebidas: 4 de cada 10 jóvenes consumen a diario té listo para tomar - gestion.pe",
+      "summary": "El 40% de los jóvenes consume té listo para tomar diariamente, indicando una fuerte penetración de este segmento en el mercado de bebidas. Este dato refleja una tendencia de crecimiento en bebidas de ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Anheuser-Busch invierte 20 millones en Misuri para impulsar Michelob ULTRA",
+      "summary": "Anheuser-Busch invierte $20M en Misuri para expandir producción de Michelob ULTRA, modernizar equipos de fabricación y envasado, y crear un centro de entrenamiento técnico. La inversión fortalece la c",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is Iron Maiden releasing a West Coast IPA with Lagunitas an ‘evolution’ for Trooper?",
+      "summary": "Iron Maiden amplía su línea de bebidas alcohólicas Trooper con el lanzamiento de una West Coast IPA en colaboración con Lagunitas (propiedad de Heineken), bajo la dirección del frontman Bruce Dickinso",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone’s Silk brand expands protein line-up with new plant-based yogurts and shakes | FoodBev Media",
+      "summary": "Danone expande su línea de productos plant-based de alto contenido proteico a través de su marca Silk, lanzando yogures y bebidas proteicas en el mercado estadounidense durante el verano. La estrategi",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Doublesoul Gets Six-figure Investment From Allison Ellsworth, Cofounder of Poppi, Prebiotic Soda - WWD",
+      "summary": "Doublesoul recibió una inversión de seis cifras de Allison Ellsworth, cofundadora de Poppi (soda prebiótica). Esta inversión refleja la consolidación de tendencias de bebidas funcionales y saludables ",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Tenzing appoints ex-Heineken UK CMO as marketing lead",
+      "summary": "Tenzing contrató a Cindy Tervoort, ex CMO de Heineken UK y Britvic, como Chief Marketing Officer. Tervoort trae 7+ años de experiencia en Heineken y lideró el portfolio digital de la compañía (Beerwul",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands Stock (US21036P1084): Quarterly earnings and outlook in focus - AD HOC NEWS",
+      "summary": "Constellation Brands, principal productor de bebidas alcohólicas en Norteamérica (Corona, Pacifico, Robert Mondavi), presenta resultados trimestrales y actualización de perspectivas. La compañía es re",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Spirits Continue to Outshine Beer and Wine as Bev-Alc Sales Slip to Start June, per Circana Weekly Scans | Brewbound",
+      "summary": "Las ventas totales de bebidas alcohólicas fuera del hogar cayeron tanto interanual como semana a semana en la primera semana completa de junio, según datos de Circana. Los destilados continuaron super",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Chance Clean Cider raises funds to boost next stage of expansion",
+      "summary": "Chance Clean Cider, marca de sidra sin y baja en alcohol fundada en 2024, busca recaudar hasta £1 millón para acelerar su expansión en UK e internacionalmente. La marca está posicionada en la categorí",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "94% of alcohol-free beer drinkers also consume booze",
+      "summary": "Investigación de KAM Insight y Athletic Brewing revela que 94% de los consumidores de cerveza sin alcohol también consumen bebidas alcohólicas, indicando que la categoría no compite por abstinentes si",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage Corp Stock (US6350171061): Earnings Trends And Valuation In Focus After Recent Res - AD HOC NEWS",
+      "summary": "National Beverage Corp reportó resultados recientes que generan revisión de tendencias de ganancias y valoración de su stock. Como productor de bebidas con presencia significativa en el mercado nortea",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bayou Rum receives makeover",
+      "summary": "Stoli Group relanzó Bayou Rum con reformulación de receta y nuevo packaging, producido en Louisiana Spirits Distillery. Los dos productos estrella (Bayou White y Bayou Spiced) fueron mejorados bajo la",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Le Philtre partners with Mangrove in UK",
+      "summary": "Le Philtre, marca francesa de vodka orgánico, cambió su distribuidor en Reino Unido de Cask Liquid Marketing a Mangrove Global. Este movimiento estratégico busca expandir la presencia del producto eco",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper Stock (US49271V1008): Quarterly earnings and valuation in focus - AD HOC NEWS",
+      "summary": "Keurig Dr Pepper, uno de los mayores productores de bebidas en EE.UU., reporta resultados trimestrales con énfasis en valuación accionaria. La compañía controla marcas críticas como Dr Pepper, Snapple",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kirin Holdings Co Ltd Stock (JP3258000003): Quarterly earnings and outlook draw investor focus - AD HOC NEWS",
+      "summary": "Kirin Holdings, uno de los principales productores de bebidas a nivel mundial, presenta resultados trimestrales y proyecciones que generan interés inversor. Como competidor global en la industria de b",
+      "companies": [
+        "Kirin Holdings"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Champagne-baiting English wine brand invites public investment",
+      "summary": "Folc, marca inglesa de vinos rosados, lanza una ronda de inversión pública a través de Republic Europe para financiar su expansión. La estrategia incluye penetración en canales de hospitalidad, retail",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Walmart’s Aloha reset highlights how snack bars are overtaking center store",
+      "summary": "Aloha trasladó sus barras proteicas de la sección de nutrición deportiva al pasillo de snacks del centro de tiendas en aproximadamente 2,000 sucursales de Walmart en abril, logrando aumentos significa",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Digital influence rises, but consumers still trust people over AI, study finds",
+      "summary": "Estudio de Chelsea Co. revela que aunque los canales digitales ganan importancia en la descubrimiento de bebidas, los consumidores confían más en recomendaciones humanas y experiencias presenciales. L",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Delta Global Management LP Makes New Investment in Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "Delta Global Management LP realizó una nueva inversión en Molson Coors Beverage Company, uno de los mayores productores de bebidas alcohólicas en América del Norte. Este movimiento indica confianza in",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Wine Is Swinging for the Fences With Sports Advertising — Is It Working?",
+      "summary": "La industria vitivinícola intensifica su presencia en publicidad deportiva como estrategia de crecimiento, compitiendo con marcas tradicionales como cerveza y bebidas deportivas. Este movimiento refle",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "China is rebuilding its on-trade around a new kind of drinker",
+      "summary": "China experimenta una transformación estructural en su canal on-trade con caída del 70% en volúmenes de importación de vino entre 2018 y 2025. Los factores clave incluyen cambios post-pandemia en patr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is Constellation Brands’ (STZ) Beer Focus Reshaping Its Capital Allocation Story For Investors? - simplywall.st",
+      "summary": "Constellation Brands (STZ), uno de los mayores productores de bebidas alcohólicas en América del Norte, está reorientando su estrategia de asignación de capital hacia el negocio cervecero. Este cambio",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bacardi loses latest Havana Club hearing",
+      "summary": "Bacardi perdió un nuevo litigio contra Cuba por la marca Havana Club en EE.UU. La Corte de Apelaciones confirmó la decisión del USPTO de renovar la marca federal de Cubaexport en 2016, otorgando a Cub",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola quiere impulsar sus bebidas sin azúcar: la estrategia para aumentar las ventas de su bebida Zero - expansion.mx",
+      "summary": "Coca-Cola refuerza su estrategia de portafolio sin azúcar mediante un impulso específico a Coca-Cola Zero. Esta reorientación responde a la creciente demanda de bebidas bajas o sin calorías en mercado",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola Consolidated: A Bottling Fortress Facing A Costlier Can (NASDAQ:COKE) - Seeking Alpha",
+      "summary": "Coca-Cola Consolidated, embotellador de Coca-Cola en mercados clave, enfrenta presiones de costos en sus operaciones de enlatado. El análisis examina cómo el aumento en los precios de aluminio impacta",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
