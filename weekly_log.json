@@ -2145,7 +2145,7 @@
   "2026-06-22": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal en Argentina enfrenta una contracción significativa del consumo acompañada de presión en costos operacionales y cambios en los patrones de compra de los consumidores. ",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa impulsada por reducción del consumo, presiones de costos y cambios en los hábitos de bebida. Este movimiento afecta directamente",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2153,21 +2153,31 @@
       "region": "Local"
     },
     {
-      "title": "Copa 2026 exige novas estratégias dos patrocinadores",
-      "summary": "Los patrocinadores globales de la Copa 2026 (incluyendo PepsiCo) están replanteando sus estrategias de activación más allá de la exposición de marca tradicional, buscando conectar el torneio con sus n",
+      "title": "Ações da Ambev (ABEV3) sobem após balanço do 4T25 e anúncio de JCP. O que agradou o mercado? - Estadão",
+      "summary": "Las acciones de Ambev (ABEV3) subieron tras la publicación de resultados del 4T25 y anuncio de cambios en la junta directiva. La suba refleja aprobación del mercado a los resultados financieros del tr",
       "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
+        "Ambev"
       ],
       "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
+        "marketing_innovation"
       ],
       "region": "Regional"
     },
     {
+      "title": "Danone strengthens beverages portfolio with Asia-Pacific acquisition",
+      "summary": "Danone adquiere Made Group, empresa australiana de rápido crecimiento con portafolio enfocado en bebidas funcionales y saludables (bebidas proteicas listas para consumir, yogures probióticos y product",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Mobile bar built from combine harvester tours the US",
-      "summary": "AB InBev lanza una iniciativa de marketing experiencial con un bar móvil integrado en una cosechadora (ComBar) que recorrerá EE.UU. durante el verano. La campaña \"Choose Beer Grown Here\" busca vincula",
+      "summary": "AB InBev lanzó una iniciativa de marketing experiencial llamada 'ComBar', una barra móvil integrada en una cosechadora de granos de 10 toneladas, que recorrerá EE.UU. durante el verano. La campaña 'Ch",
       "companies": [
         "AB InBev"
       ],
@@ -2178,7 +2188,7 @@
     },
     {
       "title": "Coca-Cola looks to restructure at Costa after abandoned sale",
-      "summary": "Coca-Cola contrató asesores de reestructuración para evaluar el futuro de Costa Coffee tras abandonar en enero la venta de la cadena, que no alcanzó el piso de valuación de £2 mil millones. Este movim",
+      "summary": "Coca-Cola activó un proceso de reestructuración en Costa Coffee tras abandonar su venta en enero. Las firmas AlixPartners y Álvarez & Marsal asesoran la revisión operacional y financiera respectivamen",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2189,20 +2199,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Danone strengthens APAC growth with acquisition of Australia’s Made Group | FoodBev Media",
-      "summary": "Danone adquiere Made Group, empresa australiana enfocada en alimentos y bebidas saludables, y aumenta su participación en la joint venture de lácteos frescos con Saputo Dairy Australia. La operación f",
+      "title": "Danone strengthens holdings in Asia Pacific with double acquisition",
+      "summary": "Danone ejecutó dos operaciones de crecimiento en Asia Pacífico: adquirió Made Group, empresa de bebidas orientada a salud, y compró el 49% restante de su joint venture con Saputo Dairy Australia, cons",
       "companies": [
         "Danone"
       ],
       "segments": [
-        "consumer_market_trends",
         "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
+      "title": "Is Coca-Cola's Pricing Power Still Driving Revenue Growth in 2026? - The Globe and Mail",
+      "summary": "Análisis sobre la capacidad de Coca-Cola para mantener crecimiento de ingresos mediante estrategia de pricing en 2026. La noticia examina si el poder de fijación de precios de la compañía sigue siendo",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "RTD sales near £200m in Britain’s on-trade",
-      "summary": "La categoría de bebidas RTD (ready-to-drink) alcanzó £200 millones en el canal on-premise británico, creciendo 2.6% interanual. Aunque la distribución cayó 4.5%, la velocidad de venta promedio se incr",
+      "summary": "Las bebidas listas para beber (RTD) alcanzaron casi £200 millones en el canal on-trade británico, con crecimiento de valor del 2,6% en los últimos 12 meses. La categoría superó el desempeño del mercad",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2212,7 +2233,7 @@
     },
     {
       "title": "Top seven best-selling liqueur Brand Champions",
-      "summary": "El mercado de licores mantiene su dominación en marcas que ofrecen texturas e indulgencia, pero los principales players muestran signos de declina en ventas. La tendencia de 'treatonomics' (pequeños l",
+      "summary": "El mercado de licores dulces mantiene liderazgo de marcas establecidas enfocadas en textura e indulgencia, aunque los principales players experimentan caída de ventas. La tendencia 'treatonomics' posi",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2222,7 +2243,7 @@
     },
     {
       "title": "Indian drinks group seeks level playing field ahead of tariff cuts",
-      "summary": "El principal gremio de bebidas alcohólicas de India solicita a gobiernos estatales revisar concesiones fiscales para importaciones antes de reducciones arancelarias del acuerdo comercial con UK que en",
+      "summary": "La principal asociación de bebidas alcohólicas de India presiona a gobiernos estatales para revisar incentivos fiscales a importaciones antes de la reducción arancelaria del acuerdo comercial UK que e",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2232,7 +2253,7 @@
     },
     {
       "title": "Creatine storms functional drinks but can it really deliver?",
-      "summary": "El mercado global de bebidas funcionales proyecta alcanzar USD 240 mil millones para 2031, con un crecimiento del 45% en cinco años. La creatina emerge como ingrediente clave en este segmento de alto ",
+      "summary": "El mercado de bebidas funcionales está experimentando un crecimiento acelerado, proyectado alcanzar $240 mil millones para 2031, representando un incremento del 45% en cinco años según Mordor Intellig",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2241,8 +2262,72 @@
       "region": "Mundial"
     },
     {
+      "title": "From barn to breakthrough: How Danone is rethinking food innovation",
+      "summary": "Danone está replanteando su estrategia de innovación enfocándose en la cadena de valor desde el origen (granjas) en lugar de solo en el desarrollo de productos finales. La empresa invierte en salud de",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Can Breweries Turn Mid-Strength Beer Into a Category of Its Own? | SevenFifty Daily",
+      "summary": "Las cervecerías están desarrollando la categoría de cervezas de alcohol medio (mid-strength) como segmento diferenciado entre light y sin alcohol, aprovechando la tendencia de moderación en el consumo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Vibes Beverages' Glow Getter Is Exactly What the Functional Beverage Market Has Been Waiting For",
+      "summary": "Vibes Beverages lanzó Glow Getter, un tónico social funcional a base de lúpulo, posicionándose como first-to-market en esta categoría. El primer lote se agotó y está en producción el segundo, coincidi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Impossibrew taps into growing demand for functional alcohol-free drinks",
+      "summary": "Impossibrew, fabricante británica de bebidas funcionales sin alcohol, reporta crecimiento exponencial de ingresos (£3.57M en FY25 vs £37k en FY21) impulsado por integración de IA en operaciones y auto",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How are Nestlé, Danone and Muscle Milk rethinking reformulation?",
+      "summary": "Nestlé, Danone y Muscle Milk están reformulando sus productos más allá de la simple reducción de azúcar, sal y grasas, hacia cambios integrales que incluyen procesamiento de ingredientes, valores nutr",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Vio Bio Limo Orange from The Coca-Cola Company - low-sugar recipe targets mindful drinkers - AD HOC NEWS",
+      "summary": "The Coca-Cola Company lanzó Vio Bio Limo Orange, una bebida con bajo contenido de azúcar dirigida al segmento de consumidores conscientes de salud. Este movimiento refleja la estrategia de adaptación ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "The 10 Most Popular American Whiskey Brands in the World for 2026",
-      "summary": "Las exportaciones de whiskey estadounidense cayeron 19% en 2024 por la guerra arancelaria de la administración Trump y boicots canadienses, aunque parte del impacto fue por adelanto de envíos a la UE ",
+      "summary": "Las exportaciones de whiskey americano cayeron 19% en 2024 por guerras arancelarias bajo la administración Trump y boicots canadienses, aunque hubo adelantamiento de envíos a UE en 2024 en anticipació",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2252,7 +2337,7 @@
     },
     {
       "title": "Has Tequila peaked in travel retail?",
-      "summary": "El tequila ha experimentado crecimiento de dos dígitos en travel retail desde la reactivación post-pandemia, pero analistas cuestionan si la categoría ha alcanzado su pico de crecimiento. El artículo ",
+      "summary": "El tequila ha experimentado crecimiento de doble dígito en viajes retail global post-pandemia, superando otras bebidas destiladas blancas, pero análisis reciente cuestiona si se ha alcanzado el pico d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2262,7 +2347,7 @@
     },
     {
       "title": "Golden Blue, in partnership with Sazerac Company, expands 'Early Times' market share in Korea - starnewskorea.com",
-      "summary": "Golden Blue y Sazerac Company están expandiendo la marca Early Times en el mercado coreano, buscando aumentar su participación de mercado. Esta estrategia de penetración en Asia refleja la tendencia g",
+      "summary": "Sazerac Company, a través de su socio Golden Blue, está expandiendo la presencia de la marca Early Times en el mercado coreano. Esta iniciativa refleja la estrategia de los grandes productores de bebi",
       "companies": [
         "Sazerac Company"
       ],
@@ -2273,7 +2358,7 @@
     },
     {
       "title": "The Simply Spiked Lemonade from Molson Coors Beverage - hard lemonade that leans into fruit flavor - AD HOC NEWS",
-      "summary": "Molson Coors lanzó Simply Spiked Lemonade, una bebida alcohólica hard que enfatiza sabores frutales. Este movimiento refleja la estrategia de los grandes jugadores de ampliar su portafolio hacia categ",
+      "summary": "Molson Coors lanzó Simply Spiked Lemonade, una bebida alcohólica que expande su portafolio hacia el segmento de hard lemonades con énfasis en sabores frutales. Este movimiento responde a la creciente ",
       "companies": [
         "Molson Coors"
       ],
@@ -2284,7 +2369,7 @@
     },
     {
       "title": "Asahi Group Partners with Varun Beverages to Launch CALPIS in India - Machine Maker",
-      "summary": "Asahi Group se asocia con Varun Beverages para lanzar CALPIS en India, expandiendo su presencia en mercados emergentes de alto potencial. CALPIS, marca de bebida funcional líder en Asia, ingresa al me",
+      "summary": "Asahi Group se asocia con Varun Beverages para lanzar CALPIS en India, expandiendo su presencia en el mercado asiático de bebidas funcionales. Esta alianza estratégica utiliza la infraestructura de di",
       "companies": [
         "Asahi Group"
       ],
@@ -2294,72 +2379,24 @@
       "region": "Mundial"
     },
     {
-      "title": "Buy, Sell Or Hold: Data Patterns, Cupid, Yatra Online, United Spirits, JSW Infra, Karur Vysya Bank — Ask Profit - NDTV Profit",
-      "summary": "United Spirits, importante productor de bebidas alcohólicas en India, es incluido en un análisis de recomendaciones bursátiles (buy/sell/hold) por NDTV Profit. La cobertura de acciones de compañías de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
+      "title": "Molson Coors focuses on brand strategy, shares trail global beverage peers - AD HOC NEWS",
+      "summary": "Molson Coors está reorientando su estrategia hacia el fortalecimiento de marcas mientras su desempeño accionario rezaga respecto a competidores globales de bebidas. Esta realineación estratégica refle",
+      "companies": [
+        "Molson Coors"
       ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Six Continents Index ranks Europe highest in global energy drink assessment | FoodBev Media",
-      "summary": "Six Continents Index publicó el primer análisis global comparativo de bebidas energizantes entre continentes, identificando diferencias regionales significativas en formulación, ingredientes y estánda",
-      "companies": [],
       "segments": [
         "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Dutch government's plans to tax sugary softdrinks will also make beer more expensive - NL Times",
-      "summary": "El gobierno holandés planea implementar un impuesto a bebidas azucaradas que también afectaría la cerveza, lo que incrementaría sus precios. Esta medida regulatoria impactará directamente la estructur",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "In-house printing offers packaging flexibility for manufacturers - Food & Beverage Industry News",
-      "summary": "La impresión in-house de packaging proporciona a los fabricantes de bebidas mayor flexibilidad operativa y capacidad de respuesta ante cambios de demanda. Esta tendencia permite reducir tiempos de pro",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Europe Sugar-Free Energy Drinks Market: Why Are Health-Conscious Consumers Fueling a New Wave of Growth? - vocal.media",
-      "summary": "El mercado europeo de bebidas energéticas sin azúcar está experimentando crecimiento impulsado por consumidores preocupados por la salud. Esta tendencia refleja un cambio estructural en las preferenci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone strengthens holdings in Asia Pacific with double acquisition",
-      "summary": "Danone adquirió Made Group y la participación del 49% restante de su joint venture con Saputo Dairy Australia, consolidando su control total en el mercado australiano. Made Group aporta marcas en agua",
+      "title": "Danone strengthens APAC growth with acquisition of Australia’s Made | FoodBev Media",
+      "summary": "Danone adquiere Made Group, empresa australiana enfocada en alimentos y bebidas saludables, y se queda con el 100% de su joint venture de lácteos frescos en Australia con Saputo Dairy Australia. Esta ",
       "companies": [
         "Danone"
       ],
       "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone to acquire Made Group",
-      "summary": "Danone adquiere Made Group, empresa australiana especializada en lácteos funcionales con marcas enfocadas en salud digestiva y bebidas RTD de alto contenido proteico. Esta adquisición refuerza la estr",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
+        "consumer_market_trends",
         "ma_and_strategy"
       ],
       "region": "Mundial"
