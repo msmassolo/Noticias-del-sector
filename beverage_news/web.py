@@ -79,6 +79,25 @@ AREA_PROFILES = {
 }
 
 
+def _safe_url(url, fallback="#"):
+    """Allow only http/https URLs in href sinks.
+
+    html.escape() encodes <>&"' but does NOT neutralize dangerous schemes like
+    javascript: or data:, so an attacker-controlled URL (article links come from
+    external feeds and Google News redirect resolution, which don't all pass
+    through normalize_url) could become a clickable stored-XSS link on the
+    published page. This is the output-boundary guard.
+    """
+    if not url:
+        return fallback
+    candidate = url.strip()
+    scheme = candidate.split(":", 1)[0].lower() if ":" in candidate else ""
+    # Relative URLs (no scheme) are not expected here; only accept absolute http(s).
+    if scheme in ("http", "https"):
+        return candidate
+    return fallback
+
+
 def _format_date(iso_str):
     if not iso_str:
         return ""
@@ -164,7 +183,8 @@ def _article_html(article):
     displayed_summary = llm_summary or rss_summary or "Sin resumen disponible."
     pub_date = _format_date(article["published"])
 
-    translate_url = f"https://translate.google.com/translate?sl=auto&tl=es&u={escape(article['url'], quote=True)}"
+    safe_article_url = _safe_url(article["url"])
+    translate_url = f"https://translate.google.com/translate?sl=auto&tl=es&u={escape(safe_article_url, quote=True)}"
     pub_iso = escape(article["published"] or "", quote=True)
 
     # Build extra source links for merged duplicates (skip unresolved google.com URLs)
@@ -177,8 +197,11 @@ def _article_html(article):
             src_name, src_url = "Fuente alternativa", entry
         if "news.google.com" in src_url or "google.com/url" in src_url:
             continue  # Skip unresolved Google News redirects — not a real source link
+        safe_src_url = _safe_url(src_url)
+        if safe_src_url == "#":
+            continue  # Drop non-http(s) source links instead of rendering a dead/unsafe href
         extra_links += (
-            f'<a class="alt-source-btn" href="{escape(src_url, quote=True)}" '
+            f'<a class="alt-source-btn" href="{escape(safe_src_url, quote=True)}" '
             f'target="_blank" rel="noopener noreferrer">'
             f'También en: {escape(src_name)}</a>'
         )
@@ -202,7 +225,7 @@ def _article_html(article):
             <h2>{escape(article["title"])}</h2>
             <p class="summary">{escape(displayed_summary)}</p>
             <div class="card-actions">
-                <a class="original-btn" href="{escape(article['url'], quote=True)}" target="_blank" rel="noopener noreferrer">Leer nota original</a>
+                <a class="original-btn" href="{escape(safe_article_url, quote=True)}" target="_blank" rel="noopener noreferrer">Leer nota original</a>
                 {"" if article.get("language") == "es" else f'<a class="translate-btn" href="{translate_url}" target="_blank" rel="noopener noreferrer">Ver en español</a>'}
                 {extra_links}
             </div>

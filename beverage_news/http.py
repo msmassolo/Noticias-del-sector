@@ -1,5 +1,8 @@
+import ipaddress
 import logging
 import time
+from urllib.parse import urlsplit
+
 import requests
 
 
@@ -17,12 +20,41 @@ SESSION.headers.update(HEADERS)
 
 logger = logging.getLogger(__name__)
 
+# Hard cap on response body to avoid memory exhaustion from a hostile/huge page.
+MAX_RESPONSE_BYTES = 5 * 1024 * 1024  # 5 MB
+
+
+def _is_safe_url(url):
+    """Reject SSRF-prone targets before issuing a request.
+
+    Only http/https is allowed, and literal private/loopback/link-local IP hosts
+    are blocked (e.g. 127.0.0.1, 169.254.169.254 cloud metadata, 10.x, 192.168.x).
+    Legitimate news sources are domain-based and unaffected.
+    """
+    try:
+        parts = urlsplit(url)
+    except ValueError:
+        return False
+    if parts.scheme not in ("http", "https"):
+        return False
+    host = parts.hostname or ""
+    try:
+        ip = ipaddress.ip_address(host)
+    except ValueError:
+        return True  # hostname (not a literal IP) — allowed
+    return not (ip.is_private or ip.is_loopback or ip.is_link_local or ip.is_reserved)
+
 
 def fetch_text(url, timeout=4, retries=2):
+    if not _is_safe_url(url):
+        return "", "blocked_unsafe_url"
     last_status = ""
     for attempt in range(retries + 1):
         try:
             response = SESSION.get(url, timeout=timeout)
+            content_length = response.headers.get("Content-Length")
+            if content_length and content_length.isdigit() and int(content_length) > MAX_RESPONSE_BYTES:
+                return "", "too_large"
             if response.status_code != 200:
                 return "", f"http_{response.status_code}"
             if not response.encoding or response.encoding.lower() in {"iso-8859-1", "latin-1"}:

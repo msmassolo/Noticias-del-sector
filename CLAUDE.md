@@ -70,7 +70,7 @@ Canales:
 - RSS explícitos declarados en `sources.json`.
 - RSS detectados desde `<link rel="alternate">`.
 - Secciones HTML configuradas (recorre `<a>`).
-- **Google Custom Search API** (CSE) si `GOOGLE_API_KEY` y `GOOGLE_CSE_ID` están en `.env`. Quota guard: cap en 95 queries/día (free tier = 100), rastreado en `data/google_cse_usage.json`. Si quota agotada, cae automáticamente a Google News RSS.
+- **Google Custom Search API** (CSE) si `GOOGLE_API_KEY` y `GOOGLE_CSE_ID` están en `.env`. Quota guard: cap en 95 queries/día (free tier = 100), rastreado en `data/google_cse_usage.json`. Si quota agotada, cae automáticamente a Google News RSS. Ante **HTTP 403** (típicamente "Custom Search JSON API" no habilitada en el proyecto GCP de la key, key inválida o restricción referer/IP) aborta el CSE en la primera query —no reintenta las ~28— y cae a RSS; el motivo real de Google se guarda en `diagnostics.search_errors[].api_reason` / `api_message`. Habilitar la API: https://console.cloud.google.com/apis/library/customsearch.googleapis.com
 - **Google News RSS** como fallback si CSE no configurado o quota agotada.
 
 Para Google News se parsea el HTML del item RSS y se prefiere el primer enlace al medio original antes que el redirect `news.google.com`.
@@ -136,11 +136,12 @@ HTML estático con:
 - Agrupación por tópico principal, bloque **Destacados de hoy** (top 5).
 - Botón "También en: [fuente]" en artículos mergeados por dedup.
 - **Resumen del período**: sección colapsable al pie. Visible solo con ≥ 4 días acumulados; antes muestra "faltan X días".
+- **Sanitización de salida**: todo contenido dinámico pasa por `html.escape`. Además, los `href` (nota original, traducción, "También en") pasan por `_safe_url`, que solo admite esquemas `http`/`https` — bloquea `javascript:`, `data:`, etc. para evitar XSS almacenado en la página pública.
 - No editar `index.html` a mano.
 
 ### Utilidades
 
-- `http.py`: cliente HTTP con headers, timeouts y manejo de redirects.
+- `http.py`: cliente HTTP con headers, timeouts y manejo de redirects. **Guard SSRF** (`_is_safe_url`): solo `http`/`https` y bloqueo de IPs literales privadas/loopback/link-local/reservadas (ej. `127.0.0.1`, `169.254.169.254`, `10.x`, `192.168.x`). Cap de respuesta `MAX_RESPONSE_BYTES = 5 MB` vía `Content-Length`.
 - `text.py`: limpieza, normalización accent-insensitive y matching de keywords/empresas.
 - `urls.py`: normalización de URLs, remoción de tracking params.
 - `models.py`: dataclasses (`Candidate`, `Article`, `Source`, etc.).
@@ -207,13 +208,32 @@ GitHub Actions ejecuta [.github/workflows/update-news.yml](.github/workflows/upd
 
 La salida queda servida desde GitHub Pages. **Nota**: GitHub pausa workflows programados si el repo no tiene actividad por ~60 días. Un push manual reactiva el schedule.
 
+## Seguridad
+
+Modelo de amenaza: el pipeline ingiere contenido no confiable (RSS, scraping, redirects de Google News) y produce una página **pública** en GitHub Pages. Los controles vigentes:
+
+| Vector | Control | Dónde |
+|---|---|---|
+| Secretos | `.env` en `.gitignore`, nunca commiteado; sin secretos en el historial git. CI usa el `GITHUB_TOKEN` por defecto con `permissions: contents: write` (mínimo). API keys solo vía env/Secrets. | `.gitignore`, `update-news.yml` |
+| XSS almacenado | Todo contenido dinámico vía `html.escape`; `href` vía `_safe_url` (solo `http`/`https`). | `web.py` |
+| SSRF | `_is_safe_url`: solo `http`/`https`, bloqueo de IPs privadas/loopback/link-local/reservadas. Cap de respuesta 5 MB. | `http.py` |
+| Crecimiento sin límite | Ventanas rolling podadas: `published_urls.json` y `weekly_log.json` a 7 días en cada guardado. | `pipeline.py` |
+| Quota / costo APIs | CSE: cap 95 queries/día (`google_cse_usage.json`), fallback a Google News RSS al agotarse o ante 429. Anthropic: delay 13 s entre llamadas; volumen acotado por `--target-count`; caché diaria `llm_cache.json`. | `discovery.py`, `llm.py` |
+
+**Residuales conocidos (aceptados):**
+
+- El guard SSRF valida la URL inicial, no cada salto de redirect (requests sigue redirects automáticamente). Blast radius bajo: el runner de GitHub Actions no tiene red interna sensible.
+- El repo es **público** por diseño (GitHub Pages gratis): `published_urls.json` y `weekly_log.json` exponen el historial de curaduría. No hay secretos ahí, pero sí la lista de foco competitivo. Si se quiere privado, mover Pages a repo privado (requiere plan pago) o publicar solo `index.html` a un repo separado vía `publish_github.py`.
+- El `GITHUB_TOKEN` local del `.env` (usado solo por `publish_github.py`, no por el CI) debería ser un PAT fine-grained con scope mínimo (`contents:write` sobre ese único repo). Rotarlo si alguna vez se expuso.
+- Sin tope duro de llamadas LLM más allá de `--target-count`; un día anómalo no puede dispararse de costo de forma significativa, pero no hay corte explícito.
+
 ## Tests
 
 ```powershell
 python -m unittest discover -s tests -v
 ```
 
-Agregar tests cuando se modifiquen: reglas de aceptación/rechazo, keywords/aliases ambiguos, cola regional, extractores, validación post-extracción.
+Agregar tests cuando se modifiquen: reglas de aceptación/rechazo, keywords/aliases ambiguos, cola regional, extractores, validación post-extracción, **y los guards de seguridad (`_safe_url`, `_is_safe_url`)**.
 
 ## Convenciones
 

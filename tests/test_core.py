@@ -9,7 +9,8 @@ from beverage_news.ranking import build_extraction_queue, rank_items
 from beverage_news.text import normalize_text, term_in_text
 from beverage_news.urls import normalize_url
 from beverage_news.validation import validate_article
-from beverage_news.web import TOPIC_LABELS, _article_dict, _filter_buttons, _sort_topics, _uniq
+from beverage_news.web import TOPIC_LABELS, _article_dict, _article_html, _filter_buttons, _safe_url, _sort_topics, _uniq
+from beverage_news.http import _is_safe_url
 
 
 class CoreTest(unittest.TestCase):
@@ -250,6 +251,43 @@ class CoreTest(unittest.TestCase):
         self.assertEqual(article_dict["primary_topic"], "product_innovation")
         self.assertIn('data-filter="topic" data-value="product_innovation"', html)
         self.assertNotIn('data-filter="topic" data-value="financial_results"', html)
+
+
+class SecurityTest(unittest.TestCase):
+    def test_safe_url_blocks_dangerous_schemes(self):
+        self.assertEqual(_safe_url("javascript:alert(1)"), "#")
+        self.assertEqual(_safe_url("JavaScript:alert(1)"), "#")
+        self.assertEqual(_safe_url("data:text/html,<script>1</script>"), "#")
+        self.assertEqual(_safe_url("vbscript:msgbox(1)"), "#")
+        self.assertEqual(_safe_url(""), "#")
+
+    def test_safe_url_allows_http(self):
+        self.assertEqual(_safe_url("https://example.com/x"), "https://example.com/x")
+        self.assertEqual(_safe_url("http://example.com/x"), "http://example.com/x")
+
+    def test_article_html_never_emits_javascript_href(self):
+        article = _article_dict(
+            Article(
+                title="T", url="javascript:alert(document.domain)", source="S",
+                country="AR", region="Local", language="es",
+                published=datetime.now(timezone.utc).isoformat(),
+                summary="s", body="b" * 100, companies=[], segments=["company_news"],
+                keyword_categories=[], discovery="rss",
+            )
+        )
+        html = _article_html(article)
+        self.assertNotIn("javascript:", html)
+
+    def test_is_safe_url_blocks_ssrf_targets(self):
+        self.assertFalse(_is_safe_url("http://169.254.169.254/latest/meta-data/"))
+        self.assertFalse(_is_safe_url("http://127.0.0.1:8080/"))
+        self.assertFalse(_is_safe_url("http://10.0.0.5/"))
+        self.assertFalse(_is_safe_url("http://192.168.1.1/"))
+        self.assertFalse(_is_safe_url("file:///etc/passwd"))
+
+    def test_is_safe_url_allows_public_hosts(self):
+        self.assertTrue(_is_safe_url("https://www.reuters.com/markets"))
+        self.assertTrue(_is_safe_url("http://example.org/feed.xml"))
 
 
 if __name__ == "__main__":

@@ -587,7 +587,31 @@ def discover_from_google_cse(companies, keywords, sources, diagnostics, max_quer
                 break
 
             if resp.status_code != 200:
-                diagnostics["search_errors"].append({"region": region, "query": query_text, "reason": f"http_{resp.status_code}"})
+                # Extract Google's real error reason from the body (e.g. API not enabled,
+                # invalid key, referer restriction) instead of an opaque http_403.
+                api_reason, api_message = "", ""
+                try:
+                    err = resp.json().get("error", {})
+                    api_message = err.get("message", "")
+                    api_errors = err.get("errors") or []
+                    api_reason = (api_errors[0].get("reason", "") if api_errors else "") or err.get("status", "")
+                except Exception:
+                    pass
+                diagnostics["search_errors"].append({
+                    "region": region, "query": query_text,
+                    "reason": f"http_{resp.status_code}",
+                    "api_reason": api_reason, "api_message": api_message,
+                })
+                # A 403 means a project/key misconfiguration that affects every query
+                # (API disabled, key invalid, referer/IP restriction). Retrying the
+                # remaining queries just burns time and never succeeds — abort to RSS.
+                if resp.status_code == 403:
+                    logger.warning(
+                        "Google CSE: 403 %s — %s. Aborting CSE (check that Custom Search API "
+                        "is enabled for this key's GCP project). Falling back to Google News RSS.",
+                        api_reason or "forbidden", api_message or "no message",
+                    )
+                    break
                 errors += 1
                 continue
 
