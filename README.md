@@ -8,7 +8,7 @@ Objetivo de uso: lectura diaria rápida del equipo, para tener una visión de ac
 
 ## Monitor publicado
 
-[Abrir monitor de noticias](https://msmassolo.github.io/Noticias-del-sector---Ult-momento/)
+[Abrir monitor de noticias](https://msmassolo.github.io/Noticias-del-sector/)
 
 ## Flujo del pipeline
 
