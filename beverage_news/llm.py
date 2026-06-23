@@ -455,20 +455,26 @@ def generate_weekly_summary(weekly_log: dict) -> dict:
 _DEDUP_SYSTEM = """\
 You are a news deduplication assistant for a beverage industry monitor.
 
-Your task: given a numbered list of article titles, identify which ones cover the \
-SAME specific news event — even when written with different words or angles.
+Your task: given titles organized into numbered groups, identify which titles WITHIN \
+the same group cover the SAME specific news event — even when written with different \
+words or angles. Only compare titles inside the same group; never merge across groups.
+
+Each title is labeled "G.P" where G is the group number and P is its position in the \
+group (e.g. "3.2" = second title of group 3).
 
 Two titles cover the SAME event when they report the same specific announcement, \
-result, deal, or development (e.g. both about Coca-Cola Q1 2026 earnings).
+result, deal, or development (e.g. both about Coca-Cola Q1 2026 earnings, or both about \
+the same acquisition).
 
 They do NOT cover the same event if they are about the same general topic but \
 different specific events (e.g. Q1 results vs Q2 results, or two different product launches).
 
-Respond with ONLY a valid JSON array of arrays. Each inner array contains the \
-1-based indices of titles covering the same event. Only include groups of 2 or more. \
+Respond with ONLY a valid JSON array of arrays. Each inner array lists the "G.P" string \
+labels of titles covering the same event. Only include groups of 2 or more labels. \
 If no duplicates exist, respond with: []
 
-Example: [[1,3],[2,5]] means titles 1 & 3 are the same event, and 2 & 5 are the same event.
+Example: [["3.1","3.3"],["5.2","5.4"]] means titles 3.1 & 3.3 are the same event, and \
+5.2 & 5.4 are the same event.
 No extra text, no markdown.
 """
 
@@ -578,7 +584,8 @@ def semantic_dedup_articles(articles: list) -> tuple:
                 merge_global = _resolve(other)
                 if merge_global != keep_global and merge_global not in merge_into:
                     merge_into[merge_global] = keep_global
-        except (ValueError, IndexError):
+        except (ValueError, IndexError) as exc:
+            logger.warning("Semantic dedup: could not resolve pair %r (%s)", pair, exc)
             continue
 
     if not merge_into:
