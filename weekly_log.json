@@ -1896,180 +1896,88 @@
   ],
   "2026-06-24": [
     {
-      "title": "Renunció a las multinacionales para apostar por su idea y hoy factura u$s1 millón con su negocio",
-      "summary": "Un ex ejecutivo de Quilmes, Shell y Coca-Cola fundó Pomona Foods y Panthera, startups que utilizan tecnología de liofilización para procesar bebidas y alimentos. El negocio alcanzó facturación de USD ",
-      "companies": [
-        "The Coca-Cola Company",
-        "AB InBev",
-        "Cerveceria y Malteria Quilmes"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Se amplía con el vino: uno de los grupos agroindustriales más grandes de Argentina compró otra bodega |",
-      "summary": "Molinos Río de la Plata, integrante de uno de los principales holdings agroindustriales argentinos, adquirió Bodega Etchart a Pernod Ricard Argentina. La operación representa una estrategia de diversi",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Nuevo dueño: Molinos Río de la Plata compró una conocida bodega salteña y se expande en el negocio del vino",
-      "summary": "Molinos Río de la Plata adquirió Bodegas Etchart, una bodega tradicional salteña, a través de Pernod Ricard Argentina, incorporando marcas, activos y personal. La operación fue reportada como hecho re",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "“Welcome Back, Paisano”: Tecate y LePub Mexico City transforman la repatriación en un modelo de negocio",
-      "summary": "Tecate y LePub Mexico City desarrollaron una estrategia comercial dirigida a mexicanos repatriados desde EE.UU., posicionando la marca como aliada en la reintegración. Esta iniciativa representa una o",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Walmart mantendrá inversiones en México; ve consumo resiliente",
-      "summary": "Walmart de México y Centroamérica reafirma inversiones por 43,000 millones de pesos en 2024, con enfoque en e-commerce y fortalecimiento de presencia. La declaración refleja confianza en resiliencia d",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "La campaña cervecera apunta a frenar ventas a menores de edad",
-      "summary": "Cerveceros de México relanza la campaña \"No te hagas güey\" el 22 de junio para reforzar la prevención de venta a menores de edad, expandiendo su alcance a puntos de venta, canales digitales y eventos ",
+      "title": "Molinos Río de la Plata amplía su presencia en el negocio del vino con la compra de Bodegas Etchart - LM Neuquén",
+      "summary": "Molinos Río de la Plata adquirió Bodegas Etchart, ampliando su portafolio en el segmento de vinos. Esta operación de M&A fortalece la posición del conglomerado en bebidas alcohólicas, diversificando m",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "ma_and_strategy"
       ],
-      "region": "Regional"
+      "region": "Local"
     },
     {
-      "title": "Heineken traz brasileiro da indústria do café e do chá para ser o novo CEO global - Folha de S.Paulo",
-      "summary": "Heineken designó como nuevo CEO global a un ejecutivo brasileño con trayectoria en las industrias de café y té. Este movimiento refleja la estrategia del grupo de incorporar talento con experiencia en",
+      "title": "El lanzamiento de Stella Artois en Wimbledon convierte las fresas con crema en cerveza",
+      "summary": "Stella Artois lanzó una cerveza de edición limitada inspirada en fresas con crema, el postre icónico de Wimbledon. La iniciativa evidencia una estrategia de innovación en sabores y posicionamiento pre",
       "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PopSips Expands Its Spiked Prebiotic Soda Into 2,000 Target, Walmart, Kroger, Safeway, and Sprouts Stores",
-      "summary": "PopSips, líder en sodas prebióticas alcohólicas, expandió su distribución a más de 2.000 puntos de venta (Target, Walmart, Kroger, Safeway, Albertsons, HEB, Sprouts) con un crecimiento de 6x desde su ",
-      "companies": [
-        "Poppi",
-        "Walmart"
+        "AB InBev"
       ],
       "segments": [
         "consumer_market_trends",
         "product_innovation"
       ],
-      "region": "Mundial"
+      "region": "Regional"
     },
     {
-      "title": "Poppi launch drives prebiotic soda sales boom",
-      "summary": "La marca Poppi, respaldada por PepsiCo, lideró un boom en bebidas prebióticas en Reino Unido tras su lanzamiento en marzo 2026, alcanzando £8.5M en ventas minoristas en 52 semanas. El segmento de soda",
+      "title": "Na esteira do Festival de Parintins, projeto da Coca-Cola com Green Mining leva reciclagem a comunidades ribeirinhas da Amazônia",
+      "summary": "Coca-Cola Brasil lanzó un proyecto piloto de logística reversa con Green Mining en comunidades ribereñas amazónicas, utilizando embarcaciones para recolectar residuos y promover educación ambiental. L",
       "companies": [
-        "Poppi"
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "packaging_sustainability",
+        "supply_chain_commodities"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diageo proposes 150 job cuts in Ireland",
+      "summary": "Diageo, propietaria de Baileys, anuncia despidos de aproximadamente 150 empleados en su operación irlandesa como parte de un plan de reestructuración. La multinacional británica notificó oficialmente ",
+      "companies": [
+        "Diageo"
       ],
       "segments": [
         "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Rafael Oliveira to become Heineken CEO",
+      "summary": "Heineken designó a Rafael Oliveira como nuevo CEO a partir del 1 de octubre de 2026, reemplazando al actual liderazgo. Oliveira es reconocido por su capacidad de traducir estrategia en ejecución disci",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Walmart and Amazon’s rapid-delivery war raises consumer expectations",
+      "summary": "Walmart y Amazon intensifican la competencia en entregas rápidas, elevando las expectativas de consumidores que combinan compra online y en tienda. Estos clientes omnichannel gastan más y son el motor",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
         "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Brown-Forman, Sazerac Release New RTDs as Category Buoys Spirits Growth | Brewbound",
-      "summary": "Brown-Forman y Sazerac lanzan nuevas marcas y extensiones en la categoría de bebidas listas para beber (RTD), confirmando el crecimiento sostenido de este segmento en el mercado de destilados. Las beb",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El Jimador creates canned Spritz line",
-      "summary": "Brown-Forman lanzó una línea de Spritz en lata bajo la marca El Jimador Tequila en EE.UU., basada en tequila 100% agave Blanco con 4,8% ABV en tres sabores (mango, lima, naranja). La iniciativa respon",
+      "title": "Winners And Losers Of Q3: Brown-Forman (NYSE:BF.B) Vs The Rest Of The Beverages, Alcohol, and Tobacco Stocks - Yahoo Finance",
+      "summary": "Análisis comparativo de desempeño financiero de Q3 entre Brown-Forman y sus competidores en la industria de bebidas y alcohol. Brown-Forman, productor global de destilados premium (Jack Daniel's, Wood",
       "companies": [
         "Brown-Forman"
       ],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Sazerac creates three new RTD brands for US",
-      "summary": "Sazerac lanza tres nuevas marcas de bebidas alcohólicas listas para consumir (RTD) en EE.UU.: Lovebug Hard Cream Soda, Endless Afternoon Whiskey Lemonade y Buckhorn Whiskey Lemonade. La estrategia res",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardi becomes sole owner of Teeling Irish whiskey",
-      "summary": "Bacardi completó la adquisición del 100% de Teeling Irish Whiskey, tras tomar participación minoritaria en 2017 y mayoría en 2023. Los fundadores (hermanos Teeling) permanecerán en la marca para impul",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardi shakes up regional leadership team",
-      "summary": "Bacardi, la mayor empresa de bebidas espirituosas privada del mundo, reestructura su liderazgo regional nombrando a Ignacio Del Valle como presidente regional exclusivo para América Latina y el Caribe",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hennessy and Bad Bunny take on London",
-      "summary": "Hennessy Cognac (LVMH) actúa como sponsor oficial global de la gira mundial de Bad Bunny 'Debí Tirar Más Fotos', con activaciones estratégicas en ciudades clave como Londres (26-27 de junio). La inici",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beer Sales Improve as World Cup Boost Begins to Materialize, Per Circana Weekly Scans | Brewbound",
-      "summary": "Las ventas de cerveza muestran mejora en canales off-premise gracias al impulso del Mundial FIFA, validando predicciones de la industria de bebidas alcohólicas. Según datos semanales de Circana, el ev",
+      "title": "Susana Balbo strengthens UK presence with Matthew Clark Bibendum partnership",
+      "summary": "Susana Balbo, productora argentina de vinos, designó a Matthew Clark Bibendum como distribuidor exclusivo en Reino Unido para fortalecer su presencia en mercados on-trade y off-trade. La decisión ampl",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2078,8 +1986,62 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo set to cull 150 jobs in Ireland as part of restructure",
-      "summary": "Diageo, uno de los mayores productores globales de bebidas alcohólicas (propietario de Guinness, Johnnie Walker y otras marcas líderes), anuncia despidos de 150 empleados en Irlanda como parte de una ",
+      "title": "Monster Beverage (MNST) Stock After 47% Yearly Gain Is The Price Still Attractive - Yahoo Finance Singapore",
+      "summary": "Monster Beverage registra una ganancia accionaria del 47% en el año, posicionándose como uno de los mejores desempeños en la industria de bebidas energéticas. El análisis plantea interrogantes sobre l",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Ribena maker unveils £14.5m investment in blackcurrant processing facility - Insider Media Ltd",
+      "summary": "GlaxoSmithKline Consumer Healthcare invierte £14.5 millones en una nueva planta de procesamiento de grosella negra para Ribena, fortaleciendo su cadena de suministro de ingredientes clave. Esta invers",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Afternoon Brief, June 23",
+      "summary": "Las ventas de vino muestran una leve estabilización después de caídas pronunciadas en 2025, aunque los niveles de inventario siguen elevados y las exportaciones continúan en baja. Esta tendencia afect",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is Heineken and Heinz’s beer and ketchup six-pack inspired or impractical? - Packaging Europe",
+      "summary": "Heineken y Heinz lanzaron un pack combinado que integra cerveza y ketchup en un único producto. La iniciativa representa una innovación en packaging y cross-branding que busca simplificar la experienc",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Zero Proof Acquires The New Bar For On-Premise Reach - BevNET.com",
+      "summary": "The Zero Proof adquirió The New Bar, un programa de hospitalidad y descubrimiento de bebidas sin alcohol con presencia en la Costa Oeste de EE.UU. Esta adquisición refuerza la posición de The Zero Pro",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo sets AGM date and dividend timetable, shares in focus on the London market - Ad-hoc-news.de",
+      "summary": "Diageo, mayor productor mundial de bebidas alcohólicas premium, anunció la fecha de su Asamblea General de Accionistas y el cronograma de dividendos. Esta información es estratégicamente relevante par",
       "companies": [
         "Diageo"
       ],
@@ -2089,65 +2051,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Suntory invests £14.5m in UK blackcurrant processing facility | FoodBev Media",
-      "summary": "Suntory Beverage & Food invirtió £14.5 millones en una nueva planta de procesamiento de grosella negra en Herefordshire, Reino Unido, para fortalecer su cadena de suministro local de Ribena. La invers",
-      "companies": [
-        "Suntory Beverage & Food"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "US breweries reignite trend for mid-strength beer",
-      "summary": "Cervecerías estadounidenses están revitalizando la tendencia de cervezas de fuerza media (4-5% ABV) como estrategia diferencial frente a segmentos light y no alcohólicos. El movimiento responde a cicl",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Stock Could Be 6.9% Overvalued After Red Bull Price Increase - simplywall.st",
-      "summary": "Red Bull implementó aumentos de precios que podrían afectar la valuación de Monster Beverage, el principal competidor en el segmento de bebidas energéticas. El análisis sugiere que las acciones de Mon",
-      "companies": [
-        "Red Bull",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mahou San Miguel encadena nueve años como la cervecera con mejor reputación de España",
-      "summary": "Mahou San Miguel se consolida como la cervecera con mejor reputación en España por noveno año consecutivo, según el ranking Merco 2026, ubicándose en el puesto 11 de la clasificación general de empres",
-      "companies": [
-        "Mahou San Miguel"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper (NASDAQ: KDP) reaffirms 2026 guidance amid coffee leadership change - Stock Titan",
-      "summary": "Keurig Dr Pepper confirmó sus guías financieras para 2026 mientras implementa cambios en su liderazgo de la división de café. La noticia es relevante para monitorear la estabilidad estratégica del seg",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Illuminated fermentation tested to boost coffee cell culture production",
-      "summary": "Brevel, empresa de biotech climática, se asocia con Coffeesai para desarrollar fermentación iluminada que acelere la producción de cultivo de células de café, tecnología que reduce tiempos de laborato",
+      "title": "Las bebidas RTD rozan los 200 millones de libras en la hostelería británica",
+      "summary": "Las bebidas RTD (ready-to-drink) alcanzaron casi 200 millones de libras en ventas en establecimientos de hostelería británica durante 2025, creciendo 2,6% interanual y superando el desempeño general d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2156,160 +2061,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola’s $20 Billion Tax Case is Headed to Appeals Court, WSJ Reports - Yahoo Finance",
-      "summary": "Coca-Cola enfrenta un caso fiscal de $20 mil millones que avanza hacia una corte de apelaciones, según reportes de Wall Street Journal. Este litigio tiene implicancias significativas para la estructur",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman, Sazerac Bet on New RTDs as Category Buoys Spirits Growth - BevNET.com",
-      "summary": "Brown-Forman y Sazerac lanzan nuevos productos ready-to-drink (RTD) hoy, reflejando la apuesta de los grandes productores de spirits en esta categoría de alto crecimiento. Las bebidas RTD premezcladas",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken unveils new chief executive",
-      "summary": "Heineken nombró nuevo CEO a Fernando Oliveira, quien llegará desde JDE Peet's en octubre de 2026. Oliveira liderará la nueva Global Coffee Co de Keurig Dr Pepper, un negocio de US$16 mil millones en i",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken names Rafa Oliveira as CEO",
-      "summary": "Heineken designó a Rafael Oliveira como nuevo CEO a partir del 1 de octubre. Oliveira proviene de JDE Peet's (adquirida por Keurig Dr Pepper) donde lideraba operaciones de café y té, trayendo experien",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken Names JDE Peet’s Leader Rafael Oliveira as Next CEO | Brewbound",
-      "summary": "Heineken N.V. nombró a Rafael Oliveira, actual líder de JDE Peet's (división de café), como próximo CEO a partir de octubre de 2024. El cambio marca un giro estratégico al traer un ejecutivo de fuera ",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardi promotes senior executives in regional leadership reshuffle",
-      "summary": "Bacardi anuncia reestructuración de liderazgo regional con Ignacio Del Valle como nuevo presidente para Latinoamérica y Caribe a partir de octubre. Con 30 años en la compañía, Del Valle asume tras ges",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Gets A Lift As Red Bull Raises U.S. Prices - Yahoo Finance",
-      "summary": "Red Bull aumentó precios en el mercado estadounidense, lo que genera un efecto positivo para Monster Beverage (MNST), su principal competidor en la categoría de bebidas energéticas. Este movimiento de",
-      "companies": [
-        "Red Bull",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Suntory Beverage & Food invests £14.5m in Ribena production",
-      "summary": "Suntory Beverage & Food invierte £14.5M en una nueva planta de procesamiento de grosella negra para Ribena, su marca emblemática en el Reino Unido e Irlanda. La instalación generará 12 empleos permane",
-      "companies": [
-        "Suntory Beverage & Food"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mount Gay Unveils Its Exceptionally Aged Collection",
-      "summary": "Mount Gay lanza su Exceptionally Aged Collection, una línea de prestige con declaraciones de edad clara que reemplaza su Master Blender Collection. La iniciativa refuerza el posicionamiento premium de",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardí takes full ownership of Teeling Whiskey",
-      "summary": "Bacardí completó la adquisición total de Teeling Whiskey, consolidando una inversión iniciada hace una década con una participación minoritaria. La operación refuerza la estrategia de diversificación ",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ingredion-Tate & Lyle deal: the future of ingredients solutions",
-      "summary": "Ingredion y Tate & Lyle completaron un acuerdo de £2.7bn para consolidarse como proveedor integrado de soluciones de ingredientes. La fusión responde a la presión de consumidores por productos clean l",
+      "title": "France bans alcohol at festivals as heatwave grips wine regions",
+      "summary": "Francia ha implementado restricciones temporales de consumo de alcohol en eventos organizados por el estado y espacios públicos durante una ola de calor extrema que afecta al 90% de la población, con ",
       "companies": [],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Bacardi toma el control total de Teeling para reforzarse en el whisky irlandés",
-      "summary": "Bacardi completó la adquisición total de Teeling Irish Whiskey, convirtiéndose en único propietario de la marca producida en Dublín. Esta operación estratégica fortalece la posición de Bacardi en la c",
-      "companies": [
-        "Bacardi"
-      ],
+      "title": "One in three Brits cut back on booze",
+      "summary": "Un tercio de los consumidores de alcohol en Reino Unido reduce su ingesta, según encuesta de YouGov. La tendencia hacia la moderación y el consumo consciente afecta estratégicamente al sector de bebid",
+      "companies": [],
       "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone acquires MADE Group to expand APAC nutrition portfolio - Food & Beverage Industry News",
-      "summary": "Danone adquirió MADE Group para fortalecer su posicionamiento en nutrición en la región Asia-Pacífico. Esta estrategia de M&A responde a la expansión de Danone en categorías de alto crecimiento y merc",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Well-known Pepsi soda brand made with real sugar quietly returns to stores - PennLive.com",
-      "summary": "Pepsi relanzó una variante de su portafolio elaborada con azúcar real en el mercado estadounidense tras estar discontinuada. Este movimiento responde a la creciente demanda de consumidores por product",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
