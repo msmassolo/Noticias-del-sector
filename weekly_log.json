@@ -1,311 +1,4 @@
 {
-  "2026-06-17": [
-    {
-      "title": "EEUU vuelve al conflicto con Francia y amenaza con un arancel del 100% al vino y champagne",
-      "summary": "Donald Trump amenaza con aranceles del 100% sobre vino y champagne francés en respuesta al impuesto digital de Francia del 3%. Esta medida escalaría significativamente los costos de importación de beb",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Esta cerveza transforma el packaging del Mundial 2026 en una nueva plataforma de marketing con latas coleccionables",
-      "summary": "Quilmes lanza tres latas coleccionables edición Mundial 2026 que conmemoran los títulos campeones de Argentina (1978, 1986, 2022), posicionando el packaging como plataforma de marketing. Ball Corporat",
-      "companies": [
-        "AB InBev",
-        "Cerveceria y Malteria Quilmes"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Bacardi pierde apelación en Estados Unidos en la disputa por la marca \"Havana Club\"",
-      "summary": "Bacardi perdió una apelación en Estados Unidos sobre los derechos de la marca Havana Club, ratificando la decisión de la USPTO de 2016 que reconoce a la empresa cubana como propietaria. Esta sentencia",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "BNDES e Grupo HEINEKEN assinam parceria de R$ 5 milhões para restauração ecológica - Business Moment",
-      "summary": "Heineken y BNDES (Banco Nacional de Desarrollo de Brasil) suscriben una alianza de R$ 5 millones para restauración ecológica en Brasil. Esta inversión refuerza la estrategia de sustentabilidad corpora",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "“Para los bares, un partido de Colombia mueve el consumo como si fuera un viernes”",
-      "summary": "Durante la Copa del Mundo, los eventos deportivos generan picos de consumo significativos en canales on-premise. Evedesa proyecta vender más de 17.000 botellas de aguardiente y 100.000 unidades de cer",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Anheuser-Busch invierte 20 millones en Misuri para impulsar Michelob ULTRA",
-      "summary": "Anheuser-Busch invierte $20M en Misuri para expandir producción de Michelob ULTRA, modernizar equipos de manufactura y envasado, y crear un centro de capacitación técnica. La inversión se concentra en",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is Iron Maiden releasing a West Coast IPA with Lagunitas an ‘evolution’ for Trooper?",
-      "summary": "Iron Maiden lanza Trooper West Coast IPA en colaboración con Lagunitas (subsidiaria de Heineken), expandiendo su línea de bebidas alcohólicas que ya opera con 11 cervecerías globales desde 2013. Con 4",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone’s Silk brand expands protein line-up with new plant-based yogurts and shakes | FoodBev Media",
-      "summary": "Danone expande su línea de productos plant-based de alto contenido proteico a través de su marca Silk, lanzando Silk Protein Yogurt y Silk Protein Shakes en el mercado estadounidense durante el verano",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari Builds On The Aperol Playbook, Without The Booze - BevNET.com",
-      "summary": "Campari replica su estrategia de éxito con Aperol en Crodino, su aperitivo amargo sin alcohol. La compañía busca posicionar Crodino como un ritual de consumo (similar al Aperol Spritz) aprovechando la",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Doublesoul Gets Six-figure Investment From Allison Ellsworth, Cofounder of Poppi, Prebiotic Soda - WWD",
-      "summary": "Doublesoul recibió inversión de seis cifras de Allison Ellsworth, cofundadora de Poppi, la marca de gaseosas prebióticas que lidera el segmento functional beverages en EE.UU. Esta inversión señala el ",
-      "companies": [
-        "Poppi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Are reformulation demands moving faster than brands can respond? Hear from PepsiCo and industry leaders",
-      "summary": "PepsiCo y líderes de la industria debaten la velocidad de reformulación de productos versus presiones regulatorias y de consumidores. El consenso tradicional sobre reformulación como solución comparti",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands Stock (US21036P1084): Quarterly earnings and outlook in focus - AD HOC NEWS",
-      "summary": "Constellation Brands, productor global de bebidas alcohólicas con presencia significativa en cerveza, vino y destilados, reporta resultados trimestrales con énfasis en perspectivas futuras. Como líder",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Spirits Continue to Outshine Beer and Wine as Bev-Alc Sales Slip to Start June, per Circana Weekly Scans | Brewbound",
-      "summary": "Las ventas de bebidas alcohólicas fuera del punto de venta (off-premise) cayeron en la primera semana completa de junio comparado con el año anterior y la semana previa, según datos de Circana. Los de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Tetra Pak and Jealsa launch 'first carton packaging for shelf-stable tuna' | FoodBev Media",
-      "summary": "Tetra Pak y Jealsa lanzaron el primer envase de cartón para atún estable en anaquel, desafiando el dominio histórico de las latas metálicas en esta categoría. Esta innovación en packaging representa u",
-      "companies": [
-        "Tetra Pak"
-      ],
-      "segments": [
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Chance Clean Cider raises funds to boost next stage of expansion",
-      "summary": "Chance Clean Cider, marca de sidra sin y baja en alcohol fundada en 2024, busca recaudar hasta £1 millón para acelerar su expansión en Reino Unido e internacionalmente. La empresa, operada por Tripple",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "94% of alcohol-free beer drinkers also consume booze",
-      "summary": "Estudio conjunto de KAM Insight y Athletic Brewing revela que 94% de consumidores de cerveza sin alcohol también consumen bebidas alcohólicas, desafiando la percepción tradicional del segmento. Solo 2",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "National Beverage Corp Stock (US6350171061): Earnings Trends And Valuation In Focus After Recent Res - AD HOC NEWS",
-      "summary": "National Beverage Corp reportó resultados recientes que generan atención sobre sus tendencias de ganancias y valuación. La compañía, dueña de marcas como LaCroix y Fanta, es un competidor relevante en",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bayou Rum receives makeover",
-      "summary": "Stoli Group relanzó Bayou Rum con reformulación de producto y rediseño de packaging en su destilería de Louisiana. La mejora incluye nuevas recetas para sus expresiones White y Spiced, bajo la direcci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Le Philtre partners with Mangrove in UK",
-      "summary": "Le Philtre, marca de vodka orgánico francesa, cambió su distribuidor en Reino Unido de Cask Liquid Marketing a Mangrove. La nueva alianza busca expandir la penetración de la marca premium eco-friendly",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kirin Holdings Co Ltd Stock (JP3258000003): Quarterly earnings and outlook draw investor focus - AD HOC NEWS",
-      "summary": "Kirin Holdings, uno de los principales productores globales de bebidas, publicó resultados trimestrales que están bajo escrutinio de inversores. La compañía nipona, con presencia significativa en merc",
-      "companies": [
-        "Kirin Holdings"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper Stock (US49271V1008): Quarterly earnings and valuation in focus - AD HOC NEWS",
-      "summary": "Keurig Dr Pepper reporta resultados trimestrales con énfasis en métricas de valuación. La compañía es uno de los principales actores globales en bebidas no alcohólicas (café, refrescos, bebidas especi",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Consolidated: A Bottling Fortress Facing A Costlier Can (NASDAQ:COKE) - Seeking Alpha",
-      "summary": "Coca-Cola Consolidated, embotellador clave de The Coca-Cola Company, enfrenta presiones de costos en packaging, particularmente en latas cuyo precio se ha incrementado significativamente. Este análisi",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Champagne-baiting English wine brand invites public investment",
-      "summary": "Folc, marca inglesa de rosé ganadora de premios, lanza una ronda de inversión pública a través de Republic Europe para financiar su expansión en canales de distribución (hotelería, retail y directo al",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nestlé Waters sale tested as buyers weigh risks",
-      "summary": "Nestlé avanza en la venta de parte de su división de aguas anunciada en febrero de 2025, pero potenciales compradores evalúan riesgos significativos. La operación se complica por investigaciones regul",
-      "companies": [
-        "Nestle Waters"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Walmart’s Aloha reset highlights how snack bars are overtaking center store",
-      "summary": "Aloha, marca de barras proteicas, reposicionó su portafolio en ~2.000 locales de Walmart (EE.UU.) migrando del pasillo de nutrición deportiva al centro de almacén (snacks) en abril, logrando increment",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Digital influence rises, but consumers still trust people over AI, study finds",
-      "summary": "Un estudio de Chelsea Co. revela que si bien los canales digitales ganan importancia en el descubrimiento de bebidas, los consumidores confían significativamente más en recomendaciones humanas y exper",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Delta Global Management LP Makes New Investment in Molson Coors Beverage Company $TAP - MarketBeat",
-      "summary": "Delta Global Management LP realizó una nueva inversión en Molson Coors Beverage Company, uno de los principales productores de bebidas alcohólicas en Norteamérica. Este movimiento refleja actividad de",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardi loses latest Havana Club hearing",
-      "summary": "Bacardi perdió un recurso legal en la Corte de Apelaciones de EE.UU. sobre la disputa de propiedad de la marca Havana Club. La corte confirmó la decisión del USPTO de renovar el registro federal de la",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-06-18": [
     {
       "title": "Projeções de Resultados: Ambev SA (ABEV) — LPA e Crescimento de Receita - TradingKey",
@@ -2073,6 +1766,347 @@
       "title": "One in three Brits cut back on booze",
       "summary": "Un tercio de los consumidores de alcohol en Reino Unido reduce su ingesta, según encuesta de YouGov. La tendencia hacia la moderación y el consumo consciente afecta estratégicamente al sector de bebid",
       "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-06-25": [
+    {
+      "title": "Renunció a las multinacionales para apostar por su idea y hoy factura u$s1 millón con su negocio",
+      "summary": "Emprendedor con experiencia en Quilmes, Shell y Coca-Cola fundó Pomona Foods y Panthera, empresas especializadas en tecnología de liofilización que facturan USD 1 millón anuales. La innovación en proc",
+      "companies": [
+        "The Coca-Cola Company",
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Molinos Río de la Plata amplía su presencia en el negocio del vino con la compra de Bodegas Etchart - LM Neuquén",
+      "summary": "Molinos Río de la Plata adquiere Bodegas Etchart, consolidando su expansión en el segmento de vinos. La operación representa una estrategia de diversificación de portafolio en bebidas alcohólicas para",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "El lanzamiento de Stella Artois en Wimbledon convierte las fresas con crema en cerveza",
+      "summary": "Stella Artois lanzó una cerveza inspirada en fresas con crema en el torneo de Wimbledon, aprovechando un evento de masivo consumo para posicionar un producto innovador. La estrategia de la marca vincu",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Caneta emagrecedora muda demanda e cardápio de redes",
+      "summary": "Las inyecciones GLP-1 (como Ozempic) están transformando el comportamiento de consumo en Brasil: 61% de bares y restaurantes reportan cambios en patrones de compra de clientes, mientras que 22% de bra",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diageo proposes 150 job cuts in Ireland",
+      "summary": "Diageo, principal productor global de bebidas alcohólicas (propietario de Baileys y otras marcas), propone eliminar aproximadamente 150 puestos de trabajo en su operación irlandesa como parte de su pl",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El Jimador creates canned Spritz line",
+      "summary": "Brown-Forman lanzó una línea de Spritz en lata bajo su marca El Jimador Tequila en EE.UU., aprovechando la tendencia de bebidas RTD (ready-to-drink) de bajo ABV (4.8%). El portafolio incluye tres sabo",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac creates three new RTD brands for US",
+      "summary": "Sazerac lanzó tres nuevas marcas de bebidas alcohólicas RTD (listas para beber) en EE.UU.: Lovebug Hard Cream Soda, Endless Afternoon Whiskey Lemonade y Buckhorn Whiskey Lemonade, estrategia de crecim",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo Iberia ficha a Servio Calvo para dirigir su área comercial",
+      "summary": "Diageo Iberia designó a Servio Calvo como nuevo director comercial con asunción el 18 de julio, integrándose al comité de dirección. Calvo proviene de Grupo Bimbo donde lideraba ventas para España, co",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Reports: Diageo Layoffs Hit North American Business Unit - BevNET.com",
+      "summary": "Diageo, gigante alcohólico con marcas líderes como Guinness, Johnnie Walker y Smirnoff, está implementando despidos en su unidad de negocio de Norteamérica bajo la dirección del CEO Dave Lewis como pa",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken rompe su tradición y ficha a un consejero delegado ajeno a la empresa",
+      "summary": "Heineken nombra a Rafael Oliveira como nuevo CEO, marcando un quiebre histórico al designar por primera vez a un ejecutivo externo para su máximo cargo. El cambio, sujeto a aprobación accionaria el 5 ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Hennessy and Bad Bunny take on London",
+      "summary": "Hennessy Cognac, marca de LVMH, es patrocinador oficial global de la gira mundial de Bad Bunny 'Debí Tirar Más Fotos'. La estrategia incluye activaciones experienciales en ciudades clave como Londres ",
+      "companies": [
+        "LVMH Wines & Spirits"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Asahi Zeitaku Shibori caters to demand for Japanese RTDs",
+      "summary": "Asahi Group lanza Zeitaku Shibori, un RTD (ready-to-drink) de base espirituosa que capitaliza la demanda creciente de bebidas premium japonesas. Los RTDs de spirits-base crecieron 14% en EE.UU. durant",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bacardi promotes senior executives in regional leadership reshuffle",
+      "summary": "Bacardi anuncia reorganización ejecutiva con Ignacio Del Valle como presidente regional para Latinoamérica y el Caribe a partir de octubre. Del Valle, con 30 años en la empresa, asumirá esta posición ",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jefferies cuts Constellation Brands stock price target on margin concerns - Investing.com UK",
+      "summary": "Jefferies redujo el precio objetivo de las acciones de Constellation Brands por preocupaciones sobre márgenes operativos. Constellation Brands es uno de los mayores productores de bebidas alcohólicas ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Bull Case For Constellation Brands (STZ) Could Change Following Q1 FY27 Earnings Surprise Shift In Focus - simplywall.st",
+      "summary": "Constellation Brands reportó resultados sorpresivos en Q1 FY27 que podrían modificar la tesis alcista de la empresa. Este movimiento es significativo para la industria de bebidas, dado que Constellati",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Walmart and Amazon’s rapid-delivery war raises consumer expectations",
+      "summary": "Walmart y Amazon intensifican la guerra por entregas rápidas, elevando expectativas de consumidores que compran tanto online como en tienda física. Los consumidores omnicanal gastan significativamente",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "IBA pushes for fairer access to market data",
+      "summary": "Endeavour Group lanzó su primer informe State of the Hops con datos de compra de Dan Murphy's y BWS mostrando preferencias de consumo de cerveza por región. La Asociación de Cerveceros Independientes ",
+      "companies": [
+        "Endeavour Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Suntory invests £14.5m in UK blackcurrant processing facility | FoodBev Media",
+      "summary": "Suntory Beverage & Food invirtió £14.5 millones en una nueva planta de procesamiento de grosella negra en Reino Unido para fortalecer la cadena de suministro de Ribena. La instalación, desarrollada en",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Lighter Squealini & 19 Crimes lines for Treasury Wine Estates",
+      "summary": "Treasury Wine Estates lanzó nuevas líneas de productos: spritz listos para beber bajo la marca Squealing Pig y una bebida a base de vino más ligera de 19 Crimes. La estrategia responde a la creciente ",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Zing Zang Espresso Martini Mix",
+      "summary": "Zing Zang, líder en mezclas premium para cócteles, lanzó Espresso Martini Mix con café real y amargos de cacao, posicionándose en el segmento de bebidas ready-to-drink de mayor valor agregado. El prod",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Did Brown-Forman's (BF.B) Revenue Slip and EBITDA Miss Just Reframe Its Investment Narrative? - simplywall.st",
+      "summary": "Brown-Forman reportó una contracción en ingresos y un resultado de EBITDA por debajo de expectativas, lo que podría ser señal de presiones competitivas o debilidad de demanda en el segmento de bebidas",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "financial_results",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Zero Proof Expands Hospitality Reach with The New Bar Acquisition | Brewbound",
+      "summary": "The Zero Proof adquirió The New Bar, plataforma de hospitalidad y descubrimiento de bebidas sin alcohol con presencia en la costa oeste estadounidense. Esta M&A fortalece la posición de The Zero Proof",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo prepara 150 despidos en Irlanda por su giro de estructura",
+      "summary": "Diageo comunica despidos de 150 empleados en Irlanda como parte de la reestructuración estratégica anunciada por su CEO Dave Lewis en febrero. El ajuste responde a un giro organizacional enfocado en f",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "financial_results",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac unveils three new ready-to-drink cocktail brands",
+      "summary": "Sazerac Co. lanza tres nuevas marcas de cócteles listos para beber (RTD) en EE.UU.: Lovebug Hard Cream Soda, Endless Afternoon Whiskey Lemonade y Buckhorn Whiskey Lemonade. Esta estrategia refuerza la",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Reports: Diageo Cuts Hit North American Business Unit | Brewbound",
+      "summary": "Diageo ejecuta reducciones de personal en su unidad de negocio de América del Norte como parte de una reorganización corporativa bajo el liderazgo del CEO Dave Lewis. Esta reestructuración refleja dif",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Rafael Oliveira to become Heineken CEO",
+      "summary": "Heineken designó a Rafael Oliveira como nuevo CEO a partir de octubre de 2026, reemplazando al actual liderazgo. Oliveira es reconocido por su capacidad de ejecución disciplinada de estrategia, lo que",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Suntory Beverage & Food invests £14.5m in Ribena production",
+      "summary": "Suntory Beverage & Food GB&I invertirá £14.5M en una nueva planta de procesamiento de grosella negra para Ribena, creando 12 empleos permanentes y 30 estacionales. La inversión refuerza la capacidad p",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "MUG® Root Beer and Yung Gravy release “Float Float Baby” remix track to celebrate new MUG Root Beer Floats Vanilla Howler™ - PepsiCo",
+      "summary": "PepsiCo lanza MUG Root Beer Floats Vanilla Howler, una nueva línea de productos ready-to-drink que amplía su portafolio en la categoría de bebidas innovadoras. La estrategia incluye una campaña de mar",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Ribena maker unveils £14.5m investment in blackcurrant processing facility - Insider Media Ltd",
+      "summary": "GSK Consumer Healthcare, propietario de Ribena, invertirá £14.5 millones en una nueva instalación de procesamiento de grosella negra en el Reino Unido. La inversión fortalece la cadena de suministro d",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Poppi’s co-founders — who sold their soda company for $1.95B — say this is their biggest financial mistake - MarketWatch",
+      "summary": "Los cofundadores de Poppi, startup de bebidas funcionales, vendieron su compañía a General Catalyst por $1.95B y públicamente reconocen haber cometido errores financieros significativos en la operació",
+      "companies": [
+        "Poppi"
+      ],
       "segments": [
         "consumer_market_trends"
       ],
