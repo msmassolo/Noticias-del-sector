@@ -1869,18 +1869,28 @@
       "region": "Local"
     },
     {
-      "title": "Casal Garcia entra no mercado de bebidas sem álcool com a nova gama Fruitzy 0% - SAPO",
-      "summary": "Casal Garcia lanza Fruitzy 0%, una nueva línea de bebidas sin alcohol que expande su portafolio hacia el segmento de no alcohólicas. Esta entrada al mercado sin alcohol responde a la creciente demanda",
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de consumo con presión en márgenes debido al ajuste de costos operativos. Este movimiento refleja cambios en preferencias de con",
       "companies": [],
       "segments": [
-        "consumer_market_trends",
-        "product_innovation"
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Las campañas publicitarias ya no describen beneficios, los convierten en evidencia física: 4 ejemplos",
+      "summary": "Marcas de alimentos y bebidas (KFC, HungerStation, Coors Light, Georgia Core) están evolucionando sus estrategias publicitarias hacia la «prueba física» de beneficios intangibles, transformando atribu",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "marketing_innovation"
       ],
       "region": "Regional"
     },
     {
-      "title": "Casamigos brings ‘Quarteritas’ to London pubs",
-      "summary": "Casamigos (marca de tequila y mezcal de Diageo) lanzó 'Quarteritas', margaritas congeladas en vasos de cuarto de pinta diseñados para eventos deportivos, inicialmente disponibles en 7 pubs de Londres ",
+      "title": "Ghost Tequila names Ryan Wilson CEO",
+      "summary": "Ghost Tequila, marca estadounidense fundada en 2016, designó a Ryan Wilson como nuevo CEO. Wilson proviene de Diageo con trayectoria ejecutiva sólida (CFO desde 2023, COO después), reemplazando al cof",
       "companies": [
         "Diageo"
       ],
@@ -1890,8 +1900,43 @@
       "region": "Mundial"
     },
     {
+      "title": "Casamigos brings ‘Quarteritas’ to London pubs",
+      "summary": "Casamigos, marca de tequila y mezcal propiedad de Diageo, lanza 'Quarteritas' en pubs británicos: margaritas congeladas servidas en vasos de cuarto de pinta diseñados para espectadores de fútbol. La i",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sprite launches campaign reimagining hip-hop’s most impactful songs",
+      "summary": "Sprite (Coca-Cola) lanzó 'The Living Tracklist', una campaña que reimagina los 50 temas de hip-hop más influyentes mediante packaging limitado coleccionable, contenido original y una experiencia digit",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken renueva su acuerdo de distribución exclusiva de Guinness en España tras más de 25 años de alianza",
+      "summary": "Heineken España renovó su acuerdo de distribución exclusiva de Guinness (propiedad de Diageo) por más de 25 años adicionales, consolidando una alianza de más de dos décadas. La marca irlandana amplía ",
+      "companies": [
+        "Heineken",
+        "Diageo"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo restructuring may impact 150 roles in Ireland | FoodBev Media",
-      "summary": "Diageo anuncia reestructuración organizacional que podría afectar 150 puestos en Irlanda como parte de su plan global de rediseño operativo. La medida busca mejorar competitividad y generar retornos s",
+      "summary": "Diageo, líder global en bebidas alcohólicas, reestructurará su operación en Irlanda con impacto en aproximadamente 150 puestos. Esta iniciativa forma parte del rediseño organizacional anunciado previa",
       "companies": [
         "Diageo"
       ],
@@ -1902,7 +1947,7 @@
     },
     {
       "title": "Asahi Zeitaku Shibori caters to demand for Japanese RTDs",
-      "summary": "Asahi Group lanza Zeitaku Shibori, un RTD basado en spirits que aprovecha el crecimiento acelerado de la categoría de bebidas listas para consumir. Los RTDs basados en spirits crecieron 14% en EE.UU. ",
+      "summary": "Asahi Group lanza Asahi Zeitaku Shibori, una RTD basada en spirits que responde al crecimiento explosivo de la categoría de bebidas listas para consumir. Los RTDs spirits-based crecieron 14% en EE.UU.",
       "companies": [
         "Asahi Group"
       ],
@@ -1913,7 +1958,7 @@
     },
     {
       "title": "Why powder producers are turning to liquid formats for food supplement and nutrition products | FoodBev Media",
-      "summary": "Productores de suplementos nutricionales están migrando de formatos en polvo a líquidos, capitalizando en una categoría de USD 25 mil millones impulsada por tendencias de fitness en redes sociales. Es",
+      "summary": "Productores de suplementos nutricionales están migrando de formatos en polvo a bebidas líquidas, capitalización de una categoría de USD 25 mil millones impulsada por tendencias de fitness en redes soc",
       "companies": [
         "Tetra Pak"
       ],
@@ -1923,20 +1968,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Orlando Bloom named Casillero del Diablo ambassador - Drinks International",
-      "summary": "Casillero del Diablo designa al actor Orlando Bloom como embajador global, lanzando una campaña de marketing que debutará en Chile, Reino Unido, Brasil, México, Irlanda y otros mercados. La estrategia",
-      "companies": [
-        "Concha y Toro"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "The Bull Case For Constellation Brands (STZ) Could Change Following Q1 FY27 Earnings Surprise Shift In Focus - simplywall.st",
-      "summary": "Constellation Brands reportó resultados de Q1 FY27 con sorpresas que podrían reconfigurar el caso alcista de la empresa. Como principal productor de cerveza (Corona, Modelo) y vinos en América del Nor",
+      "summary": "Constellation Brands (STZ), uno de los principales productores de bebidas alcohólicas en Norteamérica, presentó resultados de Q1 FY27 que generan una reinterpretación de su caso alcista. El desempeño ",
       "companies": [
         "Constellation Brands"
       ],
@@ -1946,8 +1979,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Corona Extra from Constellation Brands Inc. - longneck classic pushes Mexican lager sales - Ad-hoc-news.de",
-      "summary": "Corona Extra, bajo Constellation Brands, impulsa el crecimiento de las ventas de cerveza lager mexicana a nivel global mediante su icónico formato longneck. La noticia destaca el desempeño de una marc",
+      "title": "Constellation Brands eyes Q1 earnings, shares trade ahead of sector peers - Ad-hoc-news.de",
+      "summary": "Constellation Brands se prepara para reportar resultados del Q1 con acciones cotizando por encima del promedio del sector. Como uno de los mayores productores de bebidas alcohólicas a nivel mundial (C",
       "companies": [
         "Constellation Brands"
       ],
@@ -1958,7 +1991,7 @@
     },
     {
       "title": "The top 10 biggest-selling RTD Brand Champions 2026",
-      "summary": "El segmento de bebidas alcohólicas listas para consumir (RTD) creció 2% en volumen y 4% en valor durante 2025, contrarrestando la caída global de 2% en ventas de bebidas alcohólicas. En EE.UU., las RT",
+      "summary": "Las bebidas RTD (ready-to-drink) crecieron 2% en volumen y 4% en valor en 2025, contrarrestando la caída global del 2% en bebidas alcohólicas. En EE.UU., aunque el segmento RTD bajó 1%, los productos ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1967,8 +2000,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Younger drinkers reshape China’s alcohol market, says IWSR",
+      "summary": "El mercado alcohólico chino experimenta transformación estructural: el consumo en casa y entregas a demanda de consumidores jóvenes desplazan a las cenas de negocios y regalos corporativos como driver",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Damm is ‘strategically expanding’ while showing ‘solid’ performance",
-      "summary": "Damm cerró 2025 con ingresos de €2.01 mil millones y está expandiendo estratégicamente su capacidad productiva en mercados clave internacionales, particularmente en Reino Unido. La compañía reportó EB",
+      "summary": "Damm cerró 2025 con ingresos de €2.010 millones y ganancia neta de €155 millones, demostrando sólido desempeño operativo con EBITDA de €320 millones. La compañía está ejecutando una expansión estratég",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1978,7 +2021,7 @@
     },
     {
       "title": "The 20 Most Popular Vodka Brands in the World for 2026",
-      "summary": "El vodka se posiciona como la categoría de espíritus de mayor ingresos en EE.UU. durante 2025, según DISCUS, aunque los cócteles listos para beber (RTD) lo superan en volumen. The Spirits Business div",
+      "summary": "El vodka se posiciona como la categoría de spirits con mayor ingresos en EE.UU. en 2025, según DISCUS, aunque por volumen es superado por los cócteles RTD. The Spirits Business publicó su ranking anua",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -1988,7 +2031,7 @@
     },
     {
       "title": "IBA pushes for fairer access to market data",
-      "summary": "Endeavour Group publicó el reporte State of the Hops utilizando datos de compra de Dan Murphy's y BWS, revelando preferencia por cervezas locales e independientes. La Independent Brewers Association (",
+      "summary": "Endeavour Group lanzó su reporte inaugural sobre lúpulo usando datos de compra de Dan Murphy's y BWS, mostrando demanda consistente por cervezas locales e independientes. La Asociación de Cerveceros I",
       "companies": [
         "Endeavour Group"
       ],
@@ -1999,8 +2042,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Rumor Mill: Former Sales Reps Settle Lawsuit With Boston Beer / Healthiest Buzz-Free Beer Styles - American Craft Beer",
+      "summary": "Boston Beer Company cerró un litigio con antiguos representantes de ventas. El acuerdo resuelve disputas laborales en la fuerza de ventas, función crítica en la distribución cervecera. Este tipo de co",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Heineken shares buoyed by appointment of Rafael Oliveira as CEO",
-      "summary": "Heineken designó a Rafael Oliveira, ex CEO de JDE Peet's, como nuevo CEO y presidente, reemplazando a Dolf van den Brink tras una búsqueda de seis meses. La noticia generó una reacción positiva del me",
+      "summary": "Heineken designó a Rafael Oliveira (ex CEO de JDE Peet's) como nuevo CEO y presidente ejecutivo a partir del 1 de octubre, cerrando una búsqueda de 6 meses tras la salida de Dolf van den Brink. El mer",
       "companies": [
         "Heineken"
       ],
@@ -2010,11 +2065,29 @@
       "region": "Mundial"
     },
     {
-      "title": "PepsiCo Just Debuted a New Limited-Edition Soda That's Guaranteed To Sell Out - aol.com",
-      "summary": "PepsiCo lanzó un nuevo refresco de edición limitada con estrategia de escasez para impulsar demanda. Este enfoque de producto limitado es relevante para la industria de bebidas, generando buzz de merc",
-      "companies": [
-        "PepsiCo"
+      "title": "Sunshine and football fever help beer sales soar",
+      "summary": "La combinación de la Copa Mundial 2026 y una ola de calor en Reino Unido impulsó significativamente las ventas de cerveza en pubs y bares, con incrementos del 77% en ventas de cerveza de barril y sidr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
+      "region": "Mundial"
+    },
+    {
+      "title": "UK spirits exports to US sink 60% in Q1",
+      "summary": "Las exportaciones de bebidas alcohólicas del Reino Unido hacia EE.UU. cayeron 60% en Q1 2026, mientras que las importaciones estadounidenses al UK se incrementaron. Whisky y gin, productos líderes de ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Wild Idol reveals ‘Cityscapes to Countryside Escapes’ campaign",
+      "summary": "Wild Idol, marca de bebidas sin alcohol, lanzó la campaña 'Cityscapes to Countryside Escapes' para el verano en el Reino Unido, asegurando su disponibilidad en venues premium urbanos y rurales. La est",
+      "companies": [],
       "segments": [
         "consumer_market_trends",
         "marketing_innovation"
@@ -2023,7 +2096,7 @@
     },
     {
       "title": "Undone: ‘Asia represents one of the most exciting opportunities for the future of no and low alcohol drinking’",
-      "summary": "Undone, marca alemana de destilados sin alcohol, se asocia con Nimbility para expandir su presencia en Asia-Pacífico aprovechando la onda de bebidas sin y bajas en alcohol. La región representa una op",
+      "summary": "La marca alemana de destilados sin alcohol Undone se asocia con la consultora Nimbility para expandirse en Asia-Pacífico, aprovechando el crecimiento de bebidas sin y bajas en alcohol en la región. El",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2033,7 +2106,7 @@
     },
     {
       "title": "Monster Beverage, Coca-Cola, lead S&P 500 consumer staples stocks by growth grades (XLP:NYSEARCA) - Seeking Alpha",
-      "summary": "Monster Beverage y Coca-Cola encabezan el ranking de acciones de consumo básico del S&P 500 por calificaciones de crecimiento. Este posicionamiento refleja que ambas compañías están liderando en térmi",
+      "summary": "Monster Beverage y Coca-Cola encabezan el desempeño del sector consumer staples del S&P 500 por calificaciones de crecimiento. Esta posición refleja la fortaleza competitiva de ambas compañías en el m",
       "companies": [
         "The Coca-Cola Company",
         "Monster Beverage"
@@ -2045,7 +2118,7 @@
     },
     {
       "title": "Could Monster Beverage’s Premium Valuation and Coca-Cola Partnership Reshape Its Competitive Edge in Energy Drinks (MNST)? - simplywall.st",
-      "summary": "Monster Beverage mantiene una valuación premium en el mercado de bebidas energéticas respaldada por su asociación estratégica con Coca-Cola, quien controla su distribución global. Esta partnership ref",
+      "summary": "Monster Beverage mantiene una valuación premium en el mercado de bebidas energéticas, respaldada por su asociación estratégica con Coca-Cola que potencia su distribución y alcance global. Esta partner",
       "companies": [
         "The Coca-Cola Company",
         "Monster Beverage"
@@ -2056,19 +2129,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Lighter Squealini & 19 Crimes lines for Treasury Wine Estates",
-      "summary": "Treasury Wine Estates lanzó dos nuevas líneas de productos: spritz listos para beber de Squealing Pig y bebidas a base de vino más ligeras de 19 Crimes, respondiendo a la creciente demanda de bebidas ",
-      "companies": [
-        "Treasury Wine Estates"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Zing Zang Espresso Martini Mix",
-      "summary": "Zing Zang, líder en mezcladores de cócteles premium, lanzó Espresso Martini Mix con café real y bitters de cacao. El producto busca facilitar la preparación de cócteles artesanales en el hogar al elim",
+      "summary": "Zing Zang, líder en mezcladores de cócteles premium, lanzó Espresso Martini Mix con café real y bitters de cacao. El producto simplifica la preparación de cócteles de calidad de barra eliminando la ne",
       "companies": [
         "Bacardi"
       ],
@@ -2079,7 +2141,7 @@
     },
     {
       "title": "Beverages, Alcohol, and Tobacco Stocks Q1 Highlights: Molson Coors (NYSE:TAP) - StockStory",
-      "summary": "Molson Coors divulgó resultados del Q1, relevante para benchmarking competitivo en el segmento de bebidas alcohólicas. La empresa, uno de los mayores productores mundiales de cervezas, es comparador c",
+      "summary": "Molson Coors reportó resultados del Q1 con implicancias para competidores en bebidas alcohólicas. Como cervecería global, sus métricas de volumen, margen y estrategia de portafolio son indicadores cla",
       "companies": [
         "Molson Coors"
       ],
@@ -2091,7 +2153,7 @@
     },
     {
       "title": "Virginia Distillery Co dips into lower-ABV seltzers",
-      "summary": "Virginia Distillery Co lanza Kinda Light Vodka Seltzer, un RTD con 2.5% ABV dirigido al segmento de consumidores que buscan opciones de menor contenido alcohólico y moderado. El producto, disponible e",
+      "summary": "Virginia Distillery Co lanza Kinda Light Vodka Seltzer, un RTD con 2.5% ABV posicionado en el segmento de bebidas de menor contenido alcohólico. El producto responde a la tendencia creciente de consum",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2100,10 +2162,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Brown-Forman steady after earnings, whiskey-focused stock on investors radar - Ad-hoc-news.de",
-      "summary": "Brown-Forman reportó resultados financieros que mantuvieron estable el desempeño de su acción en bolsa. Como empresa enfocada en destilados y whiskey, está generando interés entre inversores instituci",
+      "title": "Keurig Dr Pepper sets August earnings date, shares react to Barclays upgrade - Ad-hoc-news.de",
+      "summary": "Keurig Dr Pepper, uno de los mayores productores de bebidas de consumo masivo en EE.UU., anunció su fecha de divulgación de resultados financieros para agosto y experimentó reacción positiva en bolsa ",
       "companies": [
-        "Brown-Forman"
+        "Keurig Dr Pepper"
       ],
       "segments": [
         "financial_results"
@@ -2112,27 +2174,17 @@
     },
     {
       "title": "Licensing Deal Brings Nine Loko Intoxicating Hemp Beverages to Market | Brewbound",
-      "summary": "Phusion Projects, fabricante de Four Loko, licenció activos de marca a Chuck It LLC para desarrollar bebidas intoxicantes a base de cáñamo bajo la marca Nine Loko. Esta movida representa una diversifi",
+      "summary": "Phusion Projects, fabricante de Four Loko, licenció activos de marca a Chuck It LLC para desarrollar bebidas de cáñamo intoxicantes bajo la marca Nine Loko. Esta estrategia permite a Phusion expandir ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Freixenet is putting its money behind Mallorca",
-      "summary": "Freixenet, gigante español de espumantes, lanza edición limitada producida en Mallorca (6.919 botellas) como primer paso de un compromiso a largo plazo con la isla. La estrategia busca diversificar pr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
       ],
       "region": "Mundial"
     },
     {
       "title": "Three Cents taps into trends with Pickle Soda",
-      "summary": "Three Cents, marca de mixers basada en Atenas, lanzó una soda con sabor a encurtido disponible en Reino Unido a través de Cask Liquid Marketing. El producto capitaliza la demanda creciente por perfile",
+      "summary": "Three Cents, marca de mixers basada en Atenas, lanzó una soda con sabor a encurtido disponible en Reino Unido a través de Cask Liquid Marketing. El producto capitaliza la tendencia creciente de perfil",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2141,66 +2193,12 @@
       "region": "Mundial"
     },
     {
-      "title": "NÜTRL Founders Invest in Los Sundays, Apply RTD Playbook to Tequila | Brewbound",
-      "summary": "Los fundadores de NÜTRL, que posicionaron la marca como líder de vodka soda en Canadá, están replicando su modelo de negocio en la categoría de tequila mediante una inversión en Los Sundays. Esta estr",
+      "title": "Freixenet is putting its money behind Mallorca",
+      "summary": "Freixenet, gigante español de espumantes, lanza edición limitada producida en Mallorca (6.919 botellas globales) como parte de una estrategia de largo plazo en la isla. La iniciativa marca la expansió",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands eyes Q1 earnings, shares trade ahead of sector peers - Ad-hoc-news.de",
-      "summary": "Constellation Brands, uno de los mayores productores de bebidas alcohólicas del mundo, se prepara para reportar resultados del primer trimestre con sus acciones cotizando por encima del promedio del s",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo and Casamigos Bring AI-Powered Personalization to FIFA World Cup 2026 Celebrations",
-      "summary": "Diageo lanza experiencia de personalización AI para botellas de Casamigos durante el Mundial 2026 en EE.UU., permitiendo a consumidores mayores de 21 años co-crear diseños personalizados con iconograf",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rumor Mill: Former Sales Reps Settle Lawsuit With Boston Beer / Healthiest Buzz-Free Beer Styles - American Craft Beer",
-      "summary": "Exempleados de Boston Beer Company llegaron a un acuerdo para cerrar un litigio laboral. Aunque los detalles específicos no se detallan en el fragmento, los casos de este tipo típicamente involucran d",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sunshine and football fever help beer sales soar",
-      "summary": "El Mundial 2026 y una ola de calor en Reino Unido generaron un incremento significativo en ventas de cerveza, con un pico del 77% en ventas de cerveza de barril y sidra en pubs durante partidos clave.",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Damm fuels growth strategy with international expansion",
-      "summary": "Damm, cervecera catalana, ha alcanzado un hito estratégico con operaciones internacionales representando el 30% de su negocio tras abrir su primer centro de producción en África y adquirir Old Speckle",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "marketing_innovation"
       ],
       "region": "Mundial"
     }
