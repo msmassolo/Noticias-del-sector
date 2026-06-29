@@ -1,164 +1,4 @@
 {
-  "2026-06-21": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa por reducción del consumo, presión en costos operativos y cambios en preferencias de los consumidores. Esta crisis impacta direc",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "'O brasileiro descobriu o vinho', diz executivo da Concha y Toro - Folha de S.Paulo",
-      "summary": "Concha y Toro, principal productor de vinos de Chile, reporta un descubrimiento clave: el consumidor brasileño está incrementando significativamente su consumo de vino. Este posicionamiento del ejecut",
-      "companies": [
-        "Concha y Toro"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mercado de bebidas: 4 de cada 10 jóvenes consumen a diario té listo para tomar - Agencia Peruana de Noticias | ANDINA",
-      "summary": "El 40% de jóvenes consume té listo para tomar diariamente en Perú, evidenciando una oportunidad de mercado significativa en bebidas funcionales y ready-to-drink. Este comportamiento de consumo sugiere",
-      "companies": [
-        "Embotelladora Andina"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "RTD y conveniencia: el ‘match’ perfecto que enfrenta a la cerveza, ¿mercado se reconfigura?",
-      "summary": "Los RTD (Ready-to-Drink) están ganando tracción en el mercado de bebidas alcohólicas, desplazando participación de la cerveza tradicional en momentos de conveniencia y socialización. En Perú, 8 de cad",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Menos vino, más experiencias: la industria chilena se reinventa para enfrentar la caída histórica del consumo - Portafolio.co",
-      "summary": "La industria vinícola chilena enfrenta una caída histórica en el consumo y está pivoteando su estrategia hacia experiencias y turismo enológico para diversificar ingresos. Este cambio refleja una tran",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Coca-Cola Femsa Announces Board Changes Amid Falling First Quarter Revenue - HarianBasis.co",
-      "summary": "Coca-Cola Femsa reportó caída de ingresos en el primer trimestre y anunció cambios en su estructura de gobierno corporativo. Estos movimientos en la junta directiva, combinados con el desempeño financ",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo just debuted a new limited-edition soda that's guaranteed to sell out - MSN",
-      "summary": "PepsiCo lanzó una nueva bebida gaseosa de edición limitada con estrategia de scarcity marketing. Este movimiento responde a la tendencia de crear demanda mediante limitación de disponibilidad y exclus",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Europacific Partners Stock - Long-term bottling strategy in focus - AD HOC NEWS",
-      "summary": "Coca-Cola Europacific Partners enfatiza su estrategia de embotellamiento a largo plazo como foco central. Este movimiento es relevante para Argentina dado que CCEP es uno de los principales embotellad",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "WMS Group LLC Invests $1.11 Million in Monster Beverage Corporation $MNST - MarketBeat",
-      "summary": "WMS Group LLC realizó una inversión de $1,11 millones en Monster Beverage Corporation, evidenciando el interés institucional continuado en la compañía. Este movimiento refleja confianza en los fundame",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Vinos Q incorpora Paragraph a su selección de vinos desalcolizados",
-      "summary": "Vinos Q incorporará Paragraph, un vino desalcolizado premium español (Tempranillo), a su portafolio de distribución a partir de julio 2026. El producto posiciona a la empresa en el segmento de bebidas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Suntory Beverage & Food (TSE:2587) Stock Could Be 56% Below Fair Value After Australia Launch - simplywall.st",
-      "summary": "Suntory Beverage & Food evalúa una expansión significativa en Australia, mercado clave de bebidas. El análisis sugiere que la valuación de la compañía podría estar 56% por debajo de su valor justo con",
-      "companies": [
-        "Suntory Beverage & Food"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman Stock - long-term whiskey business under scrutiny after cash flow update - AD HOC NEWS",
-      "summary": "Brown-Forman, productor global de whiskey y bebidas alcohólicas, enfrenta escrutinio del mercado tras actualización de flujo de caja que cuestiona la sostenibilidad de su modelo de negocio a largo pla",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Thai Beverage Stock - Saturday look at long-term strategy and earnings drivers - AD HOC NEWS",
-      "summary": "Análisis de la estrategia de largo plazo y los impulsores de ganancias de Thai Beverage, productor global de bebidas alcohólicas y no alcohólicas con presencia en múltiples mercados. Este tipo de anál",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ireland's sugar tax on soft drinks worked — now it's time to make it even tougher, researchers say - The Journal",
-      "summary": "Investigadores irlandeses reportan que el impuesto a bebidas azucaradas implementado en Irlanda logró reducir el consumo de azúcar, generando evidencia de efectividad de esta política fiscal. El estud",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beta-Amylase Enzyme Market Forecast Points Higher Toward 2035, Driven by Beverage Processing Demand - IndexBox",
-      "summary": "El mercado de enzimas beta-amilasa muestra proyecciones de crecimiento hacia 2035, impulsado por la demanda en procesamiento de bebidas. Esta enzima es clave en la conversión de almidones en azúcares ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-06-22": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2056,6 +1896,275 @@
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-06-29": [
+    {
+      "title": "Pablo Moyano doblegó a Coca-Cola y Quilmes tras un paro: el acuerdo que beneficia a 2.500 camioneros",
+      "summary": "Los camioneros del sector de bebidas lograron un acuerdo tras paros que afecta a Coca-Cola y Quilmes, principales distribuidores. El acuerdo beneficia a 2.500 trabajadores con mejoras salariales y rec",
+      "companies": [
+        "The Coca-Cola Company",
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Grandes redes se adaptam contra retração no varejo",
+      "summary": "El Nordeste de Brasil representa el 18,6% del consumo nacional (R$ 1,511 billones anuales) pero enfrenta una contracción generalizada del retail en todos los estados según datos del IBGE e Índice Ciel",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Assimetria regional pode se aprofundar com reforma tributária",
+      "summary": "La reforma tributaria brasileña cambia el modelo de imposición del ICMS de origen (donde produce) a destino (donde se consume), reduciendo significativamente los incentivos fiscales que han atraído in",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Hey Fit, de Aje, aumenta sus metas de participación de mercado en gaseosas funcionales: ¿Ha nacido una nueva categoría de bebidas en Perú?",
+      "summary": "Grupo Aje lanzó Hey Fit, una bebida funcional carbonatada que alcanzó adopción significativa en apenas cuatro meses, principalmente entre consumidores jóvenes. La empresa revisó al alza su meta de par",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Bulleit bottles its oldest straight rye",
+      "summary": "Diageo lanzó una edición limitada de whiskey rye de 20 años bajo la marca Bulleit, su expresión más antigua. El producto utiliza la mashbill característica de Bulleit (95% rye) y fue desarrollado por ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac buys Garrard County Distilling for $20m",
+      "summary": "Sazerac, a través de su filial Tom Collins Distilling, adquirió la destilería Garrard County en Kentucky por USD 20 millones en una subasta judicial. La compra amplía la cartera de destilerías de Saze",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Company North America President steps down",
+      "summary": "Raúl Araujo, presidente de Coca-Cola North America, se retira el 1 de agosto de 2026, siendo reemplazado interinamente por John Murphy (CFO). Este cambio impacta a la unidad operativa más grande de Co",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard divests Bodega Etchart to Molinos Río de la Plata | FoodBev Media",
+      "summary": "Pernod Ricard enajena Bodega Etchart a Molinos Río de la Plata, consolidando la posición del grupo argentino en el segmento vitivinícola premium. La adquisición forma parte de la estrategia de Molinos",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands (STZ) Faces Flat Sales As It Searches For New Growth - Yahoo Finance",
+      "summary": "Constellation Brands reporta estancamiento en ventas mientras busca nuevas fuentes de crecimiento. La empresa, uno de los mayores productores de bebidas alcohólicas en América del Norte (marcas como C",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands sets Q1 earnings date, shares await fresh guidance - AD HOC NEWS",
+      "summary": "Constellation Brands, líder global en bebidas alcohólicas y no alcohólicas, anunciará resultados del Q1 con nuevas proyecciones financieras. La compañía, que controla marcas estratégicas como Corona, ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Elton John celebrates his best-selling 0% sparkling",
+      "summary": "Elton John lanzó su marca de vino espumante sin alcohol (0%) en el Reino Unido, posicionándose como el producto premium de alcohol cero más vendido del mercado británico. La línea Elton John Zero Blan",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Morgan Stanley Sees Red Bull Price Increase as Positive for Monster Beverage (MNST) - Yahoo Finance",
+      "summary": "Morgan Stanley considera positiva la suba de precios de Red Bull para Monster Beverage, principal competidor en el segmento de bebidas energizantes premium. El aumento de precios de Red Bull crearía e",
+      "companies": [
+        "Red Bull",
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Ole Smoky releases RTDs",
+      "summary": "Ole Smoky, productor estadounidense de moonshine, relanza su línea de bebidas RTD (ready-to-drink) con espumantes de baja graduación alcohólica (4.5% ABV) y posicionamiento saludable: sin azúcares agr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper sets July earnings date, shares trade steadily on Nasdaq - AD HOC NEWS",
+      "summary": "Keurig Dr Pepper confirmó su fecha de resultados para julio, con cotización estable en Nasdaq. Este movimiento es relevante para el sector de bebidas ya que KDP es uno de los mayores conglomerados glo",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Supermarkets globally ramp up investment in own-label alcohol ranges",
+      "summary": "Las cadenas de supermercados globales están aumentando inversiones significativas en sus marcas propias de alcohol, impulsadas por la crisis del costo de vida y la demanda de valor de los consumidores",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Simply Spiked Lemonade from Molson Coors Beverage - hard lemonade pushes into the RTD spotlight - AD HOC NEWS",
+      "summary": "Molson Coors lanza Simply Spiked Lemonade, expandiendo su portafolio hacia el segmento de bebidas alcohólicas listas para beber (RTD). Este movimiento posiciona a uno de los mayores productores de beb",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "TFWA notes the ‘surge in interest’ across wine and spirit categories",
+      "summary": "TFWA reporta un aumento de interés en categorías de vino y spirits para su próxima exhibición mundial en Cannes (septiembre-octubre 2026). A pesar de la evolución constante del retail sin impuestos, e",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Whistlefish creates floral bottle for Tarquin’s",
+      "summary": "Tarquin's Gin (marca británica) lanzó una edición limitada con la marca de tarjetas Whistlefish, resultado de una colaboración de 10 meses. El packaging especial presenta una ilustración floral origin",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation(NasdaqGS: MNST) added to Russell 1000 Value Benchmark - marketscreener.com",
+      "summary": "Monster Beverage fue incluida en el Russell 1000 Value Benchmark, índice que rastrea empresas de gran capitalización con características de valor. Esta inclusión refleja el reconocimiento instituciona",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Dr Pepper Original from Keurig Dr Pepper Inc. - classic soda, new zero-sugar push - AD HOC NEWS",
+      "summary": "Keurig Dr Pepper impulsa su portafolio con una versión zero-sugar de Dr Pepper Original, respondiendo a la tendencia global de reducción de azúcar en bebidas carbonatadas. La estrategia apunta a captu",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AJE Group launches Cielo beverage in Nigeria with zero sugar and antioxidants - Head Topics",
+      "summary": "AJE Group, principal competidor regional, lanza Cielo, una bebida sin azúcar enriquecida con antioxidantes, en Nigeria como parte de su expansión en África. Esta movida refleja la estrategia global de",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage Company $TAP Shares Bought by Skylands Capital LLC - MarketBeat",
+      "summary": "Skylands Capital LLC aumentó su participación accionaria en Molson Coors Beverage Company (TAP), uno de los mayores productores de cerveza en Norteamérica. Este movimiento refleja confianza de inverso",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jennifer Mann to step down as Coca-Cola North America President | FoodBev Media",
+      "summary": "Jennifer Mann se retira de su cargo como Presidenta de Coca-Cola América del Norte a partir del 1 de agosto, tras casi 30 años en la compañía. John Murphy asume la posición. Este cambio en la cúpula d",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Importers say French wine category benefiting from drive to premiumisation - Harpers Wine & Spirit Trade News",
+      "summary": "Los vinos franceses están capturando cuota en el mercado UK impulsados por la tendencia global de premiumización, donde consumidores reducen volumen pero aumentan gasto en productos de mayor calidad. ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
       ],
       "region": "Mundial"
     }
