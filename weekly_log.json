@@ -1,189 +1,4 @@
 {
-  "2026-06-24": [
-    {
-      "title": "Molinos Río de la Plata amplía su presencia en el negocio del vino con la compra de Bodegas Etchart - LM Neuquén",
-      "summary": "Molinos Río de la Plata adquirió Bodegas Etchart, ampliando su portafolio en el segmento de vinos. Esta operación de M&A fortalece la posición del conglomerado en bebidas alcohólicas, diversificando m",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "El lanzamiento de Stella Artois en Wimbledon convierte las fresas con crema en cerveza",
-      "summary": "Stella Artois lanzó una cerveza de edición limitada inspirada en fresas con crema, el postre icónico de Wimbledon. La iniciativa evidencia una estrategia de innovación en sabores y posicionamiento pre",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Na esteira do Festival de Parintins, projeto da Coca-Cola com Green Mining leva reciclagem a comunidades ribeirinhas da Amazônia",
-      "summary": "Coca-Cola Brasil lanzó un proyecto piloto de logística reversa con Green Mining en comunidades ribereñas amazónicas, utilizando embarcaciones para recolectar residuos y promover educación ambiental. L",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "packaging_sustainability",
-        "supply_chain_commodities"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Diageo proposes 150 job cuts in Ireland",
-      "summary": "Diageo, propietaria de Baileys, anuncia despidos de aproximadamente 150 empleados en su operación irlandesa como parte de un plan de reestructuración. La multinacional británica notificó oficialmente ",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rafael Oliveira to become Heineken CEO",
-      "summary": "Heineken designó a Rafael Oliveira como nuevo CEO a partir del 1 de octubre de 2026, reemplazando al actual liderazgo. Oliveira es reconocido por su capacidad de traducir estrategia en ejecución disci",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Walmart and Amazon’s rapid-delivery war raises consumer expectations",
-      "summary": "Walmart y Amazon intensifican la competencia en entregas rápidas, elevando las expectativas de consumidores que combinan compra online y en tienda. Estos clientes omnichannel gastan más y son el motor",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Winners And Losers Of Q3: Brown-Forman (NYSE:BF.B) Vs The Rest Of The Beverages, Alcohol, and Tobacco Stocks - Yahoo Finance",
-      "summary": "Análisis comparativo de desempeño financiero de Q3 entre Brown-Forman y sus competidores en la industria de bebidas y alcohol. Brown-Forman, productor global de destilados premium (Jack Daniel's, Wood",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Susana Balbo strengthens UK presence with Matthew Clark Bibendum partnership",
-      "summary": "Susana Balbo, productora argentina de vinos, designó a Matthew Clark Bibendum como distribuidor exclusivo en Reino Unido para fortalecer su presencia en mercados on-trade y off-trade. La decisión ampl",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Stock After 47% Yearly Gain Is The Price Still Attractive - Yahoo Finance Singapore",
-      "summary": "Monster Beverage registra una ganancia accionaria del 47% en el año, posicionándose como uno de los mejores desempeños en la industria de bebidas energéticas. El análisis plantea interrogantes sobre l",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ribena maker unveils £14.5m investment in blackcurrant processing facility - Insider Media Ltd",
-      "summary": "GlaxoSmithKline Consumer Healthcare invierte £14.5 millones en una nueva planta de procesamiento de grosella negra para Ribena, fortaleciendo su cadena de suministro de ingredientes clave. Esta invers",
-      "companies": [
-        "Suntory Beverage & Food"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Afternoon Brief, June 23",
-      "summary": "Las ventas de vino muestran una leve estabilización después de caídas pronunciadas en 2025, aunque los niveles de inventario siguen elevados y las exportaciones continúan en baja. Esta tendencia afect",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is Heineken and Heinz’s beer and ketchup six-pack inspired or impractical? - Packaging Europe",
-      "summary": "Heineken y Heinz lanzaron un pack combinado que integra cerveza y ketchup en un único producto. La iniciativa representa una innovación en packaging y cross-branding que busca simplificar la experienc",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Zero Proof Acquires The New Bar For On-Premise Reach - BevNET.com",
-      "summary": "The Zero Proof adquirió The New Bar, un programa de hospitalidad y descubrimiento de bebidas sin alcohol con presencia en la Costa Oeste de EE.UU. Esta adquisición refuerza la posición de The Zero Pro",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo sets AGM date and dividend timetable, shares in focus on the London market - Ad-hoc-news.de",
-      "summary": "Diageo, mayor productor mundial de bebidas alcohólicas premium, anunció la fecha de su Asamblea General de Accionistas y el cronograma de dividendos. Esta información es estratégicamente relevante par",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Las bebidas RTD rozan los 200 millones de libras en la hostelería británica",
-      "summary": "Las bebidas RTD (ready-to-drink) alcanzaron casi 200 millones de libras en ventas en establecimientos de hostelería británica durante 2025, creciendo 2,6% interanual y superando el desempeño general d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "France bans alcohol at festivals as heatwave grips wine regions",
-      "summary": "Francia ha implementado restricciones temporales de consumo de alcohol en eventos organizados por el estado y espacios públicos durante una ola de calor extrema que afecta al 90% de la población, con ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "One in three Brits cut back on booze",
-      "summary": "Un tercio de los consumidores de alcohol en Reino Unido reduce su ingesta, según encuesta de YouGov. La tendencia hacia la moderación y el consumo consciente afecta estratégicamente al sector de bebid",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-06-25": [
     {
       "title": "Renunció a las multinacionales para apostar por su idea y hoy factura u$s1 millón con su negocio",
@@ -2412,6 +2227,495 @@
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-07-02": [
+    {
+      "title": "Empresa de bebidas con 70 años de historia entró en concurso y busca evitar la quiebra",
+      "summary": "Empresa de bebidas con 70 años de trayectoria ingresó en concurso preventivo enfrentando riesgo de quiebra. Operaba en segmentos de aguas saborizadas, cervezas y bebidas diversas, pero enfrenta dificu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Venda de bebidas cresce quando o Brasil entra em campo",
+      "summary": "Las ventas de bebidas en Brasil crecieron significativamente en junio impulsadas por los partidos de la selección en la Copa del Mundo, con incrementos de 99%, 127% y 193% en el primer, segundo y terc",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Tecate deja Tigres tras 30 años y apuesta por el beisbol mexicano",
+      "summary": "Tecate finaliza su patrocinio de 30 años con Tigres al concluir el Torneo Clausura 2026, marcando el fin de una de las alianzas más longevas del futbol mexicano. La marca reorienta su estrategia de in",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Constellation Brands aplaza el arranque de su planta de Veracruz para finales de 2026",
+      "summary": "Constellation Brands pospone el inicio de operaciones de su cervecera en Veracruz a finales de 2026, retrasando cuatro meses respecto al cronograma anunciado en abril. La demora afecta directamente la",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ingresos por petróleo e ISR marcan faltas, mientras IEPS a refrescos rompe récord",
+      "summary": "México registró un récord de recaudación del IEPS (impuesto especial) a refrescos en mayo, superando las metas presupuestarias, mientras otros ingresos tributarios cayeron. Este dato refleja la presió",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Hey Fit, de Aje, aumenta sus metas de participación de mercado en gaseosas funcionales: ¿Ha nacido una nueva categoría de bebidas en Perú?",
+      "summary": "Grupo Aje lanzó Hey Fit, una bebida funcional carbonatada que en cuatro meses superó expectativas de penetración de mercado en Perú, incrementando su meta de participación del 2% al 3% en la categoría",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Grupo Dolly é alvo de pedido de falência por procuradorias da Fazenda Nacional e de São Paulo",
+      "summary": "Grupo Dolly, importante fabricante de refrigerantes brasileño, enfrenta pedido de quiebra conjunto de procuradores de Hacienda Nacional y São Paulo por deudas acumuladas de R$ 15,75 mil millones con l",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Mundial 2026 impulsa bebidas sin alcohol en México, pero alertan por riesgos en adolescentes y vacíos regulatorios",
+      "summary": "La categoría NoLo (bebidas sin alcohol y bajo contenido alcohólico) experimenta expansión acelerada en México como estrategia global de la industria cervecera, aprovechando oportunidades regulatorias ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diageo sale of East African Breweries is on the rocks",
+      "summary": "Diageo enfrenta obstáculos legales en la venta de su participación mayoritaria (65%) en East African Breweries Limited a la cervecera japonesa Asahi, anunciada en diciembre pasado. Múltiples demandas ",
+      "companies": [
+        "Asahi Group",
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "FSSAI cracks down on energy drinks, issues notices to Red Bull, PepsiCo, Coca-Cola-backed Monster and others - Storyboard18",
+      "summary": "La autoridad alimentaria india (FSSAI) emitió notificaciones a los principales fabricantes de bebidas energéticas incluyendo Red Bull, PepsiCo y Monster (respaldada por Coca-Cola) en una acción regula",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo",
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Celsius (CELH) Stock Looks Cheap On Returns But Expensive On Earnings - simplywall.st",
+      "summary": "Análisis de valoración de Celsius Energy Drink (CELH) que muestra una desconexión entre métricas: la empresa parece barata en términos de retorno sobre activos, pero cara en múltiplos de ganancias. Re",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo commissions second India flavour plant in Ujjain with Rs 1,266-crore investment - ET Retail",
+      "summary": "PepsiCo inauguró su segunda planta de saborizantes en India (Ujjain) con una inversión de 1.266 crores de rupias. Esta expansión refuerza la estrategia de integración vertical de PepsiCo en el mercado",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "MQS Management LLC Makes New $771,000 Investment in Monster Beverage Corporation $MNST - MarketBeat",
+      "summary": "MQS Management LLC realizó una nueva inversión de $771.000 en Monster Beverage Corporation, señalando movimiento de capital hacia la empresa de bebidas energéticas. Este tipo de inversiones institucio",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Suntory Invests £14.5m to Strengthen UK Blackcurrant Supply Chain and Future-Proof Ribena Production - Food & Beverage Outlook",
+      "summary": "Suntory invirtió £14,5 millones para fortalecer la cadena de suministro de grosella negra en Reino Unido y asegurar la producción futura de Ribena. La inversión busca estabilizar el abastecimiento de ",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "UK government proposes digital ID for alcohol sales",
+      "summary": "El gobierno del Reino Unido propone autorizar el uso de identidad digital para la venta de alcohol, modificando la Ley de Licencias 2003. La medida permitiría a consumidores probar edad sin revelar da",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will AB InBev’s World Cup beer sponsorship pay off in China? - South China Morning Post",
+      "summary": "AB InBev apuesta por una estrategia de sponsorship del Mundial de Fútbol para penetrar el mercado chino, uno de los mayores consumidores de cerveza a nivel global. La inversión en visibilidad durante ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola ousts Pepsi as the official soda at Marriott hotels worldwide - The Points Guy",
+      "summary": "Coca-Cola desplazó a Pepsi como proveedor oficial de bebidas en todas las cadenas hoteleras de Marriott a nivel mundial. Este cambio representa un contrato de distribución estratégico de gran escala q",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage Corp. Reports Earnings Results for the Full Year Ended May 02, 2026 - marketscreener.com",
+      "summary": "National Beverage Corp. divulgó resultados financieros del ejercicio fiscal completo finalizado el 2 de mayo de 2026, reportando ingresos, márgenes operativos y desempeño de marcas clave como LaCroix ",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "He Started in His Kitchen With a Family Beer Recipe. Now the Boston Beer Company Does More Than $1 Billion in Revenue. Here's How Jim Koch Did It. - Entrepreneur",
+      "summary": "Jim Koch transformó una receta familiar de cerveza en Boston Beer Company, una empresa que hoy genera más de $1 billón en ingresos anuales. Este caso de estudio empresarial ilustra cómo un emprendedor",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NATIONAL BEVERAGE CORP FY 2026: Revenue $1.18B, EPS $1.96— 10-K Summary - TradingView",
+      "summary": "National Beverage Corp reportó ingresos de USD 1.18B y EPS de USD 1.96 en FY 2026, según su filing 10-K. Este es un competidor global relevante en bebidas no alcohólicas (propietaria de marcas como La",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken 0.0 Alcohol-Free Beer from Heineken N.V. - expanding US shelves - AD HOC NEWS",
+      "summary": "Heineken amplía la distribución de Heineken 0.0, su cerveza sin alcohol, en estantes estadounidenses. Esta expansión refleja la estrategia del gigante cervecero holandés de capitalizar el crecimiento ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BrewDog CEO James Taylor steps down from role",
+      "summary": "James Taylor, CEO de BrewDog, se ha apartado del rol ejecutivo tras la adquisición de la cervecería por £33 millones por parte de Tilray International. Bajo la nueva estructura corporativa, Tilray det",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BuzzBallz swaps out tequila for vodka in Lime ’Rita cocktail",
+      "summary": "BuzzBallz reformuló su producto Lime 'Rita, reemplazando tequila por vodka en su coctel RTD de margarita. El cambio comenzó en marzo y se está distribuyendo progresivamente en puntos de venta. Esta de",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "‘We make a wine for that’: Australia to relaunch national campaign",
+      "summary": "La industria vitivinícola australiana lanza en agosto una campaña de marketing nacional bajo el lema 'We make a wine for that' para incrementar el consumo doméstico. La iniciativa posiciona la diversi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard focuses on global spirits portfolio as investors weigh long-term growth - AD HOC NEWS",
+      "summary": "Pernod Ricard, uno de los mayores productores globales de bebidas alcohólicas, reorienta su portafolio de spirits para capturar crecimiento a largo plazo mientras enfrenta escrutinio de inversores sob",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Report: Nutrabolt Recruits Banks to Lead IPO - BevNET.com",
+      "summary": "Nutrabolt, marca de bebidas energéticas con ventas combinadas superiores a $1.000 millones en C4 y Bloom, avanza hacia su salida a bolsa con un sindicato de primer nivel (JPMorgan, Goldman Sachs y Ban",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "IN BRIEF: Fevertree Drinks starts GBP30 million buyback extension - London South East",
+      "summary": "Fevertree Drinks, fabricante británico de bebidas premium, inicia un programa de recompra de acciones por GBP 30 millones. Esta acción refleja confianza en la solidez financiera de la compañía y puede",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation’s wine and spirits sales down nearly 50%",
+      "summary": "Constellation Brands reportó caída de 3.3% en ventas netas a US$2.43B en Q1, pero superó estimaciones analistas. El segmento de vinos y spirits cayó casi 50%, mientras que cerveza creció y tequila lid",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation CEO: Beer Business Shows ‘Healthy Return’ to Growth in Early Q2 with World Cup, NY Knicks Boost | Brewbound",
+      "summary": "Constellation Brands reporta recuperación en el crecimiento del negocio de cerveza en el inicio de Q2, impulsado por eventos de marketing como la Copa Mundial y patrocinios de los New York Knicks. Tra",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Wine and spirits sales rebound in Constellation Q1",
+      "summary": "Constellation Brands reportó un crecimiento orgánico del 8% en su división de vinos y spirits en Q1 FY27, con ventas netas de US$149.2M. El desempeño positivo en categorías de tequila premium (Mi Camp",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "What’s a Better Omen for Beer Sales Than Constellation Brands’ Earnings? The World Cup - The Daily Upside",
+      "summary": "Constellation Brands reportó resultados financieros positivos en cerveza, con el Mundial de Fútbol como catalizador adicional para impulsar ventas en el sector. El evento deportivo global representa u",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "FSSAI issues notices to beverage makers including PepsiCo, Red Bull over 'energy drink' claims - Moneycontrol.com",
+      "summary": "La autoridad alimentaria india (FSSAI) emitió notificaciones a fabricantes de bebidas incluyendo PepsiCo y Red Bull por hacer afirmaciones de 'bebidas energéticas' sin cumplir regulaciones. Esta acció",
+      "companies": [
+        "PepsiCo",
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "FSSAI Issues Notices to PepsiCo, Red Bull, Other Beverage Makers over 'Energy Drink' Claims - outlookbusiness.com",
+      "summary": "La autoridad regulatoria de alimentos de India (FSSAI) emitió notificaciones a PepsiCo, Red Bull y otros fabricantes de bebidas por hacer afirmaciones de 'bebidas energéticas' sin cumplir con normativ",
+      "companies": [
+        "PepsiCo",
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage (NASDAQ: FIZZ) holds margins as FY2026 revenue dips slightly - Stock Titan",
+      "summary": "National Beverage reportó una leve caída de ingresos en FY2026, pero logró mantener sus márgenes operativos. Este desempeño de una de las principales empresas de bebidas no alcohólicas en EE.UU. refle",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage Corp reports results for the quarter ended April 30 - Earnings Summary - TradingView",
+      "summary": "National Beverage Corp reportó resultados del trimestre finalizado el 30 de abril, proporcionando datos de desempeño financiero clave de uno de los principales productores estadounidenses de bebidas (",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott names Coca-Cola global beverage partner under new supply agreement (KO:NYSE) - Seeking Alpha",
+      "summary": "Marriott designó a Coca-Cola como socio global de bebidas bajo un nuevo acuerdo de suministro. Este acuerdo estratégico amplía la presencia de KO en la cadena hotelera más grande del mundo, asegurando",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott International (MAR) Partners with Coca-Cola for Global Beverage Supply - GuruFocus",
+      "summary": "Marriott International estableció una alianza global con Coca-Cola para suministro de bebidas en sus propiedades hoteleras a nivel mundial. La asociación refuerza la posición de Coca-Cola en canales d",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Surges to 52-Week Peak: What Investors Need to Know - Blockonomi",
+      "summary": "Las acciones de Monster Beverage alcanzaron máximos de 52 semanas, reflejando un desempeño excepcional en el mercado. Este movimiento indica fortaleza en la demanda de bebidas energizantes, categoría ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott International chooses The Coca-Cola Company as its new global beverage partner - Demócrata",
+      "summary": "Marriott International designó a The Coca-Cola Company como su nuevo socio global de bebidas, reemplazando acuerdos previos. Este cambio estratégico amplía significativamente los canales de distribuci",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott Announces Beverage Agreement With The Coca‑Cola Company - LODGING Magazine",
+      "summary": "Marriott firmó un acuerdo de bebidas con Coca-Cola que extiende la relación entre ambas compañías en la cadena hotelera global. El acuerdo cubre el suministro de bebidas alcohólicas y no alcohólicas e",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India Food Watchdog Targets Energy Drinks Including Red Bull for Misbranding - Bloomberg.com",
+      "summary": "La autoridad regulatoria de alimentos de India inició acciones contra bebidas energizantes, incluyendo Red Bull, por etiquetado incorrecto y posibles violaciones normativas. Esta medida regulatoria im",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott International and Coca-Cola Announce Global Beverage Partnership - TRAICY Global",
+      "summary": "Marriott International y Coca-Cola anunciaron una alianza global de bebidas que posiciona los productos de Coca-Cola como proveedor exclusivo o preferente en la cadena hotelera. Esta asociación amplía",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Caledonia Spirits Names Industry Veteran John Oliver VP of Sales as Brand Hits 18% Northeast Growth",
+      "summary": "Caledonia Spirits, destilería artesanal de Vermont, nombró a John Oliver (20+ años en bebidas) como VP de Ventas para liderar su expansión nacional, aprovechando un crecimiento del 18% en su mercado b",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     }
