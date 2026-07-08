@@ -2469,20 +2469,8 @@
   ],
   "2026-07-08": [
     {
-      "title": "Procesan y embargan por suma millonaria al dueño de Manaos por presunta evasión",
-      "summary": "El dueño de Manaos fue imputado por evasión del Impuesto a las Ganancias de 2020, con un embargo de $250 millones decretado. Esta acción fiscal afecta a uno de los principales productores de bebidas d",
-      "companies": [
-        "Refres Now"
-      ],
-      "segments": [
-        "financial_results",
-        "regulation_tax_policy"
-      ],
-      "region": "Local"
-    },
-    {
       "title": "El vino argentino encontró un respiro: la tendencia que se consolida en las exportaciones",
-      "summary": "Las exportaciones de vino argentino muestran recuperación en H1 2026 tras años de contracción, impulsadas por aumento de demanda externa y retorno del vino a granel como motor comercial. Este cambio d",
+      "summary": "Las exportaciones de vino argentino muestran recuperación sostenida en H1 2026 tras años de contracción, impulsadas por demanda externa renovada y retorno del vino a granel como vector comercial clave",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2491,7 +2479,7 @@
     },
     {
       "title": "Déficit dos EUA aumenta em meio a escalada protecionista",
-      "summary": "El déficit comercial estadounidense aumentó a USD 106,5 mil millones en mayo en medio de la escalada proteccionista del presidente Trump, que planea aplicar aranceles adicionales del 25% sobre USD 14,",
+      "summary": "La administración Trump implementa nuevas tarifas proteccionistas de hasta 25% sobre importaciones brasileñas por USD 14.900 millones, en contexto de déficit comercial estadounidense que alcanzó USD 1",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2502,95 +2490,20 @@
       "region": "Regional"
     },
     {
-      "title": "Reyes to Add Sazerac's Traditional Spirits & RTD Portfolio in Colorado | Brewbound",
-      "summary": "Sazerac seleccionó a Reyes (a través de su filial RBG Spirits & Wine) como distribuidor exclusivo de su portafolio de bebidas espirituosas tradicionales y RTD (ready-to-drink) en Colorado. Este movimi",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Costa Coffee launches high-protein latte range",
-      "summary": "Costa Coffee lanza una línea de Protein Lattes (caliente e iced) con 23g de proteína cada una, aprovechando la tendencia creciente de bebidas funcionales. El producto utiliza la base Mocha Italia de l",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Varun Beverages expands East Africa footprint with $32m Kenya beverage business acquisition | FoodBev Media",
-      "summary": "Varun Beverages Limited, embotellador franquiciado clave de PepsiCo, adquiere por USD 32 millones el negocio de bebidas lácteas value-added, jugos y agua embotellada de Devyani Foods en Kenia. La oper",
+      "title": "Dirty soda PepsiCo: cómo PepsiCo lleva una moda de TikTok a los supermercados",
+      "summary": "PepsiCo lanza variantes de Mountain Dew y Mug basadas en la tendencia de 'dirty sodas' originada en TikTok, capitalizando una moda de redes sociales en productos de distribución masiva. Esta estrategi",
       "companies": [
         "PepsiCo"
       ],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
+        "distribution_execution"
       ],
-      "region": "Mundial"
+      "region": "Regional"
     },
     {
-      "title": "Zacks Industry Outlook Highlights Anheuser-Busch, Diageo, Constellation Brands, Brown-Forman and Molson Coors Beverage - Zacks Investment Research",
-      "summary": "Zacks Investment Research publica un análisis de perspectivas de la industria de bebidas alcohólicas enfocándose en cinco jugadores clave: Anheuser-Busch, Diageo, Constellation Brands, Brown-Forman y ",
-      "companies": [
-        "Molson Coors",
-        "Diageo",
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kultura Brands Accelerates National Beverage Expansion with Appointment of Former Stateside Brands and Constellation Brands Executive Daniel Robert \"Bobby\" Bilicki II as President and Chief Executive Officer of Kultura Beverage Group - Newswire.com",
-      "summary": "Kultura Brands designa como CEO al ejecutivo Daniel Bilicki II, quien cuenta con experiencia en Stateside Brands y Constellation Brands (casa matriz de bebidas de escala global). El movimiento señala ",
-      "companies": [
-        "National Beverage Corp",
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (NASDAQ:MNST) Sets New 1-Year High - Should You Buy? - MarketBeat",
-      "summary": "Monster Beverage alcanzó un nuevo máximo de 52 semanas en el mercado, reflejando fortaleza en valuación de la empresa. Este movimiento indica confianza de inversores en la estrategia de la compañía de",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands updates its portfolio strategy as investors watch U.S. consumer demand - AD HOC NEWS",
-      "summary": "Constellation Brands, líder global en bebidas alcohólicas, actualiza su estrategia de portafolio en respuesta a cambios en la demanda del consumidor estadounidense. Esta maniobra estratégica es crític",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo pushes smaller-sized spirits bottles in retail tie-up with Asda - The Grocer",
-      "summary": "Diageo lanza botellas de menor tamaño de bebidas espirituosas a través de una alianza comercial con Asda, el supermercado británico. Esta estrategia de formato reducido responde a cambios en patrones ",
+      "title": "Diageo agrees Amherstburg bottling plant sale",
+      "summary": "Diageo (propietaria de Crown Royal) ha acordado la venta de su planta embotelladora en Amherstburg, Ontario, listada desde diciembre pasado. Aunque se firmó el acuerdo de compraventa, la identidad del",
       "companies": [
         "Diageo"
       ],
@@ -2601,145 +2514,8 @@
       "region": "Mundial"
     },
     {
-      "title": "YTD 2026 Beverage Performance and Trends - 3Tier Beverages via NIQ",
-      "summary": "En el primer semestre de 2026, el mercado de bebidas muestra una brecha creciente entre categorías tradicionales (cerveza, vino, destilados) y segmentos de mayor crecimiento. Mientras que cerveza y vi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "International guidance on ‘may contain’ allergen labelling introduced",
-      "summary": "Codex Alimentarius Commission introdujo directrices internacionales para etiquetado de alérgenos \"puede contener\". Las nuevas guías buscan que esta advertencia solo se use tras evaluación científica r",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Energy Zero Sugar from Monster Beverage Corp. - new formula targets US zero-calorie demand - AD HOC NEWS",
-      "summary": "Monster Beverage lanza una nueva fórmula de Monster Energy Zero Sugar para capturar la creciente demanda estadounidense de bebidas sin calorías. Esta iniciativa responde a la tendencia global de refor",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fragmentation reshapes grocery, creating new opportunities for specialty brands",
-      "summary": "La fragmentación del retail y cambios en el comportamiento de compra de consumidores están reduciendo la dominancia del canal de distribución tradicional (supermercados), creando oportunidades para ma",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Soft Volumes Lead to Slower Non-Alc Beverage Sales in June - BevNET.com",
-      "summary": "Las ventas de bebidas no alcohólicas desaceleraron significativamente en junio en EE.UU., con crecimiento de apenas 1.4% en dólares durante los últimos 14 días versus 3.2% en el período de cuatro sema",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Corona Premier from Constellation Brands - lower-calorie lager chases US light beer drinkers - AD HOC NEWS",
-      "summary": "Constellation Brands lanza Corona Premier, una cerveza lager baja en calorías dirigida al segmento de bebedores de cervezas light en EE.UU. Esta estrategia responde a la creciente demanda de opciones ",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Index Additions And EMEA Leadership Shuffle At Molson Coors (TAP) Has Changed Its Investment Story - Yahoo Finance",
-      "summary": "Molson Coors (TAP) experimentó cambios significativos en su posicionamiento de inversión derivados de su inclusión en índices bursátiles y una reestructuración de liderazgo en la región EMEA. Estos mo",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Coca-Cola Freestyle machine - Coca-Cola Co. leans on customizable fountain drinks - AD HOC NEWS",
-      "summary": "Coca-Cola enfatiza su estrategia en máquinas Freestyle de bebidas personalizables en puntos de venta, expandiendo su modelo de negocio más allá de bebidas envasadas. Este canal permite capturar datos ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Anheuser-Busch InBev SA/ NV investors focus on global beer demand and brand strategy - AD HOC NEWS",
-      "summary": "AB InBev mantiene el foco de inversores en la demanda global de cerveza y estrategia de marcas, reflejando la centralidad de la compañía en el mercado mundial de bebidas. Como productor dominante con ",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo investor update focuses on long-term growth and global beverage strategy - AD HOC NEWS",
-      "summary": "PepsiCo presentó una actualización a inversores enfocada en crecimiento de largo plazo y estrategia global de bebidas. La actualización cubre la dirección estratégica del mayor fabricante de bebidas a",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Top Dog Cocktails Makes $1.3M Investment In Flamboyant Water To Fuel RTD, Caribbean Expansion - BevNET.com",
-      "summary": "Top Dog Cocktails (Philadelphia) invirtió USD 1,3M en joint venture con Flamboyant Water para desarrollar línea de cócteles RTD a base de ron y expandir en el Caribe. La operación combina experiencia ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mack & Schühle acelera en Italia con 16 millones para entrar de lleno en el vino sin alcohol",
-      "summary": "Mack & Schühle Italia invierte €16 millones en expandir su planta de Laterza para modernizar capacidad industrial e incorporar nuevas líneas de producción en categorías de alto crecimiento: espumosos ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mid-Year Snapshot: Promo Pricing Pushes Sports Drinks Ahead - BevNET.com",
-      "summary": "El segmento de bebidas deportivas experimenta un rebote hacia crecimiento impulsado por volumen gracias a estrategias de promoción de precios, capitalizando el interés sostenido en hidratación y elect",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac Moves Spirits, RTD Portfolio to Reyes in Colorado - BevNET.com",
-      "summary": "Sazerac trasladó su portafolio de spirits y bebidas RTD a Reyes en Colorado, utilizando la filial RBG Spirits & Wine recientemente adquirida. Este movimiento estratégico de distribución afecta la cobe",
+      "title": "Reyes to Add Sazerac's Traditional Spirits & RTD Portfolio in Colorado | Brewbound",
+      "summary": "Sazerac designó a la división de Reyes Holdings (RBG Spirits & Wine de Colorado) como distribuidor exclusivo de su portafolio de bebidas espirituosas tradicionales y ready-to-drink en Colorado. Este m",
       "companies": [
         "Sazerac Company"
       ],
@@ -2750,8 +2526,131 @@
       "region": "Mundial"
     },
     {
+      "title": "The VinePair Podcast: So…Who’s Gonna Buy Brown-Forman?",
+      "summary": "Brown-Forman, propietaria de Jack Daniel's, enfrenta renovada especulación sobre una posible venta tras rechazar ofertas reportadas en abril. Pernod-Ricard y Sazerac emergen como potenciales adquirent",
+      "companies": [
+        "Pernod Ricard",
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Costa Coffee launches high-protein latte range",
+      "summary": "Costa Coffee lanza una línea de lattes proteicos con 23g de proteína por producto, disponibles en formato caliente e helado, respondiendo a la tendencia global de bebidas funcionales de alto valor pro",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Walmart debunks 3 myths that deter emerging brands",
+      "summary": "Walmart desmiente tres mitos que desalientan a marcas emergentes de trabajar con la cadena. Con 4,600 tiendas y 600 Sam's Club, Walmart es el distribuidor más importante en EEUU, pero muchos fabricant",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Varun Beverages expands East Africa footprint with $32m Kenya beverage business acquisition | FoodBev Media",
+      "summary": "Varun Beverages Limited, uno de los mayores embotelladores franquiciados de PepsiCo, adquiere un negocio de bebidas lácteas, jugos y agua embotellada en Kenia por USD 32 millones. La operación refuerz",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bacardi names global advocacy director",
+      "summary": "Bacardi repatría a Shervene Blackburn como directora global de advocacy and experience después de 4 años en William Grant & Sons. Blackburn regresa con experiencia previa de 12 años en Bacardi (2010-2",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Tetra Pak launches industrial bioreactor, targeting cost savings and efficiency for manufacturers | FoodBev Media",
+      "summary": "Tetra Pak lanzó su primer biorreactor industrial (Tetra Pak Bioreactor RF) diseñado para fermentación escalable con reducción de costos operativos y arranque más rápido. Esta innovación impacta direct",
+      "companies": [
+        "Tetra Pak"
+      ],
+      "segments": [
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Quaker Oats introduces Quaker Oat Shake & Go",
+      "summary": "PepsiCo lanza Quaker Oat Shake & Go, un batido de avena integral que se prepara directamente en la botella (añadir líquido, agitar y consumir). El producto responde a la demanda creciente de bebidas f",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Off-Premise Bev-Alc Sales Reverse Course Before 4th; Spirits, RTDs Remain Bright Spots, per Circana Weekly Scans | Brewbound",
+      "summary": "Las ventas de bebidas alcohólicas en canal off-premise cayeron a territorio negativo en la semana del 28 de junio, según datos semanales de Circana. Spirits y RTDs (ready-to-drink) mantienen desempeño",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Southern Glazer’s Wine & Spirits to Cut 1% of Workforce Amid Digital Sales Shift | Brewbound",
+      "summary": "Southern Glazer's Wine & Spirits, principal distribuidor de bebidas alcohólicas en EE.UU., realizará despidos del 1% de su plantilla como parte de una transformación digital del modelo de negocio. La ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Drink Dry: zero-ABV ‘spirits’ to boom in Middle East",
+      "summary": "Drink Dry, distribuidor de bebidas sin alcohol con sede en Dubai, reporta crecimiento de tres dígitos en ventas y posiciona los destilados 0% como oportunidad de expansión exponencial en Oriente Medio",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cazcanes nets Reyes distribution deal",
+      "summary": "Cazcanes, marca de tequila, firmó acuerdo de distribución con Reyes Beverage Group para expandir presencia en seis mercados estadounidenses (Texas, Colorado, Arizona, Hawái, Luisiana y Oklahoma) a par",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "YTD 2026 Beverage Performance and Trends - 3Tier Beverages via NIQ",
-      "summary": "Informe de desempeño de bebidas YTD 2026 de NIQ/3Tier muestra divergencia en el mercado: categorías tradicionales (cerveza, vino, espíritus) enfrentan presión en ventas en dólares, mientras que espíri",
+      "summary": "En el primer semestre de 2026, el mercado de bebidas muestra divergencia entre categorías: cerveza, vino y destilados enfrentan presión en ventas en dólares, aunque los destilados mantienen resilienci",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2760,12 +2659,125 @@
       "region": "Mundial"
     },
     {
-      "title": "2026 State of the Beverage Industry: Tea market finds footing by utilizing functional, convenience benefits",
-      "summary": "El mercado de té RTD (listo para beber) experimenta crecimiento impulsado por la demanda de bebidas saludables y funcionales. Expertos de la industria señalan que las tendencias de salud y bienestar s",
+      "title": "International guidance on ‘may contain’ allergen labelling introduced",
+      "summary": "La Comisión del Codex Alimentarius estableció nuevas directrices internacionales sobre etiquetado precautorio de alérgenos ('puede contener'). Las guías buscan que esta advertencia se utilice solo tra",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mahou San Miguel llevará control digital en tiempo real a 700 locales de hostelería",
+      "summary": "Mahou San Miguel implementará monitorización digital en tiempo real en 700 bares españoles durante cinco años para optimizar la distribución de cerveza de bodega. El sistema busca reducir ineficiencia",
+      "companies": [
+        "Mahou San Miguel"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Canada end up being punished for the US alcohol ban?",
+      "summary": "Una congresista estadounidense propone investigar las restricciones canadienses sobre importaciones de bebidas alcohólicas estadounidenses, implementadas como respuesta a aranceles comerciales. Esta s",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stoli vodka pops up at Dubai Duty Free",
+      "summary": "Stoli Group activa su vodka insignia en Dubai Duty Free con una experiencia de marca dirigida a viajeros internacionales. La iniciativa, en colaboración con MMI (subsidiaria de Emirates Group) y Bols ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fragmentation reshapes grocery, creating new opportunities for specialty brands",
+      "summary": "La fragmentación del retail y los cambios en el comportamiento del consumidor están erosionando la dominancia del canal tradicional de supermercados, abriendo oportunidades para marcas especializadas ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Eclipse Beverages shows dividends of people-centred approach",
+      "summary": "Eclipse Beverages demuestra resultados positivos mediante su enfoque centrado en conexiones locales y expertise regional para penetrar mercados asiáticos. La empresa ofrece servicios de distribución y",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brooklyn Gin appoints Gorilla Brands as UK distributor",
+      "summary": "Brooklyn Gin, marca estadounidense de gin premium, regresó al mercado británico mediante un acuerdo de distribución exclusiva con Gorilla Brands. La estrategia se enfoca en retail premium, hostelería ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Motel Mezcal makes Australian debut",
+      "summary": "Motel Mezcal, marca artesanal oaxaqueña, ingresa al mercado australiano a través de un acuerdo de distribución exclusiva con Fesq & Company. La alianza une dos negocios familiares: Daniel López (terce",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Soft Volumes Lead to Slower Non-Alc Beverage Sales in June - BevNET.com",
+      "summary": "Las ventas de bebidas sin alcohol desaceleraron significativamente en junio en EE.UU., con crecimiento de solo 1.4% en dólares en la quincena del 27 de junio versus 3.2% en el período de cuatro semana",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "De Kuyper bets big on Spritz serves",
+      "summary": "De Kuyper Royal Distillers lanza una línea de Spritz ready-to-serve en botellas estilo Champagne para canal off-trade, incluyendo variantes de Limoncello, Elderflower y Peachtree. La estrategia busca ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "US to investigate Canada ban on American alcohol",
+      "summary": "Canadá implementó desde marzo 2025 un boicot a bebidas alcohólicas estadounidenses en la mayoría de sus provincias por tensiones comerciales, causando una caída del 70% en exportaciones de spirits est",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac Moves Spirits, RTD Portfolio to Reyes in Colorado - BevNET.com",
+      "summary": "Sazerac designó a Reyes, a través de su operación RBG Spirits & Wine en Colorado, como distribuidor de su portafolio de bebidas espirituosas y RTD (ready-to-drink). Este movimiento refleja la consolid",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
