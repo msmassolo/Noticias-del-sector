@@ -2286,7 +2286,7 @@
   "2026-07-12": [
     {
       "title": "Más proteína y productos listos para llevar, la nueva tendencia en el consumo de bebidas - Diario del Sur - Noticias de hoy",
-      "summary": "La industria de bebidas experimenta un giro hacia productos de mayor contenido proteico y formatos listos para consumir (ready-to-drink), reflejando cambios en el comportamiento del consumidor hacia o",
+      "summary": "El mercado de bebidas está evolucionando hacia productos proteicos y formatos listos para consumir (ready-to-drink), reflejando cambios en preferencias de consumidores orientadas a funcionalidad y con",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2295,7 +2295,7 @@
     },
     {
       "title": "Las exportaciones de vino crecieron 14,2% en el primer semestre y superaron los US$319 millones - Diario Mendoza",
-      "summary": "Las exportaciones de vino argentino crecieron 14,2% en el primer semestre, alcanzando US$319 millones. Este desempeño positivo refleja la recuperación de la demanda internacional y la competitividad d",
+      "summary": "Las exportaciones de vino argentino crecieron 14,2% en el primer semestre, alcanzando US$319 millones. Este desempeño refleja la fortaleza competitiva del sector vitivinícola nacional en mercados inte",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2304,7 +2304,7 @@
     },
     {
       "title": "Adiós a una de las bebidas rehidratantes más vendidas en Colombia: SIC ordenó su retiro del mercado - Infobae",
-      "summary": "La Superintendencia de Industria y Comercio (SIC) de Colombia ordenó el retiro del mercado de una bebida rehidratante de alto volumen de ventas. Esta acción regulatoria establece un precedente crítico",
+      "summary": "La Superintendencia de Industria y Comercio (SIC) de Colombia ordenó el retiro del mercado de una bebida rehidratante de alto volumen de ventas. Esta acción regulatoria tiene implicancias directas par",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2313,8 +2313,20 @@
       "region": "Regional"
     },
     {
+      "title": "India Fuels PepsiCo's Global Q2 Growth Across Beverage and Food Businesses - Entrepreneur India",
+      "summary": "PepsiCo reportó crecimiento en Q2 impulsado por su negocio en India, tanto en bebidas como en alimentos. India se posiciona como un mercado estratégico clave para la compañía a nivel global. Este dese",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "FMX stock holds steady as Coca-Cola FEMSA focuses on core beverage and retail operations - ad-hoc-news.de",
-      "summary": "Coca-Cola FEMSA (FMX) mantiene estabilidad accionaria mientras refuerza su enfoque en operaciones de bebidas y retail. El movimiento sugiere una estrategia de consolidación en su negocio core, potenci",
+      "summary": "Coca-Cola FEMSA mantiene estabilidad en su cotización mientras reafirma su enfoque en operaciones core de bebidas y retail. La decisión estratégica de concentrarse en estos negocios principales reflej",
       "companies": [
         "The Coca-Cola Company",
         "Coca-Cola FEMSA"
@@ -2326,20 +2338,19 @@
       "region": "Mundial"
     },
     {
-      "title": "India Fuels PepsiCo's Global Q2 Growth Across Beverage and Food Businesses - Entrepreneur India",
-      "summary": "PepsiCo registró crecimiento en Q2 impulsado por su desempeño en India, tanto en negocios de bebidas como de alimentos. Este crecimiento en un mercado emergente clave refleja la importancia estratégic",
+      "title": "What Constellation Brands (STZ)'s EPS Beat and Buybacks Amid Softer Sales Means For Shareholders - simplywall.st",
+      "summary": "Constellation Brands reportó una ganancia por acción (EPS) que superó expectativas y ejecutó recompras de acciones, aunque enfrentó ventas más débiles. Este movimiento es relevante para competidores e",
       "companies": [
-        "PepsiCo"
+        "Constellation Brands"
       ],
       "segments": [
-        "consumer_market_trends",
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "Constellation Brands stock holds steady as beer portfolio anchors long-term growth - ad-hoc-news.de",
-      "summary": "Constellation Brands mantiene estabilidad accionaria con su portafolio cervecero como ancla de crecimiento a largo plazo. La compañía, propietaria de marcas como Corona y Pacifico, demuestra solidez f",
+      "summary": "Constellation Brands mantiene estabilidad accionaria con su portafolio cervecero como motor de crecimiento a largo plazo. La compañía, uno de los mayores productores de bebidas alcohólicas globales, d",
       "companies": [
         "Constellation Brands"
       ],
@@ -2351,7 +2362,7 @@
     },
     {
       "title": "Miller Lite by Molson Coors - low-calorie classic fuels on-premise sales - ad-hoc-news.de",
-      "summary": "Molson Coors reporta desempeño positivo de Miller Lite en canales on-premise (bares, restaurantes) impulsado por la categoría de cervezas bajas en calorías. Esta tendencia refleja la demanda creciente",
+      "summary": "Molson Coors reporta un desempeño positivo de Miller Lite, su marca de cerveza baja en calorías, impulsada por las ventas en el canal on-premise (bares y restaurantes). Esta tendencia refleja la creci",
       "companies": [
         "Molson Coors"
       ],
@@ -2363,7 +2374,7 @@
     },
     {
       "title": "Keurig Dr Pepper stock shows steady performance as beverage portfolio supports long-term growth - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper (KDP) mantiene desempeño estable en bolsa, respaldado por su diversificado portafolio de bebidas que impulsa crecimiento de largo plazo. La compañía, con marcas líderes como Dr Pepper",
+      "summary": "Keurig Dr Pepper mantiene un desempeño accionario estable respaldado por su diversificado portafolio de bebidas, posicionándose para crecimiento a largo plazo. La estabilidad del título refleja la sol",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2374,10 +2385,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo stock reflects a global spirits leader navigating changing consumer trends - ad-hoc-news.de",
-      "summary": "Diageo, líder global en bebidas espirituosas, enfrenta presiones por cambios en preferencias de consumo que impactan su valuación bursátil. La compañía debe adaptarse a tendencias emergentes como el c",
+      "title": "Coca-Cola stock holds steady as its global beverage strategy targets long-term growth - ad-hoc-news.de",
+      "summary": "Coca-Cola mantiene estabilidad accionaria mientras ejecuta una estrategia global de bebidas orientada al crecimiento a largo plazo. La noticia señala que el gigante de bebidas está priorizando expansi",
       "companies": [
-        "Diageo"
+        "The Coca-Cola Company"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2386,7 +2397,7 @@
     },
     {
       "title": "AB InBev stock reflects global beer giant’s scale as investors weigh long-term fundamentals - ad-hoc-news.de",
-      "summary": "AB InBev, el mayor productor de cerveza global, enfrenta una evaluación de inversores sobre sus fundamentos de largo plazo mientras el mercado pondera su escala operativa. La valoración de la acción r",
+      "summary": "AB InBev, el mayor fabricante de cerveza global, experimenta movimientos en su cotización mientras inversores evalúan sus fundamentos a largo plazo. La valoración del gigante refleja su posición domin",
       "companies": [
         "AB InBev"
       ],
@@ -2396,8 +2407,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Will Monster’s 2-for-1 Split and Emerging-Market Surge Change Monster Beverage's (MNST) Narrative - simplywall.st",
-      "summary": "Monster Beverage anunció un split de acciones 2-por-1 y está acelerando su expansión en mercados emergentes, movimientos estratégicos que podrían redefinir su trayectoria de crecimiento. El split mejo",
+      "title": "Monster Beverage stock shows steady momentum as energy drink demand supports growth - ad-hoc-news.de",
+      "summary": "Monster Beverage evidencia momentum sostenido impulsado por la demanda creciente de bebidas energizantes. El desempeño accionario refleja la fortaleza del segmento de energy drinks, mercado en expansi",
       "companies": [
         "Monster Beverage"
       ],
@@ -2407,10 +2418,32 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage stock shows steady momentum as energy drink demand supports growth - ad-hoc-news.de",
-      "summary": "Monster Beverage mantiene momentum positivo en bolsa impulsado por demanda sostenida de bebidas energizantes. La compañía se beneficia de tendencias globales de crecimiento en el segmento de energy dr",
+      "title": "Diageo stock reflects a global spirits leader navigating changing consumer trends - ad-hoc-news.de",
+      "summary": "Diageo, líder global en bebidas alcohólicas destiladas, enfrenta presiones por cambios en preferencias de consumidores. La acción refleja la necesidad de la empresa de adaptarse a tendencias como el c",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Monster’s 2-for-1 Split and Emerging-Market Surge Change Monster Beverage's (MNST) Narrative - simplywall.st",
+      "summary": "Monster Beverage anunció un split accionario 2-por-1 y está experimentando un crecimiento significativo en mercados emergentes, movimientos que podrían reposicionar la narrativa del valor de la compañ",
       "companies": [
         "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo stock holds steady as its global snacks and beverages strategy underpins long-term growth - ad-hoc-news.de",
+      "summary": "PepsiCo mantiene estabilidad accionaria respaldada por su estrategia global integrada de snacks y bebidas. La diversificación del portafolio entre categorías de bebidas y alimentos posiciona a la comp",
+      "companies": [
+        "PepsiCo"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2419,7 +2452,7 @@
     },
     {
       "title": "How Investors May Respond To Coca-Cola (KO) Becoming Marriott’s Primary Global Beverage Partner - simplywall.st",
-      "summary": "Coca-Cola aseguró a Marriott como socio primario global de bebidas, consolidando su posición en el canal horeca a escala internacional. Este acuerdo estratégico amplía la distribución de KO en más de ",
+      "summary": "Coca-Cola aseguró un acuerdo estratégico como proveedor principal global de bebidas para Marriott International, uno de los mayores grupos hoteleros del mundo. Este contrato representa una oportunidad",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2430,7 +2463,7 @@
     },
     {
       "title": "PepsiCo stock reflects a steady global consumer staples profile as investors weigh long-term growth - ad-hoc-news.de",
-      "summary": "PepsiCo mantiene un perfil sólido como líder global en alimentos y bebidas, con valoraciones de mercado que reflejan estabilidad en su cartera de consumo masivo. Los inversores evalúan el potencial de",
+      "summary": "PepsiCo mantiene un perfil de estabilidad como empresa de bienes de consumo masivo a nivel global, con inversores evaluando su potencial de crecimiento a largo plazo. La noticia refleja la percepción ",
       "companies": [
         "PepsiCo"
       ],
@@ -2440,19 +2473,8 @@
       "region": "Mundial"
     },
     {
-      "title": "National Beverage Corp (FIZZ) Stock Up 3.9% and Still Undervalued -- GF Score: 77/100 - GuruFocus",
-      "summary": "National Beverage Corp (FIZZ), productor de bebidas carbonatadas y no carbonatadas, mostró una suba accionaria del 3.9% y mantiene una puntuación de valuación de 77/100 según GuruFocus, indicando pote",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Britvic stock holds steady as beverage group focuses on branded growth - ad-hoc-news.de",
-      "summary": "Britvic, importante grupo de bebidas europeo, mantiene estabilidad accionaria mientras enfoca su estrategia en crecimiento de marcas propias. La compañía prioriza el desarrollo de productos de marca r",
+      "summary": "Britvic mantiene estabilidad accionaria mientras refuerza su estrategia de crecimiento en marcas propias. El grupo de bebidas prioriza el desarrollo de portfolios de marca en un contexto de mercados c",
       "companies": [
         "Britvic"
       ],
@@ -2463,7 +2485,7 @@
     },
     {
       "title": "Heineken stock reflects steady global beer demand as investors track long-term strategy - ad-hoc-news.de",
-      "summary": "Heineken muestra estabilidad en su cotización reflejando demanda global consistente de cerveza, con inversores enfocados en su estrategia de largo plazo. La noticia destaca el desempeño del gigante ho",
+      "summary": "Heineken mantiene desempeño accionario reflejando demanda global de cerveza estable, con inversores monitoreando su estrategia de largo plazo. La noticia indica fortaleza en mercados clave y confianza",
       "companies": [
         "Heineken"
       ],
@@ -2474,7 +2496,7 @@
     },
     {
       "title": "Samuel Adams Wicked Hazy by The Boston Beer Company - juicy hazy IPA pushes craft segment - ad-hoc-news.de",
-      "summary": "The Boston Beer Company lanzó Samuel Adams Wicked Hazy, una cerveza IPA turbia juicy que refuerza su posicionamiento en el segmento craft de alto margen. El lanzamiento responde a la tendencia crecien",
+      "summary": "The Boston Beer Company lanza Samuel Adams Wicked Hazy, una cerveza IPA hazy juicy que fortalece su posicionamiento en el segmento craft. Este lanzamiento responde a la demanda creciente de estilos de",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2484,8 +2506,30 @@
       "region": "Mundial"
     },
     {
+      "title": "TAP stock holds steady as Molson Coors navigates shifting beer demand - ad-hoc-news.de",
+      "summary": "Molson Coors mantiene estabilidad accionaria mientras enfrenta cambios en la demanda de cerveza. La compañía navega transformaciones en preferencias de consumo que impactan el portafolio tradicional d",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock holds steady as spirits demand stays selective - ad-hoc-news.de",
+      "summary": "Pernod Ricard mantiene estabilidad bursátil en contexto de demanda selectiva en el mercado de spirits. La noticia refleja dinámicas de consumo diferenciadas por categoría y geografía en la industria d",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Molson Coors stock reflects steady brewer position in North America - ad-hoc-news.de",
-      "summary": "Molson Coors mantiene una posición estable en el mercado norteamericano de cerveza, reflejado en el desempeño de su cotización bursátil. Como segundo productor cervecero en América del Norte, su solid",
+      "summary": "Molson Coors mantiene una posición estable en el mercado norteamericano de bebidas, lo que se refleja en el desempeño de su cotización bursátil. Como uno de los principales cerveceros de América del N",
       "companies": [
         "Molson Coors"
       ],
@@ -2496,7 +2540,7 @@
     },
     {
       "title": "India helps PepsiCo log global growth in beverage and food business in Q2 - ET BrandEquity",
-      "summary": "PepsiCo registró crecimiento global en su negocio de bebidas y alimentos en Q2, impulsado significativamente por el mercado de India. Este resultado es estratégico para entender la tracción de la comp",
+      "summary": "PepsiCo registró crecimiento global en su negocio de bebidas y alimentos en Q2, impulsado significativamente por su desempeño en India. Este resultado es estratégico dado que India representa uno de l",
       "companies": [
         "PepsiCo"
       ],
@@ -2507,19 +2551,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola stock holds steady as its global beverage strategy targets long-term growth - ad-hoc-news.de",
-      "summary": "Coca-Cola mantiene estabilidad accionaria mientras ejecuta una estrategia global de bebidas orientada al crecimiento a largo plazo. La estrategia de la compañía busca fortalecer su posición de mercado",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Britvic stock holds steady as beverage demand supports long-term growth - ad-hoc-news.de",
-      "summary": "Britvic mantiene estabilidad accionaria en contexto de demanda sostenida de bebidas que respalda crecimiento a largo plazo. Como jugador internacional clave en bebidas (jugos, refrescos, aguas), la so",
+      "summary": "Britvic, productor británico de bebidas no alcohólicas, mantiene estabilidad accionaria impulsada por demanda sostenida de bebidas. La noticia refleja confianza en el crecimiento a largo plazo de la c",
       "companies": [
         "Britvic"
       ],
@@ -2529,19 +2562,17 @@
       "region": "Mundial"
     },
     {
-      "title": "TAP stock holds steady as Molson Coors navigates shifting beer demand - ad-hoc-news.de",
-      "summary": "Molson Coors mantiene estabilidad accionaria mientras enfrenta cambios en la demanda de cerveza. La compañía, uno de los mayores productores globales, está adaptando su portafolio ante tendencias de c",
-      "companies": [
-        "Molson Coors"
-      ],
+      "title": "Más proteína y productos listos para llevar, la nueva tendencia en el consumo de bebidas - Diario del Cauca",
+      "summary": "La industria de bebidas experimenta un giro hacia productos con mayor contenido proteico y formatos listos para consumir, reflejando cambios en las preferencias del consumidor. Esta tendencia responde",
+      "companies": [],
       "segments": [
         "consumer_market_trends"
       ],
-      "region": "Mundial"
+      "region": "Regional"
     },
     {
       "title": "Exportaciones de vino argentino suben 14,2% y alcanzan U$S 392 millones - Mundo Empresarial AR",
-      "summary": "Las exportaciones de vino argentino crecieron 14,2% alcanzando USD 392 millones, demostrando recuperación y demanda internacional sostenida. Este desempeño refleja la fortaleza competitiva del vino co",
+      "summary": "Las exportaciones de vino argentino crecieron 14,2% alcanzando U$S 392 millones, evidenciando recuperación en mercados internacionales clave. Este desempeño refleja fortaleza en la demanda global y po",
       "companies": [],
       "segments": [
         "consumer_market_trends"
