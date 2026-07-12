@@ -1,432 +1,4 @@
 {
-  "2026-07-04": [
-    {
-      "title": "Mundial 2026: cerveza, delivery, televisores y camisetas, entre los ganadores del consumo",
-      "summary": "Un informe de Focus Market analiza el impacto del Mundial 2026 en patrones de consumo argentino, identificando a la cerveza como uno de los principales ganadores junto con delivery, electrónica e indu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Calor extremo coloca à prova consumo de bebidas alcoólicas e afeta fabricantes na Europa",
-      "summary": "Onda de calor extrema en Europa desafía la premisa tradicional de que veranos más cálidos impulsan ventas de bebidas alcohólicas. Estudios revelan que el consumo de cerveza y bebidas como Aperol Sprit",
-      "companies": [
-        "AB InBev",
-        "Carlsberg Group",
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "De HSBC a la dueña de Johnnie Walker: las 10 empresas inglesas en México que generan millones de pesos",
-      "summary": "Diez empresas británicas operan entre las 500 más importantes de México, incluyendo Diageo (dueña de Johnnie Walker y otras marcas alcohólicas premium). La presencia de estos grupos en sectores estrat",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev (ABEV3) terá forte 2T26, com destaque para cerveja no Brasil, diz BBI - Money Times",
-      "summary": "El banco de inversión BBI proyecta un segundo trimestre 2026 fuerte para Ambev, con énfasis en el desempeño de cerveza en Brasil. La expectativa de crecimiento en el segmento cervecero del mercado bra",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Bestway and Budweiser tie-up drives huge sales surge",
-      "summary": "AB InBev (Budweiser) ejecutó una alianza estratégica con Bestway Wholesale, distribuidor mayorista del Reino Unido, activando puntos de distribución clave mediante experiencias de marketing experienci",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Singleton gets packaging revamp",
-      "summary": "Diageo relanzó el packaging de su marca The Singleton con un nuevo diseño visual más moderno y distintivo en su línea de single malts. El objetivo es mejorar la exploración del portafolio y reforzar l",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "7 Things You Should Know About BuzzBallz, the Trailblazing RTD Popular With Gen Z",
-      "summary": "BuzzBallz es un RTD (ready-to-drink) de bebidas espirituosas y a base de vino que captura significativamente a consumidores Gen Z con presentaciones innovadoras en botellas de burbuja y sabores difere",
-      "companies": [
-        "Bacardi",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo shuts Aviation Gin visitor centre",
-      "summary": "Diageo cierra el centro de visitantes de Aviation Gin en Oregón, apenas tres años después de su apertura en septiembre 2022. La marca, adquirida por Diageo en 2020 con apoyo del actor Ryan Reynolds, r",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hennessy and The Pinnacle Guide launch bar residency programme",
-      "summary": "Hennessy Cognac y The Pinnacle Guide lanzan un programa de residencia de bartenders en bares premium a nivel mundial. Los participantes serán seleccionados de la competencia MyWay de Hennessy, con des",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FSSAI issues notices to Red Bull, PepsiCo India, Campa, other brands over 'energy drink' claims - ET Retail",
-      "summary": "La autoridad regulatoria india FSSAI emitió notificaciones a Red Bull, PepsiCo India, Campa y otras marcas por hacer afirmaciones sobre bebidas energéticas sin cumplir normativas. Esta acción regulato",
-      "companies": [
-        "PepsiCo",
-        "Red Bull"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Y Intercept Hong Kong Ltd Buys Shares of 170,014 Monster Beverage Corporation $MNST - MarketBeat",
-      "summary": "Y Intercept Hong Kong Ltd adquirió 170,014 acciones de Monster Beverage Corporation, uno de los principales competidores globales en bebidas energéticas. Este movimiento refleja interés institucional ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg Denmark Makes \"Significant and Committed Shift\" for Regenerative Crops - Food & Beverage Outlook",
-      "summary": "Carlsberg Denmark implementa un cambio significativo hacia agricultura regenerativa en sus cultivos de cebada, alineándose con objetivos de sustentabilidad corporativa. Esta iniciativa impacta directa",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hacien Tequila seeks investment",
-      "summary": "Hacien Tequila, marca británica lanzada en 2021, busca capital a través de crowdfunding para expandir su posición en mercados globales. La estrategia incluye tequilas premium (100% agave blanco, añejo",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Zacal Mezcal launches Zacalita RTD cocktail",
-      "summary": "Zacal Mezcal lanzó Zacalita, su primer cóctel RTD tipo Margarita con 7% ABV en latas de 200ml a £7 (US$9,50). El producto combina mezcal triple destilado con triple sec y destilado de cardamomo negro,",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Price sensitive: is depremiumisation the future?",
-      "summary": "La industria global de bebidas espirituosas está pivoteando hacia opciones más accesibles tras años de impulsar la premiumización. El downtrading acelerado responde a presión de consumidores afectados",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Torres Brandy unveils football-inspired bottles",
-      "summary": "Torres, productor español de brandy, lanzó una edición limitada de 10 botellas inspiradas en banderas de países y fandom futbolístico para su línea Torres 10 Grand Reserva. La estrategia de packaging ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman Corp highlights branded spirits portfolio as investors track long-term growth - Ad-hoc-news.de",
-      "summary": "Brown-Forman enfatiza su portafolio de marcas de bebidas espirituosas como eje de crecimiento a largo plazo frente a inversores. La empresa, uno de los mayores productores globales de destilados premi",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard highlights global spirits portfolio as investors watch long term growth - Ad-hoc-news.de",
-      "summary": "Pernod Ricard refuerza su estrategia de portafolio global de spirits ante la atención de inversores en el crecimiento a largo plazo. La estrategia incluye la optimización de marcas premium y la penetr",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken balances global beer demand and premiumization. Long-term brand strategy stays in focus - Ad-hoc-news.de",
-      "summary": "Heineken mantiene su estrategia de largo plazo enfocada en equilibrar la demanda global de cerveza con la premiumización de su portafolio. Esta aproximación es relevante para la industria de bebidas e",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How B Corp can cut through ‘a lack of literacy around sustainability’",
-      "summary": "Cork Supply, subsidiaria de Harv 81 Group, obtiene certificación B Corp para diferenciarse en sostenibilidad y comunicar credenciales ambientales a su cadena de suministro. La estrategia busca traduci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FSSAI pulls up Red Bull, Sting & other energy drinks for misleading claims - INDIA - GENERAL - Kerala Kaumudi",
-      "summary": "La autoridad regulatoria india FSSAI (Food Safety and Standards Authority of India) sancionó a Red Bull, Sting y otras bebidas energizantes por afirmaciones engañosas en sus etiquetas y publicidad. Es",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage focuses on growth and brand strength as a leading energy drink maker - Ad-hoc-news.de",
-      "summary": "Monster Beverage reafirma su posicionamiento como líder global en bebidas energéticas, priorizando crecimiento y fortalecimiento de marca. La estrategia se centra en expandir su portafolio y consolida",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Europacific Partners balances growth and resilience in a changing beverage landscape - Ad-hoc-news.de",
-      "summary": "Coca-Cola Europacific Partners (CCEP), embotellador clave del grupo Coca-Cola, reporta estrategia de equilibrio entre crecimiento y resiliencia frente a transformaciones en el mercado de bebidas. La n",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands highlights its premium beverage strategy as investor interest stays steady - Ad-hoc-news.de",
-      "summary": "Constellation Brands reafirma su estrategia de bebidas premium con continuidad en el interés inversor. La compañía, uno de los mayores productores globales de bebidas alcohólicas y no alcohólicas, man",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marriott International brings in Coca Cola as their official global beverage partners - BW Hotelier",
-      "summary": "Coca-Cola se convierte en proveedor oficial global de bebidas para Marriott International, una de las mayores cadenas hoteleras del mundo con presencia en 130+ países. Esta alianza estratégica amplifi",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Europacific Partners launches final €500mn share buyback tranche - The Globe and Mail",
-      "summary": "Coca-Cola Europacific Partners ejecuta la última tranche de €500 millones de su programa de recompra de acciones, reflejando confianza en su desempeño operativo y retorno de capital a accionistas. Est",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ian Macleod scales back Scotch production",
-      "summary": "Ian Macleod Distillers redujo un 30% la producción anual en sus destilerías de Scotch Glengoyne y Rosebank debido a la caída de demanda y perspectivas de venta débiles para el año fiscal 2025. La deci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "12 brands that have nailed the ‘fricy’ trend",
-      "summary": "El trend 'fricy' (fruity + spicy) está ganando tracción en redes sociales y plataformas de recetas, impulsado por temperaturas estivales crecientes. La combinación de dulzor frutado con calor de chile",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Investors Are Reacting To Molson Coors Beverage (TAP) Russell 2500 Additions And Beyond Beer Pivot - simplywall.st",
-      "summary": "Molson Coors (TAP) fue incluida en el índice Russell 2500, lo que generó reacciones de inversores sobre su estrategia de diversificación más allá de cerveza. La noticia es relevante para monitorear mo",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Simply Spiked Peach from Molson Coors Beverage Co. - summer alcohol punch with real fruit juice - Ad-hoc-news.de",
-      "summary": "Molson Coors lanza Simply Spiked Peach, una bebida alcohólica estival que combina alcohol con jugo de fruta real. El lanzamiento responde a la creciente demanda de bebidas alcohólicas de sabor afrutad",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage focuses on its core brands as investors eye long-term strategy - Ad-hoc-news.de",
-      "summary": "Molson Coors Beverage realiza un reenfoque estratégico concentrándose en sus marcas core mientras los inversores evalúan la estrategia de largo plazo de la compañía. Este movimiento refleja una tenden",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FIZZ stock leans on its beverage lineup. National Beverage stays on Nasdaq. - Ad-hoc-news.de",
-      "summary": "National Beverage Corp (FIZZ) mantiene su listado en Nasdaq, demostrando estabilidad bursátil mientras se enfoca en su cartera de bebidas como motor de crecimiento. La noticia es relevante para monito",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britvic plc focuses on branded soft drinks as investors watch long-term growth - Ad-hoc-news.de",
-      "summary": "Britvic plc, líder europeo en bebidas no alcohólicas, reafirma su estrategia de enfoque en marcas propias de bebidas suaves frente a presión de inversores por crecimiento a largo plazo. La decisión re",
-      "companies": [
-        "Britvic"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corp focuses on energy drinks as investors watch growth trends - Ad-hoc-news.de",
-      "summary": "Monster Beverage Corp mantiene el enfoque estratégico en bebidas energizantes en un contexto donde los inversores monitorean tendencias de crecimiento del segmento. La compañía es uno de los principal",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Red Bull, Sting, etc. not recognised as 'energy drinks', says food regulator FSSAI as it issues notices ov - The Economic Times",
-      "summary": "El regulador alimentario indio FSSAI no reconoce oficialmente a Red Bull, Sting y otras bebidas como 'energy drinks', emitiendo notificaciones regulatorias que impactarán la clasificación y comerciali",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage balances growth and brand power as investors watch margins - Ad-hoc-news.de",
-      "summary": "Monster Beverage enfrenta el desafío de mantener el crecimiento mientras preserva el poder de marca, bajo escrutinio de inversores respecto a márgenes operativos. La empresa debe equilibrar expansión ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock stays tied to its premium spirits mix. Investors watch execution. - Ad-hoc-news.de",
-      "summary": "Pernod Ricard enfrenta escrutinio de inversores sobre su capacidad para ejecutar su estrategia de premium spirits, segmento que impulsa la valoración de sus acciones. La compañía francesa, con presenc",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ambev (ABEV3) deve crescer acima da indústria de cerveja no 2º trimestre - melhorinvestimento.net",
-      "summary": "Ambev, mayor productor de bebidas en América Latina, proyecta crecer por encima de la industria cervecera en Q2. Este desempeño superior respecto a competidores es estratégicamente relevante para una ",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    }
-  ],
   "2026-07-05": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2709,6 +2281,272 @@
         "consumer_market_trends"
       ],
       "region": "Mundial"
+    }
+  ],
+  "2026-07-12": [
+    {
+      "title": "Más proteína y productos listos para llevar, la nueva tendencia en el consumo de bebidas - Diario del Sur - Noticias de hoy",
+      "summary": "La industria de bebidas experimenta un giro hacia productos de mayor contenido proteico y formatos listos para consumir (ready-to-drink), reflejando cambios en el comportamiento del consumidor hacia o",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Las exportaciones de vino crecieron 14,2% en el primer semestre y superaron los US$319 millones - Diario Mendoza",
+      "summary": "Las exportaciones de vino argentino crecieron 14,2% en el primer semestre, alcanzando US$319 millones. Este desempeño positivo refleja la recuperación de la demanda internacional y la competitividad d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Adiós a una de las bebidas rehidratantes más vendidas en Colombia: SIC ordenó su retiro del mercado - Infobae",
+      "summary": "La Superintendencia de Industria y Comercio (SIC) de Colombia ordenó el retiro del mercado de una bebida rehidratante de alto volumen de ventas. Esta acción regulatoria establece un precedente crítico",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "FMX stock holds steady as Coca-Cola FEMSA focuses on core beverage and retail operations - ad-hoc-news.de",
+      "summary": "Coca-Cola FEMSA (FMX) mantiene estabilidad accionaria mientras refuerza su enfoque en operaciones de bebidas y retail. El movimiento sugiere una estrategia de consolidación en su negocio core, potenci",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India Fuels PepsiCo's Global Q2 Growth Across Beverage and Food Businesses - Entrepreneur India",
+      "summary": "PepsiCo registró crecimiento en Q2 impulsado por su desempeño en India, tanto en negocios de bebidas como de alimentos. Este crecimiento en un mercado emergente clave refleja la importancia estratégic",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands stock holds steady as beer portfolio anchors long-term growth - ad-hoc-news.de",
+      "summary": "Constellation Brands mantiene estabilidad accionaria con su portafolio cervecero como ancla de crecimiento a largo plazo. La compañía, propietaria de marcas como Corona y Pacifico, demuestra solidez f",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Miller Lite by Molson Coors - low-calorie classic fuels on-premise sales - ad-hoc-news.de",
+      "summary": "Molson Coors reporta desempeño positivo de Miller Lite en canales on-premise (bares, restaurantes) impulsado por la categoría de cervezas bajas en calorías. Esta tendencia refleja la demanda creciente",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper stock shows steady performance as beverage portfolio supports long-term growth - ad-hoc-news.de",
+      "summary": "Keurig Dr Pepper (KDP) mantiene desempeño estable en bolsa, respaldado por su diversificado portafolio de bebidas que impulsa crecimiento de largo plazo. La compañía, con marcas líderes como Dr Pepper",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo stock reflects a global spirits leader navigating changing consumer trends - ad-hoc-news.de",
+      "summary": "Diageo, líder global en bebidas espirituosas, enfrenta presiones por cambios en preferencias de consumo que impactan su valuación bursátil. La compañía debe adaptarse a tendencias emergentes como el c",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev stock reflects global beer giant’s scale as investors weigh long-term fundamentals - ad-hoc-news.de",
+      "summary": "AB InBev, el mayor productor de cerveza global, enfrenta una evaluación de inversores sobre sus fundamentos de largo plazo mientras el mercado pondera su escala operativa. La valoración de la acción r",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Monster’s 2-for-1 Split and Emerging-Market Surge Change Monster Beverage's (MNST) Narrative - simplywall.st",
+      "summary": "Monster Beverage anunció un split de acciones 2-por-1 y está acelerando su expansión en mercados emergentes, movimientos estratégicos que podrían redefinir su trayectoria de crecimiento. El split mejo",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage stock shows steady momentum as energy drink demand supports growth - ad-hoc-news.de",
+      "summary": "Monster Beverage mantiene momentum positivo en bolsa impulsado por demanda sostenida de bebidas energizantes. La compañía se beneficia de tendencias globales de crecimiento en el segmento de energy dr",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Investors May Respond To Coca-Cola (KO) Becoming Marriott’s Primary Global Beverage Partner - simplywall.st",
+      "summary": "Coca-Cola aseguró a Marriott como socio primario global de bebidas, consolidando su posición en el canal horeca a escala internacional. Este acuerdo estratégico amplía la distribución de KO en más de ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo stock reflects a steady global consumer staples profile as investors weigh long-term growth - ad-hoc-news.de",
+      "summary": "PepsiCo mantiene un perfil sólido como líder global en alimentos y bebidas, con valoraciones de mercado que reflejan estabilidad en su cartera de consumo masivo. Los inversores evalúan el potencial de",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage Corp (FIZZ) Stock Up 3.9% and Still Undervalued -- GF Score: 77/100 - GuruFocus",
+      "summary": "National Beverage Corp (FIZZ), productor de bebidas carbonatadas y no carbonatadas, mostró una suba accionaria del 3.9% y mantiene una puntuación de valuación de 77/100 según GuruFocus, indicando pote",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Britvic stock holds steady as beverage group focuses on branded growth - ad-hoc-news.de",
+      "summary": "Britvic, importante grupo de bebidas europeo, mantiene estabilidad accionaria mientras enfoca su estrategia en crecimiento de marcas propias. La compañía prioriza el desarrollo de productos de marca r",
+      "companies": [
+        "Britvic"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken stock reflects steady global beer demand as investors track long-term strategy - ad-hoc-news.de",
+      "summary": "Heineken muestra estabilidad en su cotización reflejando demanda global consistente de cerveza, con inversores enfocados en su estrategia de largo plazo. La noticia destaca el desempeño del gigante ho",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Samuel Adams Wicked Hazy by The Boston Beer Company - juicy hazy IPA pushes craft segment - ad-hoc-news.de",
+      "summary": "The Boston Beer Company lanzó Samuel Adams Wicked Hazy, una cerveza IPA turbia juicy que refuerza su posicionamiento en el segmento craft de alto margen. El lanzamiento responde a la tendencia crecien",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors stock reflects steady brewer position in North America - ad-hoc-news.de",
+      "summary": "Molson Coors mantiene una posición estable en el mercado norteamericano de cerveza, reflejado en el desempeño de su cotización bursátil. Como segundo productor cervecero en América del Norte, su solid",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India helps PepsiCo log global growth in beverage and food business in Q2 - ET BrandEquity",
+      "summary": "PepsiCo registró crecimiento global en su negocio de bebidas y alimentos en Q2, impulsado significativamente por el mercado de India. Este resultado es estratégico para entender la tracción de la comp",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola stock holds steady as its global beverage strategy targets long-term growth - ad-hoc-news.de",
+      "summary": "Coca-Cola mantiene estabilidad accionaria mientras ejecuta una estrategia global de bebidas orientada al crecimiento a largo plazo. La estrategia de la compañía busca fortalecer su posición de mercado",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Britvic stock holds steady as beverage demand supports long-term growth - ad-hoc-news.de",
+      "summary": "Britvic mantiene estabilidad accionaria en contexto de demanda sostenida de bebidas que respalda crecimiento a largo plazo. Como jugador internacional clave en bebidas (jugos, refrescos, aguas), la so",
+      "companies": [
+        "Britvic"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "TAP stock holds steady as Molson Coors navigates shifting beer demand - ad-hoc-news.de",
+      "summary": "Molson Coors mantiene estabilidad accionaria mientras enfrenta cambios en la demanda de cerveza. La compañía, uno de los mayores productores globales, está adaptando su portafolio ante tendencias de c",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Exportaciones de vino argentino suben 14,2% y alcanzan U$S 392 millones - Mundo Empresarial AR",
+      "summary": "Las exportaciones de vino argentino crecieron 14,2% alcanzando USD 392 millones, demostrando recuperación y demanda internacional sostenida. Este desempeño refleja la fortaleza competitiva del vino co",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
     }
   ]
 }
