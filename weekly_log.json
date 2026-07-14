@@ -2237,8 +2237,28 @@
   ],
   "2026-07-14": [
     {
+      "title": "Más vino argentino en el mundo: crecieron las exportaciones, pero la ganancia se diluyó por la caída de precios",
+      "summary": "Las exportaciones de vino argentino aumentaron en volumen durante el primer semestre, pero la facturación no acompañó debido a caída de precios internacionales. El Instituto Nacional de Vitivinicultur",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "De Danone a Renault: las 12 empresas de Francia que dominan en México y generan más de 59,500 empleos",
+      "summary": "Doce empresas francesas, incluyendo Danone, operan en México y generan más de 59,500 empleos, posicionándose como actores relevantes en la economía mexicana. Danone es un jugador clave en la industria",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Auge de gaseosas funcionales en Perú: Coca Cola, Grupo AJE y marcas locales redefinen el mercado",
-      "summary": "Perú experimenta un giro significativo en el mercado de bebidas gaseosas hacia opciones funcionales con menor contenido de azúcar, atrayendo a grandes jugadores como Coca-Cola y Grupo AJE. AJE lanzó r",
+      "summary": "El mercado peruano de bebidas funcionales experimenta un crecimiento acelerado, con Coca-Cola y Grupo AJE (líder regional) intensificando su presencia mediante lanzamientos como Hey Fit. La categoría,",
       "companies": [
         "The Coca-Cola Company",
         "AJE Group"
@@ -2249,20 +2269,8 @@
       "region": "Regional"
     },
     {
-      "title": "El Mundial 2026 eleva el consumo de bebidas y botanas, pero las acciones de Coca-Cola FEMSA caen en México - El Imparcial",
-      "summary": "La próxima Copa Mundial 2026 genera expectativas de incremento en consumo de bebidas y snacks en México, principal mercado para Coca-Cola FEMSA. Sin embargo, las acciones de FEMSA experimentaron caída",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Recuperação da cerveja no Brasil deve impulsionar resultados da Ambev no 2ºTRI - EuQueroInvestir",
-      "summary": "Se espera una recuperación del segmento cervecero en Brasil durante el segundo trimestre, lo que impulsaría los resultados financieros de Ambev, principal cervecera de América Latina. Esta recuperació",
+      "summary": "Se espera una recuperación del mercado cervecero en Brasil que impulsará los resultados de Ambev en el segundo trimestre. Esta noticia es estratégica para la industria de bebidas en Argentina, dado qu",
       "companies": [
         "Ambev"
       ],
@@ -2274,7 +2282,7 @@
     },
     {
       "title": "Danone Nutricia no se conforma con tener la cuarta parte del mercado y este es su plan para aumentar su presencia",
-      "summary": "Danone Nutricia, subsidiaria de la francesa Danone, controla aproximadamente el 25% del mercado de bebidas nutritivas en Colombia y busca expandir su presencia mediante nuevas estrategias comerciales.",
+      "summary": "Danone Nutricia, controlada por el grupo francés Danone, busca expandir su presencia en el mercado de bebidas nutricionales donde actualmente posee una cuarta parte. La estrategia incluye investigació",
       "companies": [
         "Danone"
       ],
@@ -2284,8 +2292,20 @@
       "region": "Regional"
     },
     {
+      "title": "Brown-Forman begins search for new chief executive",
+      "summary": "Brown-Forman, propietaria de marcas icónicas como Jack Daniel's y Woodford Reserve, inicia búsqueda de nuevo CEO tras el anuncio de retiro de Lawson Whiting. La salida ocurre en contexto de caída de v",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "International Breweries proposes plan to clear losses",
-      "summary": "AB InBev's subsidiaria nigeriana International Breweries Plc planea eliminar pérdidas acumuladas de NGN191.03 mil millones tras retornar a rentabilidad en 2025. La empresa, que gestiona marcas como Bu",
+      "summary": "AB InBev's filial nigeriana International Breweries Plc presentó un plan para eliminar pérdidas acumuladas de NGN191.03 billones (£103.5 millones) tras retornar a rentabilidad en 2025. La compañía, qu",
       "companies": [
         "AB InBev"
       ],
@@ -2296,7 +2316,7 @@
     },
     {
       "title": "Estados Unidos abre otro frente comercial con Canadá por vetar su alcohol",
-      "summary": "Estados Unidos busca abrir una investigación comercial formal contra Canadá por restricciones a la venta de alcohol estadounidense, a través de la CANADA Act presentada por la congresista Claudia Tenn",
+      "summary": "Estados Unidos inicia investigación comercial formal contra restricciones canadienses a alcohol estadounidense, bajo la Sección 301 de la Ley de Comercio. El proyecto CANADA Act, presentado por congre",
       "companies": [
         "Brown-Forman"
       ],
@@ -2308,7 +2328,7 @@
     },
     {
       "title": "Diageo abre la puja por su distribución en Hungría tras romper con Zwack Unicum",
-      "summary": "Diageo abrió un proceso de licitación para seleccionar nuevo distribuidor de sus marcas (cerveza, espirituosos y ready-to-drink) en Hungría tras terminar su relación con Zwack Unicum, su antiguo socio",
+      "summary": "Diageo abrió un concurso público para seleccionar distribuidor de sus marcas (cerveza, espirituosos y bebidas listas para tomar) en Hungría, tras romper la relación con Zwack Unicum, su distribuidor p",
       "companies": [
         "Diageo"
       ],
@@ -2319,7 +2339,7 @@
     },
     {
       "title": "Tourism and gastronomy stamp Chinese whisky on the global map",
-      "summary": "Pernod Ricard impulsa la expansión global de The Chuan, primer whisky de malta premium chino, mediante inversión en turismo de destilería, alianzas con alta gastronomía y nuevas expresiones. Esta estr",
+      "summary": "Pernod Ricard está posicionando The Chuan, primer whisky malt premium de China, como marca internacional mediante inversión en turismo de destilería, alianzas gastronómicas y nuevas expresiones. La es",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2330,7 +2350,7 @@
     },
     {
       "title": "Clase Azul founder debuts US’ ‘first’ luxury blended Tequila",
-      "summary": "Clase Azul co-founder Charles Durazo y el ex master blender de Patrón Alberto Orozco lanzan Blended Blue Tequila en EE.UU., posicionada como la primera marca de lujo enfocada exclusivamente en tequila",
+      "summary": "Charles Durazo (cofundador de Clase Azul) y Alberto Orozco (exmaestro blender de Patrón y Clase Azul) lanzan Blended Blue Tequila en EE.UU., posicionada como la primera marca de lujo enfocada exclusiv",
       "companies": [
         "Bacardi"
       ],
@@ -2340,10 +2360,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Brown-Forman CEO Lawson Whiting to retire",
-      "summary": "Lawson Whiting, CEO de Brown-Forman desde 2019, anunciará su retiro tras casi 30 años en la compañía propietaria de Jack Daniel's. Este cambio en la cúpula ejecutiva de uno de los principales producto",
+      "title": "Horse Soldier opens $200m Kentucky distillery",
+      "summary": "Horse Soldier Bourbon, respaldado por Gallo, inauguró su destilería American Freedom de USD 200 millones en Kentucky, consolidando su posición en el mercado de whiskey premium estadounidense. La opera",
       "companies": [
-        "Brown-Forman"
+        "E. & J. Gallo Winery"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2351,19 +2371,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Chaiiwala launches customisable Red Bull mocktail range",
-      "summary": "Chaiiwala, cadena de cafeterías india, lanza mockteles personalizables infusionados con Red Bull dirigidos a Gen Z, aprovechando la demanda creciente de bebidas energizantes e innovadoras. La oferta i",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Constellation Brands stock holds steady as beer portfolio anchors long-term growth outlook - Ad Hoc News",
-      "summary": "Constellation Brands mantiene estabilidad accionaria gracias a su portafolio cervecero como ancla de crecimiento a largo plazo. La empresa, uno de los mayores productores de cerveza en América del Nor",
+      "summary": "Constellation Brands mantiene estabilidad accionaria gracias a su cartera de cervezas como motor de crecimiento a largo plazo. La empresa, dueña de marcas líderes como Corona y Modelo, refuerza su pos",
       "companies": [
         "Constellation Brands"
       ],
@@ -2375,7 +2384,7 @@
     },
     {
       "title": "Suntory PepsiCo opens $300m manufacturing site in Tay Ninh, Vietnam | FoodBev Media",
-      "summary": "Suntory PepsiCo Vietnam inauguró una planta de manufactura de $300M en Tay Ninh, descrita como la más grande y avanzada de Asia para la joint venture. Esta inversión señala la apuesta estratégica de d",
+      "summary": "Suntory PepsiCo Vietnam inauguró en julio de 2026 una planta de manufactura de $300M en Tay Ninh, posicionada como la más grande y avanzada de Asia. La inversión refleja la apuesta estratégica de dos ",
       "companies": [
         "PepsiCo"
       ],
@@ -2385,10 +2394,10 @@
       "region": "Mundial"
     },
     {
-      "title": "PepsiCo stock holds steady as snacks and beverages anchor long-term growth outlook - Ad Hoc News",
-      "summary": "PepsiCo mantiene estabilidad accionaria con perspectivas de crecimiento a largo plazo respaldadas por su portafolio de snacks y bebidas. La compañía consolida su posición estratégica mediante la diver",
+      "title": "World's biggest spirits maker Diageo falls nearly 13% after slashing dividend, lowering profit outlook - MSN",
+      "summary": "Diageo, el mayor productor mundial de bebidas espirituosas, registró una caída de 13% en bolsa tras reducir su dividendo y rebajar perspectivas de ganancias. Esta decisión refleja presiones en márgene",
       "companies": [
-        "PepsiCo"
+        "Diageo"
       ],
       "segments": [
         "consumer_market_trends",
@@ -2398,7 +2407,7 @@
     },
     {
       "title": "Brown-Forman VP unveils strategy for travel retail alcohol growth",
-      "summary": "Brown-Forman, uno de los mayores productores de bebidas alcohólicas, está implementando una estrategia específica para capitalizar el crecimiento en canales de travel retail post-pandemia. El segmento",
+      "summary": "Brown-Forman presenta estrategia de crecimiento en retail de viajes, un canal crítico post-pandemia que experimenta volatilidad por cierres fronterizos, inflación y tensiones geopolíticas. El sector r",
       "companies": [
         "Brown-Forman"
       ],
@@ -2409,7 +2418,7 @@
     },
     {
       "title": "China alcohol industry group urges tougher regulation of online spirits sales",
-      "summary": "La asociación de la industria alcohólica china reclama regulación más estricta para las ventas online de licores, argumentando que las normas actuales no acompañan el crecimiento acelerado del e-comme",
+      "summary": "La Asociación China de Bebidas Alcohólicas solicita regulación más estricta de ventas online de licores, argumentando que las normas existentes no acompañan el crecimiento acelerado del e-commerce. Au",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2419,7 +2428,7 @@
     },
     {
       "title": "Modelo, Michelob & Busch Top July 4 Beer Gains as Total Bev-Alc Falls Flat, per Circana Weekly Scans | Brewbound",
-      "summary": "Las ventas de bebidas alcohólicas en EE.UU. durante el 4 de julio fueron débiles a pesar de temperaturas altas, según datos semanales de Circana. Modelo, Michelob y Busch lideraron ganancias en la cat",
+      "summary": "Durante el 4 de julio en EE.UU., las marcas Modelo, Michelob y Busch lideraron las ganancias en cerveza, aunque las ventas generales de bebidas alcohólicas fueron planas según datos de Circana. A pesa",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2429,7 +2438,7 @@
     },
     {
       "title": "AB InBev mueve ficha en Nigeria para volver a pagar dividendos",
-      "summary": "AB InBev ejecuta una reestructuración financiera en su filial nigeriana International Breweries para eliminar pérdidas acumuladas de 103,5 millones de libras y recuperar capacidad de distribución de d",
+      "summary": "AB InBev's Nigerian subsidiary, International Breweries, presentó un plan para eliminar pérdidas acumuladas de 191.030 millones de nairas (~USD 103,5M) y restaurar capacidad de distribución de dividen",
       "companies": [
         "AB InBev"
       ],
@@ -2439,145 +2448,8 @@
       "region": "Mundial"
     },
     {
-      "title": "UK no and low beer sales hit “record” highs",
-      "summary": "Las ventas de cerveza sin alcohol y baja en alcohol en Reino Unido alcanzaron máximos históricos con 200 millones de unidades consumidas, representando un incremento de 8 millones de pintas respecto a",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "US beer sales skyrocket during the World Cup",
-      "summary": "Las ventas de cerveza en EE.UU. experimentan un pico del 15,4% en locales on-trade (bares, restaurantes, pubs) durante el Mundial 2026, según el Beer Institute. El evento genera oportunidades signific",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cruzcampo 1904 irrumpe en el auge de la premium lager en España",
-      "summary": "Heineken España lanza Cruzcampo 1904, una cerveza premium lager que expande el portafolio de la marca en un segmento de alto crecimiento. El producto está disponible en canal retail y on-trade, aprove",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "As Costco partnership ends, Deschutes Brewery says volume sales are up but craft is down - Central Oregon Daily",
-      "summary": "Deschutes Brewery finalizó su asociación con Costco, reportando un aumento en volumen de ventas pero una contracción en la categoría de cerveza artesanal. Este movimiento refleja cambios estratégicos ",
-      "companies": [
-        "Costco"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How have Trump’s tariffs impacted US spirits?",
-      "summary": "Las tarifas arancelarias de Trump están generando presión en productores estadounidenses de destilados, afectando la confianza del consumidor y provocando reorganizaciones en la distribución. El merca",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Lipton Sparkling by PepsiCo Inc. – low-sugar fizz targets on-the-go drinks - Ad Hoc News",
-      "summary": "PepsiCo lanzó Lipton Sparkling, una bebida carbonatada baja en azúcar que apunta al segmento de bebidas sobre la marcha. El movimiento refleja la estrategia de la compañía de fortalecer su portafolio ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Global beverage market in ‘transition’ with RTDs spearheading off-premise growth",
-      "summary": "NIQ report advala que el mercado global de bebidas está en transición estructural, no en declinación. El crecimiento en valor es impulsado por aumentos de precio que ocultan caídas de volumen, cambios",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bols Coconut liqueur makes US on-trade debut",
-      "summary": "Lucas Bols, productor holandés de licores, lanza su licor de coco en el canal on-trade estadounidense por primera vez, expandiendo su portafolio de más de 30 licores. El producto estará disponible en ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NOCA Adds 700 Kroger Placements as it Bucks Soft FMB Market | Brewbound",
-      "summary": "NOCA, fabricante de bebidas alcohólicas innovadoras (hard tea, limonada y agua con alcohol), sumará 700 puntos de venta en Kroger durante el otoño, consolidando su crecimiento en el segmento de bebida",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Major Q2 Food & Beverage Recalls for potential Illness, Allergens",
-      "summary": "Durante Q2 2026 se registraron recalls masivos en el sector de bebidas y alimentos, con énfasis en brotes de enfermedades transmitidas por alimentos y riesgos alérgicos críticos. El sector lácteo fue ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock reflects steady growth prospects in the global energy drink market - Ad Hoc News",
-      "summary": "Monster Beverage muestra perspectivas de crecimiento sostenido en el mercado global de bebidas energizantes. Este movimiento de cotización refleja la solidez del segmento de energy drinks a nivel mund",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Goodness of Hemp Act Proposes Federal Framework for Hemp Beverages | Brewbound",
-      "summary": "Un colectivo de actores de la industria de bebidas con hemp propone la Ley Goodness of Hemp para crear un marco regulatorio federal en EE.UU., buscando evitar restricciones que entrarían en vigencia e",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock holds steady as the beverage giant leans on brands and global scale - Ad Hoc News",
-      "summary": "Coca-Cola mantiene estabilidad en su cotización aprovechando la fortaleza de su portafolio de marcas y su alcance global como ventajas competitivas clave. La estrategia del gigante de bebidas se suste",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "All You Need to Know About Monster Beverage (MNST) Rating Upgrade to Buy - Yahoo Finance",
-      "summary": "Monster Beverage recibió una mejora de calificación a Compra por parte de Yahoo Finance, señalando confianza en su desempeño futuro. El movimiento refleja optimismo sobre la estrategia corporativa y p",
+      "title": "Citigroup Adjusts Price Target on Monster Beverage to $113 From $100, Maintains Buy Rating - marketscreener.com",
+      "summary": "Citigroup elevó su precio objetivo para Monster Beverage de $100 a $113 USD, manteniendo calificación de compra. El ajuste refleja la confianza del analista en el desempeño futuro de la empresa y su p",
       "companies": [
         "Monster Beverage"
       ],
@@ -2588,21 +2460,40 @@
       "region": "Mundial"
     },
     {
-      "title": "Brown-Forman CEO Lawson Whiting to Retire as Successor Search Begins - BevNET.com",
-      "summary": "Lawson Whiting, CEO de Brown-Forman (propietaria de Jack Daniel's), anunció su retiro una vez designado su sucesor. Este cambio en la estructura ejecutiva de uno de los mayores productores de bebidas ",
-      "companies": [
-        "Brown-Forman"
-      ],
+      "title": "UK no and low beer sales hit “record” highs",
+      "summary": "El mercado de cerveza sin alcohol y baja en alcohol en Reino Unido alcanzó récord histórico con 200 millones de unidades vendidas, un incremento de 8 millones de pintas respecto al año anterior. La As",
+      "companies": [],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "PepsiCo stock holds steady as global snack and beverage strategy supports long-term growth - Ad Hoc News",
-      "summary": "PepsiCo mantiene estabilidad accionaria respaldada por su estrategia global integrada de bebidas y snacks. La diversificación de portafolio entre ambas categorías proporciona resiliencia ante volatili",
+      "title": "US beer sales skyrocket during the World Cup",
+      "summary": "Las ventas de cerveza en Estados Unidos experimentaron un aumento del 15.4% en establecimientos de consumo (bares, pubs, restaurantes) durante la Copa Mundial 2026, según datos del Beer Institute. El ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sober raves, booze-free beer: why South Koreans are shunning alcohol",
+      "summary": "Corea del Sur experimenta un shift significativo en preferencias de consumo con caída sostenida en consumo de alcohol y crecimiento de 30% en cerveza sin alcohol en tres años. El cambio de comportamie",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cruzcampo 1904 irrumpe en el auge de la premium lager en España",
+      "summary": "Heineken España lanza Cruzcampo 1904, una cerveza premium lager que amplía el portafolio de la marca y refuerza su posicionamiento en el segmento premium. El lanzamiento se distribuye a través de cana",
       "companies": [
-        "PepsiCo"
+        "Heineken"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2610,8 +2501,134 @@
       "region": "Mundial"
     },
     {
-      "title": "Suntory PepsiCo opens $300M Vietnam plant as beverage demand shifts toward healthier drinks (PEP:NASDAQ) - Seeking Alpha",
-      "summary": "Suntory PepsiCo inauguró una planta de $300M en Vietnam, respondiendo al crecimiento de la demanda de bebidas más saludables en Asia. La inversión refleja la reposicionamiento estratégico del gigante ",
+      "title": "As Costco partnership ends, Deschutes Brewery says volume sales are up but craft is down - Central Oregon Daily",
+      "summary": "Deschutes Brewery finalizó su asociación con Costco, reportando un aumento en volumen de ventas totales pero una disminución en la categoría de cervezas artesanales. Este movimiento refleja cambios es",
+      "companies": [
+        "Costco"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is a new boom for collectible Tequila on the cards?",
+      "summary": "El mercado global de tequila alcanzó un récord de subasta y está experimentando un boom de inversión similar al que vivió el whisky hace 15 años. Valuado actualmente en US$12.6bn, se proyecta un creci",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beluga illuminates on-trade with Noble Night",
+      "summary": "Noblewood Group lanzó una edición limitada iluminada de Beluga Noble vodka orientada al canal on-trade (bares, clubes, lounges). La estrategia busca capturar mayor presencia en ambientes nocturnos y d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How have Trump’s tariffs impacted US spirits?",
+      "summary": "Las tarifas arancelarias de Trump están generando presión en el mercado estadounidense de destilados, afectando la confianza del consumidor y la estructura de distribución. Los productores enfrentan i",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Trade groups challenge Oregon’s EPR over glass fees",
+      "summary": "Organizaciones de la industria de destilados (DISCUS) y vinos están impugnando legalmente el esquema de Responsabilidad Extendida del Productor (EPR) de Oregon por imponer costos excesivos en vidrio p",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Global beverage market in ‘transition’ with RTDs spearheading off-premise growth",
+      "summary": "Según el reporte de NIQ, el mercado global de bebidas atraviesa una transición estructural donde el crecimiento en valor (impulsado por pricing) oculta caídas de volumen y cambios en ocasiones de cons",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bols Coconut liqueur makes US on-trade debut",
+      "summary": "Lucas Bols, productor holandés de licores, lanza su licor de coco en el canal on-trade estadounidense por primera vez, expandiendo su portafolio de más de 30 licores de la línea House of Flavours. El ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman CEO Lawson Whiting to retire",
+      "summary": "Lawson Whiting, CEO de Brown-Forman (propietaria de Jack Daniel's) desde 2019, anunció su retiro tras casi 30 años en la compañía. El cambio de liderazgo en uno de los mayores productores globales de ",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "All You Need to Know About Monster Beverage (MNST) Rating Upgrade to Buy - Yahoo Finance",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown‑Forman chief executive Lawson Whiting to retire - Drinks International",
+      "summary": "Lawson Whiting, CEO de Brown-Forman desde 2019, se retirará tras el nombramiento de su sucesor. Durante su liderazgo, la compañía expandió Jack Daniel's en mercados internacionales y categorías nuevas",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NOCA Adds 700 Kroger Placements as it Bucks Soft FMB Market | Brewbound",
+      "summary": "NOCA, fabricante de bebidas alcohólicas saborizadas (hard tea, limonada y agua alcohólica), agregó 700 ubicaciones en la cadena Kroger para el otoño, demostrando crecimiento contracíclico en un segmen",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Major Q2 Food & Beverage Recalls for potential Illness, Allergens",
+      "summary": "Entre abril y junio de 2026 se registraron retiros masivos de productos de alimentos y bebidas, destacándose un recall multi-empresa de leche en polvo que impactó cadenas de snacks, productos de pan d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo stock holds steady as global snack and beverage strategy supports long-term growth - Ad Hoc News",
+      "summary": "PepsiCo mantiene estabilidad en su cotización bursátil respaldada por su estrategia global integrada de bebidas y snacks. La diversificación de portafolio entre segmentos de bebidas y alimentos proces",
       "companies": [
         "PepsiCo"
       ],
