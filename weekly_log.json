@@ -2556,49 +2556,120 @@
   ],
   "2026-07-17": [
     {
-      "title": "Coca-Cola confirms cyberattack and suspends part of its production in the United States",
-      "summary": "Coca-Cola confirmó un ciberataque con acceso no autorizado de terceros que obligó a suspender parcialmente la producción en Estados Unidos. La empresa activó protocolos de respuesta a incidentes y con",
+      "title": "Kiri, la startup cordobesa que conquistó a un gigante de las bebidas con una idea que desafía a la IA",
+      "summary": "Kiri, startup cordobesa fundada en 2012, evolucionó de un desarrollador de apps para distribuidores locales a una plataforma de comercio unificado con presencia regional. La compañía ha capturado la a",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Bacardi takes EcoSpirits deal global",
+      "summary": "Bacardi se suma a un acuerdo global con EcoSpirits, especialista en empaques de circuito cerrado, uniéndose a Pernod Ricard y Rémy Cointreau. La tecnología de EcoSpirits reduce residuos de empaques en",
+      "companies": [
+        "Pernod Ricard",
+        "Bacardi",
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola confirms cyberattack as Fairlife operations halted",
+      "summary": "Coca-Cola confirmó un ataque cibernético que afectó a Fairlife, su subsidiaria de bebidas lácteas, mediante ransomware. Los sistemas comprometidos incluyeron operaciones de producción, obligando a la ",
       "companies": [
         "The Coca-Cola Company"
       ],
       "segments": [
         "risk_crisis_reputation"
       ],
-      "region": "Regional"
+      "region": "Mundial"
     },
     {
-      "title": "The Coffee não é japonesa e cresce na Europa",
-      "summary": "The Coffee, cadena de cafeterías brasileña de Curitiba, está expandiendo aceleradamente en Europa con 30 locales en Francia y Austria en menos de 5 años, principalmente bajo modelo de franquicias con ",
+      "title": "Booze News Weekly Roundup: Brown-Forman CEO to Retire, Unusually Early Harvest in Santa Barbara, and More",
+      "summary": "Brown-Forman, uno de los mayores productores de bebidas alcohólicas del mundo, anuncia la renuncia de su CEO. La cosecha anormalmente temprana en Santa Barbara señala cambios en los patrones de produc",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mahou logra 12 medallas en los World Beer Challenge con seis oros",
+      "summary": "Mahou obtuvo 12 medallas en los World Beer Challenge 2024, incluyendo 6 oros, posicionándose como la marca cervecera española más premiada en el certamen. Destacan los reconocimientos a Mahou Cinco Es",
+      "companies": [
+        "Mahou San Miguel"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper stock trades steadily as recent earnings highlight resilient beverage demand - ad-hoc-news.de",
+      "summary": "Keurig Dr Pepper reportó resultados que evidencian una demanda resiliente en bebidas, con su cotización en bolsa manteniéndose estable. Este desempeño de un competidor global de gran escala (tercera e",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken stock trades steady as earnings and margin trends shape investor focus - ad-hoc-news.de",
+      "summary": "Las acciones de Heineken mantienen estabilidad mientras los inversores monitorean tendencias de ganancias y márgenes operativos. El desempeño del gigante cervecero holandés impacta directamente en la ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nova Scotia relaxes alcohol laws",
+      "summary": "Nova Scotia relaja regulaciones alcohólicas permitiendo a productores locales (destilerías, bodegas, cervecerías, criaderíos) vender productos entre sí desde agosto y abrir tiendas minoristas secundar",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
       ],
-      "region": "Regional"
+      "region": "Mundial"
     },
     {
-      "title": "Uber compró a la dueña de PedidosYa: qué pasó cuando adquirió otras apps parecidas y cómo fue su derrotero en el negocio del delivery en Uruguay",
-      "summary": "Uber adquirió Delivery Hero, propietaria de PedidosYa, consolidando su presencia en 50 mercados de delivery en América Latina con un volumen bruto de US$ 42.000 millones en 2025. La operación represen",
-      "companies": [],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Heineken Costa Rica agrees to acquire RainForest Water | FoodBev Media",
-      "summary": "Heineken Costa Rica adquirió RainForest Water, marca premium de agua artesanal costarricense, a través de su subsidiaria Distribuidora La Florida. RainForest Water opera en el segmento de agua envasad",
+      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Expected to Rise, Stifel Nicolaus Analyst Says - MarketBeat",
+      "summary": "Stifel Nicolaus emitió un análisis positivo sobre Monster Beverage esperando un incremento en el precio de sus acciones. Esta señal de mercado refleja confianza en el desempeño financiero y operativo ",
       "companies": [
-        "Heineken"
+        "Monster Beverage"
       ],
       "segments": [
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Healthier Choices: Calbee granola, PepsiCo nutrition and no-caffeine tea",
-      "summary": "Calbee lanza Body Granola, una línea de granola personalizada que responde a la demanda creciente de nutrición customizada. PepsiCo respalda esta iniciativa en el contexto de la expansión del segmento",
+      "title": "Liquid Death Sparkling Energy Drinks Are Actually Giving People Wings (No Red Bull) - Men's Journal",
+      "summary": "Liquid Death lanzó una línea de bebidas energizantes con gas que está ganando tracción en el mercado, posicionándose como competidor directo de Red Bull. Esta marca representa una amenaza a los lídere",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Suntory PepsiCo opens $300M Vietnam plant as beverage demand shifts toward healthier drinks - MSN",
+      "summary": "Suntory PepsiCo inaugura una planta de $300M en Vietnam para capitalizar la demanda creciente de bebidas más saludables en la región. Esta inversión estratégica refleja el posicionamiento de dos gigan",
       "companies": [
         "PepsiCo"
       ],
@@ -2608,142 +2679,37 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage (NASDAQ:MNST) Sets New 12-Month High Following Analyst Upgrade - MarketBeat",
-      "summary": "Monster Beverage alcanzó un nuevo máximo de 12 meses tras una actualización positiva de analistas, reflejando confianza en su desempeño y perspectivas. Este movimiento en la cotización de una de las p",
-      "companies": [
-        "Monster Beverage"
-      ],
+      "title": "The Naked Margarita debuts in UK",
+      "summary": "Agave Artisan lanza en Reino Unido 'The Naked Margarita', un coctel listo para servir premium a base de tequila de single estate y cítricos orgánicos mexicanos, posicionado como bebida de lujo session",
+      "companies": [],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "supply_chain_commodities"
       ],
       "region": "Mundial"
     },
     {
-      "title": "PepsiCo stock steadies as resilient snacks and pricing support earnings - ad-hoc-news.de",
-      "summary": "PepsiCo demostró resiliencia en resultados gracias al desempeño de su división de snacks y capacidad de traslación de precios, estabilizando el valor de sus acciones. La estrategia de pricing fue clav",
-      "companies": [
-        "PepsiCo"
-      ],
+      "title": "US restaurants pushing wine markups to six times cost",
+      "summary": "Restaurantes estadounidenses están aplicando márgenes de hasta 6 veces el costo de botellas de vino, alejándose de la convención histórica de 4 veces. Este cambio refleja presiones inflacionarias en c",
+      "companies": [],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Arca Continental stock trades steady as earnings and expansion plans frame valuation - ad-hoc-news.de",
-      "summary": "Arca Continental mantiene estabilidad accionaria con desempeño de ganancias y planes de expansión que justifican su valuación. Como uno de los mayores embotelladores de Latinoamérica (operador de Coca",
-      "companies": [
-        "Arca Continental"
-      ],
+      "title": "BrewDog co-founder submits offer to buy company back from Tilray Brands | FoodBev Media",
+      "summary": "James Watt, co-fundador de BrewDog, presentó una oferta formal para recomprar la cervecería artesanal a Tilray Brands a través de su nueva empresa Second Best. Esta operación de M&A reviste importanci",
+      "companies": [],
       "segments": [
-        "financial_results",
+        "consumer_market_trends",
         "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Bacardí impulsa su combinado con cola como apuesta para festivales y planes al aire libre",
-      "summary": "Bacardí posiciona BACARDÍ & Cola como producto estratégico para la temporada estival, enfocándose en festivales, conciertos y eventos al aire libre. La campaña apunta a capturar ocasiones de consumo s",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock steadies as investors weigh resilient earnings and dividend strength - ad-hoc-news.de",
-      "summary": "Coca-Cola demostró resiliencia en resultados financieros con fortaleza en su política de dividendos, estabilizando su cotización en bolsa. Este desempeño refleja capacidad de generación de flujo de ca",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola's Fairlife halts US production following ransomware incident | FoodBev Media",
-      "summary": "Coca-Cola suspendió temporalmente la producción de Fairlife (su marca de bebidas lácteas premium) en EE.UU. debido a un ataque de ransomware que comprometió sistemas operativos. El incidente afecta di",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as investors weigh recent earnings and spirits demand - ad-hoc-news.de",
-      "summary": "Pernod Ricard, líder global en bebidas alcohólicas, mantiene estabilidad accionaria mientras el mercado evalúa resultados financieros recientes y demanda de destilados. La acción refleja cautela de in",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Do Molson Coors' (TAP) Profit Pressures and Big Holder Support Reframe Its Long-Term Strategy? - simplywall.st",
-      "summary": "Molson Coors enfrenta presiones de rentabilidad que podrían reconfigurar su estrategia a largo plazo, con respaldo de accionistas mayoritarios influyendo en las decisiones corporativas. La situación r",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hard Cider Growth Fueled by Singles, 6-packs & National Brands, per 3 Tier Beverages | Brewbound",
-      "summary": "La sidra dura mantiene crecimiento interanual en 2024 a pesar de la desaceleración del segmento de bebidas alcohólicas en Q2, impulsada tanto por marcas regionales como nacionales. El formato de prese",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "AriZona Hard Launches DOUBLE HARD, New 10% ABV Line",
-      "summary": "AriZona Beverages lanza DOUBLE HARD, una extensión de su línea AriZona Hard con 10% ABV en formato de lata oversized, con sabores Green Tea y Watermelon Dragonfruit. La estrategia apunta al segmento d",
-      "companies": [
-        "Arizona Beverages"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Osborne se hace con la exclusiva en España del catálogo de Sazerac",
-      "summary": "Osborne asumió la distribución exclusiva en España del portafolio de Sazerac Company a partir del 1 de julio, incorporando marcas líderes de whisky y licores como Fireball, Buffalo Trace y Eagle Rare.",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Champagne mastered the art of the collaboration",
-      "summary": "Las colaboraciones creativas se han convertido en estrategia clave de marketing para las marcas de champagne, permitiendo acceder a nuevas audiencias y reforzar su posicionamiento lifestyle. Ruinart, ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "WSTA: Welsh DRS on ‘same disastrous path’ as Scotland",
-      "summary": "La coalición de grupos comerciales galeses insta al gobierno a remover el vidrio de su esquema de depósito retornable (DRS), argumentando que la iniciativa está condenada al fracaso sin financiamiento",
+      "title": "The VinePair Podcast: Can Wine Build a Bridge From RTDs to Bottles?",
+      "summary": "Trinchero Family Wine and Spirits lanzó 'Sauvy B', un RTD a base de vino con el winemaker Joel Gott, planteando una estrategia de puente hacia consumidores más jóvenes. La industria debate si los RTDs",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2752,52 +2718,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Bacardi strengthens Ecospirits partnership with worldwide deal - Global Drinks Intel",
-      "summary": "Bacardi amplía su alianza con Ecospirits mediante un acuerdo global que refuerza su estrategia de sustentabilidad y responsabilidad ambiental en la producción de bebidas espirituosas. La expansión de ",
+      "title": "Brown-Forman stock reflects steady spirits demand as global brands support long-term growth - ad-hoc-news.de",
+      "summary": "Brown-Forman reporta demanda estable de destilados impulsada por sus marcas globales, sugiriendo resiliencia en el segmento premium de bebidas alcohólicas. La noticia es relevante para empresas argent",
       "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Report: Albertsons Tests Hemp THC Drinks in Chicago | Brewbound",
-      "summary": "Albertsons, la segunda cadena de supermercados más grande de EE.UU., está testeando bebidas con THC derivado de cáñamo en Chicago. Este movimiento indica la expansión de la categoría de bebidas cannab",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Zero Proof Playbook: Jill Sites On How To Find Growth In Adult Non-Alc - BevNET.com",
-      "summary": "Jill Sites, ex EVP de ventas de The Pathfinder (marca de bebidas sin alcohol para adultos), comparte estrategias para acelerar el crecimiento en el segmento de no-alcohólicas premium. El análisis abor",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El vino se convierte en un lujo incómodo en los restaurantes de Estados Unidos",
-      "summary": "Los restaurantes estadounidenses incrementaron márgenes de vino hasta 6x el costo mayorista, alejándose del estándar histórico de 4x. Esta estrategia de pricing agresivo está afectando el consumo de v",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari stock trades near 52-week high as spirits demand supports margins - ad-hoc-news.de",
-      "summary": "Las acciones de Campari cotizan cerca de máximos de 52 semanas impulsadas por la demanda sostenida de bebidas espirituosas que mejora los márgenes operativos. Este movimiento refleja fortaleza en la c",
-      "companies": [
-        "Campari Group"
+        "Brown-Forman"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2805,143 +2729,24 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage stock holds near record territory as energy drink demand fuels double digit growth - ad-hoc-news.de",
-      "summary": "Monster Beverage mantiene su cotización en niveles récord impulsado por demanda sostenida de bebidas energizantes con crecimiento de dos dígitos. Este desempeño refleja la fortaleza del segmento de en",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Stock Looks Above Fair Value After Split News - simplywall.st",
-      "summary": "Monster Beverage anunció un split de acciones, lo que generó presión alcista en su valuación bursátil. El análisis señala que la acción está cotizando por encima de su valor justo, sugiriendo posible ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper stock holds steady as investors eye beverage growth and US distribution scale - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper mantiene estabilidad accionaria mientras inversores monitorean su estrategia de crecimiento en bebidas y expansión de distribución en EE.UU. La empresa, con presencia significativa en",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Distribution: Big Geyser Adds Gym Weed, Gym Soda to Roster - BevNET.com",
-      "summary": "Big Geyser, distribuidor directo (DSD) del área metropolitana de Nueva York, agregó a su portafolio las marcas Gym Weed y su línea de sodas Gym Soda, ambas enfocadas en el segmento de bebidas funciona",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Biomel unveils new Love Your Gut protein drink range, expands operations | FoodBev Media",
-      "summary": "Biomel, marca británica de bebidas plant-based enfocada en salud digestiva, lanzó la línea Love Your Gut protein drinks con cultivos vivos y beneficios para salud muscular. El lanzamiento representa l",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Owl’s Brew Functional Non-Alcoholic Mixers",
-      "summary": "Owl's Brew lanza una nueva línea de mezcladores funcionales sin alcohol para cócteles y mockteles, elaborados con jugo de frutas reales, botánicos y té. La estrategia posiciona al brand en el segmento",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock trades steadily as investors weigh Q1 2026 earnings and dividend strength - ad-hoc-news.de",
-      "summary": "Coca-Cola mantiene una cotización estable mientras el mercado evalúa resultados de Q1 2026 y la solidez de su política de dividendos. La fortaleza financiera de la compañía y su capacidad de retorno a",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca Cola confirma ciberataque y suspende parte de su producción en Estados Unidos",
-      "summary": "Coca-Cola confirmó un ciberataque que derivó en la suspensión parcial de producción en Estados Unidos. La empresa activó protocolos de continuidad de negocio ante el acceso no autorizado. Este inciden",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PepsiCo stock holds steady as the beverage and snacks giant leans on its global brand portfolio and - ad-hoc-news.de",
-      "summary": "PepsiCo mantiene estabilidad en su cotización bursátil apoyándose en su cartera global de marcas de bebidas y snacks. La diversificación de portafolio de la compañía actúa como amortiguador en volatil",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as recent earnings and portfolio strategy frame investor view - ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene una cotización estable en mercados tras divulgar resultados recientes y actualizaciones sobre su estrategia de portafolio. Como productor global de bebidas alcohólicas de alto v",
+      "title": "Pernod Ricard stock reflects a resilient spirits strategy as the group leans on premium brands - ad-hoc-news.de",
+      "summary": "Pernod Ricard demuestra resiliencia en su estrategia de bebidas espirituosas mediante un enfoque en marcas premium, lo que se refleja positivamente en el desempeño de sus acciones. Esta orientación ha",
       "companies": [
         "Pernod Ricard"
       ],
       "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Expected to Rise, UBS Group Analyst Says - MarketBeat",
-      "summary": "UBS Group elevó su perspectiva sobre Monster Beverage (MNST), esperando apreciación del precio de la acción. Monster es uno de los mayores competidores globales en bebidas energéticas, con presencia s",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
         "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Bucked Up Drive Hydration and Refreshers",
-      "summary": "Bucked Up lanzó dos nuevas bebidas RTD: Drive Hydration, una bebida de hidratación con electrolitos y nootropicos dirigida a atletas y profesionales, y Refreshers. Drive Hydration se presenta en latas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
+      "title": "Pernod Ricard stock holds steady as global spirits strategy targets premium growth - ad-hoc-news.de",
+      "summary": "Pernod Ricard mantiene estabilidad accionaria mientras ejecuta una estrategia global enfocada en el segmento premium de destilados. Este posicionamiento es relevante para la industria de bebidas por e",
+      "companies": [
+        "Pernod Ricard"
       ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Low-alcohol wine brand 6Percent wins Bread & Jam contest",
-      "summary": "6Percent, una marca de vino bajo en alcohol, ganó el concurso de inversión Bread & Jam en Londres, superando a 41 competidores y asegurando financiamiento por £95k y apoyo comercial. El triunfo reflej",
-      "companies": [],
       "segments": [
-        "consumer_market_trends",
-        "product_innovation"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
