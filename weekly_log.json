@@ -2404,7 +2404,7 @@
   "2026-07-20": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal argentina experimenta una contracción de demanda asociada a cambios en hábitos de consumo y presión inflacionaria sobre costos de producción. Este segmento, históricamente dinámic",
+      "summary": "La cerveza artesanal enfrenta una crisis con contracción del consumo, presión en márgenes por ajuste de costos y cambios en los patrones de demanda del consumidor. Este segmento, que representó una op",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2412,8 +2412,20 @@
       "region": "Local"
     },
     {
+      "title": "Skrewball lands in European airports",
+      "summary": "Skrewball, whiskey con sabor a mantequilla de maní respaldado por Pernod Ricard, ingresó al canal duty-free europeo mediante acuerdo con Gebr Heinemann. El producto está disponible en siete aeropuerto",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Former Jack Daniel’s Cooperage closes in Alabama",
-      "summary": "Independent Stave Company cierra su planta de tonelería en Alabama (ex Jack Daniel's Cooperage) en septiembre de 2026, eliminando 71 puestos. Esta instalación era proveedora clave de barriles para spi",
+      "summary": "Independent Stave Company cierra su planta de tonelería en Alabama (ex Jack Daniel's Cooperage) en septiembre 2026, eliminando 71 empleos. La operación en Trinity, Alabama, era proveedora clave de bar",
       "companies": [
         "Brown-Forman"
       ],
@@ -2423,8 +2435,43 @@
       "region": "Mundial"
     },
     {
+      "title": "Constellation Brands stock trades steadily as beer and wine portfolio supports earnings momentum - ad-hoc-news.de",
+      "summary": "Constellation Brands mantiene un desempeño estable en bolsa impulsado por su portafolio de cerveza y vino que respalda el crecimiento de ganancias. Como uno de los mayores productores globales de bebi",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Aqua Libra expands sparkling water range with Peach & Kiwi flavour | FoodBev Media",
+      "summary": "Aqua Libra lanza una nueva variante de agua mineral con gas sabor Durazno & Kiwi, sin azúcar, edulcorantes, calorías ni ingredientes artificiales. La expansión del portafolio responde a la creciente d",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola BJ stock reflects stable demand as earnings and margins support the Japan beverage busines - ad-hoc-news.de",
+      "summary": "Coca-Cola Bottling Japan reporta demanda estable con márgenes sólidos en su operación de bebidas, respaldando la performance del negocio en Japón. Los resultados financieros y márgenes operativos del ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Monster Beverage stock steadies as energy drink demand supports earnings outlook - ad-hoc-news.de",
-      "summary": "Monster Beverage reporta estabilización de su cotización impulsada por sólida demanda de bebidas energizantes que respalda su outlook de resultados. La noticia confirma la vigencia del segmento de ene",
+      "summary": "Monster Beverage reporta estabilidad accionaria impulsada por demanda sostenida de bebidas energéticas, lo que respalda su outlook de ganancias. Este desempeño refleja la fortaleza del segmento de ene",
       "companies": [
         "Monster Beverage"
       ],
@@ -2435,31 +2482,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola BJ stock reflects stable demand as earnings and margins support the Japan beverage busines - ad-hoc-news.de",
-      "summary": "Coca-Cola Bottling Japan reporta demanda estable con márgenes sólidos en su negocio de bebidas, reflejando fortaleza operativa en uno de los mayores mercados de la región asiática. Los resultados posi",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock trades steady as Modelo and Corona drive earnings momentum - ad-hoc-news.de",
-      "summary": "Constellation Brands mantiene estabilidad accionaria impulsada por el desempeño sólido de sus marcas cerveceras Modelo y Corona. El momentum en ganancias refleja la fortaleza de estas líneas de produc",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Coca-Cola stock trades steadily as resilient earnings and dividend support valuation - ad-hoc-news.de",
-      "summary": "Coca-Cola mantiene estabilidad bursátil respaldada por resultados financieros resilientes y políticas de dividendos sólidas que sustentan su valuación. La fortaleza operativa del gigante global impact",
+      "summary": "Coca-Cola reportó resultados resilientes que sustentan su valuación bursátil y política de dividendos. La estabilidad de la cotización refleja confianza en los fundamentales de la compañía a pesar de ",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2469,20 +2493,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Lipton Sparkling by PepsiCo Inc. - citrus bubbles push ready-to-drink tea - ad-hoc-news.de",
-      "summary": "PepsiCo lanzó Lipton Sparkling, una línea de té listo para beber con sabores cítricos y burbujas, expandiendo su portafolio en el segmento de bebidas funcionales de rápido crecimiento. Este movimiento",
+      "title": "Coca-Cola IPO: Beverage Giant Picks Four Banks for India Bottling Arm Listing; $10 Billion Valuation in Focus - Goodreturns",
+      "summary": "Coca-Cola seleccionó cuatro bancos para llevar a IPO su operación embotelladora en India, con una valuación objetivo de $10 mil millones. Esta transacción es estratégica para la compañía al permitir m",
       "companies": [
-        "PepsiCo"
+        "The Coca-Cola Company"
       ],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
       "title": "Deutsche Bank Downgrades Monster Beverage to Hold From Buy, Adjusts Price Target to $98 From $94 - marketscreener.com",
-      "summary": "Deutsche Bank rebajó su recomendación sobre Monster Beverage de Compra a Mantener, ajustando el precio objetivo de USD 94 a USD 98. Este cambio refleja una reevaluación de los fundamentos de la empres",
+      "summary": "Deutsche Bank redujo su recomendación en Monster Beverage de Compra a Mantener, ajustando el precio objetivo de $94 a $98 por acción. Este cambio de postura de un banco de inversión de primer nivel se",
       "companies": [
         "Monster Beverage"
       ],
@@ -2493,20 +2517,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Keurig Dr Pepper stock trades steady as recent earnings highlight resilient beverage demand - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper reportó resultados sólidos que evidencian demanda resiliente en el sector de bebidas, manteniendo estabilidad en su cotización bursátil. La compañía, uno de los mayores productores de",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Pernod Ricard stock trades steady as recent earnings highlight resilience in premium spirits - ad-hoc-news.de",
-      "summary": "Pernod Ricard reportó resultados que demuestran resiliencia en el segmento de bebidas alcohólicas premium, con estabilidad en el precio de sus acciones. Los earnings positivos reflejan fortaleza en la",
+      "summary": "Pernod Ricard reportó resultados que demuestran resiliencia en el segmento de spirits premium, manteniendo estabilidad en su cotización bursátil. Como uno de los principales grupos de bebidas alcohóli",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2517,8 +2529,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Keurig Dr Pepper stock trades steady as recent earnings highlight resilient beverage demand - ad-hoc-news.de",
+      "summary": "Keurig Dr Pepper reportó resultados financieros que evidencian demanda resiliente en el sector de bebidas, manteniendo estabilidad en su cotización bursátil. Los resultados de la compañía, uno de los ",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Britvic stock trades steadily as latest results highlight revenue growth and margin resilience - ad-hoc-news.de",
-      "summary": "Britvic, empresa líder de bebidas europeo, reporta crecimiento de ingresos y resiliencia de márgenes en sus últimos resultados. El desempeño estable de su acción refleja confianza del mercado en la fo",
+      "summary": "Britvic, principal embotellador de bebidas en Reino Unido e Irlanda, reporta crecimiento de ingresos y resiliencia en márgenes operacionales, con desempeño estable en bolsa. El resultado demuestra cap",
       "companies": [
         "Britvic"
       ],
@@ -2528,19 +2552,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Brown-Forman stock trades steady as recent earnings and dividend support valuation - ad-hoc-news.de",
-      "summary": "Brown-Forman reportó resultados que sostienen su valuación en el mercado, con apoyo de dividendos consistentes. Como productor global de destilados (Jack Daniel's, Woodford Reserve), el desempeño de l",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Molson Coors stock trades steadily as investors weigh Q1 2026 earnings and dividend support - ad-hoc-news.de",
-      "summary": "Molson Coors se mantiene en línea mientras el mercado evalúa sus resultados de Q1 2026 y la política de dividendos. La noticia refleja la estabilidad financiera de uno de los principales competidores ",
+      "summary": "Molson Coors experimenta una cotización estable mientras el mercado evalúa los resultados Q1 2026 y la sostenibilidad de su política de dividendos. La noticia es relevante para monitorear la salud fin",
       "companies": [
         "Molson Coors"
       ],
@@ -2550,8 +2563,39 @@
       "region": "Mundial"
     },
     {
+      "title": "Apogee to buy Luca Mariano Distillery for $19.5m",
+      "summary": "Apogee 21, firma estadounidense de vinos y destilados, adquiere Luca Mariano Distillery por $19.5M en proceso de quiebra. La destilería de Kentucky entró en bancarrota meses después de su apertura, si",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PATRÓN reivindica el tequila hecho a mano con solo tres ingredientes",
+      "summary": "PATRÓN posiciona su diferenciación competitiva en torno a la elaboración artesanal con tres ingredientes (agave, agua, levadura) y sistema de pequeños lotes en su hacienda mexicana. La marca aproveech",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "What are the top 10 functional beverage brands favoured by AI in the US?",
+      "summary": "Un análisis de la agencia 5W utilizando su AI Visibility Index identifica que los modelos de IA ranquean marcas de bebidas funcionales no por volumen de ventas sino por contenido digital accesible sob",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo stock trades steady as investors weigh dividend income and resilient spirits demand - ad-hoc-news.de",
-      "summary": "Diageo mantiene estabilidad en bolsa mientras los inversores evalúan su retorno por dividendos y la demanda resiliente de destilados. La solidez en demanda de spirits refleja la fortaleza del portafol",
+      "summary": "Diageo mantiene estabilidad bursátil mientras inversores evalúan su potencial de ingresos por dividendos frente a una demanda resiliente de spirits. Como mayor productor global de bebidas alcohólicas,",
       "companies": [
         "Diageo"
       ],
@@ -2561,8 +2605,49 @@
       "region": "Mundial"
     },
     {
+      "title": "Monster Beverage stock trades near record territory as energy drink growth supports valuation - ad-hoc-news.de",
+      "summary": "Monster Beverage cotiza cerca de máximos históricos impulsado por el crecimiento sostenido en la categoría de bebidas energéticas, lo que valida su modelo de negocio ante inversores. El desempeño burs",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "UK government launches Scotch whisky inquiry",
+      "summary": "El gobierno británico inicia una investigación parlamentaria sobre la industria del whisky escocés, enfocada en políticas domésticas, acuerdos comerciales y aranceles. Las exportaciones de whisky caye",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NIQ: As Margarita Sales Cool, Martinis Step Into Spotlight - BevNET.com",
+      "summary": "Las ventas de margaritas están desacelerándose mientras los cócteles tipo martini ganan terreno en el mercado, impulsados principalmente por consumidores más jóvenes que diversifican sus preferencias ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Skip expands functional drinks portfolio with magnesium-infused sparkling beverages | FoodBev Media",
+      "summary": "Skip, marca británica de bebidas funcionales, lanzó dos nuevas bebidas gasificadas enriquecidas con magnesio en sabores Berry & Cherry y Kiwi & Lime (formato 250ml). Este movimiento responde a la crec",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Hackers Just Pulled Off Every Food Manufacturer's Worst Nightmare. Now Coca-Cola's $4-Billion Dairy Brand Is Shut Down - inc.com",
-      "summary": "Coca-Cola enfrentó un ciberataque que paralizó operaciones de Fairlife, su marca de productos lácteos valuada en $4 mil millones. El incidente revela vulnerabilidades críticas en la cadena de suminist",
+      "summary": "Coca-Cola enfrentó un ataque cibernético que forzó el cierre operativo de Fairlife, su marca de productos lácteos valorizada en $4 mil millones. El incidente representa un riesgo estratégico crítico p",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2573,7 +2658,7 @@
     },
     {
       "title": "Boston Beer stock trades steady as margins and Twisted Tea growth support valuation - ad-hoc-news.de",
-      "summary": "Boston Beer mantiene estabilidad bursátil impulsada por márgenes sólidos y crecimiento de Twisted Tea, su marca de bebidas alcohólicas lista para consumo. El desempeño de Twisted Tea es clave en la va",
+      "summary": "Boston Beer mantiene una valuación estable impulsada por márgenes sólidos y el crecimiento de Twisted Tea, su marca de bebidas alcohólicas de té. El desempeño de esta categoría representa un caso de é",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2583,18 +2668,53 @@
       "region": "Mundial"
     },
     {
-      "title": "3 Key Trends on Display at IFT FIRST 2026",
-      "summary": "IFT FIRST 2026 en Chicago identificó tres tendencias clave para la industria de alimentos y bebidas: formulaciones que combinan proteína con fibra, proteínas en formatos más claros y ligeros, y reform",
-      "companies": [],
+      "title": "Boston Beer: Long-Term Demographic Challenges, Near-Term Technical Risks (SAM) - Seeking Alpha",
+      "summary": "Análisis de Boston Beer Company (SAM) identificando desafíos demográficos a largo plazo y riesgos técnicos en su valuación. La empresa enfrenta headwinds estructurales vinculados a cambios en las pref",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands stock trades steady as Modelo and Corona drive earnings momentum - ad-hoc-news.de",
+      "summary": "Constellation Brands mantiene estabilidad accionaria impulsada por el desempeño de Modelo y Corona, sus marcas cerveceras clave. El momentum en ganancias refleja la fortaleza de estos portafolios en m",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock trades steady as spirits group targets margin resilience - ad-hoc-news.de",
+      "summary": "Pernod Ricard, uno de los mayores grupos de bebidas alcohólicas globales, mantiene estabilidad bursátil mientras ejecuta estrategia de resiliencia de márgenes. Esta iniciativa es relevante para el mer",
+      "companies": [
+        "Pernod Ricard"
+      ],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "Pernod Ricard stock trades steady as core brands support earnings profile - ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene estabilidad en bolsa gracias al desempeño sólido de sus marcas core, lo que sustenta su perfil de ganancias. Este resultado refleja la fortaleza de su portafolio de bebidas alco",
+      "summary": "Pernod Ricard mantiene estabilidad accionaria con sus marcas core impulsando el perfil de ganancias. Como actor global en bebidas alcohólicas, sus resultados reflejan la solidez de portafolios consoli",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock steadies as investors weigh FY 2024 earnings and China exposure - ad-hoc-news.de",
+      "summary": "Pernod Ricard, uno de los mayores grupos de bebidas alcohólicas a nivel mundial, presenta estabilización de su cotización mientras el mercado evalúa resultados del FY 2024 y exposición a China. La inc",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2605,7 +2725,7 @@
     },
     {
       "title": "Keurig Dr Pepper stock trades steadily as earnings growth supports valuation - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper mantiene una cotización estable en bolsa respaldada por crecimiento en ganancias que justifica su valuación actual. Como uno de los principales productores de bebidas en EE.UU. (propi",
+      "summary": "Keurig Dr Pepper (KDP), uno de los mayores productores de bebidas de consumo masivo en EE.UU., mantiene estabilidad accionaria sostenida por crecimiento de ganancias que justifica su valuación actual.",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2615,58 +2735,34 @@
       "region": "Mundial"
     },
     {
-      "title": "Pernod Ricard stock steadies as investors weigh FY 2024 earnings and China exposure - ad-hoc-news.de",
-      "summary": "Pernod Ricard estabiliza su cotización mientras inversores evalúan resultados FY 2024 y exposición a China. Como uno de los mayores grupos de bebidas alcohólicas del mundo, la performance financiera y",
+      "title": "Deutsche Bank downgrades Monster Beverage stock rating on valuation concerns - Investing.com",
+      "summary": "Deutsche Bank rebajó la calificación de Monster Beverage por preocupaciones sobre valoración. Este movimiento de un banco de inversión global de primera línea señala vulnerabilidad en la valoración de",
       "companies": [
-        "Pernod Ricard"
+        "Monster Beverage"
       ],
       "segments": [
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Pernod Ricard stock trades steady as spirits group leans on premiumization and cash generation - ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene estabilidad bursátil enfocándose en premiumización y generación de caja, estrategias clave en el segmento de bebidas alcohólicas. El grupo diversifica su portafolio hacia produc",
+      "title": "Monster Beverage dips after Deutsche Bank moves off its bull rating (MNST:NASDAQ) - Seeking Alpha",
+      "summary": "Deutsche Bank retiró su calificación alcista en Monster Beverage, provocando una caída en el precio de la acción. Este movimiento refleja cambios en la percepción de analistas sobre uno de los mayores",
       "companies": [
-        "Pernod Ricard"
+        "Monster Beverage"
       ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "3 Key Trends on Display at IFT FIRST 2026",
+      "summary": "IFT FIRST 2026 en Chicago evidenció tres tendencias clave en formulación de alimentos: combinación de proteína con fibra, migración de proteína hacia formatos más claros y ligeros, y reformulación cle",
+      "companies": [],
       "segments": [
         "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock trades near record territory as energy drink growth supports valuation - ad-hoc-news.de",
-      "summary": "Las acciones de Monster Beverage cotizan cerca de máximos históricos, impulsadas por el crecimiento sostenido en bebidas energéticas. El desempeño accionario refleja la fortaleza del segmento de energ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Deutsche Bank downgrades Monster Beverage stock rating on valuation concerns - Investing.com",
-      "summary": "Deutsche Bank redujo la calificación de valoración para Monster Beverage, señalando preocupaciones sobre el precio de sus acciones. Esta acción refleja presión en el segmento de bebidas energéticas, d",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock holds steady as spirits maker prepares for full-year 2026 results - ad-hoc-news.de",
-      "summary": "Pernod Ricard, uno de los principales productores de bebidas alcohólicas a nivel mundial, mantiene estabilidad accionaria mientras se prepara para reportar resultados del ejercicio fiscal 2026. El anu",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
