@@ -2380,20 +2380,20 @@
   ],
   "2026-07-23": [
     {
-      "title": "Spaten Pro: Ambev lança cerveja sem álcool com whey protein e colágeno",
-      "summary": "Ambev lanza Spaten Pro, su primera cerveza sin alcohol con proteína de suero y colágeno (10g de proteína), marcando un hito como primer producto de este tipo en el portfólio global de AB InBev. El lan",
+      "title": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
+      "summary": "Walmart de México y Centroamérica reduce su proyección de crecimiento para 2026 tras reconocer que el Mundial de Fútbol no generó el impulso esperado en consumo generalizado. Aunque categorías como pa",
       "companies": [
-        "Ambev"
+        "Walmart"
       ],
       "segments": [
         "consumer_market_trends",
-        "non_alcoholic_beverages"
+        "financial_results"
       ],
       "region": "Regional"
     },
     {
       "title": "Ambev põe proteína na cerveja e acirra disputa no mercado premium",
-      "summary": "Ambev lanzó Spaten Pro, primera cerveza sin alcohol con proteína (10g) de AB InBev, buscando expandir ocasiones de consumo fuera del contexto tradicional de bares y eventos. La innovación responde a l",
+      "summary": "Ambev (AB InBev) lanzó Spaten Pro, primera cerveza sin alcohol con proteína (10g) de su portafolio global, apuntando al segmento premium. La estrategia busca expandir ocasiones de consumo más allá del",
       "companies": [
         "Ambev"
       ],
@@ -2403,28 +2403,43 @@
       "region": "Regional"
     },
     {
-      "title": "Walmart dice que el Mundial 2026 no impulsó el consumo como esperaba",
-      "summary": "Walmart México y Centroamérica reporta que el Mundial 2026 no generó el impulso generalizado en consumo que la cadena anticipaba, aunque categorías específicas como pantallas y productos estacionales ",
+      "title": "Backus alista inversión para su planta de Motupe: ¿qué proyecto prepara la cervecera?",
+      "summary": "Backus prepara una inversión estratégica en su planta de Motupe (Lambayeque, Perú) para construir una nueva laguna de tratamiento de aguas residuales. El proyecto busca fortalecer la infraestructura o",
       "companies": [
-        "Walmart"
+        "Backus"
       ],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Regional"
     },
     {
-      "title": "American Heart Association: Tomar hasta cinco tazas de café al día podría ser seguro para el corazón, pero las bebidas energéticas elevan los riesgos",
-      "summary": "La American Heart Association valida el consumo de hasta 5 tazas de café diarias como seguro para la salud cardiovascular, con beneficios específicos entre 2-4 tazas, mientras advierte sobre riesgos d",
-      "companies": [],
+      "title": "Nestlé anuncia venda de metade de seu negócio de águas para Platinum Equity",
+      "summary": "Nestlé vende el 50% de su negocio de aguas (incluyendo marcas premium S. Pellegrino y Perrier) a Platinum Equity. La operación responde a una estrategia de desinversión para simplificar estructura y m",
+      "companies": [
+        "Nestle Waters"
+      ],
       "segments": [
-        "consumer_market_trends"
+        "company_news"
       ],
       "region": "Regional"
+    },
+    {
+      "title": "Diageo’s India unit reports 52% leap in quarterly profit",
+      "summary": "United Spirits, subsidiaria de Diageo en India, reportó un crecimiento de 52% en ganancias netas en el primer trimestre (hasta 3.91bn rupias), impulsado por fuerte demanda de su portfolio de spirits p",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
     },
     {
       "title": "Brewbound Voices: The A-B Consent Decree Expired Earlier This Week. What Now? | Brewbound",
-      "summary": "Expira el decreto de consentimiento de 10 años impuesto por el DOJ a la fusión de Anheuser-Busch InBev y SABMiller, que regulaba prácticas competitivas en la industria cervecera global. Las restriccio",
+      "summary": "Expira el decreto de consentimiento de la DOJ que regulaba la adquisición de SABMiller por Anheuser-Busch InBev hace 10 años, levantando restricciones competitivas impuestas para proteger el mercado c",
       "companies": [
         "AB InBev"
       ],
@@ -2435,8 +2450,32 @@
       "region": "Mundial"
     },
     {
+      "title": "Rémy Cointreau must ‘increase its resilience’",
+      "summary": "Rémy Cointreau reportó ventas anuales de €935.3M para marzo 2026, con crecimiento orgánico de 0.2% pero caída de 5% en base reportada. El nuevo CEO Franck Marilly (designado junio 2025) enfatiza la ne",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beefeater taps Jamiroquai for 0.0% campaign",
+      "summary": "Pernod Ricard amplía su portafolio de bebidas sin alcohol mediante una campaña de marketing de alto impacto para Beefeater 0.0%, asociándose con Jamiroquai para reposicionar la marca en el segmento de",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Gatorade study reveals disparities in women's hydration, nutrition",
-      "summary": "Gatorade publicó hallazgos de su instituto de investigación (GSSI) revelando que el 43% de las mujeres llegan a entrenamientos deshidratadas, identificando disparidades de género en hidratación y nutr",
+      "summary": "Gatorade publicó resultados de su instituto de investigación (GSSI) mostrando que el 43% de las mujeres llegan a entrenamientos ya deshidratadas, identificando brechas de género en patrones de hidrata",
       "companies": [
         "PepsiCo"
       ],
@@ -2447,8 +2486,31 @@
       "region": "Mundial"
     },
     {
+      "title": "The Top 10 Best-Selling Beers in America, Every Decade Since the ’80s [Infographic]",
+      "summary": "Análisis histórico de las marcas de cerveza más vendidas en EE.UU. desde los años 80, mostrando el dominio de Budweiser con pico de 24.8% de participación de mercado entre 1980-2000. Documenta la evol",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard drops challenge to $314m Indian tax bill",
+      "summary": "Pernod Ricard abandonó su impugnación a una demanda fiscal india por US$314 millones en impuestos atrasados, relacionada con la supuesta subvaluación de importaciones de whisky escocés desde su subsid",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Oatly Raises 2026 Outlook as Growth Playbook Gains Momentum in North America - BevNET.com",
-      "summary": "Oatly elevó su guía de resultados para 2026 tras registrar crecimiento de doble dígito en el trimestre, consolidando su reposicionamiento estratégico como plataforma de bebidas diversificada más allá ",
+      "summary": "Oatly elevó su guidance para 2026 tras registrar crecimiento de doble dígito en el último trimestre, confirmando el éxito de su reposicionamiento estratégico como plataforma de bebidas integral en lug",
       "companies": [
         "Oatly"
       ],
@@ -2459,20 +2521,53 @@
       "region": "Mundial"
     },
     {
-      "title": "Nestlé carves out joint venture for water business",
-      "summary": "Nestlé vende el 50% de su negocio de agua a Platinum Equity, creando la joint venture Peranel que agrupa más de 30 marcas incluyendo San Pellegrino y Perrier. Este movimiento, parte de la reestructura",
+      "title": "CELSIUS Launches Limited-Edition SPRITZ VIBE Summer Edition, a Sparkling Limoncello Twist Flavor",
+      "summary": "CELSIUS lanza SPRITZ VIBE Summer Edition, una bebida energética con sabor a limoncello espumante en edición limitada. Este es el segundo lanzamiento estacional de la línea SPRITZ VIBE, posicionándose ",
       "companies": [
-        "Nestle Waters"
+        "Celsius Holdings"
       ],
       "segments": [
-        "ma_and_strategy",
-        "product_innovation"
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Femsa stock trades steady as recent earnings and dividend frame valuation - Ad-hoc-news.de",
+      "summary": "Coca-Cola Femsa mantiene estabilidad en cotización tras publicar resultados y anunciar dividendos. Como uno de los mayores embotelladores de Coca-Cola en América Latina, el desempeño financiero de FEM",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Martini Vermouth partners with Crazy Pizza",
+      "summary": "Martini (marca de Bacardi) estableció una alianza estratégica con la cadena de restaurantes italiana Crazy Pizza para activaciones de verano en Europa. La partnership busca posicionar la experiencia d",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CFO Hélène de Tissot to leave Pernod for Chanel",
+      "summary": "Pernod Ricard, propietario de marcas como Martell, anuncia cambio de liderazgo financiero con la salida de Hélène de Tissot después de 23 años. Mauve Croizat asumirá como CFO a partir de octubre, con ",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Diageo activa recortes de hasta el 30% para enderezar su negocio",
-      "summary": "Diageo, uno de los mayores productores de bebidas alcohólicas a nivel mundial, implementa recortes de personal del 20-30% en diversos equipos bajo la dirección del nuevo CEO Dave Lewis. La medida resp",
+      "summary": "Diageo, propietaria de marcas líderes como Johnnie Walker y Smirnoff, implementa recortes de personal entre 20-30% bajo la dirección del nuevo CEO Dave Lewis, como parte de una reestructuración estrat",
       "companies": [
         "Diageo"
       ],
@@ -2482,20 +2577,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage up 23% YTD on Strong Sales, Institutional Support - Yahoo Finance",
-      "summary": "Monster Beverage registra un desempeño bursátil de +23% en lo que va del año, impulsado por sólidas ventas e incremento del respaldo institucional. El momentum de la empresa refleja la fortaleza de la",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Fevertree Drinks (FV8) Q2 2024 Earnings Report - Results, Call & Slides - TipRanks",
-      "summary": "Fevertree Drinks publicó resultados del Q2 2024, empresa líder en mixers premium y bebidas de especialidad con presencia global. Los resultados de la empresa ofrecen insights sobre el desempeño del se",
+      "summary": "Fevertree Drinks reportó resultados del Q2 2024, relevante como competidor clave en el segmento premium de mixers y bebidas de consumo masivo global. La compañía es referente en innovación de bebidas ",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2506,8 +2589,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Monster Beverage up 23% YTD on Strong Sales, Institutional Support - Yahoo Finance",
+      "summary": "Monster Beverage acumula un incremento del 23% en lo que va del año, impulsado por sólidas ventas e inversión institucional creciente. Este desempeño refleja la fortaleza competitiva del líder global ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola stock holds firm as second-quarter earnings highlight resilient demand and higher pricing - Ad-hoc-news.de",
-      "summary": "Coca-Cola reportó resultados de Q2 que demuestran resiliencia en la demanda y capacidad de sostener aumentos de precios, lo que mantiene estable su valuación accionaria. Este desempeño valida la estra",
+      "summary": "Coca-Cola reportó resultados de Q2 que demuestran demanda resiliente y capacidad de sostener aumentos de precios, lo que mantiene estable el precio de su acción. Este desempeño es crítico para la indu",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2518,31 +2613,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo India boosts ad spending to Rs 312 crore in Q1 FY27; picks up 10.08% stake in craft liquor startup Nuvola Spirits - Storyboard18",
-      "summary": "Diageo India incrementó su inversión publicitaria a 312 crores de rupias en Q1 FY27 y adquirió una participación del 10.08% en Nuvola Spirits, startup de licores artesanales. Esta estrategia refleja e",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Celsius Holdings (CELH) Sees Revenue Momentum, Is The Stock Cheap? - simplywall.st",
-      "summary": "Celsius Holdings reporta momentum en ingresos, sugiriendo crecimiento de su negocio de bebidas energéticas. El análisis valúa si la acción está subprecio en el mercado, indicando relevancia para evalu",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Campari stock trades steady as spirits maker integrates Beam Suntory distribution deal - Ad-hoc-news.de",
-      "summary": "Campari integra un acuerdo de distribución con Beam Suntory, consolidando su posición en el mercado de bebidas espirituosas. Este movimiento estratégico amplía su portafolio y cobertura de distribució",
+      "summary": "Campari integra un acuerdo de distribución con Beam Suntory, consolidando su posición en el portafolio de spirits globales. Esta operación amplía la cobertura comercial y el reach de marcas premium en",
       "companies": [
         "Campari Group",
         "Beam Suntory"
@@ -2554,8 +2626,30 @@
       "region": "Mundial"
     },
     {
-      "title": "Nestlé’s turnaround gains momentum despite profit drop",
-      "summary": "Nestlé reportó resultados de H1 2026 con crecimiento orgánico acelerado (3.6% vs 2.9% anual previo) y mejora en crecimiento real interno (1.5% vs 0.2%), pero con caída significativa de ganancias netas",
+      "title": "Celsius Holdings (CELH) Sees Revenue Momentum, Is The Stock Cheap? - simplywall.st",
+      "summary": "Celsius Holdings mantiene dinámico crecimiento de ingresos, consolidándose como actor relevante en el segmento de bebidas energéticas funcionales de alto valor. El análisis de valuación es estratégico",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands (STZ) Stock Looks Like A Bargain As Earnings Stay Weak - Yahoo Finance",
+      "summary": "Constellation Brands, uno de los mayores productores de bebidas alcohólicas con marcas clave como Corona y Modelo, enfrenta debilidad en sus resultados financieros recientes, lo que ha impactado negat",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "What does ‘alcohol-free’ really mean?",
+      "summary": "El mercado de cervezas sin alcohol y bajas en alcohol en Reino Unido experimenta crecimiento acelerado, impulsando a cervecerías a presionar por cambios en la regulación de etiquetado. Las autoridades",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2564,10 +2658,110 @@
       "region": "Mundial"
     },
     {
-      "title": "Tsingtao Brewery stock trades steady as profit growth supports valuation - Ad-hoc-news.de",
-      "summary": "Tsingtao Brewery mantiene estabilidad bursátil respaldada por crecimiento de ganancias. Como segundo productor de cerveza en China y líder en Asia, sus resultados financieros positivos reflejan tenden",
+      "title": "Nestlé’s turnaround gains momentum despite profit drop",
+      "summary": "Nestlé reportó resultados de H1 2026 con señales mixtas: crecimiento orgánico mejorado a 3.6% y crecimiento real interno a 1.5%, pero ganancias netas cayeron 31.4% (de CHF 5.1bn a CHF 3.5bn). El dato ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Caledonia Spirits hires former Breakthru exec to lead expansion",
+      "summary": "Caledonia Spirits, destilería premium de Vermont, contrató a John Oliver como VP de Ventas, ejecutivo senior de Breakthru Beverage Group con 19 años de experiencia en distribución y marketing. Este mo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Canada DTC deal opens up alcohol market",
+      "summary": "Nueve provincias canadienses han aprobado un acuerdo para permitir ventas directas al consumidor (DTC) de bebidas alcohólicas, ampliando significativamente el canal de distribución en el mercado norte",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Twisted Tea Hard Iced Tea by Boston Beer - ready-to-drink boosts summer sales - Ad-hoc-news.de",
+      "summary": "Boston Beer reporta un desempeño positivo en ventas de verano gracias a su portafolio de bebidas listas para beber, específicamente Twisted Tea Hard Iced Tea. El crecimiento en esta categoría de ready",
       "companies": [
-        "Tsingtao Brewery"
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock trades steady as earnings and premiumization shape outlook - Ad-hoc-news.de",
+      "summary": "Pernod Ricard mantiene estabilidad en cotización mientras sus resultados financieros y estrategia de premiumización definen la perspectiva de mercado. La compañía francesa, uno de los mayores producto",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "SEB Asset Management AB Makes New Investment in Coca-Cola Europacific Partners $CCEP - MarketBeat",
+      "summary": "SEB Asset Management AB realizó una nueva inversión en Coca-Cola Europacific Partners (CCEP), el principal embotellador de Coca-Cola en Europa, Asia-Pacífico y África. Este movimiento refleja confianz",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Have you tried the world’s first high fibre beer?",
+      "summary": "Brulo, marca escocesa de cerveza sin alcohol, lanzó All Good IPA con 5g de fibra dietética por lata, posicionándose como la primera cerveza del mundo que cumple el estándar oficial de 'alta en fibra'.",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nestlé unveils €4.9bn drinks giant Peranel in portfolio shake-up",
+      "summary": "Nestlé creó Peranel, una nueva empresa de bebidas valuada en €4.9 mil millones en asociación 50:50 con Platinum Equity. La empresa independiente agrupa más de 30 marcas de agua y bebidas premium (S.Pe",
+      "companies": [
+        "Nestle Waters"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nestlé carves out joint venture for water business",
+      "summary": "Nestlé vende el 50% de su negocio de agua a Platinum Equity, creando la joint venture Peranel que integra más de 30 marcas incluyendo San Pellegrino y Perrier. El acuerdo responde a la estrategia de r",
+      "companies": [
+        "Nestle Waters"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo India boosts ad spending to Rs 312 crore in Q1 FY27; picks up 10.08% stake in craft liquor startup Nuvola Spirits - Storyboard18",
+      "summary": "Diageo India aumentó su gasto publicitario a Rs 312 crores en Q1 FY27 e invirtió en una participación del 10,08% en Nuvola Spirits, una startup de licores artesanales. Este movimiento refleja la estra",
+      "companies": [
+        "Diageo"
       ],
       "segments": [
         "consumer_market_trends",
@@ -2577,198 +2771,13 @@
     },
     {
       "title": "Coke to Shift Soda to Warehouse Delivery From DSD at U.S. Aldi Stores - Beverage-Digest",
-      "summary": "The Coca-Cola Company está modificando su modelo de distribución en las tiendas Aldi de EE.UU., pasando del sistema DSD (Direct Store Delivery) a entregas desde almacén. Este cambio de estrategia logí",
+      "summary": "Coca-Cola modificará su modelo de distribución en las tiendas Aldi de EE.UU., pasando del sistema de entrega directa (DSD) al modelo de warehouse delivery. Este cambio estratégico afecta la logística ",
       "companies": [
         "The Coca-Cola Company"
       ],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ambev stock trades steady as investors weigh latest earnings and Brazil beer demand - Ad-hoc-news.de",
-      "summary": "Las acciones de Ambev se mantienen estables mientras el mercado evalúa los últimos resultados financieros y la demanda de cerveza en Brasil. Este movimiento refleja la reacción de inversores a los ear",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper stock trades steadily as revenue and margins support valuation - Ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper (KDP), uno de los mayores fabricantes de bebidas en EE.UU., mantiene una cotización estable sostenida por resultados sólidos de ingresos y márgenes operativos. La estabilidad accionar",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors stock trades near recent highs as earnings and brand investments shape outlook - Ad-hoc-news.de",
-      "summary": "Molson Coors cotiza cerca de máximos recientes, impulsado por resultados positivos e inversiones estratégicas en sus marcas. La compañía continúa ejecutando un plan de fortalecimiento de su portafolio",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock steadies as investors weigh 2024 earnings and dividend - Ad-hoc-news.de",
-      "summary": "Pernod Ricard estabiliza su cotización mientras el mercado evalúa resultados 2024 y política de dividendos. Como empresa de bebidas alcohólicas de envergadura global, sus decisiones financieras impact",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardi Appoints Kevin Gouthro as Managing Director for Canada",
-      "summary": "Bacardi promociona a Kevin Gouthro como Director General para Canadá, cargo clave en el segundo mercado más importante de la región. Con más de 20 años en la industria de bebidas y 8+ años en Bacardi,",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard repliega su ofensiva judicial por una reclamación fiscal millonaria en India",
-      "summary": "Pernod Ricard retiró su demanda ante el Tribunal Superior de Delhi contra una reclamación fiscal de $314M por presunta infravaloración de importaciones de whisky escocés en India. El caso se traslada ",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "BTS star and Jinro launch first global campaign",
-      "summary": "Jinro, la marca de soju coreano, lanzó su primera campaña global 'My Favorite Jinro' con V de BTS como embajador global. La estrategia busca posicionar la marca mediante un influencer de alcance masiv",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "As NA Drinks Go Mainstream, On-Premise Strategy Moves Beyond Moderation | Brewbound",
-      "summary": "Las bebidas sin alcohol para adultos (ANA) ganaron protagonismo en Tales of The Cocktail, el evento más importante de la industria de bares en Nueva Orleans. La tendencia marca un giro estratégico en ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Bull Case For Monster Beverage (MNST) Could Change Following Deutsche Bank’s Valuation-Driven Downgrade - simplywall.st",
-      "summary": "Deutsche Bank redujo su calificación para Monster Beverage (MNST) por preocupaciones de valuación, desafiando la tesis alcista del mercado. Monster es un competidor crítico en el segmento global de be",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "India tariff cut opens door to wider Scotch whisky market",
-      "summary": "El acuerdo comercial UK-India redujo aranceles sobre whisky escocés de 150% a 75%, con reducción progresiva a 40% en diez años. Esta medida elimina una barrera crítica de acceso al mercado indio, el m",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Canadian spirits ‘uniquely vulnerable’ to US tariff",
-      "summary": "Estados Unidos implementará aranceles del 50% sobre bebidas alcohólicas canadienses a partir del 19 de agosto en represalia por restricciones comerciales previas. Spirits Canada advierte que la indust",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Industry alliance presents new research and guidance on microbial safety in alt-dairy drinks | FoodBev Media",
-      "summary": "Un consorcio de empresas líderes (Ripple Foods, FrieslandCampina, Tetra Pak, SPX Flow, HP Hood) publicó nuevas directrices sobre seguridad microbiológica en bebidas de origen vegetal (alt-dairy), basa",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El comercio mundial del vino pierde 600 millones de euros y obliga a las bodegas a revisar su estrategia exterior",
-      "summary": "El comercio mundial de vino registró caída del 7,5% en valor y 7,9% en volumen en Q1 2026 versus 2025, representando pérdidas de ~600 millones de euros según datos de la Organización Internacional de ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Spaten Pro: Ambev aposta em cerveja com proteína para conquistar consumidor fitness",
-      "summary": "Ambev lanza Spaten Pro, una cerveza sin alcohol estilo Munich Dunkel con menos de 100 calorías y 10g de proteína, dirigida al segmento de consumidores fitness y health-conscious. Esta línea responde a",
-      "companies": [
-        "AB InBev",
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Oatly Q2 2026 slides: revenue guidance raised as beverage push pays off - Investing.com",
-      "summary": "Oatly elevó su guía de ingresos para Q2 2026 tras resultados positivos de su estrategia de expansión en bebidas. La empresa sueca, líder en bebidas de origen vegetal, demuestra traction en el segmento",
-      "companies": [
-        "Oatly"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Oatly Raises 2026 Outlook Amid Pivot to ‘Full-On’ Beverage Company - Green Queen Media",
-      "summary": "Oatly elevó su outlook para 2026 tras reposicionarse como compañía de bebidas integral, ampliando su portafolio más allá de bebidas a base de avena. Este movimiento estratégico refleja la consolidació",
-      "companies": [
-        "Oatly"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Oatly lifts growth expectations as turnaround continues",
-      "summary": "Oatly elevó sus proyecciones de crecimiento anual a 8%-10% (vs. 3%-5% previos), confirmando la continuidad de su turnaround con otro trimestre rentable. Este giro estratégico en la empresa líder de be",
-      "companies": [
-        "Oatly"
-      ],
-      "segments": [
-        "company_news"
       ],
       "region": "Mundial"
     }
