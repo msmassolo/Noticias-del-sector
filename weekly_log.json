@@ -1,383 +1,4 @@
 {
-  "2026-07-18": [
-    {
-      "title": "Kiri, la startup cordobesa que conquistó a un gigante de las bebidas con una idea que desafía a la IA",
-      "summary": "Kiri, startup cordobesa fundada en 2012, evolucionó de desarrolladora de software para distribuidores locales a plataforma de comercio unificado con presencia regional. La empresa capturó el interés d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Coca-Cola presenta su nueva identidad visual con una apuesta por branding, experiencia y cultura",
-      "summary": "Coca-Cola lanzó una renovación global de su identidad visual y packaging con el objetivo de reforzar el posicionamiento de marca bajo la premisa 'hacer que Coca-Cola sea más Coca-Cola'. Esta estrategi",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "packaging_sustainability"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Pepsi is betting on autonomous transport and is now delivering chips and soft drinks in driverless trucks",
-      "summary": "PepsiCo estableció una alianza estratégica plurianual con Gatik para integrar camiones autónomos sin conductor en su logística de distribución de bebidas y snacks. La iniciativa busca optimizar costos",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "CCU y Los Pumas impulsan el consumo responsable con Imperial sin alcohol - Nuevo Diario Web",
-      "summary": "CCU lanza una iniciativa de marketing con Los Pumas para posicionar Imperial sin alcohol como marca de consumo responsable. La estrategia busca asociar la bebida con un público aspiracional (fanáticos",
-      "companies": [
-        "CCU",
-        "CCU"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "¿Qué significa Riunite y qué tan bueno es el vino Lambrusco?",
-      "summary": "Riunite Lambrusco es la marca de vino más vendida en canales de autoservicio en México con volumen estimado de 1.5 millones de litros anuales. Este dato evidencia la fortaleza de Riunite en el segment",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Uber compró a la dueña de PedidosYa: qué pasó cuando adquirió otras apps parecidas y cómo fue su derrotero en el negocio del delivery en Uruguay",
-      "summary": "Uber adquirió Delivery Hero, propietaria de PedidosYa, accediendo a 50 mercados con volumen de US$ 42.000 millones en 2025. La operación consolida la estrategia de Uber de dominio en delivery de alime",
-      "companies": [],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Fábricas Nacionales de Cerveza, las malterías y un negocio cada vez más complicado",
-      "summary": "AmBev enfrenta dificultades operativas significativas en Uruguay con su planta Fábricas Nacionales de Cerveza (FNC) parcialmente parada y una de sus dos malterías inactiva. La situación afecta negocio",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Coca-Cola confirms cyberattack as Fairlife operations halted",
-      "summary": "Coca-Cola confirmó un ciberataque a Fairlife, su subsidiaria de productos lácteos, con acceso no autorizado a sistemas de producción. La compañía activó protocolos de continuidad del negocio e investi",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bacardi takes EcoSpirits deal global",
-      "summary": "Bacardi se suma a un acuerdo global con EcoSpirits, especialista en packaging de circuito cerrado, uniéndose a Pernod Ricard, Rémy Cointreau y Diageo. El sistema de EcoSpirits reduce residuos de empaq",
-      "companies": [
-        "Pernod Ricard",
-        "Bacardi",
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "World Cup: Carlsberg wins, global beer uplift falls short, Americans drive Pre-mix cocktail boom",
-      "summary": "Carlsberg se posicionó como ganador estratégico durante el Mundial, impulsado por el desempeño de selecciones clave (Inglaterra, Francia, Suiza, Noruega). Morgan Stanley redujo proyecciones de uplift ",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Press Clips: James Watt’s Offer for BrewDog; Atwater Grand Rapids to Close; Lost Abbey’s Monastery Officially Opens | Brewbound",
-      "summary": "James Watt renueva su oferta de adquisición por BrewDog superando £30M, evidenciando movimientos de consolidación en cervecería artesanal. Molson Coors importa el concepto de wine window italiano para",
-      "companies": [
-        "Molson Coors",
-        "Asahi Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Booze News Weekly Roundup: Brown-Forman CEO to Retire, Unusually Early Harvest in Santa Barbara, and More",
-      "summary": "El CEO de Brown-Forman anuncia su retiro anticipado, marcando un cambio significativo en la dirección de uno de los mayores productores de bebidas alcohólicas del mundo (propietario de marcas como Jac",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken Costa Rica agrees to acquire RainForest Water | FoodBev Media",
-      "summary": "Heineken Costa Rica adquirió RainForest Water, marca premium de agua artesanal costarricense, a través de su subsidiaria Distribuidora La Florida. La marca, ubicada en Sarapiquí, embotella agua artesa",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Healthier Choices: Calbee granola, PepsiCo nutrition and no-caffeine tea",
-      "summary": "Calbee lanza Body Granola, un producto de granola personalizada que responde a la demanda creciente de nutrición customizada en desayunos. La iniciativa refleja la aceleración de tendencias de health ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo stock holds firm as recent earnings underline pricing power and snacks growth - ad-hoc-news.de",
-      "summary": "PepsiCo mantiene estabilidad accionaria tras resultados que demuestran poder de precios y crecimiento en snacks. Los earnings recientes validan la capacidad de la compañía para trasladar aumentos de c",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock trades steadily as pricing and brand strength support earnings - ad-hoc-news.de",
-      "summary": "Coca-Cola mantiene estabilidad en bolsa gracias a su capacidad de implementar aumentos de precios y a la fortaleza de su marca, factores que sostienen sus ganancias. Este desempeño refleja la resilien",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Maker's Mark launches airport-exclusive series",
-      "summary": "Maker's Mark lanzó una serie exclusiva de travel retail con botellas personalizadas inspiradas en ciudades clave (Nueva York, Los Ángeles, París, Londres, Dubai, Delhi, Mumbai, Singapur, Seúl, Sídney ",
-      "companies": [
-        "Beam Suntory"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Adult Non-Alc Needs to Break the Rules to Foster Next Growth Wave, Ex-The Pathfinder Sales Leader Jill Sites Says | Brewbound",
-      "summary": "Jill Sites, ex-EVP de ventas de The Pathfinder (marca de bebidas sin alcohol), sostiene que el segmento de adultos sin alcohol requiere estrategias no convencionales para acelerar su crecimiento. La d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Baller Moves: Girl Beer Targets Rapid Expansion, Fueled by Dallas Wings Deal, Chain Placements and Variety Packs | Brewbound",
-      "summary": "Girl Beer, una marca de cerveza dirigida a fanáticas de deportes femeninos, está acelerando su expansión mediante un acuerdo de patrocinio con el equipo Dallas Wings de la WNBA, colocaciones en cadena",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why the world is about to see more Canadian cider",
-      "summary": "Cider Canada, asociación sin fines de lucro fundada en 2021 que agrupa 165+ productores de sidra, recibió apoyo federal para expandir internacionalmente. La organización impulsa regulaciones, certific",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage, Coca-Cola lead S&P 500 consumer staples stocks by growth grades - MSN",
-      "summary": "Monster Beverage y Coca-Cola encabezan el desempeño de acciones de consumo masivo en el S&P 500 por calificaciones de crecimiento. Este ranking refleja la fortaleza relativa de ambas compañías en un c",
-      "companies": [
-        "The Coca-Cola Company",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as investors weigh recent earnings and spirits demand - ad-hoc-news.de",
-      "summary": "Pernod Ricard, uno de los mayores productores de bebidas alcohólicas a nivel mundial, mantiene su cotización estable mientras el mercado evalúa sus resultados recientes y la demanda global de destilad",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper stock trades steadily as recent earnings highlight resilient beverage demand - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper, uno de los mayores productores de bebidas en EE.UU., reportó resultados que evidencian demanda resiliente en su portafolio de marcas. El desempeño accionario estable refleja confianz",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors stock trades steadily as cost savings and premium brands support earnings - ad-hoc-news.de",
-      "summary": "Molson Coors reportó resultados sólidos impulsados por iniciativas de reducción de costos y crecimiento en su portafolio de marcas premium. La compañía demuestra estabilidad accionaria en un contexto ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britvic stock trades steady as recent revenue growth and dividend support valuation - ad-hoc-news.de",
-      "summary": "Britvic, productor británico de bebidas no alcohólicas, mantiene estable su cotización bursátil impulsado por crecimiento de ingresos recientes y políticas de dividendos atractivas. El desempeño finan",
-      "companies": [
-        "Britvic"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken stock holds ground as earnings and cost discipline shape expectations - ad-hoc-news.de",
-      "summary": "Heineken mantiene estabilidad accionaria con enfoque en disciplina de costos y gestión de márgenes. La cervecera afronta presiones inflacionarias pero responde con eficiencia operacional, impactando e",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Stock Looks Above Fair Value After Split News - simplywall.st",
-      "summary": "Monster Beverage anunció un split de acciones que impactó su valoración en bolsa. El análisis indica que la acción cotiza por encima de su valor justo, sugiriendo una posible sobrevaloración post-spli",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari stock trades near 52-week high as spirits demand supports margins - ad-hoc-news.de",
-      "summary": "Las acciones de Campari cotizan cerca de su máximo de 52 semanas impulsadas por la demanda sostenida de bebidas espirituosas, que favorece los márgenes operativos del grupo. Este movimiento refleja la",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Liquid Death Sparkling Energy Drinks Are Actually Giving People Wings (No Red Bull) - Men's Journal",
-      "summary": "Liquid Death lanzó bebidas energéticas espumantes que están ganando tracción en el mercado, desafiando la dominancia de Red Bull. La marca, conocida por su posicionamiento disruptivo y packaging provo",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo just dropped a highly anticipated soda flavor—and fans are 'screaming' with excitement - MSN",
-      "summary": "PepsiCo lanzó un nuevo sabor de gaseosa con alta anticipación de mercado, generando respuesta positiva de consumidores. El lanzamiento de nuevas variantes de sabor es parte de la estrategia de innovac",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock holds firm as beer growth offsets softer wine and spirits - ad-hoc-news.de",
-      "summary": "Constellation Brands mantiene estabilidad en bolsa gracias al crecimiento del segmento cervecero, que compensa el desempeño débil en vinos y destilados. El grupo, principal productor de cerveza en Méx",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock trades steadily as earnings and dividend underpin valuation - ad-hoc-news.de",
-      "summary": "Coca-Cola mantiene una valorización estable sustentada en resultados financieros sólidos y política de dividendos consistente. Esta estabilidad refleja la confianza del mercado en el modelo de negocio",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hemp Beverage Volume +133% in 2025, per Hemp Beverage Alliance | Brewbound",
-      "summary": "Las bebidas a base de cáñamo registraron un crecimiento del 133% interanual entre 2024 y 2025, según el Hemp Beverage Alliance. Este boom ocurre a pesar de la amenaza regulatoria inminente en algunos ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Announces A 2 For 1 Stock Split, Is It Fully Priced? - simplywall.st",
-      "summary": "Monster Beverage anunció un split de acciones 2x1, movimiento que refleja la fortaleza de su valuación bursátil y posicionamiento estratégico en el mercado global de bebidas energéticas. Este tipo de ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-07-19": [
     {
       "title": "El efecto Mundial sobre el consumo: del boom de las picadas y el delivery a la salida de dólares por el turismo",
@@ -3148,6 +2769,288 @@
       ],
       "segments": [
         "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-07-26": [
+    {
+      "title": "Inflación de alimentos: los precios volvieron a subir y un rubro clave acumuló 4% en un mes",
+      "summary": "Los precios de alimentos y bebidas retomaron alzas en la tercera semana de julio con incremento semanal del 0,3%, según LCG. El rubro acumula 4% de inflación en el mes, mostrando volatilidad post-esta",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "La cerveza artesanal enfrenta una contracción significativa en consumo, forzando a productores a realizar ajustes de costos operacionales. El segmento experimenta cambios estructurales en hábitos de c",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Backus alista inversión para su planta de Motupe: ¿qué proyecto prepara la cervecera?",
+      "summary": "Backus prepara una inversión en su planta de Motupe (Lambayeque, Perú) para construir una nueva laguna de tratamiento de aguas residuales. La iniciativa busca fortalecer la infraestructura operativa y",
+      "companies": [
+        "Backus"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Bar do Xerém entra para a lista dos 100 melhores bares do Brasil no Heineken Masters 2026 - Blog do Magno",
+      "summary": "Bar do Xerém fue seleccionado entre los 100 mejores bares de Brasil en el Heineken Masters 2026, un programa de reconocimiento de Heineken. Esta iniciativa refleja la estrategia de Heineken de fortale",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Nestlé apela a formatos y precios para elevar venta de café premium: la mira en bodegas",
+      "summary": "Nestlé está intensificando su estrategia de penetración en el mercado de café peruano con bajo consumo per cápita, aprovechando esta brecha como oportunidad de crecimiento. La compañía impulsa formato",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Fevertree Drinks (FV8) Q2 2023 Earnings Report - Results, Call & Slides - TipRanks",
+      "summary": "Fevertree Drinks reportó resultados del Q2 2023, empresa británica líder en mezcladores premium para bebidas alcohólicas. Este reporte es crítico para monitorear dinámicas de la categoría de bebidas m",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands stock trades steadily as beer demand supports earnings outlook - AD HOC NEWS",
+      "summary": "Las acciones de Constellation Brands operan con estabilidad ante una demanda sostenida de cerveza que respalda sus perspectivas de ganancias. Como productor global de bebidas alcohólicas (Corona, Mode",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Costa Coffee store count shrinks to 198 in India in FY26, revenue up 7% - Business Standard",
+      "summary": "Costa Coffee redujo su huella retail en India a 198 locales en FY26, aunque logró incrementar ingresos 7% interanual. La contracción de tiendas refleja una estrategia de optimización de portafolio y e",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola stock holds firm as strong earnings and brand power support valuation - AD HOC NEWS",
+      "summary": "Coca-Cola reportó resultados sólidos que sostienen su valuación bursátil, reflejando el poder de su marca en el mercado global. El desempeño financiero respalda la fortaleza operacional de la empresa ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Constellation Brands’ (STZ) Cash Flow Ambitions And Brewery Expansion Have Changed Its Investment Story - simplywall.st",
+      "summary": "Constellation Brands (STZ) redefine su estrategia de flujo de caja e inversiones en expansión cervecera, alterando su propuesta de valor para inversores. La empresa ajusta su enfoque hacia generación ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock holds steady as earnings and premiumization strategy shape investor view - AD HOC NEWS",
+      "summary": "Pernod Ricard mantiene estabilidad accionaria mientras sus resultados financieros y estrategia de premiumization influyen en la perspectiva de inversores. La compañía continúa impulsando el posicionam",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage (TAP) Could Be 11% Undervalued After Another Earnings Beat - simplywall.st",
+      "summary": "Molson Coors reportó resultados financieros que superaron expectativas, con el análisis sugiriendo que la acción podría estar subvaluada en un 11%. Este desempeño refuerza la solidez operativa del seg",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage Co (TAP) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "summary": "Molson Coors publica desglose de ingresos por segmento de negocio y región geográfica, revelando la contribución de ganancias de cada unidad. Esta información es crítica para entender la estructura de",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company (SAM) Reported Weaker Q2 Results, Is The Stock Still Below Fair Value? - Yahoo Finance",
+      "summary": "Boston Beer Company reportó resultados más débiles en Q2, generando presiones sobre su valuación bursátil. Esta noticia es crítica para monitorear competidores globales en el segmento de cervezas prem",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company Inc (SAM) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "summary": "Boston Beer Company (SAM) presenta un análisis de su estructura de ingresos desagregada por segmentos de negocio y regiones geográficas con contribución a resultados. Como fabricante de bebidas alcohó",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo (LSE:DGE) Stock May Be Cheap Despite Its Craft Spirits Stake - Yahoo Finance",
+      "summary": "Diageo, el mayor productor mundial de bebidas alcohólicas, presenta oportunidades de valuación atractiva según análisis de mercado, impulsado por su estrategia de inversión en destilerías artesanales ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) Stock Set to Split on Tuesday, August 11th - MarketBeat",
+      "summary": "Monster Beverage ejecutará un split de acciones el 11 de agosto, evento corporativo que afecta la estructura accionaria de uno de los principales competidores globales en bebidas energéticas. Esta acc",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo stock trades steady as investors weigh resilient spirits demand and dividend support - AD HOC NEWS",
+      "summary": "Diageo mantiene estable su cotización en bolsa mientras los inversores evalúan la demanda resiliente de bebidas espirituosas y el apoyo del dividendo. Como uno de los mayores productores globales de b",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mushroom soda and other functional drinks make a splash in the beverage market - marketplace.org",
+      "summary": "Las bebidas funcionales, incluyendo sodas de hongos, están ganando tracción significativa en el mercado global de bebidas. Esta tendencia representa una oportunidad estratégica para innovación en port",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (FV8) Q4 2023 Earnings Report - Results, Call & Slides - TipRanks",
+      "summary": "Fevertree Drinks publicó sus resultados Q4 2023, empresa líder en el segmento premium de mixers y bebidas funcionales. Los resultados financieros del cuarto trimestre incluyen métricas de desempeño cl",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola stock trades steadily as brand strength supports earnings and cash flow - AD HOC NEWS",
+      "summary": "Las acciones de Coca-Cola mantienen una cotización estable sostenida por la fortaleza de su marca, que respalda el desempeño de ganancias y flujo de caja. Este comportamiento accionario refleja la cap",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola stock trades steadily as earnings and dividend underpin valuation - AD HOC NEWS",
+      "summary": "Las acciones de Coca-Cola mantienen estabilidad operacional sostenida por resultados financieros sólidos y política de dividendos consistente. La valuación de la empresa refleja confianza del mercado ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola stock edges higher as investors weigh steady earnings and dividend appeal - AD HOC NEWS",
+      "summary": "Las acciones de Coca-Cola registran movimiento alcista mientras inversores valoran la solidez de sus ganancias y el atractivo de su política de dividendos. La noticia refleja la confianza del mercado ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock steadies as investors weigh recent earnings and portfolio strategy - AD HOC NEWS",
+      "summary": "Pernod Ricard experimenta estabilización de su cotización mientras inversores evalúan resultados recientes y la estrategia de cartera del grupo. Como uno de los mayores productores globales de bebidas",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock trades steadily as FY 2024 earnings and dividend set the tone - AD HOC NEWS",
+      "summary": "Pernod Ricard publicó resultados financieros FY 2024 y anunció su política de dividendos, generando una respuesta estable en el mercado accionario. Como segundo mayor grupo de bebidas alcohólicas a ni",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
         "financial_results"
       ],
       "region": "Mundial"
