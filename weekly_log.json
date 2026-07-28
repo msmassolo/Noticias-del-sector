@@ -1,370 +1,4 @@
 {
-  "2026-07-20": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis con contracción del consumo, presión en márgenes por ajuste de costos y cambios en los patrones de demanda del consumidor. Este segmento, que representó una op",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Skrewball lands in European airports",
-      "summary": "Skrewball, whiskey con sabor a mantequilla de maní respaldado por Pernod Ricard, ingresó al canal duty-free europeo mediante acuerdo con Gebr Heinemann. El producto está disponible en siete aeropuerto",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Former Jack Daniel’s Cooperage closes in Alabama",
-      "summary": "Independent Stave Company cierra su planta de tonelería en Alabama (ex Jack Daniel's Cooperage) en septiembre 2026, eliminando 71 empleos. La operación en Trinity, Alabama, era proveedora clave de bar",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock trades steadily as beer and wine portfolio supports earnings momentum - ad-hoc-news.de",
-      "summary": "Constellation Brands mantiene un desempeño estable en bolsa impulsado por su portafolio de cerveza y vino que respalda el crecimiento de ganancias. Como uno de los mayores productores globales de bebi",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Aqua Libra expands sparkling water range with Peach & Kiwi flavour | FoodBev Media",
-      "summary": "Aqua Libra lanza una nueva variante de agua mineral con gas sabor Durazno & Kiwi, sin azúcar, edulcorantes, calorías ni ingredientes artificiales. La expansión del portafolio responde a la creciente d",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola BJ stock reflects stable demand as earnings and margins support the Japan beverage busines - ad-hoc-news.de",
-      "summary": "Coca-Cola Bottling Japan reporta demanda estable con márgenes sólidos en su operación de bebidas, respaldando la performance del negocio en Japón. Los resultados financieros y márgenes operativos del ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock steadies as energy drink demand supports earnings outlook - ad-hoc-news.de",
-      "summary": "Monster Beverage reporta estabilidad accionaria impulsada por demanda sostenida de bebidas energéticas, lo que respalda su outlook de ganancias. Este desempeño refleja la fortaleza del segmento de ene",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock trades steadily as resilient earnings and dividend support valuation - ad-hoc-news.de",
-      "summary": "Coca-Cola reportó resultados resilientes que sustentan su valuación bursátil y política de dividendos. La estabilidad de la cotización refleja confianza en los fundamentales de la compañía a pesar de ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola IPO: Beverage Giant Picks Four Banks for India Bottling Arm Listing; $10 Billion Valuation in Focus - Goodreturns",
-      "summary": "Coca-Cola seleccionó cuatro bancos para llevar a IPO su operación embotelladora en India, con una valuación objetivo de $10 mil millones. Esta transacción es estratégica para la compañía al permitir m",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Deutsche Bank Downgrades Monster Beverage to Hold From Buy, Adjusts Price Target to $98 From $94 - marketscreener.com",
-      "summary": "Deutsche Bank redujo su recomendación en Monster Beverage de Compra a Mantener, ajustando el precio objetivo de $94 a $98 por acción. Este cambio de postura de un banco de inversión de primer nivel se",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as recent earnings highlight resilience in premium spirits - ad-hoc-news.de",
-      "summary": "Pernod Ricard reportó resultados que demuestran resiliencia en el segmento de spirits premium, manteniendo estabilidad en su cotización bursátil. Como uno de los principales grupos de bebidas alcohóli",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper stock trades steady as recent earnings highlight resilient beverage demand - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper reportó resultados financieros que evidencian demanda resiliente en el sector de bebidas, manteniendo estabilidad en su cotización bursátil. Los resultados de la compañía, uno de los ",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britvic stock trades steadily as latest results highlight revenue growth and margin resilience - ad-hoc-news.de",
-      "summary": "Britvic, principal embotellador de bebidas en Reino Unido e Irlanda, reporta crecimiento de ingresos y resiliencia en márgenes operacionales, con desempeño estable en bolsa. El resultado demuestra cap",
-      "companies": [
-        "Britvic"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors stock trades steadily as investors weigh Q1 2026 earnings and dividend support - ad-hoc-news.de",
-      "summary": "Molson Coors experimenta una cotización estable mientras el mercado evalúa los resultados Q1 2026 y la sostenibilidad de su política de dividendos. La noticia es relevante para monitorear la salud fin",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Apogee to buy Luca Mariano Distillery for $19.5m",
-      "summary": "Apogee 21, firma estadounidense de vinos y destilados, adquiere Luca Mariano Distillery por $19.5M en proceso de quiebra. La destilería de Kentucky entró en bancarrota meses después de su apertura, si",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PATRÓN reivindica el tequila hecho a mano con solo tres ingredientes",
-      "summary": "PATRÓN posiciona su diferenciación competitiva en torno a la elaboración artesanal con tres ingredientes (agave, agua, levadura) y sistema de pequeños lotes en su hacienda mexicana. La marca aproveech",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "What are the top 10 functional beverage brands favoured by AI in the US?",
-      "summary": "Un análisis de la agencia 5W utilizando su AI Visibility Index identifica que los modelos de IA ranquean marcas de bebidas funcionales no por volumen de ventas sino por contenido digital accesible sob",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo stock trades steady as investors weigh dividend income and resilient spirits demand - ad-hoc-news.de",
-      "summary": "Diageo mantiene estabilidad bursátil mientras inversores evalúan su potencial de ingresos por dividendos frente a una demanda resiliente de spirits. Como mayor productor global de bebidas alcohólicas,",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock trades near record territory as energy drink growth supports valuation - ad-hoc-news.de",
-      "summary": "Monster Beverage cotiza cerca de máximos históricos impulsado por el crecimiento sostenido en la categoría de bebidas energéticas, lo que valida su modelo de negocio ante inversores. El desempeño burs",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "UK government launches Scotch whisky inquiry",
-      "summary": "El gobierno británico inicia una investigación parlamentaria sobre la industria del whisky escocés, enfocada en políticas domésticas, acuerdos comerciales y aranceles. Las exportaciones de whisky caye",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NIQ: As Margarita Sales Cool, Martinis Step Into Spotlight - BevNET.com",
-      "summary": "Las ventas de margaritas están desacelerándose mientras los cócteles tipo martini ganan terreno en el mercado, impulsados principalmente por consumidores más jóvenes que diversifican sus preferencias ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Skip expands functional drinks portfolio with magnesium-infused sparkling beverages | FoodBev Media",
-      "summary": "Skip, marca británica de bebidas funcionales, lanzó dos nuevas bebidas gasificadas enriquecidas con magnesio en sabores Berry & Cherry y Kiwi & Lime (formato 250ml). Este movimiento responde a la crec",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hackers Just Pulled Off Every Food Manufacturer's Worst Nightmare. Now Coca-Cola's $4-Billion Dairy Brand Is Shut Down - inc.com",
-      "summary": "Coca-Cola enfrentó un ataque cibernético que forzó el cierre operativo de Fairlife, su marca de productos lácteos valorizada en $4 mil millones. El incidente representa un riesgo estratégico crítico p",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boston Beer stock trades steady as margins and Twisted Tea growth support valuation - ad-hoc-news.de",
-      "summary": "Boston Beer mantiene una valuación estable impulsada por márgenes sólidos y el crecimiento de Twisted Tea, su marca de bebidas alcohólicas de té. El desempeño de esta categoría representa un caso de é",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boston Beer: Long-Term Demographic Challenges, Near-Term Technical Risks (SAM) - Seeking Alpha",
-      "summary": "Análisis de Boston Beer Company (SAM) identificando desafíos demográficos a largo plazo y riesgos técnicos en su valuación. La empresa enfrenta headwinds estructurales vinculados a cambios en las pref",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock trades steady as Modelo and Corona drive earnings momentum - ad-hoc-news.de",
-      "summary": "Constellation Brands mantiene estabilidad accionaria impulsada por el desempeño de Modelo y Corona, sus marcas cerveceras clave. El momentum en ganancias refleja la fortaleza de estos portafolios en m",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as spirits group targets margin resilience - ad-hoc-news.de",
-      "summary": "Pernod Ricard, uno de los mayores grupos de bebidas alcohólicas globales, mantiene estabilidad bursátil mientras ejecuta estrategia de resiliencia de márgenes. Esta iniciativa es relevante para el mer",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as core brands support earnings profile - ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene estabilidad accionaria con sus marcas core impulsando el perfil de ganancias. Como actor global en bebidas alcohólicas, sus resultados reflejan la solidez de portafolios consoli",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock steadies as investors weigh FY 2024 earnings and China exposure - ad-hoc-news.de",
-      "summary": "Pernod Ricard, uno de los mayores grupos de bebidas alcohólicas a nivel mundial, presenta estabilización de su cotización mientras el mercado evalúa resultados del FY 2024 y exposición a China. La inc",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper stock trades steadily as earnings growth supports valuation - ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper (KDP), uno de los mayores productores de bebidas de consumo masivo en EE.UU., mantiene estabilidad accionaria sostenida por crecimiento de ganancias que justifica su valuación actual.",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Deutsche Bank downgrades Monster Beverage stock rating on valuation concerns - Investing.com",
-      "summary": "Deutsche Bank rebajó la calificación de Monster Beverage por preocupaciones sobre valoración. Este movimiento de un banco de inversión global de primera línea señala vulnerabilidad en la valoración de",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage dips after Deutsche Bank moves off its bull rating (MNST:NASDAQ) - Seeking Alpha",
-      "summary": "Deutsche Bank retiró su calificación alcista en Monster Beverage, provocando una caída en el precio de la acción. Este movimiento refleja cambios en la percepción de analistas sobre uno de los mayores",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "3 Key Trends on Display at IFT FIRST 2026",
-      "summary": "IFT FIRST 2026 en Chicago evidenció tres tendencias clave en formulación de alimentos: combinación de proteína con fibra, migración de proteína hacia formatos más claros y ligeros, y reformulación cle",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-07-21": [
     {
       "title": "Yakult 40 light completa 10 anos de mercado",
@@ -3277,6 +2911,407 @@
       ],
       "segments": [
         "company_news"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-07-28": [
+    {
+      "title": "La decisión de Sprite que demuestra por qué las campañas globales ya no se hacen igual",
+      "summary": "Sprite implementa una estrategia de campañas glocales que mantiene identidad global mientras adapta mensajes a mercados locales. El caso de España demuestra cómo marcas de bebidas internacionales evol",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola recovers most of Fairlife’s operations after the cyberattack that paralyzed its production",
+      "summary": "Coca-Cola recuperó la mayoría de las operaciones de Fairlife tras un ciberataque que paralizó su producción. La empresa confirmó que el incidente no tuvo impacto material en sus resultados financieros",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "risk_crisis_reputation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ventas por Mundial 2026 ayudan a Coca Cola a lidiar con ‘bajón del gas’ del IEPS: Llegan a 76 mil mdp",
+      "summary": "Coca-Cola Femsa registró ventas de 76 mil millones de pesos en Q2 2026, con crecimiento de 4.7% anual impulsado por el consumo del Mundial 2026. La compañía mitigó presiones regulatorias (incremento d",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "El Mundial impulsó a Coca-Cola FEMSA ante un consumo retador y el impacto del IEPS",
+      "summary": "Coca-Cola FEMSA reportó un impulso en ventas durante el primer semestre impulsado por la Copa Mundial 2026, con Coca-Cola y Powerade como marcas insignia, demostrando el valor de los derechos deportiv",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Walmart advierte que el consumo sigue débil en México: clientes comparan más precios y compran canastas más pequeñas",
+      "summary": "Walmart reporta debilitamiento del consumo en México con cambios en patrones de compra: clientes comparan más precios y reducen tamaño de canastas. A pesar de transacciones menores, Walmart logró incr",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Temporada de resultados do 2T26 acelera com Vale (VALE3) e Ambev (ABEV3); veja o calendário - suno.com.br",
+      "summary": "Ambev inicia la temporada de resultados del segundo trimestre 2026, un período crítico para evaluar desempeño operativo y financiero de la principal cervecera de Latinoamérica. Los resultados revelará",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "United Spirits backs India’s ‘first’ limoncello",
+      "summary": "Diageo, a través su filial United Spirits, invierte en una participación del 10% en Nuvola Spirits, startup india fundada en 2023 que desarrolla bebidas de inspiración global (soju coreano, limoncello",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman turns down ‘unsolicited’ Sazerac offer",
+      "summary": "Brown-Forman rechazó una oferta de adquisición no solicitada de Sazerac valorada en ~USD 15.000 millones. Ambas son líderes globales en bebidas alcohólicas destiladas (Jack Daniel's es patrimonio de B",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Martini comes for the Margarita’s crown",
+      "summary": "NielsenIQ reporta un cambio significativo en preferencias de cocktails en bares estadounidenses: el Margarita, históricamente dominante, registró caída de 16% en dollar velocity (ingresos promedio por",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "REIGN Liberty & Justice for Apple",
+      "summary": "REIGN Total Body Fuel lanzó una nueva variante limitada 'Liberty & Justice for Apple' dirigida al segmento de bebidas energéticas para atletas y alto-rendimiento. El producto contiene 300 mg de cafeín",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carling abv cut to 3.4% to counter sliding sales",
+      "summary": "Carling reduce el contenido alcohólico de su lager principal de 4% a 3.4% a partir de octubre en canal off-trade para revertir caídas de ventas sostenidas. La marca ha perdido 15.6% en valor de ventas",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Oatly shifts to become a ‘full-on’ beverages company as revenues rise",
+      "summary": "Oatly reportó ingresos de $240.1M en Q2 (crecimiento 15.2% YoY) y confirmó su reposicionamiento como compañía de bebidas full-on, enfocada en consumidores jóvenes y beneficios de salud/refrescancia de",
+      "companies": [
+        "Oatly"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Scotch whisky tariff relief ‘gives hope’ to wider trade in US - Drinks International",
+      "summary": "Se eliminaron los aranceles del 10% sobre whisky escocés en EE.UU., revirtiendo planes de aumentarlos al 25%. Pernod Ricard, principal actor involucrado, ve este precedente como oportunidad para negoc",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Clean Simple Eats launches protein and collagen blend | FoodBev Media",
+      "summary": "Clean Simple Eats lanzó un nuevo polvo proteico con colágeno en 591 tiendas Sam's Club en EE.UU., expandiendo su presencia retail. El producto combina aislado de proteína de suero alimentado con pasto",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo India arm United Spirits buys 10.08% stake in liquor startup Nuvola Spirits - ET Hospitality",
+      "summary": "United Spirits, filial india de Diageo, adquirió una participación accionaria del 10.08% en Nuvola Spirits, startup de bebidas alcohólicas. La operación refleja la estrategia de Diageo de invertir en ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Is Splitting Its Stock 2-for-1 on Aug. 11. Here's What a $1,000 Investment Could Be Worth in 5 Years. - The Motley Fool",
+      "summary": "Monster Beverage ejecutará un split de acciones 2-por-1 el 11 de agosto, un movimiento que refleja la solidez de su valuación y posición de mercado en bebidas energéticas. Este tipo de acciones corpor",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is The Boston Beer Company, Inc. (SAM) Stock a Buy as Margin Gains Offset Ongoing Volume Declines? - Yahoo Finance",
+      "summary": "Boston Beer Company enfrenta una dicotomía estratégica: mejora en márgenes operacionales compensa caídas de volumen de ventas. Este patrón refleja dinámicas críticas de la industria—presión de demanda",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BuzzBallz 'cannot be recycled', say packaging experts",
+      "summary": "BuzzBallz enfrenta críticas de expertos en reciclaje que sostienen que su packaging de cócteles listos para beber no puede reciclarse en el Reino Unido, mientras la marca atribuye el problema a un err",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "No more ‘energy drinks’? India orders Pepsi, Red Bull and Monster to drop ‘energy drink’ label - Telegraph India",
+      "summary": "India reguló el etiquetado de bebidas energizantes, ordenando a Pepsi, Red Bull y Monster eliminar la denominación 'energy drink' de sus productos. Esta medida refleja presión regulatoria creciente en",
+      "companies": [
+        "PepsiCo",
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage Corp (FIZZ) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "summary": "National Beverage Corp (FIZZ) publica análisis de su estructura de ingresos desglosada por segmentos de negocio y geografía. Este análisis es clave para entender la composición de rentabilidad de uno ",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Tetra Pak and Axis Communications present digital monitoring solution for ice cream manufacturing | FoodBev Media",
+      "summary": "Tetra Pak y Axis Communications desarrollaron una solución de monitoreo digital en tiempo real para plantas de manufactura de helados, que proporciona visibilidad integral de todas las etapas de produ",
+      "companies": [
+        "Tetra Pak"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Citadelle releases grapefruit-infused Bajan gin",
+      "summary": "Citadelle, marca de gin propiedad de Maison Ferrand, lanzó una edición limitada de gin con infusión de pomelo destilado en Barbados en la destilería West Indies Rum Distillery (casa de la marca de ron",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monika Alcobev and Angostura partner in India",
+      "summary": "Angostura, marca de ron y bitters de Trinidad & Tobago, ingresa al mercado indio mediante asociación con distribuidor local Monika Alcobev. La estrategia contempla comercialización de su portafolio (r",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac again writes to Brown family shareholders seeking to restart $15 billion acquisition talks with Brown-Forman - Bitget",
+      "summary": "Sazerac reitera su interés en adquirir Brown-Forman por USD 15 mil millones, dirigiéndose directamente a los accionistas de la familia Brown para reiniciar negociaciones. Esta operación de M&A transfo",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman rejects unsolicited acquisition proposal from Sazerac - The Lane Report",
+      "summary": "Brown-Forman rechazó una propuesta de adquisición no solicitada de Sazerac, dos de los mayores productores de bebidas alcohólicas de EE.UU. Esta noticia es significativa para el sector de bebidas porq",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman rejects Sazerac takeover bid",
+      "summary": "Brown-Forman rechazó una oferta de adquisición de Sazerac por considerarla \"no accionable\" y desalineada con su visión estratégica. La decisión ocurre después de que fracasaran negociaciones de fusión",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman cierra la puerta a la oferta de compra de Sazerac",
+      "summary": "Sazerac presentó una oferta de compra no solicitada por Brown-Forman (Jack Daniel's, Woodford Reserve) valuada en USD 15.000 millones (USD 32 por acción), pero el consejo rechazó la propuesta calificá",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is The Boston Beer Company (SAM) Stock a Buy as Margin Gains Offset Ongoing Volume Declines? - AlphaStreet",
+      "summary": "Boston Beer Company enfrenta caída de volúmenes compensada parcialmente por mejoras en márgenes operacionales. La tensión entre contracción de demanda y optimización de costos es crítica para la valua",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RNDC Files for Chapter 11 Bankruptcy, Seeks Buyers for Remaining Operations",
+      "summary": "RNDC, segunda mayor distribuidora de vinos y destilados en EE.UU., presentó quiebra Chapter 11 en Texas tras un año de crisis operativa. La compañía busca activamente compradores para sus operaciones ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola’s Fairlife resumes operations after attack",
+      "summary": "Coca-Cola reanudó operaciones en Fairlife tras un ciberataque con ransomware que paralizó la producción durante 10 días. El incidente afectó la cadena de suministro de una marca premium de bebidas lác",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola FEMSA (NYSE:KOF) Stock Faces Slower 1.5% Earnings Growth Testing Bullish Narrative - simplywall.st",
+      "summary": "Coca-Cola FEMSA, principal embotellador de Coca-Cola en Latinoamérica, enfrenta un crecimiento de ganancias desacelerado del 1.5%, lo que cuestiona la narrativa alcista del mercado. Este embotellador ",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fairlife resumes majority of US production following ransomware attack | FoodBev Media",
+      "summary": "Fairlife, subsidiaria láctea de The Coca-Cola Company, reanudó la mayoría de su producción en cuatro plantas estadounidenses tras un ataque de ransomware que había forzado la suspensión temporal. El i",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Is Up 23% in 2026, Does the Stock Have Room Left to Run? - TIKR.com",
+      "summary": "Monster Beverage acumula una suba del 23% en 2026, reflejando un desempeño bursátil sólido. La noticia genera interrogantes sobre el potencial de crecimiento residual de la acción y la sostenibilidad ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Restaurants Are Losing Out on Beverage Profits, Coca-Cola Exec Says - franchisetimes.com",
+      "summary": "Un ejecutivo de Coca-Cola advierte que los restaurantes no están maximizando sus ganancias en bebidas, sugiriendo oportunidades de optimización en la estrategia de precios y portafolio de productos. E",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Distribution: Hiyo Expands Partnership with Breakaway Music Festival - BevNET.com",
+      "summary": "Hiyo, marca de bebidas no alcohólicas, aseguró una asociación de tres años como bebida oficial no alcohólica del Festival Breakaway (2026-2028). Esta expansión de distribución permite a Hiyo acceder a",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
