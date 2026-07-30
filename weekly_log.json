@@ -2553,46 +2553,21 @@
   ],
   "2026-07-30": [
     {
-      "title": "Brasileira The Natural One avalia venda total ou de participação, segundo fontes",
-      "summary": "The Natural One, fabricante brasileña de jugos listos para consumo, contrató a Nomura e Itaú BBA para evaluar opciones estratégicas incluyendo venta total o participación minoritaria. La operación bus",
+      "title": "Tomó una botella de Coca-Cola, se intoxicó, sufrió gastroenteritis aguda y será indemnizado",
+      "summary": "Un tribunal argentino ordenó a una embotelladora local indemnizar a un consumidor de La Plata por intoxicación y gastroenteritis aguda tras consumir una botella de Coca-Cola. La sentencia establece re",
       "companies": [
-        "PepsiCo"
+        "The Coca-Cola Company"
       ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "consumer_market_trends"
       ],
-      "region": "Regional"
+      "region": "Local"
     },
     {
-      "title": "Coca-Cola, Pepsi y otras marcas de bebidas están añadiendo nuevos códigos QR a las latas; te explicamos para qué sirven",
-      "summary": "Coca-Cola, Pepsi y otras marcas líderes implementan códigos QR en latas como estrategia de engagement directo con consumidores. Este cambio transforma el packaging de un elemento regulatorio a un cana",
+      "title": "Volume de não alcoólicos da Ambev cai 4,4%, com descontinuação de canais de baixo retorno",
+      "summary": "Ambev reportó una caída de 4,4% en volumen de bebidas no alcohólicas en Brasil (Q2), alcanzando 7,615 millones de hectolitros, producto de la descontinuación estratégica de canales de bajo retorno. La",
       "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PepsiCo descarta amenazas o extorsión tras incendio en centro de distribución de Matamoros",
-      "summary": "PepsiCo México reportó un incendio en su centro de distribución de Matamoros que consumió múltiples unidades de reparto. La empresa descartó amenazas o extorsión como causa y confirmó continuidad oper",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Copa, cerveja premium e 'wellness' fazem Ambev lucrar R$ 3,4 bi no 2º trimestre",
-      "summary": "Ambev reportó ganancia neta de R$ 3,475 mil millones en Q2 2026, con crecimiento del 24,5% interanual impulsado por portafolio premium (Copa), categorías de wellness y mejora de márgenes ajustados (17",
-      "companies": [
+        "PepsiCo",
         "Ambev"
       ],
       "segments": [
@@ -2602,10 +2577,23 @@
       "region": "Regional"
     },
     {
-      "title": "Mantiene Arca Continental volumen de ventas en segundo trimestre de 2026 - Código Magenta",
-      "summary": "Arca Continental, uno de los principales embotelladoras de Coca-Cola en América Latina, mantuvo estable su volumen de ventas en el Q2 2026. Este resultado refleja una consolidación en mercados clave d",
+      "title": "Ambev teve salto de 5% no volume de cerveja no Brasil, com força do premium e Copa",
+      "summary": "Ambev registró un crecimiento del 5% en volumen de cerveza en Brasil durante Q2, alcanzando 21,034 millones de hectolitros, impulsado por el segmento premium y la demanda incremental generada por la C",
       "companies": [
-        "Arca Continental"
+        "AB InBev",
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "AB InBev tem alta de 5,8% no Ebitda no 2º trimestre em base anual, para US$ 5,94 bilhões",
+      "summary": "AB InBev registró un crecimiento del EBITDA de 5,8% interanual en Q2 2024, alcanzando US$ 5.940 millones, impulsado por incremento en volúmenes de venta, ingresos y ganancias. La empresa reafirmó sus ",
+      "companies": [
+        "AB InBev"
       ],
       "segments": [
         "financial_results"
@@ -2613,137 +2601,65 @@
       "region": "Regional"
     },
     {
-      "title": "Cobblestone Brands buys two spirits from Campari Group",
-      "summary": "Cobblestone Brands adquiere Bisquit & Dubouché Cognac y Cabo Wabo Tequila de Campari Group, con cierre previsto para octubre 2026. La operación representa el hito más significativo en la historia de l",
+      "title": "Lucro da Ambev cresce 24,5% no 2º trimestre, para R$ 3,474 bilhões",
+      "summary": "Ambev reportó un crecimiento del lucro neto del 24,5% en Q2 2026 (R$ 3.474 mil millones vs. R$ 2.790 mil millones en Q2 2025), demostrando expansión significativa de márgenes operacionales. La receita",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ambev aprova o pagamento de R$ 1,1 bi em juros sobre capital próprio",
+      "summary": "Ambev aprobó el pago de R$ 1.100 millones en juros sobre capital propio (R$ 0,07 por acción) correspondientes al segundo trimestre, remunerando a accionistas registrados hasta el 21 de septiembre. Est",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ambev (ABEV3) frustra projeções no 2º tri, apesar de lucro forte; ação tem queda",
+      "summary": "Ambev reportó resultados del Q2 2026 con crecimiento de volúmenes y expansión de márgenes, pero ingresos y Ebitda por debajo de las proyecciones del mercado, generando una caída de 2,83% en las accion",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Investment and innovation boost AB InBev sales",
+      "summary": "AB InBev reportó crecimiento de ingresos del 5.6% y volumen de cerveza del 1.1% en Q2 2026, con máximos históricos en México, Colombia y Ecuador. Brasil retornó al crecimiento volumétrico mientras que",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Campari H1 sales up 2.7% as it divests brands",
+      "summary": "Campari Group reportó crecimiento orgánico de 2.7% en ventas H1 2026 (€1.51 mil millones), impulsado por fuerte desempeño en aperitivos, mejorando significativamente respecto al 0.1% de H1 2025. El gr",
       "companies": [
         "Campari Group"
       ],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "AB InBev toasts success in first half",
-      "summary": "AB InBev reportó resultados positivos en el primer semestre bajo el liderazgo del CEO Michel Doukeris, impulsado por la estrategia de inversión en sus marcas líderes globales ('megabrands'). El enfoqu",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "World Cup provides ‘welcome boost’ for beer sales",
-      "summary": "Budweiser, Cruzcampo y Peroni lideraron el desempeño en ventas de cerveza en retail durante las primeras cinco semanas del Mundial 2026, con crecimientos interanuales de 18%, 42.1% y 19.7% respectivam",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola’s BODYARMOR bets on sparkling sports drinks beyond the gym",
-      "summary": "Coca-Cola expande BODYARMOR con el lanzamiento de BODYARMOR FIT, su primer bebida deportiva con gas en lata de 12 oz, posicionándose para consumo diario más allá del ejercicio (trabajo, viajes, social",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Slideshow: PepsiCo focusing on functional innovation",
-      "summary": "PepsiCo está redefiniendo su estrategia de innovación de producto enfocándose en categorías funcionales como bebidas con alto contenido proteico y soluciones de salud digestiva. Esta apuesta responde ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Femsa: I'm Staying Bullish Following Upbeat Q2 Earnings (NYSE:KOF) - Seeking Alpha",
-      "summary": "Coca-Cola Femsa reportó resultados positivos en Q2, sustentando una perspectiva alcista sobre la acción (NYSE:KOF). Como principal embotellador de Coca-Cola en Latinoamérica, incluyendo Argentina, sus",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Free Rein Joins Protein Coffee Race With First RTD, Expands Chainwide At Walmart - BevNET.com",
-      "summary": "Free Rein Coffee Company lanzó una plataforma de café con proteína que incluye cápsulas K-Cup y su primera línea de bebidas listas para consumir (RTD), con distribución en Walmart. El movimiento respo",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Avsome Tea Is Now ‘Awesome,’ With Red Bull Vet Connors As CEO - BevNET.com",
-      "summary": "Avsome Tea rebrandea como Awesome Ice Tea bajo nuevo liderazgo del CEO Coby Farrow, exejecutivo de Red Bull. La marca de té a base de semilla de aguacate busca expansión comercial tras años de desarro",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Andina (NYSE: AKO-A) lifts H1 2026 profit and EBITDA margins - Stock Titan",
-      "summary": "Coca-Cola Andina reportó mejora en márgenes de ganancia y EBITDA en H1 2026, señalando recuperación operativa en la región andina. Como competidor directo en mercados de América Latina, estos resultad",
-      "companies": [
-        "The Coca-Cola Company",
-        "Embotelladora Andina",
-        "Coca-Cola Andina"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is PepsiCo Stock Attractive After Q2 Earnings and Margin Pressure - The Globe and Mail",
-      "summary": "PepsiCo reportó resultados de Q2 enfrentando presión de márgenes, un indicador crítico de la rentabilidad de la industria de bebidas. Como uno de los mayores competidores globales, sus desempeños fina",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Budweiser-maker AB InBev's World Cup sales beat not enough to lift shares - Reuters",
-      "summary": "AB InBev registró ventas superiores a lo esperado durante el Mundial de Fútbol, impulsadas por su marca Budweiser, pero los resultados no fueron suficientes para impulsar el precio de sus acciones. El",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rémy Cointreau sales edge up in first quarter of fiscal 2027 – results data - drinks-intel.com",
-      "summary": "Rémy Cointreau reportó crecimiento en ventas durante el primer trimestre del ejercicio fiscal 2027. El grupo francés, líder en destilados premium y licores de lujo, continúa con trayectoria positiva e",
+      "title": "Cognac raises hopes for Rémy Cointreau in Q1",
+      "summary": "Rémy Cointreau registró ventas de €223.2 millones en Q1 2026-27 con crecimiento orgánico de 1.3%, recuperándose del estancamiento del año fiscal anterior (0.2%). Su división de Cognac mostró un desemp",
       "companies": [
         "Remy Cointreau"
       ],
@@ -2754,97 +2670,30 @@
       "region": "Mundial"
     },
     {
-      "title": "Ambev Shares (BVMF:ABEV3; NYSE:ABEV) Under Pressure as Beer Recovery Lags 2024 Outlook - TechStock²",
-      "summary": "Las acciones de Ambev enfrentan presión por un desempeño inferior a las expectativas de recuperación de cerveza proyectadas para 2024. Esta situación es crítica para operadores argentinos considerando",
+      "title": "Danone reaps rewards of health-focused strategy",
+      "summary": "Danone reportó crecimiento de ventas en el primer semestre con incremento del 3,5% en base comparable, alcanzando €13,9bn, impulsado por su estrategia de portafolio orientado a salud. El desempeño pos",
       "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El vino sigue perdiendo terreno en los lineales de Estados Unidos",
-      "summary": "El mercado de vino en Estados Unidos registra caída en ventas (-3,9% en valor, -5,6% en volumen) en las últimas cuatro semanas, con menor distribución, reducida presión promocional y demanda débil. Au",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "La ola de calor dispara las ventas de cerveza mezclada en Alemania",
-      "summary": "Una ola de calor en Alemania a finales de junio impulsó las ventas de cerveza mezclada y sin alcohol a máximos históricos según datos de Destatis. La categoría de cerveza mezclada (radler y combinacio",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "After Decades in Wine, Three Industry Veterans Decided Non-Alcoholic Wine Wasn't Good Enough Yet",
-      "summary": "Mavrique, fundada por veteranos de la industria vinícola, lanza su primera colección de vinos sin alcohol en el mercado estadounidense (Chardonnay y Pinot Noir de California). La marca aborda un segme",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Adiós Walmart, Soriana y Bodega Aurrera: La estrategia que podría convertir a OXXO en el súper de la esquina",
-      "summary": "OXXO, la cadena de conveniencia mexicana, ejecuta una estrategia de transformación para competir directamente con supermercados tradicionales (Walmart, Soriana, Bodega Aurrera) ampliando su oferta de ",
-      "companies": [
-        "Walmart"
+        "Danone"
       ],
       "segments": [
         "consumer_market_trends"
       ],
-      "region": "Regional"
+      "region": "Mundial"
     },
     {
-      "title": "Embotelladora Andina SA reports results for the quarter ended June 30 - Earnings Summary - TradingView",
-      "summary": "Embotelladora Andina SA reportó resultados del segundo trimestre 2024. Como uno de los principales embotelladores de Coca-Cola en Sudamérica (operando en Chile, Argentina y Paraguay), estos resultados",
+      "title": "RNDC’s Unpaid Tab, Craft’s Mid-Year Number and Boston Beer’s Rally Dog",
+      "summary": "RNDC, el mayor distribuidor independiente de bebidas en EE.UU., presentó quiebra bajo Capítulo 11 con pasivos entre $1-10 mil millones y más de 100,000 acreedores. Este evento impacta directamente la ",
       "companies": [
-        "Embotelladora Andina",
-        "Coca-Cola Andina"
+        "Boston Beer Company"
       ],
       "segments": [
-        "distribution_execution",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev (ABEV3): ação pode repetir “sucesso” do 1T e saltar após resultados do 2º tri? - InfoMoney",
-      "summary": "Análisis sobre Ambev (principal cervecería y empresa de bebidas de Brasil) y perspectivas de su desempeño en el segundo trimestre, con comparación respecto al primer trimestre. La noticia es relevante",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Campari outshines spirits peers with broad-based sales growth",
-      "summary": "Campari reportó crecimientos de ventas superiores a lo esperado en el primer semestre fiscal, impulsado por desempeño sólido en sus divisiones de aperitivos, agave, cognac y champagne. La compañía ele",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "AB InBev tops Q2 forecasts on pricing strength and premium beer demand - Investing.com",
-      "summary": "AB InBev superó estimaciones de Q2 impulsado por estrategia de precios y demanda sostenida de cervezas premium, demostrando capacidad de traslado de aumentos de costos al consumidor. Este resultado va",
+      "title": "2 Reasons AB InBev Stock Is Dropping After Bud Light Brewer’s Earnings Beat - Barron's",
+      "summary": "AB InBev reportó resultados que superaron expectativas, pero su cotización cayó por preocupaciones estratégicas más amplias. Los inversores cuestionan la capacidad de recuperación de marcas clave como",
       "companies": [
         "AB InBev"
       ],
@@ -2855,10 +2704,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Ambev: Net revenue rose 6.1% and normalized EBITDA grew 8.9% year-over-year, led by beer segment strength - tradingview.com",
-      "summary": "Ambev reportó crecimiento de ingresos netos del 6.1% e incremento del EBITDA normalizado del 8.9% interanual, impulsado por la fortaleza del segmento cervecero. Este desempeño de la mayor cervecera de",
+      "title": "Monster Beverage to report Q2 2026 earnings on August 6 with CEO call at 2 p.m. PT - Pluang",
+      "summary": "Monster Beverage reportará sus resultados del Q2 2026 el 6 de agosto con llamada de CEO a las 2 p.m. PT. Este evento es clave para monitorear la performance financiera y estratégica de uno de los prin",
       "companies": [
-        "Ambev"
+        "Monster Beverage"
       ],
       "segments": [
         "consumer_market_trends",
@@ -2867,30 +2716,42 @@
       "region": "Mundial"
     },
     {
-      "title": "Preocupação do brasileiro com saúde direciona estratégia da Heineken nos supermercados - Valor Econômico",
-      "summary": "Heineken ajusta su estrategia de comercialización en supermercados brasileños en respuesta a la creciente preocupación de los consumidores por la salud. La tendencia refleja un cambio estructural en l",
+      "title": "AB InBev’s premium strategy pays off globally, but SA buys less beer - Business Day",
+      "summary": "AB InBev experimenta resultados positivos en su estrategia premium a nivel global, pero enfrenta desafío en Sudáfrica con caída en volumen de consumo de cerveza. El desempeño diferenciado entre mercad",
       "companies": [
-        "Heineken"
+        "AB InBev"
       ],
       "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Diet Coke demand jumped 10x, but Coca-Cola still lost market share in India - bestmediainfo.com",
-      "summary": "Diet Coke experimentó un crecimiento de demanda de 10x en India, pero Coca-Cola perdió participación de mercado en el país. Este fenómeno sugiere fragmentación del mercado y ascenso de marcas competid",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Damm UK admite retrasos en el suministro de Old Speckled Hen en Reino Unido",
-      "summary": "Damm UK experimenta retrasos en la distribución de Old Speckled Hen en el canal horeca británico tras su adquisición de la marca. La compañía descarta problemas de producción y atribuye los atrasos a ",
+      "title": "Wee Smoky RTDs aim to shift whisky perceptions",
+      "summary": "Wee Smoky, marca de whisky escocés, lanzó una línea de cócteles RTD (ready-to-drink) en asociación con el bartender Jack Sotti para expandir la base de consumidores de whisky. La estrategia apunta a c",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg Azerbaijan to become the bottler of PepsiCo in Azerbaijan (PHOTO) - trend.az",
+      "summary": "Carlsberg Azerbaijan asumirá como embotellador de PepsiCo en Azerbaiyán, representando un cambio estratégico en la distribución de bebidas no alcohólicas en la región. Esta alianza permite a Carlsberg",
+      "companies": [
+        "PepsiCo",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Webinar offers chance to buy Polish distillery",
+      "summary": "La destilería polaca centenaria Starka, productora del reconocido vodka de centeno envejecido, se encuentra en venta. Los actuales propietarios realizarán un webinario en agosto para presentar la opor",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2899,25 +2760,116 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola reports strong second-quarter growth, boosted by China-led volume gains - China Daily",
-      "summary": "Coca-Cola reportó un sólido crecimiento en el segundo trimestre impulsado principalmente por ganancias de volumen en China. Este desempeño refleja la recuperación de la demanda en mercados clave asiát",
+      "title": "Renaissance Technologies LLC Acquires 11,100 Shares of The Boston Beer Company, Inc. $SAM - MarketBeat",
+      "summary": "Renaissance Technologies LLC incrementó su posición accionaria en The Boston Beer Company ($SAM) con la adquisición de 11,100 acciones. Este movimiento del fondo de inversión cuantitativo indica confi",
       "companies": [
-        "The Coca-Cola Company"
+        "Boston Beer Company"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "RTD cocktails, seltzers prove to be prominent",
-      "summary": "El segmento de bebidas alcohólicas ready-to-drink (RTD) y seltzers se posiciona como un driver clave de crecimiento en el mercado estadounidense. Según NielsenIQ, estos productos satisfacen la demanda",
+      "title": "New bill prevents price hikes for Michigan spirits",
+      "summary": "Michigan aprobó la ley SB 604 que limita las tarifas que los proveedores de destilados deben pagar a los Agentes de Distribución Autorizados (ADAs), reduciendo costos operativos en la cadena de distri",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "distribution_execution"
       ],
       "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo Rides Global Volume Growth as North American Demand Slows - The Globe and Mail",
+      "summary": "PepsiCo experimenta crecimiento en volumen global impulsado por mercados emergentes, mientras enfrenta desaceleración en la demanda de América del Norte. Este patrón refleja una reconfiguración estrat",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Estas son las 50 marcas mexicanas más valiosas según Brand Finance 2026: Lista completa",
+      "summary": "Brand Finance publicó el ranking 2026 de las 50 marcas mexicanas más valiosas, liderado por Corona Extra y Modelo Especial, consolidando el dominio de bebidas alcohólicas en la valuación de marcas mex",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Campari sells two spirit brands to Dublin-based Cobblestone | FoodBev Media",
+      "summary": "Campari Group desinvierte dos marcas de espíritus premium: Bisquit & Dubouché (coñac) y Cabo Wabo (tequila), vendiéndolas a Cobblestone Brands, empresa irlandesa especializada en espíritus premium. La",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Campari Group offloads Bisquit & Dubouché and Cabo Wabo - Drinks International",
+      "summary": "Campari Group vende las marcas de coñac Bisquit & Dubouché y tequila Cabo Wabo a Cobblestone Brands (Irlanda) por monto no revelado, con cierre esperado en octubre 2026. La desinversión responde a la ",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage to Report Financial Results for 2026 Second Quarter on August 6, 2026 - GlobeNewswire",
+      "summary": "Monster Beverage anunciará resultados financieros del segundo trimestre de 2026 el 6 de agosto de 2026. Esta noticia es relevante para seguimiento de desempeño de competidor clave en el segmento de be",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AmBev (ABEV3) | Revisão dos resultados do 2T26: comps entregues: volume de Cerveja Brasil +5% (= XPe) - XP Investimentos",
+      "summary": "AmBev reportó en Q2 2026 un crecimiento de volumen de cerveza en Brasil del +5%, en línea con las expectativas de XP Investimentos. Este resultado refleja la performance operativa de la mayor cervecer",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ambev (ABEV3) bate expectativa do mercado e lucro avança 24,5% no 2T26, a R$ 3,47 bilhões - Money Times",
+      "summary": "Ambev, principal competidor regional, reportó ganancia neta de R$ 3.47 mil millones en Q2 2026, superando expectativas del mercado con crecimiento de 24.5% interanual. Este desempeño de la mayor empre",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ambev supera expectativas no 2TRI26, mas BTG vê espaço para resultados mais robustos - EuQueroInvestir",
+      "summary": "Ambev superó las expectativas en el segundo trimestre de 2026, aunque el análisis de BTG Pactual identifica margen para resultados aún más sólidos. La noticia es relevante porque Ambev es el mayor pro",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
     }
   ]
 }
