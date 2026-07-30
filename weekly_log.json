@@ -1,383 +1,4 @@
 {
-  "2026-07-22": [
-    {
-      "title": "The sustainability paradox: Coca-Cola’s push to shape change",
-      "summary": "Coca-Cola Europacific Partners enfrenta el 'paradoja de sustentabilidad': presión regulatoria y reputacional sobre plásticos mientras busca liderar cambios en la industria. El Chief Sustainability Off",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rémy Cointreau must ‘increase its resilience’",
-      "summary": "Rémy Cointreau reportó ventas de €935.3 millones para el año fiscal 2026, con crecimiento orgánico de 0.2% pero caída de 5% en base reportada. El nuevo CEO Franck Marilly (incorporado en junio 2025) a",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Exclusive: Deep Eddy Releases Espresso Vodka, a Shake-and-Serve Espresso Martini",
-      "summary": "Deep Eddy Vodka lanzó nacionalmente Espresso Vodka, una solución pre-batched de Espresso Martini lista para servir. El producto responde a la demanda de conveniencia y sabores familiares en un context",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken sitúa su tecnología SmartDispense como motor de ventas y margen en los pubs británicos",
-      "summary": "Heineken UK posiciona su tecnología SmartDispense como estrategia clave para impulsar ventas y márgenes en el canal on-trade (pubs) británico. El CEO de Heineken UK subraya que el sistema mejora tanto",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Asahi reports all-time high demand for alcohol-free options at UK events - Drinks International",
-      "summary": "Asahi UK reporta récord histórico de demanda en opciones sin alcohol en eventos de verano británicos, con incrementos de 90% en ventas de Peroni Nastro Azzurro 0.0% en Royal Ascot (2023-2026) y crecim",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Femsa stock trades steady as recent earnings and dividend frame valuation - Ad-hoc-news.de",
-      "summary": "Coca-Cola Femsa mantiene estabilidad accionaria tras publicar resultados y dividendos que definen su valuación actual. Como principal embotellador de Coca-Cola en Latinoamérica, los movimientos de FEM",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg emerges as World Cup winner despite smaller than expected beer boost",
-      "summary": "La Copa Mundial 2026 generó un impulso menor al esperado en volúmenes globales de cerveza debido a eliminaciones tempranas de mercados clave, según Morgan Stanley. Carlsberg logró capturar una mayor c",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Martini Vermouth partners with Crazy Pizza",
-      "summary": "Martini (marca de Bacardi) se asocia con Crazy Pizza, cadena italiana, para reposicionar la experiencia del aperitivo en Europa durante el verano. La estrategia se enfoca en el concepto de 'sprezzatur",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo stock trades steadily as spirits maker focuses on margin and portfolio mix - Ad-hoc-news.de",
-      "summary": "Diageo, principal productor global de bebidas alcohólicas, mantiene estabilidad accionaria mientras pivota su estrategia hacia mejora de márgenes y reposicionamiento de portafolio. Este enfoque reflej",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock trades near record territory as energy drink demand lifts revenue and profit - Ad-hoc-news.de",
-      "summary": "Monster Beverage alcanza máximos históricos en cotización impulsado por fuerte demanda de bebidas energéticas que elevó ingresos y ganancias. El desempeño refuerza la tendencia de crecimiento sostenid",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Distribution: Saint James Goes Nationwide in Costco - BevNET.com",
-      "summary": "Saint James Iced Tea lanzó una expansión nacional en Costco con un variety pack exclusivo disponible en todos los locales estadounidenses de la cadena. Este movimiento estratégico amplía significativa",
-      "companies": [
-        "Costco"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari stock trades steadily as spirits group digests Q1 2026 cost pressures - Ad-hoc-news.de",
-      "summary": "Campari, uno de los principales grupos de bebidas espirituosas globales, enfrenta presiones de costos en Q1 2026 que están impactando su desempeño bursátil. La empresa debe gestionar aumentos en costo",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands: The Earnings Floor Is Holding, But Beer Demand Is Not Yet Back - Seeking Alpha",
-      "summary": "Constellation Brands reporta que su piso de ganancias se mantiene estable, pero la demanda de cerveza aún no se recupera a niveles previos. Este indicador es crítico para la industria de bebidas alcoh",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock holds after fiscal 2026 sales and profit trends - Ad-hoc-news.de",
-      "summary": "Constellation Brands reportó tendencias de ventas y ganancias para el fiscal 2026, manteniendo estabilidad en el precio de su acción. Como uno de los mayores productores de bebidas alcohólicas a nivel",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola stock holds its ground as steady earnings and dividend support valuation - Ad-hoc-news.de",
-      "summary": "Coca-Cola mantiene estabilidad accionaria respaldada por ganancias consistentes y política de dividendos sólida. La fortaleza financiera de uno de los mayores competidores globales en bebidas refuerza",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Lipton Sparkling by PepsiCo Inc. - carbonated iced tea pushes ready-to-drink growth - Ad-hoc-news.de",
-      "summary": "PepsiCo lanzó Lipton Sparkling, una línea de té helado carbonatado, expandiendo su portafolio en el segmento de bebidas listas para consumir (RTD). Este movimiento capitaliza la tendencia creciente de",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "What does ‘alcohol-free’ really mean?",
-      "summary": "El mercado de cervezas sin y bajas en alcohol en Reino Unido experimenta crecimiento acelerado, impulsado por cambios regulatorios en etiquetado y presiones de salud pública. Los cerveceros buscan red",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Off-Premise Alcohol Sales Fall 21% WoW After July 4, Growth Brands Hold Momentum, per Circana Weekly Scans | Brewbound",
-      "summary": "Las ventas de bebidas alcohólicas fuera de establecimiento (off-premise) en EE.UU. cayeron 21,4% semana a semana tras el 4 de julio, según datos de Circana, registrando $1.448 mil millones en la seman",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Canada DTC deal opens up alcohol market",
-      "summary": "Nueve provincias canadienses habilitaron ventas directas al consumidor (DTC) de bebidas alcohólicas tras acuerdo interprovincial, eliminando barreras al comercio transfronterizo. Ontario, British Colu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Caledonia Spirits hires former Breakthru exec to lead expansion",
-      "summary": "Caledonia Spirits, destilería de Vermont, contrató a John Oliver (ex ejecutivo de Breakthru Beverage Group con 19 años de experiencia) como VP de Ventas. Oliver liderará la estrategia comercial de la ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper stock trades steadily as investors weigh recent earnings and beverage portfolio str - Ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper (KDP), uno de los mayores productores de bebidas en EE.UU., experimenta movimiento estable en bolsa mientras el mercado evalúa resultados recientes y la estrategia de su portfolio. La",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken 0.0 by Heineken N.V. - alcohol-free beer pushes global sales - Ad-hoc-news.de",
-      "summary": "Heineken reporta que su línea Heineken 0.0 (cerveza sin alcohol) está impulsando el crecimiento de ventas globales. Este lanzamiento responde a la tendencia creciente de consumo de bebidas sin alcohol",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as earnings and premiumization shape outlook - Ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene estabilidad bursátil mientras la premiumización define su estrategia de crecimiento. El grupo francés apunta al segmento de bebidas premium como motor de rentabilidad, reflejand",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Vio Bio Limo by The Coca-Cola Company - organic lemonade expands the portfolio - Ad-hoc-news.de",
-      "summary": "The Coca-Cola Company lanzó Vio Bio Limo, una limonada orgánica que expande su portafolio de bebidas. Este movimiento refleja la estrategia del gigante global de diversificarse hacia segmentos premium",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "SEB Asset Management AB Makes New Investment in Coca-Cola Europacific Partners $CCEP - MarketBeat",
-      "summary": "SEB Asset Management AB realizó una nueva inversión en Coca-Cola Europacific Partners (CCEP), el principal embotellador de Coca-Cola en Europa, Asia-Pacífico y Oriente Medio. Este movimiento de un fon",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Have you tried the world’s first high fibre beer?",
-      "summary": "Scottish alcohol-free beer brand Brulo has launched its All Good IPA, a beer that delivers 5g of dietary fibre per can. db finds out more.",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "RTD brand Moth raises £11m for UK and US expansion",
-      "summary": "Moth, marca británica de cócteles RTD, recaudó £11 millones (US$14,78m) de inversores institucionales incluyendo Puma Growth Partners y Guinness Ventures. Los fondos se destinan a expandir presencia e",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britvic stock trades steadily as soft drinks group leans on resilient revenue and margins - Ad-hoc-news.de",
-      "summary": "Britvic, productor global de bebidas sin alcohol, mantiene estabilidad en cotización apoyándose en ingresos resilientes y márgenes sólidos. La fortaleza financiera de este competidor regional clave re",
-      "companies": [
-        "Britvic"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock trades steady as group lifts fiscal 2024 profit on resilient spirits demand - Ad-hoc-news.de",
-      "summary": "Pernod Ricard reportó resultados positivos en fiscal 2024 impulsados por demanda resiliente en destilados, manteniendo estabilidad accionaria. El desempeño robusto en spirits—categoría clave en el por",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "US alcohol sales fall after Independence Day boost",
-      "summary": "Las ventas totales de alcohol en EE.UU. cayeron 17,4% en la semana posterior al 4 de julio, aunque destilados mostraron resiliencia y cócteles preparados continuaron creciendo. En las cuatro semanas h",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock holds steady as recent earnings highlight resilient premium spirits demand - Ad-hoc-news.de",
-      "summary": "Pernod Ricard reporta resultados que demuestran demanda resiliente en spirits premium, lo que sostiene su cotización bursátil. Como uno de los mayores productores de bebidas alcohólicas a nivel mundia",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Twisted Tea Original by The Boston Beer Company - Hard iced tea quietly powering sales - Ad-hoc-news.de",
-      "summary": "Twisted Tea Original, marca de hard tea de The Boston Beer Company, está generando un crecimiento significativo de ventas sin campañas publicitarias masivas. Este desempeño sostiene la relevancia de l",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken stock trades steady as earnings and margins shape the outlook - Ad-hoc-news.de",
-      "summary": "Heineken mantiene estabilidad bursátil mientras el mercado evalúa sus márgenes de ganancia y perspectivas de earnings. La performance de la cervecera holandesa impacta directamente en el benchmarking ",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-07-23": [
     {
       "title": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
@@ -2926,6 +2547,375 @@
       "companies": [],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-07-30": [
+    {
+      "title": "Brasileira The Natural One avalia venda total ou de participação, segundo fontes",
+      "summary": "The Natural One, fabricante brasileña de jugos listos para consumo, contrató a Nomura e Itaú BBA para evaluar opciones estratégicas incluyendo venta total o participación minoritaria. La operación bus",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola, Pepsi y otras marcas de bebidas están añadiendo nuevos códigos QR a las latas; te explicamos para qué sirven",
+      "summary": "Coca-Cola, Pepsi y otras marcas líderes implementan códigos QR en latas como estrategia de engagement directo con consumidores. Este cambio transforma el packaging de un elemento regulatorio a un cana",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo descarta amenazas o extorsión tras incendio en centro de distribución de Matamoros",
+      "summary": "PepsiCo México reportó un incendio en su centro de distribución de Matamoros que consumió múltiples unidades de reparto. La empresa descartó amenazas o extorsión como causa y confirmó continuidad oper",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Copa, cerveja premium e 'wellness' fazem Ambev lucrar R$ 3,4 bi no 2º trimestre",
+      "summary": "Ambev reportó ganancia neta de R$ 3,475 mil millones en Q2 2026, con crecimiento del 24,5% interanual impulsado por portafolio premium (Copa), categorías de wellness y mejora de márgenes ajustados (17",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Mantiene Arca Continental volumen de ventas en segundo trimestre de 2026 - Código Magenta",
+      "summary": "Arca Continental, uno de los principales embotelladoras de Coca-Cola en América Latina, mantuvo estable su volumen de ventas en el Q2 2026. Este resultado refleja una consolidación en mercados clave d",
+      "companies": [
+        "Arca Continental"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Cobblestone Brands buys two spirits from Campari Group",
+      "summary": "Cobblestone Brands adquiere Bisquit & Dubouché Cognac y Cabo Wabo Tequila de Campari Group, con cierre previsto para octubre 2026. La operación representa el hito más significativo en la historia de l",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev toasts success in first half",
+      "summary": "AB InBev reportó resultados positivos en el primer semestre bajo el liderazgo del CEO Michel Doukeris, impulsado por la estrategia de inversión en sus marcas líderes globales ('megabrands'). El enfoqu",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "World Cup provides ‘welcome boost’ for beer sales",
+      "summary": "Budweiser, Cruzcampo y Peroni lideraron el desempeño en ventas de cerveza en retail durante las primeras cinco semanas del Mundial 2026, con crecimientos interanuales de 18%, 42.1% y 19.7% respectivam",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola’s BODYARMOR bets on sparkling sports drinks beyond the gym",
+      "summary": "Coca-Cola expande BODYARMOR con el lanzamiento de BODYARMOR FIT, su primer bebida deportiva con gas en lata de 12 oz, posicionándose para consumo diario más allá del ejercicio (trabajo, viajes, social",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Slideshow: PepsiCo focusing on functional innovation",
+      "summary": "PepsiCo está redefiniendo su estrategia de innovación de producto enfocándose en categorías funcionales como bebidas con alto contenido proteico y soluciones de salud digestiva. Esta apuesta responde ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Femsa: I'm Staying Bullish Following Upbeat Q2 Earnings (NYSE:KOF) - Seeking Alpha",
+      "summary": "Coca-Cola Femsa reportó resultados positivos en Q2, sustentando una perspectiva alcista sobre la acción (NYSE:KOF). Como principal embotellador de Coca-Cola en Latinoamérica, incluyendo Argentina, sus",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Free Rein Joins Protein Coffee Race With First RTD, Expands Chainwide At Walmart - BevNET.com",
+      "summary": "Free Rein Coffee Company lanzó una plataforma de café con proteína que incluye cápsulas K-Cup y su primera línea de bebidas listas para consumir (RTD), con distribución en Walmart. El movimiento respo",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Avsome Tea Is Now ‘Awesome,’ With Red Bull Vet Connors As CEO - BevNET.com",
+      "summary": "Avsome Tea rebrandea como Awesome Ice Tea bajo nuevo liderazgo del CEO Coby Farrow, exejecutivo de Red Bull. La marca de té a base de semilla de aguacate busca expansión comercial tras años de desarro",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Andina (NYSE: AKO-A) lifts H1 2026 profit and EBITDA margins - Stock Titan",
+      "summary": "Coca-Cola Andina reportó mejora en márgenes de ganancia y EBITDA en H1 2026, señalando recuperación operativa en la región andina. Como competidor directo en mercados de América Latina, estos resultad",
+      "companies": [
+        "The Coca-Cola Company",
+        "Embotelladora Andina",
+        "Coca-Cola Andina"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is PepsiCo Stock Attractive After Q2 Earnings and Margin Pressure - The Globe and Mail",
+      "summary": "PepsiCo reportó resultados de Q2 enfrentando presión de márgenes, un indicador crítico de la rentabilidad de la industria de bebidas. Como uno de los mayores competidores globales, sus desempeños fina",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Budweiser-maker AB InBev's World Cup sales beat not enough to lift shares - Reuters",
+      "summary": "AB InBev registró ventas superiores a lo esperado durante el Mundial de Fútbol, impulsadas por su marca Budweiser, pero los resultados no fueron suficientes para impulsar el precio de sus acciones. El",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Rémy Cointreau sales edge up in first quarter of fiscal 2027 – results data - drinks-intel.com",
+      "summary": "Rémy Cointreau reportó crecimiento en ventas durante el primer trimestre del ejercicio fiscal 2027. El grupo francés, líder en destilados premium y licores de lujo, continúa con trayectoria positiva e",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Ambev Shares (BVMF:ABEV3; NYSE:ABEV) Under Pressure as Beer Recovery Lags 2024 Outlook - TechStock²",
+      "summary": "Las acciones de Ambev enfrentan presión por un desempeño inferior a las expectativas de recuperación de cerveza proyectadas para 2024. Esta situación es crítica para operadores argentinos considerando",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El vino sigue perdiendo terreno en los lineales de Estados Unidos",
+      "summary": "El mercado de vino en Estados Unidos registra caída en ventas (-3,9% en valor, -5,6% en volumen) en las últimas cuatro semanas, con menor distribución, reducida presión promocional y demanda débil. Au",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "La ola de calor dispara las ventas de cerveza mezclada en Alemania",
+      "summary": "Una ola de calor en Alemania a finales de junio impulsó las ventas de cerveza mezclada y sin alcohol a máximos históricos según datos de Destatis. La categoría de cerveza mezclada (radler y combinacio",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "After Decades in Wine, Three Industry Veterans Decided Non-Alcoholic Wine Wasn't Good Enough Yet",
+      "summary": "Mavrique, fundada por veteranos de la industria vinícola, lanza su primera colección de vinos sin alcohol en el mercado estadounidense (Chardonnay y Pinot Noir de California). La marca aborda un segme",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Adiós Walmart, Soriana y Bodega Aurrera: La estrategia que podría convertir a OXXO en el súper de la esquina",
+      "summary": "OXXO, la cadena de conveniencia mexicana, ejecuta una estrategia de transformación para competir directamente con supermercados tradicionales (Walmart, Soriana, Bodega Aurrera) ampliando su oferta de ",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Embotelladora Andina SA reports results for the quarter ended June 30 - Earnings Summary - TradingView",
+      "summary": "Embotelladora Andina SA reportó resultados del segundo trimestre 2024. Como uno de los principales embotelladores de Coca-Cola en Sudamérica (operando en Chile, Argentina y Paraguay), estos resultados",
+      "companies": [
+        "Embotelladora Andina",
+        "Coca-Cola Andina"
+      ],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ambev (ABEV3): ação pode repetir “sucesso” do 1T e saltar após resultados do 2º tri? - InfoMoney",
+      "summary": "Análisis sobre Ambev (principal cervecería y empresa de bebidas de Brasil) y perspectivas de su desempeño en el segundo trimestre, con comparación respecto al primer trimestre. La noticia es relevante",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Campari outshines spirits peers with broad-based sales growth",
+      "summary": "Campari reportó crecimientos de ventas superiores a lo esperado en el primer semestre fiscal, impulsado por desempeño sólido en sus divisiones de aperitivos, agave, cognac y champagne. La compañía ele",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev tops Q2 forecasts on pricing strength and premium beer demand - Investing.com",
+      "summary": "AB InBev superó estimaciones de Q2 impulsado por estrategia de precios y demanda sostenida de cervezas premium, demostrando capacidad de traslado de aumentos de costos al consumidor. Este resultado va",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Ambev: Net revenue rose 6.1% and normalized EBITDA grew 8.9% year-over-year, led by beer segment strength - tradingview.com",
+      "summary": "Ambev reportó crecimiento de ingresos netos del 6.1% e incremento del EBITDA normalizado del 8.9% interanual, impulsado por la fortaleza del segmento cervecero. Este desempeño de la mayor cervecera de",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Preocupação do brasileiro com saúde direciona estratégia da Heineken nos supermercados - Valor Econômico",
+      "summary": "Heineken ajusta su estrategia de comercialización en supermercados brasileños en respuesta a la creciente preocupación de los consumidores por la salud. La tendencia refleja un cambio estructural en l",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diet Coke demand jumped 10x, but Coca-Cola still lost market share in India - bestmediainfo.com",
+      "summary": "Diet Coke experimentó un crecimiento de demanda de 10x en India, pero Coca-Cola perdió participación de mercado en el país. Este fenómeno sugiere fragmentación del mercado y ascenso de marcas competid",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Damm UK admite retrasos en el suministro de Old Speckled Hen en Reino Unido",
+      "summary": "Damm UK experimenta retrasos en la distribución de Old Speckled Hen en el canal horeca británico tras su adquisición de la marca. La compañía descarta problemas de producción y atribuye los atrasos a ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola reports strong second-quarter growth, boosted by China-led volume gains - China Daily",
+      "summary": "Coca-Cola reportó un sólido crecimiento en el segundo trimestre impulsado principalmente por ganancias de volumen en China. Este desempeño refleja la recuperación de la demanda en mercados clave asiát",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RTD cocktails, seltzers prove to be prominent",
+      "summary": "El segmento de bebidas alcohólicas ready-to-drink (RTD) y seltzers se posiciona como un driver clave de crecimiento en el mercado estadounidense. Según NielsenIQ, estos productos satisfacen la demanda",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
       ],
       "region": "Mundial"
     }
