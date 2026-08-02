@@ -2143,16 +2143,7 @@
   "2026-08-02": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda en Argentina con caída del consumo, presión en márgenes y ajuste de costos operacionales. El segmento experimenta cambios en hábitos de consumo que ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Vino argentino: el granel lideró las exportaciones y el Malbec mantuvo su protagonismo - Sitio Andino",
-      "summary": "Las exportaciones de vino argentino muestran que el granel lideró volúmenes mientras el Malbec consolida su posicionamiento en mercados internacionales. Esta dinámica refleja una estrategia dual en la",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa en volúmenes de consumo, obligando a productores a implementar ajustes de costos y revisar sus modelos operativos. La crisis ref",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2161,7 +2152,7 @@
     },
     {
       "title": "“IPA DAY 2026: Cómo la cerveza artesanal transforma un evento global en negocio local” - Foro de Baires",
-      "summary": "IPA Day 2026 posiciona la cerveza artesanal como oportunidad de negocio en mercados locales, capitalizando un evento global. Esta tendencia refleja la creciente demanda por productos premium y diferen",
+      "summary": "IPA Day 2026 posiciona a la cerveza artesanal como motor de negocio local en Argentina, transformando un evento global en oportunidad comercial. La iniciativa integra productores locales en una estrat",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2169,20 +2160,8 @@
       "region": "Local"
     },
     {
-      "title": "Coca Cola FEMSA De KOF Faces A 12% Fair Value Gap Following Earnings - simplywall.st",
-      "summary": "Coca-Cola FEMSA (KOF) presenta una brecha de valoración justo del 12% post-earnings, indicando que el mercado la considera sobrevalorada respecto a su valor intrínseco. La compañía, mayor embotellador",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Constellation Brands posts smaller‑than‑expected quarterly sales drop on steady Mexican beer demand - 95 KQDS",
-      "summary": "Constellation Brands reportó una caída de ventas trimestral menor a la esperada, sostenida por la demanda constante de cerveza mexicana. Este resultado es estratégico para el sector ya que Constellati",
+      "summary": "Constellation Brands reportó una caída de ventas trimestral menor a lo esperado, sostenida por la demanda estable de cerveza mexicana. Este desempeño es crítico para la industria de bebidas alcohólica",
       "companies": [
         "Constellation Brands"
       ],
@@ -2193,8 +2172,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Marie Brizard Wine & Spirits posted a slight second-quarter sales rise on stronger demand in France - Vinetur",
-      "summary": "Marie Brizard Wine & Spirits reportó un crecimiento moderado en ventas del segundo trimestre, impulsado por una demanda más fuerte en Francia. Este desempeño es significativo para monitorear la recupe",
+      "title": "Marie Brizard Wine & Spirits posted a slight second-quarter sales rise on stronger demand in France - vinetur.com",
+      "summary": "Marie Brizard Wine & Spirits reportó un leve crecimiento en ventas del segundo trimestre impulsado por mayor demanda en Francia. La recuperación en su mercado principal europeo refleja tendencias posi",
       "companies": [
         "Marie Brizard Wine & Spirits"
       ],
@@ -2206,7 +2185,7 @@
     },
     {
       "title": "Boston Beer Company (SAM) Could Be 21% Undervalued As Earnings Keep Guidance Intact - simplywall.st",
-      "summary": "Boston Beer Company mantiene su guidance de ganancias a pesar de presiones de mercado, con análisis indicando una subvaluación potencial del 21% en su cotización. La compañía, principal fabricante de ",
+      "summary": "Boston Beer Company mantiene su guidance de ganancias a pesar de presiones de mercado, mientras análisis sugieren una subvaluación del 21% en su cotización actual. El productor de cervezas artesanales",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2218,7 +2197,7 @@
     },
     {
       "title": "Financial Solutions Advisory Group Inc. Acquires New Shares in Molson Coors Beverage Company $TAP - MarketBeat",
-      "summary": "Financial Solutions Advisory Group Inc. incrementó su participación accionaria en Molson Coors Beverage Company (NYSE: TAP), uno de los mayores productores de bebidas alcohólicas en Norteamérica. Este",
+      "summary": "Financial Solutions Advisory Group Inc. adquirió nuevas acciones de Molson Coors Beverage Company (TAP), uno de los principales productores de bebidas alcohólicas en Norteamérica. Este movimiento de i",
       "companies": [
         "Molson Coors"
       ],
@@ -2230,7 +2209,7 @@
     },
     {
       "title": "Fevertree Drinks stock deserves fresh attention as UK investors reassess premium mixers - Kalkine Media",
-      "summary": "Fevertree Drinks, líder en mixers premium a nivel mundial, recibe renovada atención de inversores tras reevaluación del segmento de bebidas alcohólicas mixtas en el Reino Unido. La empresa ha posicion",
+      "summary": "Fevertree Drinks, fabricante líder de mixers premium, está ganando renovada atención de inversores UK en contexto de revaluación del segmento de bebidas premium. La compañía posiciona sus productos en",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2251,8 +2230,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Can Molson Coors Beverage (TAP) Stay Undervalued As Operational Headwinds Pressure Shipments? - simplywall.st",
+      "summary": "Molson Coors enfrenta presiones operacionales que impactan sus envíos, cuestionando si puede mantener su valuación actual en el mercado. La noticia analiza desafíos operacionales en una de las cervece",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Noblewood USA and Southern Glazer’s Wine & Spirits Announce Strategic Distribution Agreement Across 38 States",
-      "summary": "Noblewood USA firmó un acuerdo de distribución estratégica con Southern Glazer's Wine & Spirits para 38 estados estadounidenses a partir de agosto 2026. Southern Glazer's distribuirá las marcas premiu",
+      "summary": "Noblewood USA y Southern Glazer's Wine & Spirits firmaron un acuerdo de distribución estratégica efectivo desde agosto 2026 que cubre 38 estados estadounidenses (21 estados abiertos y 17 de control es",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2262,7 +2252,7 @@
     },
     {
       "title": "Non-Alcoholic & Zero-Proof Spirits Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
-      "summary": "El mercado global de bebidas espirituosas sin alcohol y zero-proof está en expansión acelerada hacia 2036, según análisis de Future Market Insights. Este segmento representa una oportunidad estratégic",
+      "summary": "Análisis de mercado global de bebidas espirituosas sin alcohol y zero-proof, proyectado hasta 2036 por Future Market Insights. Este segmento representa una oportunidad estratégica creciente en la indu",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2272,7 +2262,7 @@
     },
     {
       "title": "Probiotic Drinks & Fermented Beverage Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
-      "summary": "Análisis global del mercado de bebidas probióticas y fermentadas proyectado hasta 2036 por Future Market Insights. Este segmento representa una tendencia estratégica clave en bebidas funcionales con a",
+      "summary": "Reporte de análisis de mercado global de bebidas probióticas y fermentadas con proyecciones hasta 2036. El segmento de bebidas funcionales con probióticos representa una oportunidad estratégica crecie",
       "companies": [],
       "segments": [
         "consumer_market_trends",
