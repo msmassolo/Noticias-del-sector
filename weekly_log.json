@@ -1967,8 +1967,19 @@
   ],
   "2026-08-03": [
     {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una crisis con caída significativa del consumo, obligando a productores a ajustar costos y estrategias comerciales. Este movimiento refleja cambios en los háb",
+      "title": "Arcor y Danone pusieron en marcha a un “nuevo viejo” gigante de la industria láctea",
+      "summary": "Arcor y Danone reorganizaron La Serenísima, consolidando un negocio lácteo previamente fragmentado entre dos operadores (Mastellone Hermanos para leches fluidas y derivados; Danone para yogures y post",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - degremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa en consumo, derivada de cambios en hábitos de los consumidores y presiones de costos que obligan a ajustes operacionales en prod",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -1977,7 +1988,7 @@
     },
     {
       "title": "“IPA DAY 2026: Cómo la cerveza artesanal transforma un evento global en negocio local” - Foro de Baires",
-      "summary": "IPA Day 2026 representa una oportunidad de comercialización global para productores locales de cerveza artesanal, transformando un evento internacional en palanca de negocio. La iniciativa amplifica e",
+      "summary": "IPA Day 2026 se posiciona como una oportunidad de negocio para cervecerías artesanales, transformando un evento global en estrategia comercial local. El evento genera sinergia entre productores indepe",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -1986,7 +1997,7 @@
     },
     {
       "title": "Cómo evoluciona el consumo y el comercio del vino en los mercados clave a donde Argentina exporta - enolife.com.ar",
-      "summary": "Análisis de tendencias de consumo y dinámicas comerciales en mercados destino clave para exportaciones argentinas de vino. La noticia es estratégica para entender evolución de demanda en mercados como",
+      "summary": "Análisis sobre evolución del consumo y dinámicas comerciales de vino en mercados estratégicos de exportación para Argentina. Relevante para la industria de bebidas dado que el vino es una categoría cl",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -1995,7 +2006,7 @@
     },
     {
       "title": "Backus alista inversión para su planta de Motupe: ¿qué proyecto prepara la cervecera?",
-      "summary": "Backus prepara una inversión en su planta de Motupe (Perú) para construir una nueva laguna de tratamiento de aguas residuales, buscando fortalecer la infraestructura operativa. La inversión refleja la",
+      "summary": "Backus prepara una inversión en su planta de Motupe (Lambayeque, Perú) para construir una nueva laguna de tratamiento de aguas residuales, según el ITS presentado ante Produce. La iniciativa busca for",
       "companies": [
         "Backus"
       ],
@@ -2006,18 +2017,8 @@
       "region": "Regional"
     },
     {
-      "title": "Tras Pasteurina, dueña de Kola Escocesa alista nuevos sabores e inversión de US$ 1.2 millones",
-      "summary": "Empresa Yura, dueña de Kola Escocesa y Pasteurina, invertirá US$ 1.2 millones en lanzamiento de nuevos sabores bajo liderazgo de tercera generación familiar. La estrategia busca fortalecer ambas marca",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "India halts sales of Diageo and Inbrew spirits over flavouring concerns",
-      "summary": "India's food safety regulator (FSSAI) suspendió la venta de whiskies y rums de Diageo (United Spirits), Inbrew Beverages y Old Monk por contener saborizantes artificiales o idénticos a los naturales. ",
+      "summary": "India suspendió la venta de whiskies y rones de Diageo (United Spirits), Inbrew Beverages y Old Monk tras detectar saborizantes artificiales o idénticos a los naturales prohibidos. La decisión de la a",
       "companies": [
         "Diageo"
       ],
@@ -2028,19 +2029,54 @@
       "region": "Mundial"
     },
     {
-      "title": "Danone and Arcor complete Argentina dairy joint venture | FoodBev Media",
-      "summary": "Danone y Arcor completaron la creación de su joint venture láctea en Argentina, fusionando el negocio lácteo local de Danone con el grupo lechero Mastellone Hermanos y su subsidiaria logística Logísti",
+      "title": "Lauren Mote on her new role at Bacardi",
+      "summary": "Bacardi ascendió a Lauren Mote como directora global de categoría agave para canal on-trade y la experiencia de marca Hacienda Patrón. El movimiento refleja la estrategia de Bacardi de fortalecer su p",
       "companies": [
-        "Danone"
+        "Bacardi"
       ],
       "segments": [
-        "ma_and_strategy"
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo appoints new Asia Pacific chief",
+      "summary": "Diageo designó a Sujay Wasan como líder de su negocio en Asia Pacífico, tras casi 28 años en Procter & Gamble donde fue SVP de Norteamérica. El movimiento es parte de la estrategia de transformación d",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cyberattacks surge as food and beverage becomes prime target",
+      "summary": "La industria de alimentos y bebidas enfrenta una amenaza creciente de ciberataques, con empresas líderes como Coca-Cola y Heineken como objetivos recientes. Los ataques afectan toda la cadena de valor",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Q2 2026 Earnings Preview — August 6, Street Expects $0.58 EPS - AlphaStreet",
+      "summary": "Monster Beverage reportará resultados del Q2 2026 el 6 de agosto con expectativas de mercado de $0.58 EPS. Como competidor clave en el segmento de bebidas energéticas, la performance de Monster es ind",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "‘Changing preferences don’t threaten beer, they expand the ways people enjoy it’",
-      "summary": "Las ventas de cerveza sin alcohol en EE.UU. crecieron 23% el último año, representando el 87% del mercado de bebidas sin alcohol. Según la World Brewing Alliance, este segmento no canibaliza la catego",
+      "summary": "Las ventas de cerveza sin alcohol en EE.UU. crecieron 23% en el último año, con la cerveza sin alcohol representando el 87% del mercado de bebidas no alcohólicas. Según la World Brewing Alliance, esta",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2049,8 +2085,29 @@
       "region": "Mundial"
     },
     {
+      "title": "NIQ: spirits struggle post-World Cup in on-trade",
+      "summary": "Las ventas de bebidas alcohólicas en bares y restaurantes británicos cayeron significativamente post-Mundial: spirits bajaron 17,7%, vino 12,7% y cerveza 1,4% en la semana del 18-25 julio, mientras qu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo to cut jobs across Scottish distilleries",
+      "summary": "Diageo, principal productor global de whiskies escoceses de marca (Johnnie Walker, Lagavulin, Caol Ila, Cardhu), anuncia despidos en destilerías de Escocia como parte de una reestructuración corporati",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Nuvola Spirits Secures Strategic Investment from United Spirits (Diageo India) - HospiBuz",
-      "summary": "Nuvola Spirits obtuvo inversión estratégica de United Spirits (subsidiaria de Diageo en India), fortaleciendo su posición en el segmento de spirits premium. La inversión refleja el interés de grandes ",
+      "summary": "Nuvola Spirits recibió una inversión estratégica de United Spirits, subsidiaria de Diageo en India, consolidando la presencia de Diageo en el segmento de spirits premium. Esta movida refleja la estrat",
       "companies": [
         "Diageo"
       ],
@@ -2061,18 +2118,81 @@
       "region": "Mundial"
     },
     {
-      "title": "RNDC court filings reveal scale of distributor’s financial collapse",
-      "summary": "Republic National Distributing Company (RNDC), uno de los mayores distribuidores de bebidas en Estados Unidos, entró en bancarrota Chapter 11 con más de US$400 millones en deudas no garantizadas acumu",
+      "title": "How heatwaves affect what we drink",
+      "summary": "Las olas de calor europeas generan cambios en los patrones de consumo de bebidas, con potencial impacto en volúmenes de venta y mix de productos. La sequía y altas temperaturas afectan tanto la produc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kocktail brings RTDs to single serve glass",
+      "summary": "Kocktail, marca británica de cócteles premium, lanzó envases de vidrio reutilizable de 100ml para su línea de RTD (ready-to-drink), posicionándose como formato innovador en la categoría. Con 20% de AB",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Breweries Turned the 2026 World Cup Into Sales | SevenFifty Daily",
+      "summary": "Las cervecerías estadounidenses capitalizaron el Mundial 2026 como oportunidad de ventas, con incrementos significativos en consumo de cerveza de barril entre semana y agotamiento de stock en bares de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Southern Glazer’s expands Colorado footprint with Eagle Rock acquisition",
+      "summary": "Southern Glazer's Wine & Spirits completó la adquisición de las operaciones de Eagle Rock Distributing en Colorado, consolidando su presencia en uno de los mercados de bebidas de mayor crecimiento en ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Italian company enters UK market by acquiring Jascots Wine Merchants",
+      "summary": "La empresa italiana Compagnia del Gusto Holding adquirió Jascots Wine Merchants del grupo Freixenet Copestick, marcando su entrada al mercado minorista del Reino Unido. Esta operación refleja la estra",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Arón Piper estrena Bucle en Ibiza junto a PATRÓN en el inicio de su plan para 2026",
+      "summary": "PATRÓN Tequila amplía su estrategia de marketing experiencial con Arón Piper, artista español con alcance significativo en redes sociales. La colaboración entra en su tercer año con una campaña integr",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Financial Solutions Advisory Group Inc. Acquires New Shares in Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "Financial Solutions Advisory Group Inc. incrementó su posición accionaria en Molson Coors Beverage Company (TAP), uno de los principales productores de cerveza en América del Norte. Este movimiento re",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Western Europe’s on-trade becomes spirits battleground",
-      "summary": "El canal on-trade (bares, restaurantes, hoteles) en Europa Occidental se posiciona como un terreno estratégico clave para marcas de spirits premium, especialmente en destinos turísticos de lujo como P",
+      "summary": "El canal on-trade (bares, restaurantes, hoteles) en Europa Occidental se posiciona como espacio crítico de competencia para marcas de spirits premium, capaz de moldear preferencias de consumo. Con Par",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2081,8 +2201,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Southern Glazer’s completes Eagle Rock Colorado buyout",
-      "summary": "Southern Glazer's completó la adquisición de las operaciones de Eagle Rock Distributing en Colorado, consolidando la distribución del portafolio completo de bebidas de Anheuser-Busch en ese estado jun",
+      "title": "RNDC court filings reveal scale of distributor’s financial collapse",
+      "summary": "Republic National Distributing Company (RNDC), uno de los mayores distribuidores de bebidas en Estados Unidos, entró en quiebra Chapter 11 con más de US$400 millones en deudas no aseguradas. Los docum",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2091,8 +2211,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage (MNST) Draws Attention On Strong Quarter Hopes While Fair Value Looks Tighter - simplywall.st",
-      "summary": "Monster Beverage reporta expectativas positivas para el próximo trimestre, generando interés de inversores. El análisis sugiere que la valuación de la empresa se está ajustando, con el valor justo cot",
+      "title": "A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter? - AOL.com",
+      "summary": "Monster Beverage ejecutará un split accionario el 11 de agosto, evento que amplifica su presencia en mercados de capital y potencialmente mejora la accesibilidad para inversores minoristas. Aunque un ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2102,19 +2222,8 @@
       "region": "Mundial"
     },
     {
-      "title": "A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter? - The Motley Fool",
-      "summary": "Monster Beverage ejecutó un desdoblez de acciones el 11 de agosto, movimiento que refleja confianza en su valoración pero con implicancias limitadas en fundamentales operacionales. El desdoblement mej",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Budweiser-maker AB InBev shareholder E.P.S. to sell 10 million shares in company - reuters.com",
-      "summary": "El accionista E.P.S. planea vender 10 millones de acciones de AB InBev, el mayor fabricante de cerveza global (propietario de Budweiser, Stella Artois y otras marcas). Esta operación de desinversión s",
+      "title": "Budweiser-maker AB InBev shareholder E.P.S. to sell 10 million shares in company - Reuters",
+      "summary": "El accionista E.P.S. de AB InBev (Budweiser) planea vender 10 millones de acciones de la compañía, lo que representa un movimiento significativo en la estructura accionaria del mayor productor cervece",
       "companies": [
         "AB InBev"
       ],
@@ -2124,18 +2233,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Jascots: Freixenet Copestick sells merchant to Italy’s CDGH - Harpers Wine & Spirit Trade News",
-      "summary": "Henkell Freixenet vendió su filial británica Freixenet Copestick al distribuidor italiano Compagnia del Gusto Holding (CDGH). La transacción incluye la transferencia de Jascots Wine Merchants con sus ",
-      "companies": [],
+      "title": "Can Molson Coors Beverage (TAP) Stay Undervalued As Operational Headwinds Pressure Shipments? - simplywall.st",
+      "summary": "Molson Coors enfrenta presiones operacionales que afectan sus volúmenes de envíos, generando cuestionamientos sobre la valoración de la compañía en el mercado. El análisis sugiere vientos en contra en",
+      "companies": [
+        "Molson Coors"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Can Molson Coors Beverage (TAP) Stay Undervalued As Operational Headwinds Pressure Shipments? - simplywall.st",
-      "summary": "Molson Coors enfrenta presiones operacionales que impactan sus envíos, generando cuestionamientos sobre su valoración de mercado. La noticia analiza cómo los desafíos operacionales están afectando el ",
+      "title": "Pine Valley Investments Ltd Liability Co Invests $11.58 Million in Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "Pine Valley Investments realizó una inversión de $11.58 millones en Molson Coors Beverage Company (TAP), señalizando confianza institucional en la cervecera. Este movimiento refleja interés de inverso",
       "companies": [
         "Molson Coors"
       ],
@@ -2146,7 +2256,7 @@
     },
     {
       "title": "Damm UK takes stake in Dalston’s Soda Co | FoodBev Media",
-      "summary": "Damm UK, cervecería española con operaciones en Reino Unido, adquirió participación accionaria en Dalston's Soda Co, productora de bebidas sin alcohol con base en Londres. Este es el primer socio no c",
+      "summary": "Damm UK, empresa cervecera española, adquirió una participación accionaria en Dalston's Soda Co, productora de bebidas no alcohólicas de Londres. Esta es la primera vez que Damm incorpora un socio no ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2155,11 +2265,89 @@
       "region": "Mundial"
     },
     {
-      "title": "2024 Mid-Year Tea Beverage Industry Report: 40% Brands Contract, Yidiandian Achieves Strong Rebound - Key Market Trends & Growth Insights - 36 Kr",
-      "summary": "El mercado de bebidas de té enfrenta consolidación significativa con el 40% de marcas contrayendo operaciones en 2024, indicando presión competitiva y selectividad del consumidor. Yidiandian logra rep",
+      "title": "Can Yili reshape dairy’s future with a new global ecosystem?",
+      "summary": "Yili Group, el mayor productor lácteo de Asia, propone construir un nuevo ecosistema global para la industria láctea basado en innovación y transformación digital. El presidente Pan Gang busca estable",
       "companies": [],
       "segments": [
+        "packaging_sustainability",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone and Arcor complete Argentina dairy joint venture | FoodBev Media",
+      "summary": "Danone y Arcor completaron su joint venture láctea en Argentina, integrando el negocio local de Danone con el grupo lechero Mastellone Hermanos y su filial logística Logística La Serenísima. La operac",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India halts sales of Diageo and Inbrew spirits over flavouring concerns - thedrinksbusiness.com",
+      "summary": "India suspendió las ventas de bebidas espirituosas de Diageo e Inbrew por preocupaciones relacionadas con saborizantes, afectando a uno de los mayores productores globales de spirits. Esta acción regu",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage: This Is Why I'm Still Passing (Earnings Preview) (NASDAQ:MNST) - Seeking Alpha",
+      "summary": "Monster Beverage se prepara para reportar resultados financieros. El análisis señala razones por las que algunos inversores evitan la acción, probablemente relacionadas con valuaciones, presión de már",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Southern Glazer’s completes Eagle Rock Colorado buyout",
+      "summary": "Southern Glazer's completó la adquisición de las operaciones de Eagle Rock Distributing en Colorado, consolidando la distribución de toda la cartera de bebidas de Anheuser-Busch en ese estado, además ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Draws Attention On Strong Quarter Hopes While Fair Value Looks Tighter - simplywall.st",
+      "summary": "Monster Beverage reportaría un trimestre fuerte con expectativas de crecimiento sostenido, aunque su valuación se vuelve más comprimida según análisis de SimplyWall.st. Este movimiento refleja la pres",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter? - The Motley Fool",
+      "summary": "Monster Beverage ejecutará un split de acciones el 11 de agosto, evento que aunque no altera los fundamentos de negocio, tiene implicancias estratégicas para la valuación y liquidez del papel. Este mo",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jascots: Freixenet Copestick sells merchant to Italy’s CDGH - Harpers Wine & Spirit Trade News",
+      "summary": "Henkell Freixenet vende Jascots Wine Merchants, su filial comercializadora de vinos en Reino Unido, a la italiana Compagnia del Gusto Holding (CDGH). La operación incluye transferencia de activos come",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
