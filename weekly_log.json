@@ -1928,7 +1928,7 @@
   "2026-08-04": [
     {
       "title": "Arrancó la nueva La Serenísima: Arcor y Danone activaron el joint venture que cambia el mapa del negocio lácteo",
-      "summary": "Arcor y Danone activaron el 1° de agosto el joint venture de La Serenísima, consolidando una de las operaciones M&A más significativas del año en la industria láctea argentina. La estructura unifica e",
+      "summary": "Arcor y Danone activaron el 1° de agosto el joint venture de La Serenísima, consolidando una de las operaciones corporativas más significativas del año en la industria láctea argentina. La estructura ",
       "companies": [
         "Danone"
       ],
@@ -1940,7 +1940,7 @@
     },
     {
       "title": "El vino a granel impulsa las exportaciones y Mendoza concentra casi el 98% de los envíos",
-      "summary": "Las exportaciones de vino a granel argentino crecieron 53% interanual en Q2 2026, alcanzando 32,3 millones de litros, lideradas por Mendoza con 97,9% del volumen nacional. Este canal representa un mot",
+      "summary": "Las exportaciones de vino a granel argentino crecieron 53% interanual en Q2 2026, alcanzando 32,3 millones de litros, impulsando la recuperación del sector vitivinícola. Mendoza concentra el 97,9% del",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -1948,22 +1948,34 @@
       "region": "Local"
     },
     {
-      "title": "Inovação ganha mais peso e foco em resultados mensuráveis",
-      "summary": "Las empresas innovadoras de Brasil aumentaron inversión en I+D un 17% respecto al año anterior, priorizando la innovación como estrategia central de negocio en lugar de iniciativas aisladas. Este camb",
+      "title": "PepsiCo is transforming its historic brands: Tostitos has a new look and Quaker will be next, what’s behind the change?",
+      "summary": "PepsiCo está acelerando el rediseño de sus marcas emblemáticas (Tostitos, Lay's y próximamente Quaker) en respuesta a la demanda creciente de consumidores por ingredientes simples, control de porcione",
       "companies": [
         "PepsiCo"
       ],
       "segments": [
         "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola FEMSA amplia receita em 4,7% no segundo trimestre e Brasil registra volume recorde - SuperVarejo",
+      "summary": "Coca-Cola FEMSA reportó incremento de ingresos del 4,7% en Q2, con Brasil alcanzando volúmenes récord. Este desempeño es estratégicamente relevante para operadores argentinos dado que FEMSA es el prin",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
         "financial_results"
       ],
       "region": "Regional"
     },
     {
-      "title": "Backus alista inversión para su planta de Motupe: ¿qué proyecto prepara la cervecera?",
-      "summary": "Backus prepara una inversión en su planta de Motupe (Lambayeque, Perú) para construir una nueva laguna de tratamiento de aguas residuales, según informe presentado ante Produce. El proyecto busca fort",
+      "title": "Sam’s Club supera a Bodega Aurrera y Walmart: el formato de membresía lidera el crecimiento de Walmex",
+      "summary": "Sam's Club superó a Bodega Aurrera y Walmart en crecimiento dentro del portafolio de Walmex (México), impulsado por adquisición de nuevos socios, renovación de membresías y migración al nivel Plus. Es",
       "companies": [
-        "Backus"
+        "Walmart"
       ],
       "segments": [
         "consumer_market_trends",
@@ -1973,7 +1985,7 @@
     },
     {
       "title": "Ambev tem alta de quase 9% na receita de sua operação brasileira - SA+ Ecossistema de Varejo",
-      "summary": "Ambev registró un crecimiento de casi 9% en ingresos de su operación brasileña, indicando expansión en el mercado más grande de la región. Este desempeño en la filial brasileña es relevante para compe",
+      "summary": "Ambev registró un crecimiento de casi 9% en la receita de su operación brasileña, consolidando su desempeño en el principal mercado de América Latina para la compañía. Este incremento refleja dinámica",
       "companies": [
         "Ambev"
       ],
@@ -1985,7 +1997,7 @@
     },
     {
       "title": "Concha y Toro baja ganancias en el primer semestre y acusa golpe de menores ventas en EEUU - Diario Financiero",
-      "summary": "Concha y Toro, principal productor de vinos de la región, reportó caída de ganancias en el primer semestre 2024 debido a menores ventas en Estados Unidos, su mercado clave. La contracción en EEUU refl",
+      "summary": "Concha y Toro reportó caída de ganancias en el primer semestre del año, impactado principalmente por menores ventas en Estados Unidos, su mercado clave. Esta contracción refleja presiones en el segmen",
       "companies": [
         "Concha y Toro"
       ],
@@ -1995,8 +2007,30 @@
       "region": "Regional"
     },
     {
+      "title": "Concha y Toro mejora sus ganancias trimestrales, pese a baja en ventas - La Tercera",
+      "summary": "Concha y Toro reportó mejora en ganancias trimestrales a pesar de caída en ventas, indicando optimización operacional y gestión de márgenes. La empresa chilena, competidor regional clave en el segment",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola aumenta precios en México desde el 4 de agosto; refrescos suben hasta 5 pesos - diariodelyaqui.mx",
+      "summary": "Coca-Cola implementó aumentos de precios en México a partir del 4 de agosto, con incrementos de hasta 5 pesos en refrescos. Este movimiento refleja presiones inflacionarias y de costos en la región, s",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Campari profits fall despite stronger outlook for 2026",
-      "summary": "Davide Campari-Milano reportó caída de ganancias en H1 2026 (€129M vs €206M año anterior), pero mejoró perspectivas para el año completo gracias a ambiente arancelario favorable y optimización de port",
+      "summary": "Davide Campari-Milano reportó caída de ganancias en primer semestre 2026 (€129M vs €206M año anterior), pero mantiene outlook positivo impulsado por crecimiento orgánico de ventas y mejora en márgenes",
       "companies": [
         "Campari Group"
       ],
@@ -2008,7 +2042,7 @@
     },
     {
       "title": "India halts sales of Diageo and Inbrew spirits over flavouring concerns",
-      "summary": "India's food safety regulator (FSSAI) ha suspendido la venta de whiskies y rones de Diageo (subsidiaria United Spirits) e Inbrew Beverages por contener aromatizantes artificiales no declarados. La med",
+      "summary": "India's regulador de seguridad alimentaria (FSSAI) suspendió la venta de whisky y ron de marcas clave incluyendo Diageo (United Spirits) e Inbrew Beverages por uso de saborizantes artificiales o idént",
       "companies": [
         "Diageo"
       ],
@@ -2020,7 +2054,7 @@
     },
     {
       "title": "Hensley Beverage Appoints Omar Perez President | Brewbound",
-      "summary": "Hensley Beverage, distribuidor independiente de Anheuser-Busch InBev con sede en Phoenix, Arizona, promocionó a Omar Perez, ex COO, a la presidencia como parte de su plan de sucesión. Este movimiento ",
+      "summary": "Hensley Beverage, distribuidor independiente de Anheuser-Busch InBev con sede en Phoenix, promueve a Omar Perez, COO, a presidente en el marco de su plan de sucesión. Este movimiento refleja cambios e",
       "companies": [
         "Arizona Beverages",
         "AB InBev"
@@ -2033,7 +2067,7 @@
     },
     {
       "title": "Danone doubles down on Argentina as rivals retreat from dairy",
-      "summary": "Danone y Arcor finalizaron la creación de un joint venture lácteo en Argentina, integrando operaciones regionales de Danone con Mastellone Hermanos bajo control conjunto. La operación posiciona a Dano",
+      "summary": "Danone y Arcor finalizaron la creación de un joint venture lácteo en Argentina, combinando operaciones regionales de Danone con Mastellone Hermanos bajo control conjunto. La operación posiciona a Dano",
       "companies": [
         "Danone"
       ],
@@ -2044,20 +2078,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Lauren Mote on her new role at Bacardi",
-      "summary": "Bacardi promocionó a Lauren Mote como directora global de categoría de agave para canal on-trade y la experiencia de marca Hacienda Patrón. El movimiento refleja la estrategia de Bacardi de fortalecer",
+      "title": "Minute Maid Spiked expands lineup",
+      "summary": "Coca-Cola expande su portafolio de bebidas alcohólicas con el lanzamiento de Minute Maid Spiked Vodka Lemonade Iced Tea para el verano. La estrategia refuerza la presencia de la compañía en el segment",
       "companies": [
-        "Bacardi"
+        "The Coca-Cola Company"
       ],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "product_innovation"
       ],
       "region": "Mundial"
     },
     {
       "title": "Cyberattacks surge as food and beverage becomes prime target",
-      "summary": "La industria de bebidas enfrenta una escalada crítica de ciberataques dirigidos a toda la cadena de valor, desde proveedores hasta retailers. Grandes marcas como Coca-Cola y Heineken han sido objetivo",
+      "summary": "La industria de bebidas y alimentos enfrenta una escalada crítica de ciberataques dirigidos a toda la cadena de valor, desde proveedores hasta retailers. Grandes corporaciones como Coca-Cola y Heineke",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2067,8 +2101,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo appoints new Asia Pacific chief",
-      "summary": "Diageo, propietario de marcas líderes como Johnnie Walker, designó a Sujay Wasan como jefe regional de Asia Pacífico tras casi 28 años en Procter & Gamble. Este movimiento estratégico refleja la prior",
+      "title": "Union says Diageo ‘steam-rolling’ through job cuts",
+      "summary": "Diageo enfrenta conflicto laboral en Escocia por despidos en destilerías: la unión GMB acusa a la multinacional de rechazar alternativas a despidos compulsivos de 172 trabajadores en destilerías de wh",
       "companies": [
         "Diageo"
       ],
@@ -2078,8 +2112,43 @@
       "region": "Mundial"
     },
     {
+      "title": "Diageo appoints new Asia Pacific chief",
+      "summary": "Diageo designó a Sujay Wasan como nuevo líder de su negocio en Asia Pacífico, procedente de P&G donde acumuló 28 años de experiencia como SVP de Norteamérica. El movimiento ocurre bajo el nuevo CEO Da",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken introduces UK regenerative agriculture initiative to support sustainability goals",
+      "summary": "Heineken implementará una iniciativa de agricultura regenerativa en el Reino Unido comprometiéndose a que casi el 50% de la cebada malteada para su portafolio global (Heineken, Birra Moretti, Foster's",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr scores ‘own goal’ in distribution mishap",
+      "summary": "AG Barr, importante jugador en bebidas no alcohólicas del Reino Unido, sufrió un error de distribución que resultó en pérdidas de aproximadamente £10 millones en ventas. El incidente impacta negativam",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Innovations win strong first half for Coca-Cola Europacific Partners",
-      "summary": "Coca-Cola Europacific Partners reportó crecimiento en el primer semestre impulsado por innovación en bebidas zero-sugar e hidratación, con Monster como principal motor de expansión. La compañía ganó p",
+      "summary": "Coca-Cola Europacific Partners reportó crecimiento en el primer semestre impulsado por innovación en bebidas zero-azúcar y energéticas, con Monster como categoría estrella. La empresa ganó participaci",
       "companies": [
         "The Coca-Cola Company",
         "Coca-Cola Europacific Partners"
@@ -2091,32 +2160,8 @@
       "region": "Mundial"
     },
     {
-      "title": "AG Barr scores ‘own goal’ in distribution mishap",
-      "summary": "AG Barr, fabricante escocés de bebidas, reportó una pérdida de aproximadamente £10 millones en ventas por un error operativo en distribución durante el inicio del año. El incidente afecta significativ",
-      "companies": [
-        "AG Barr"
-      ],
-      "segments": [
-        "distribution_execution",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sustainability Snippets: Coffee strategies, Coca-Cola and food waste",
-      "summary": "Los precios del café arabica alcanzaron máximos históricos (US$4,40/lb en febrero 2025), impulsados por cambio climático, volatilidad de cosechas y presión sobre ingresos de productores. Coca-Cola y o",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Fevertree Drinks (FEVR) Q4 2023 Earnings Report - Results, Call & Slides - TipRanks",
-      "summary": "Fevertree Drinks reportó resultados de Q4 2023, dato crítico para monitorear el desempeño de un competidor global en la categoría de bebidas mixers premium, segmento en crecimiento en mercados como Ar",
+      "summary": "Fevertree Drinks publicó resultados de Q4 2023, empresa especializada en bebidas mixers premium que operan en el segmento de bebidas de consumo masivo. Los resultados financieros de este período son r",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2128,220 +2173,7 @@
     },
     {
       "title": "Monster Beverage: This Is Why I'm Still Passing (Earnings Preview) (NASDAQ:MNST) - Seeking Alpha",
-      "summary": "Análisis previo a resultados de Monster Beverage, líder global en bebidas energéticas con presencia significativa en mercados clave. La evaluación señala cautela respecto a oportunidades de inversión ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NIQ: spirits struggle post-World Cup in on-trade",
-      "summary": "Las ventas de bebidas alcohólicas en bares y restaurantes británicos cayeron significativamente la semana posterior a la final del Mundial, con spirits retrayéndose 17.7% respecto al año anterior. El ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "‘Changing preferences don’t threaten beer, they expand the ways people enjoy it’",
-      "summary": "El mercado de cerveza sin alcohol en EE.UU. creció 23% interanual, representando el 87% de las ventas de bebidas no alcohólicas, según el Beer Institute. El 61% de los consumidores consideraría probar",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari pone a la venta cinco marcas para centrarse en Aperol",
-      "summary": "Campari inicia desinversiones estratégicas vendiendo cinco marcas de licores (rones Trois Rivières, La Mauny y Duquesne; coñac Bisquit & Dubouché; tequila Cabo Wabo) a un grupo industrial francés. La ",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo to cut jobs across Scottish distilleries",
-      "summary": "Diageo, líder global de bebidas espirituosas, implementa despidos en sus destilerías escocesas (Cardhu, Cragganmore, Port Ellen, Dufftown e Islay) con aproximadamente 40 empleados afectados como parte",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo flags major gap in women’s sports nutrition",
-      "summary": "PepsiCo (a través de Gatorade) identifica una brecha estratégica crítica en nutrición deportiva femenina: solo el 6% de la investigación en ciencias del deporte se enfoca en mujeres, generando product",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nuvola Spirits Secures Strategic Investment from United Spirits (Diageo India) - HospiBuz",
-      "summary": "Nuvola Spirits aseguró inversión estratégica de United Spirits (subsidiaria india de Diageo), el mayor productor de bebidas alcohólicas del mundo. Esta operación representa un movimiento corporativo s",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How heatwaves affect what we drink",
-      "summary": "Las olas de calor en Europa están generando cambios en los patrones de consumo de bebidas, con implicaciones directas en la demanda de productos específicos. El fenómeno afecta tanto la producción (in",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kocktail brings RTDs to single serve glass",
-      "summary": "Kocktail, marca británica de cócteles artesanales, lanzó botellas de vidrio de 100ml para su línea de ready-to-drink (RTD), posicionándose como primer formato de categoría. Con 20% de ABV y énfasis en",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage (TAP) Q2 2026 Preview: EPS Est. $1.51, Reports August 6 - AlphaStreet",
-      "summary": "Molson Coors reportará resultados del Q2 2026 el 6 de agosto con EPS estimado en $1.51. Como uno de los mayores productores de bebidas alcohólicas a nivel global, el desempeño de TAP es indicador del ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Breweries Turned the 2026 World Cup Into Sales | SevenFifty Daily",
-      "summary": "Las cervecerías estadounidenses capitalizaron significativamente el Mundial 2026, con ventas de draft beer en días laborales en crecimiento y bares de cerveza agotando inventario. Headlands Brewing y ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Southern Glazer’s expands Colorado footprint with Eagle Rock acquisition",
-      "summary": "Southern Glazer's Wine & Spirits completó la adquisición de las operaciones de Eagle Rock Distributing en Colorado, consolidando su posición en la distribución de bebidas alcohólicas y no alcohólicas ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "UK's Coca-Cola Europacific Partners H1 revenue rises on zero sugar drinks - TradingView",
-      "summary": "Coca-Cola Europacific Partners reportó crecimiento de ingresos en el primer semestre impulsado por bebidas sin azúcar, reflejando la aceleración de la categoría zero sugar en mercados desarrollados. E",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone and Arcor complete Argentina dairy joint venture | FoodBev Media",
-      "summary": "Danone y Arcor completaron la formación de su joint venture en Argentina, combinando el negocio lácteo local de Danone con el grupo lechero Mastellone Hermanos y su filial de logística Logística La Se",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (FEVR) Q2 2025 Earnings Report - Results, Call & Slides - TipRanks",
-      "summary": "Fevertree Drinks reportó resultados de Q2 2025, empresa británica líder en bebidas mixers premium. Los resultados de earnings son clave para monitorear la salud del segmento de bebidas alcohólicas sof",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (FEVR) Q2 2023 Earnings Report - Results, Call & Slides - TipRanks",
-      "summary": "Fevertree Drinks publicó sus resultados del Q2 2023, empresa líder en bebidas mixers premium con presencia global. Esta información es crítica para monitorear el desempeño de un competidor clave en el",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (FEVR) Q2 2024 Earnings Report - Results, Call & Slides - TipRanks",
-      "summary": "Fevertree Drinks publicó resultados del Q2 2024, reporte clave para monitorear el desempeño del líder global en bebidas mixers premium. Los resultados de la empresa británica son indicadores de la sal",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage shows strong growth but valuation limits upside despite optimistic outlook - Pluang",
-      "summary": "Monster Beverage reportó un crecimiento sólido, pero su valuación actual limita el potencial alcista a corto plazo pese a una perspectiva optimista. Este análisis es crítico para monitorear a un compe",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (FEVR) Q4 2022 Earnings Report - Results, Call & Slides - TipRanks",
-      "summary": "Fevertree Drinks reportó resultados del Q4 2022, proveedor clave de mixers premium para la industria de bebidas espirituosas. La compañía cotizada en bolsa es relevante como competidor en el segmento ",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Q2 2026 Earnings Preview — August 6, Street Expects $0.58 EPS - AlphaStreet",
-      "summary": "Monster Beverage reportará resultados del Q2 2026 el 6 de agosto con expectativas de mercado en $0.58 EPS. Este es un indicador crítico del desempeño de uno de los principales competidores globales en",
+      "summary": "Análisis de resultados próximos de Monster Beverage (NASDAQ:MNST), líder global en bebidas energéticas. El artículo presenta una evaluación crítica sobre la valuación y perspectivas de la compañía, id",
       "companies": [
         "Monster Beverage"
       ],
@@ -2353,7 +2185,153 @@
     },
     {
       "title": "Monster Beverage (MNST) Heads Into Q2 Earnings, Is The Valuation Already Too Rich? - Yahoo Finance UK",
-      "summary": "Monster Beverage se prepara para reportar resultados del Q2 con interrogantes sobre su valoración actual. El análisis cuestiona si el precio de cotización de la compañía ya refleja expectativas demasi",
+      "summary": "Monster Beverage se prepara para reportar resultados de Q2 con debates sobre su valuación en el mercado. La noticia analiza si el stock de MNST está sobrevalorado antes del reporte de ganancias, lo qu",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo flags major gap in women’s sports nutrition",
+      "summary": "PepsiCo identificó una brecha estratégica en nutrición deportiva para mujeres: solo el 6% de la investigación en ciencias del deporte se enfoca en este segmento, según el Gatorade Sports Science Insti",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NIQ: spirits struggle post-World Cup in on-trade",
+      "summary": "Las ventas de spirits en el canal on-trade británico cayeron 17.7% la semana posterior a la final del Mundial, según datos de NIQ. Las bebidas totales en bares y restaurantes decrecieron 1.6%, con caí",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "‘Changing preferences don’t threaten beer, they expand the ways people enjoy it’",
+      "summary": "El mercado de cerveza sin alcohol en EE.UU. creció 23% interanual, con cervezas sin alcohol representando el 87% de las bebidas no alcohólicas. Según la Beer Institute, el 61% de consumidores consider",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "From Nestlé to Mars: Why Big Food is embracing contract manufacturing",
+      "summary": "Grandes corporaciones de alimentos y bebidas como Nestlé, Kraft Heinz y PepsiCo están adoptando manufacturing bajo contrato como estrategia principal, abandonando el control directo de producción. Est",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Campari pone a la venta cinco marcas para centrarse en Aperol",
+      "summary": "Campari está desinvirtiendo en marcas de ron martiniqués (Trois Rivières, La Mauny, Duquesne) y coñac/tequila (Bisquit & Dubouché, Cabo Wabo) mediante negociaciones con un grupo industrial francés. La",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "DISCUS Is Trying to Boost Spirits Exports. Tariffs Keep Getting In the Way.",
+      "summary": "Trump anuncia aranceles del 50% sobre whisky canadiense, cerveza, vino y otros productos, efectivos desde agosto 19. La medida responde a la remoción de bebidas alcohólicas estadounidenses de estanter",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nuvola Spirits Secures Strategic Investment from United Spirits (Diageo India) - HospiBuz",
+      "summary": "Nuvola Spirits recibió una inversión estratégica de United Spirits (brazo de Diageo en India), lo que representa una apuesta de un gigante global en bebidas espirituosas por fortalecer su portafolio e",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone and Arcor complete Argentina dairy joint venture | FoodBev Media",
+      "summary": "Danone y Arcor completaron su joint venture lácteo en Argentina, integrando el negocio local de Danone con el grupo lácteo Mastellone Hermanos y su subsidiaria logística Logística La Serenísima. La op",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (FEVR) Q4 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "summary": "Fevertree Drinks publicó resultados de Q4 2024, proveedor británico líder de mezcladores premium para bebidas espirituosas. Los resultados trimestrales son críticos para evaluar el desempeño del segme",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (FEVR) Q2 2025 Earnings Report - Results, Call & Slides - TipRanks",
+      "summary": "Fevertree Drinks publicó resultados de Q2 2025, empresa británica líder en mezcladores premium (tónicas, sodas) con fuerte presencia en mercados desarrollados. Los resultados operacionales y financier",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (FEVR) Q2 2023 Earnings Report - Results, Call & Slides - TipRanks",
+      "summary": "Fevertree Drinks reportó resultados del Q2 2023, empresa líder en mixer premium para bebidas espirituosas con presencia global. Los resultados financieros del trimestre son relevantes para entender di",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (FEVR) Q2 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "summary": "Fevertree Drinks, productor premium de bebidas mixers y bebidas funcionales, publicó resultados del Q2 2024. Como empresa cotizada en bolsa con presencia global en el segmento de bebidas de consumo, s",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage shows strong growth but valuation limits upside despite optimistic outlook - Pluang",
+      "summary": "Monster Beverage reportó crecimiento sólido pero enfrenta limitaciones de valoración que restringen el potencial alcista. A pesar de la perspectiva optimista de la compañía, el mercado valúa las accio",
       "companies": [
         "Monster Beverage"
       ],
@@ -2365,7 +2343,7 @@
     },
     {
       "title": "Monster Beverage (MNST) Stock Looks Fully Valued With Rich Cash Flow And Earnings - simplywall.st",
-      "summary": "Monster Beverage muestra valoración completa según análisis de flujo de caja y ganancias, sugiriendo limitado potencial de apreciación bursátil a corto plazo. El desempeño financiero de la compañía es",
+      "summary": "Monster Beverage es evaluada como completamente valuada en el mercado actual, con flujos de efectivo y ganancias robustos que sustentan su posición. El análisis sugiere que el stock ha alcanzado un pr",
       "companies": [
         "Monster Beverage"
       ],
@@ -2376,12 +2354,69 @@
       "region": "Mundial"
     },
     {
-      "title": "Semaglutide cuts heavy drinking days in small alcohol trial",
-      "summary": "Semaglutida, principio activo de Ozempic, mostró reducción significativa en días de consumo intenso de alcohol en un ensayo clínico fase 2, aunque no alcanzó el endpoint primario de medición de antojo",
+      "title": "Monster Beverage Q2 2026 Earnings Preview — August 6, Street Expects $0.58 EPS - AlphaStreet",
+      "summary": "Monster Beverage reportará resultados del Q2 2026 el 6 de agosto con expectativas del street de $0.58 EPS. Como líder global en bebidas energéticas, los resultados de Monster son indicadores clave de ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "‘Weakness’ in Beer ‘Too Much to Overcome’ as Bev-Alc Sales Decline YoY & WoW, per Circana Weekly Scans | Brewbound",
+      "summary": "Circana reporta debilidad sostenida en la categoría de cerveza con caídas de ventas tanto año a año como semana a semana, señalando que el sector enfrenta presiones competitivas difíciles de revertir ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How heatwaves affect what we drink",
+      "summary": "Las olas de calor en Europa impactan directamente los patrones de consumo de bebidas, alterando la demanda de categorías específicas. El clima extremo influye tanto en la oferta (producción de vino af",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kocktail brings RTDs to single serve glass",
+      "summary": "Kocktail, marca británica de cócteles artesanales, lanza vasos de vidrio reutilizables de 100ml en formato single serve para su línea RTD (ready-to-drink), con 20% ABV. Esta innovación de packaging bu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sustainability Snippets: Coffee strategies, Coca-Cola and food waste",
+      "summary": "Los precios del café alcanzaron máximos históricos (US$4,40/libra en febrero 2025), impulsados por presiones climáticas y reducción de oferta global. Coca-Cola y otros actores de bebidas enfrentan urg",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "UK's Coca-Cola Europacific Partners H1 revenue rises on zero sugar drinks - TradingView",
+      "summary": "Coca-Cola Europacific Partners reportó crecimiento en ingresos del primer semestre impulsado por el desempeño de bebidas sin azúcar, reflejando la tendencia global hacia opciones de menor contenido ca",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     }
