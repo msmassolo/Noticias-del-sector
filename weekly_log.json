@@ -1,215 +1,4 @@
 {
-  "2026-07-28": [
-    {
-      "title": "Lucro trimestral da Coca-Cola sobe 16% na comparação com 2025",
-      "summary": "Coca-Cola reportó ganancias de USD 4,42 mil millones en Q2 2026, crecimiento del 16% interanual, con ingresos de USD 13,3 mil millones (+7% YoY). A pesar de un entorno de consumo desafiante, la compañ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PepsiCo transforma sus marcas históricas: Tostitos estrena imagen y Quaker será la siguiente, ¿qué hay detrás del cambio?",
-      "summary": "PepsiCo está ejecutando una transformación estratégica de su portafolio de marcas históricas (Tostitos, Lay's, Quaker) en respuesta a cambios en preferencias del consumidor hacia ingredientes simples,",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Spirits sales up 3% in LVMH H1 as Cognac rebounds",
-      "summary": "LVMH reportó un crecimiento del 3% en ventas de espíritus en el primer semestre de 2026, alcanzando €1.17 mil millones, con Hennessy Cognac liderando la recuperación en China. El segmento de vinos y e",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola World Cup marketing effort scores bigger-than-expected rewards",
-      "summary": "Coca-Cola superó expectativas de mercado en Q2 con crecimiento de ingresos netos del 7% ($13.4bn) impulsado por campaña de marketing global vinculada al Mundial de Fútbol. Powerade logró visibilidad e",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "marketing_innovation",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman Rejects Renewed Sazerac Bid | Brewbound",
-      "summary": "Sazerac presentó una segunda oferta de adquisición a los accionistas de Brown-Forman por USD 15.000 millones luego de que el directorio rechazara la propuesta inicial. Este movimiento representa un es",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Is Splitting Its Stock 2-for-1 on Aug. 11. Here's What a $1,000 Investment Could Be Worth in 5 Years. - Yahoo Finance",
-      "summary": "Monster Beverage ejecutará un split de acciones 2-por-1 el 11 de agosto, reduciendo el precio unitario de sus acciones. Este movimiento refleja la confianza en el desempeño de la compañía y busca mejo",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo Strengthens Beverage Leadership With Tanvi Swami Appointment - Everything Experiential",
-      "summary": "PepsiCo designó a Tanvi Swami en una posición de liderazgo en su división de bebidas, reforzando su estructura ejecutiva estratégica. Este movimiento refleja la apuesta de la compañía por fortalecer l",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jose Cuervo owner’s sales dip 13.9% in Q2",
-      "summary": "Becle, propietaria de Jose Cuervo, Bushmills y 1800 Tequila, reportó una caída de ventas netas del 13.9% en Q2 2026 (5.8% a moneda constante). Los desafíos incluyen cambios de portafolio, contracción ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "“The only way to build a wine is by making fewer bottles than the market needs”",
-      "summary": "Familia Zuccardi, bodega argentina líder, presenta su estrategia de escasez controlada y diferenciación en el mercado premium internacional a través de la plataforma La Place en Londres. La empresa po",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus - Yahoo Finance Singapore",
-      "summary": "Monster Beverage figura en un análisis de valor de inversión del portal Yahoo Finance, indicando seguimiento por analistas especializados. La inclusión en estos reportes refleja volatilidad de precios",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FORM Launches AI POSM Recognition, Giving Food & Beverage Brands Instant Visibility Into In-Store Displays and Promotions",
-      "summary": "FORM lanzó capacidades de reconocimiento de POSM (materiales de punto de venta) impulsadas por IA que detectan automáticamente exhibiciones, cumplimiento de campañas y datos de precios durante visitas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Creator-Led Beverage Brand JAZ Energy Sells Out Second Flavor as Founders Prepare Third Launch",
-      "summary": "JAZ Energy, marca de bebidas energéticas fundada por creadores de contenido (hermanos Mann), agotó su segundo sabor (Sweet Static) demostrando tracción en el segmento de energy drinks en rápido crecim",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Coca-Cola Company Announces Significant Progress in Restoring fairlife Operations Following Technology Disruption - investors.coca-colacompany.com",
-      "summary": "The Coca-Cola Company reporta avances significativos en la restauración operacional de fairlife tras una interrupción tecnológica. fairlife es una marca premium de lácteos de alto valor para The Coca-",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Wipeout Beverages Launches Functional Ready-to-Drink Tea Brand",
-      "summary": "Wipeout Beverages lanza marca de té funcional listo para beber en verano 2026 con tres sabores base (té dulce, limonada + té, té negro sin azúcar), posicionándose en el segmento de bebidas funcionales",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "7-Eleven introduces 7-Select Soda",
-      "summary": "7-Eleven lanzó 7-Select Soda, una nueva línea de bebidas bajo su marca privada disponible en más de 13,000 locales en EE.UU. (7-Eleven, Speedway y Stripes). La estrategia refuerza el portafolio de beb",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Grupo Modelo levanta en Hidalgo una de sus mayores plantas cerveceras",
-      "summary": "Grupo Modelo (AB InBev) invierte 760 millones de dólares en una nueva megaplanta cervecera en Hidalgo, México, con capacidad de 12 millones de hectolitros anuales. El proyecto se inserta en el plan de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman Shuts Down Sazerac Bid Again - BevNET.com",
-      "summary": "Sazerac ha presentado una nueva oferta de adquisición por USD 15.000 millones para Brown-Forman tras rechazar su junta directiva la propuesta inicial meses atrás. Este movimiento representa un intento",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman Turns Down Sazerac Acquisition Offer | Jack Daniel's Owner - News and Statistics - IndexBox",
-      "summary": "Brown-Forman rechazó una oferta de adquisición de Sazerac, consolidando su independencia como uno de los mayores productores de bebidas espirituosas globales. La decisión implica que Jack Daniel's, su",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Riboli Family Wines Hugo Spritz",
-      "summary": "Riboli Family Wines lanza Hugo Spritz bajo su marca Spritz Del Conte, expandiendo su portafolio de cócteles listos para servir. La compañía capitaliza la creciente demanda de spritz con un producto pr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-07-29": [
     {
       "title": "Mundial 2026 impulsa ventas de Coca-Cola FEMSA pese a retos de consumo en México - La Region Tamaulipas",
@@ -2410,6 +2199,569 @@
     {
       "title": "UK's Coca-Cola Europacific Partners H1 revenue rises on zero sugar drinks - TradingView",
       "summary": "Coca-Cola Europacific Partners reportó crecimiento en ingresos del primer semestre impulsado por el desempeño de bebidas sin azúcar, reflejando la tendencia global hacia opciones de menor contenido ca",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-08-05": [
+    {
+      "title": "Lucro da Coca-Cola HBC sobe 11,5% no 1º semestre, impulsionado por maiores volumes",
+      "summary": "Coca-Cola HBC reportó un crecimiento de 11,5% en ganancias netas durante el primer semestre, impulsado por el incremento de volúmenes de venta. Este resultado evidencia recuperación en demanda post-pa",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo is transforming its historic brands: Tostitos has a new look and Quaker will be next, what’s behind the change?",
+      "summary": "PepsiCo está rediseñando su portafolio de marcas históricas, comenzando con Tostitos y Lay's, con Quaker próximo en la transformación. El cambio responde a la demanda creciente de consumidores por ing",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Heineken: Lucro líquido sobe 10% no 2º trimestre, para 1,26 bilhão de euros",
+      "summary": "Heineken reportó crecimiento de 10% en ganancias netas en Q2 (€1,26 mil millones), reafirmando sus proyecciones anuales. El desempeño fue impulsado por aceleración en volumen de ventas, con particular",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola será más cara: Femsa confirma aumentos en los precios de los refrescos",
+      "summary": "Coca-Cola Femsa implementó aumentos de precios entre 1 y 5 pesos en México (centro, Bajío y sureste) a partir del 4 de agosto, justificados por incrementos en costos de producción. La medida está gene",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola FEMSA amplia receita em 4,7% no segundo trimestre e Brasil registra volume recorde - SuperVarejo",
+      "summary": "Coca-Cola FEMSA reportó crecimiento de ingresos de 4,7% en el segundo trimestre, con Brasil registrando volúmenes récord. Este desempeño en el mayor mercado de la región es estratégico para la industr",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Sam’s Club supera a Bodega Aurrera y Walmart: el formato de membresía lidera el crecimiento de Walmex",
+      "summary": "Sam's Club, formato de membresía de Walmex, superó el crecimiento de Bodega Aurrera y Walmart en México. El desempeño se sustenta en tres pilares: captación de nuevos socios, renovación de membresías ",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Campari profits fall despite stronger outlook for 2026",
+      "summary": "Davide Campari-Milano reportó caída de ganancias en el primer semestre 2026 (€129M vs €206M) pese a crecimiento orgánico de ventas. El grupo de bebidas espirituosas mejoró su outlook de márgenes para ",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Under Sazerac, Minute Maid Spiked Chases Hard Tea's Shift To Spirits | Brewbound",
+      "summary": "Minute Maid Spiked lanza Vodka Lemonade Iced Tea, su primer producto en la categoría de hard iced tea, bajo la distribución de Sazerac en colaboración con Red Tree Beverages (subsidiaria de bebidas al",
+      "companies": [
+        "The Coca-Cola Company",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Union says Diageo ‘steam-rolling’ through job cuts",
+      "summary": "Diageo enfrenta críticas sindicales por su reestructuración global que afecta 172 empleados de destilerías escocesas, con 38 redundancias confirmadas en Highlands e Islands. El sindicato GMB Scotland ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nuvola Spirits Secures Strategic Investment from United Spirits (Diageo India)",
+      "summary": "Nuvola Spirits recibió inversión estratégica de United Spirits Limited (Diageo India), acelerando su crecimiento en el segmento premium de bebidas espirituosas. La empresa, detrás de marcas como Mikia",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Southwest Distributor Hensley Beverage Appoints New President; Andy McCain Remains CEO - BevNET.com",
+      "summary": "Hensley Beverage, distribuidor independiente de AB InBev con sede en Phoenix, Arizona, promocionó a su COO Omar Perez a presidente, mientras Andy McCain se mantiene como CEO. Este cambio refleja una r",
+      "companies": [
+        "Arizona Beverages",
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Innovations win strong first half for Coca-Cola Europacific Partners",
+      "summary": "Coca-Cola Europacific Partners reportó crecimiento en el primer semestre impulsado por innovación en bebidas zero-azúcar y energy drinks. Monster lideró el desempeño con expansión de línea de sabores,",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr scores ‘own goal’ in distribution mishap",
+      "summary": "AG Barr reportó una pérdida de aproximadamente £10m por un error de distribución que redujo su precio de acción en 6,7%, a pesar de ingresos del primer semestre de £246m (+8% YoY). La compañía complet",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken introduces UK regenerative agriculture initiative to support sustainability goals",
+      "summary": "Heineken comprometió que casi el 50% de la cebada malteada de su portafolio global (incluyendo marcas como Birra Moretti, Foster's y Cruzcampo) provendrá de prácticas de agricultura regenerativa para ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken cuts around 3,000 jobs as productivity drive delivers profit growth | FoodBev Media",
+      "summary": "Heineken redujo su plantilla en ~3,000 empleados equivalentes a tiempo completo en H1 2026 como parte de un programa de simplificación organizacional y mejora de productividad. Esta iniciativa refleja",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "More than £374 million wiped off Endeavour Group profits",
+      "summary": "Endeavour Group, importante distribuidor y productor de bebidas alcohólicas en Australia, reportará una caída dramática de ganancias de AU$426m a AU$52m en 2026 tras la reestructuración anunciada por ",
+      "companies": [
+        "Endeavour Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Looks Fully Valued With Rich Cash Flow And Earnings - simplywall.st",
+      "summary": "Monster Beverage presenta valorización completa según análisis de flujo de caja y ganancias, indicando que el stock podría estar reflejando plenamente su desempeño operativo actual. La empresa mantien",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "La alianza con Moët Hennessy lastra cada vez más las cuentas de Diageo",
+      "summary": "Diageo, líder global de destilados, enfrenta deterioro en su alianza conjunta con Moët Hennessy, que genera cada vez menos contribución a sus resultados financieros. El nuevo CEO Dave Lewis evalúa el ",
+      "companies": [
+        "Diageo",
+        "LVMH Wines & Spirits"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "From Nestlé to Mars: Why Big Food is embracing contract manufacturing",
+      "summary": "Grandes empresas de alimentos y bebidas como Nestlé, Kraft Heinz y PepsiCo están adoptando la manufactura por contrato como estrategia primaria, desviándose de su modelo histórico de control directo d",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo flags major gap in women’s sports nutrition",
+      "summary": "PepsiCo identifica una brecha estratégica en nutrición deportiva para mujeres: solo el 6% de la investigación en ciencias del deporte se enfoca en este segmento, dejando a atletas femeninas desatendid",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "DISCUS Is Trying to Boost Spirits Exports. Tariffs Keep Getting In the Way.",
+      "summary": "Trump anunció un arancel del 50% sobre whisky canadiense, cerveza, vino y otros productos, vigente desde agosto 19, como represalia por la remoción de bebidas alcohólicas estadounidenses en provincias",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "‘Weakness’ in Beer ‘Too Much to Overcome’ as Bev-Alc Sales Decline YoY & WoW, per Circana Weekly Scans | Brewbound",
+      "summary": "La categoría cervecera enfrenta una debilidad significativa con caídas de ventas tanto interanuales como semanales, según los escaneos semanales de Circana. El análisis sugiere que estos desafíos son ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage Co expected to post earnings of $1.51 a share - Earnings Preview - TradingView",
+      "summary": "Molson Coors reportará ganancias esperadas de $1.51 por acción en su próximo período, según proyecciones de mercado. Este resultado es relevante para monitorear el desempeño financiero de uno de los p",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Slight improvement for Viña Concha y Toro despite Q2 sales dip – results data - Global Drinks Intel",
+      "summary": "Viña Concha y Toro reportó una caída de ventas en Q2, aunque con ligera recuperación respecto a períodos anteriores. Como uno de los principales productores de vino sudamericanos, sus resultados refle",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Semaglutide cuts heavy drinking days in small alcohol trial",
+      "summary": "Un ensayo clínico fase 2 mostró que la semaglutida (principio activo de Ozempic) reduce significativamente los días de consumo excesivo de alcohol en pacientes con trastorno por uso de alcohol, aunque",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "【Yakult Honsha FY2026 Q1 Earnings Call】Domestic Dairy Sales Drop 8% Offset by Overseas Growth; Policy Share Sales of ¥5.2 Billion Boost Net Profit by ¥1.9 Billion - finance.biggo.com",
+      "summary": "Yakult Honsha reportó caída de 8% en ventas de lácteos domésticos en Q1 FY2026, compensada por crecimiento en mercados internacionales. La empresa realizó ventas de acciones por ¥5.2 mil millones que ",
+      "companies": [
+        "Yakult Honsha"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Earnings To Watch: Keurig Dr Pepper (KDP) Reports Q2 Results Tomorrow - FinancialContent",
+      "summary": "Keurig Dr Pepper reportará resultados de Q2 mañana. KDP es un jugador estratégico en la industria de bebidas con operaciones significativas en café (Keurig) y bebidas carbonatadas (Dr Pepper), relevan",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Walmart dice adiós al Martes de Frescura y así funcionará su nueva estrategia de precios",
+      "summary": "Walmart reemplaza el tradicional Martes de Frescura por un modelo de precios permanentes, marcando un giro estratégico en su política comercial en Argentina. Este cambio impacta directamente la dinámi",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "BACARDÍ Opens the Doors to Its Aging Warehouses to the General Public for the First Time as It Expands Rum-Aging Capacity",
+      "summary": "Bacardí invierte en nuevas instalaciones de envejecimiento de ron en Puerto Rico y abre por primera vez sus bodegas al público general, celebrando 90 años de operaciones en la isla. La inversión multi",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mitra9 Expands National Availability with Walmart.com Launch",
+      "summary": "Mitra9, empresa de bebidas funcionales premium con mitragina y kava, expandió su disponibilidad nacional al lanzarse en Walmart.com. Este acuerdo con una de las mayores plataformas minoristas del mund",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken helps pave the way for regenerative farming to prosper in the UK",
+      "summary": "Heineken lanzó un programa de cebada de malta regenerativa en el Reino Unido en asociación con Muntons, Boortmalt, Cefetra y Soil Capital, pagando premios directos a agricultores que adopten prácticas",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken UK launches regenerative agriculture initiative",
+      "summary": "Heineken UK implementará prácticas de agricultura regenerativa para su cadena de suministro de cebada malteada, comprometiéndose a sourcing del 50% de volumen desde productores certificados para 2025.",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Heads Into Q2 Earnings, Is The Valuation Already Too Rich? - Yahoo Finance UK",
+      "summary": "Monster Beverage se prepara para reportar resultados de Q2 con cuestionamientos sobre su valuación actual. El análisis examina si el precio de las acciones refleja adecuadamente el desempeño esperado,",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr warns of £10m revenue hit from supply chain issues, shares slide - Sharecast.com",
+      "summary": "AG Barr, fabricante británico de bebidas, advierte sobre un impacto negativo de £10 millones en ingresos debido a problemas en la cadena de suministro, lo que causó una caída en el precio de sus accio",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "financial_results",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Concha y Toro mejora sus ganancias trimestrales, pese a baja en ventas - La Tercera",
+      "summary": "Concha y Toro, principal productor vitivinícola de Chile, reportó mejora en ganancias trimestrales a pesar de contracción en ventas, indicando optimización de márgenes y eficiencia operacional. Este m",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Concha y Toro baja ganancias en el primer semestre y acusa golpe de menores ventas en EEUU - Diario Financiero",
+      "summary": "Concha y Toro, principal productor vitivinícola chileno, reportó caída de ganancias en H1 impulsada principalmente por contracción de ventas en Estados Unidos, su mercado de exportación más relevante.",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Abelha Cachaça joins Speciality Brands",
+      "summary": "Abelha Cachaça, destilería orgánica brasileña, designó a Speciality Brands (Londres) como distribuidor exclusivo en Reino Unido para expandir su presencia en canales on-trade y off-trade con sus expre",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El verano multiplica las ocasiones de consumo sin elevar el alcohol ingerido",
+      "summary": "El verano está redistribuyendo patrones de consumo de bebidas alcohólicas sin aumentar el volumen total ingerido. Se observa una multiplicación de ocasiones de consumo (vacaciones, actividades al aire",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Australian drinks associations push for excise reform after major tax increase",
+      "summary": "Australia implementó un aumento significativo en los impuestos de accisas sobre bebidas alcohólicas (RTDs y destilados), elevando la tasa a $110.15 AUD por litro, lo que representa aproximadamente $30",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "FSSAI bans select Diageo & Inbrew spirits over flavouring concerns - Social Samosa",
+      "summary": "La autoridad regulatoria de seguridad alimentaria de India (FSSAI) prohibió productos de espíritus de Diageo e Inbrew por problemas en sus agentes saborizantes. Esta acción regulatoria impacta directa",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Could Today’s Market Mood Put Fevertree Drinks (LSE:FEVR) Under a Sharper Lens? - Kalkine Media",
+      "summary": "Fevertree Drinks, cotizada en LSE, enfrenta posibles presiones de mercado que podrían intensificar el escrutinio de inversores sobre su desempeño. La compañía, líder global en bebidas mixers premium, ",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Australia warned of ‘black-market alternatives’ after latest spirits excise rise",
+      "summary": "Australia implementó un nuevo incremento en el impuesto a destilados, alcanzando AU$110,15 por litro de alcohol puro, el más alto fuera de países nórdicos. El sistema de ajuste automático semestral de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Could Minnesota’s THC drinks industry have been saved?",
+      "summary": "Minnesota obtuvo una prórroga para su industria de bebidas con THC tras la aprobación de un proyecto de ley en el Senado estadounidense que financia el gobierno hasta diciembre 11 y difiere nuevas reg",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "My Wife Drinks Celsius: Top Defensive, Value, Growth Pick Rolled Into One (NASDAQ:CELH) - Seeking Alpha",
+      "summary": "Análisis de inversión sobre Celsius Energy Drink (NASDAQ:CELH) que la posiciona como una opción atractiva combinando características defensivas, de valor y crecimiento. La noticia refleja el interés d",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Minute Maid Spiked expands RTD range with vodka lemonade iced tea | FoodBev Media",
+      "summary": "Minute Maid Spiked lanzó una nueva bebida alcohólica lista para consumir en EE.UU.: Vodka Lemonade iced tea con 5% de alcohol. El movimiento refleja la estrategia de expansión de la marca en el segmen",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Minute Maid Spiked expands lineup",
+      "summary": "Minute Maid Spiked lanza Vodka Lemonade Iced Tea, expandiendo su portafolio de bebidas alcohólicas ready-to-drink para el verano. El producto combina vodka con limón y té helado, posicionándose en el ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Minute Maid Spiked Enters Hard Tea - BevNET.com",
+      "summary": "Minute Maid Spiked lanza una bebida alcohólica tipo Vodka Lemonade Iced Tea, ampliando su portafolio en el segmento de bebidas alcohólicas. Sazerac asume la distribución en alianza con Red Tree Bevera",
+      "companies": [
+        "The Coca-Cola Company",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sustainability Snippets: Coffee strategies, Coca-Cola and food waste",
+      "summary": "Los precios del café arábica alcanzaron máximos históricos de US$4,40 por libra en febrero de 2025, reflejando presiones de cambio climático, volatilidad de ingresos para productores y riesgos de resi",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "UK's Coca-Cola Europacific Partners H1 revenue rises on zero sugar drinks - TradingView",
+      "summary": "Coca-Cola Europacific Partners reportó crecimiento en ingresos del primer semestre impulsado por la categoría de bebidas sin azúcar, reflejando la tendencia global hacia productos más saludables. Este",
       "companies": [
         "The Coca-Cola Company",
         "Coca-Cola Europacific Partners"
