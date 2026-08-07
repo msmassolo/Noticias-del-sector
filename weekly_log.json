@@ -1,325 +1,4 @@
 {
-  "2026-07-30": [
-    {
-      "title": "Tomó una botella de Coca-Cola, se intoxicó, sufrió gastroenteritis aguda y será indemnizado",
-      "summary": "Un tribunal argentino ordenó a una embotelladora local indemnizar a un consumidor de La Plata por intoxicación y gastroenteritis aguda tras consumir una botella de Coca-Cola. La sentencia establece re",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Volume de não alcoólicos da Ambev cai 4,4%, com descontinuação de canais de baixo retorno",
-      "summary": "Ambev reportó una caída de 4,4% en volumen de bebidas no alcohólicas en Brasil (Q2), alcanzando 7,615 millones de hectolitros, producto de la descontinuación estratégica de canales de bajo retorno. La",
-      "companies": [
-        "PepsiCo",
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev teve salto de 5% no volume de cerveja no Brasil, com força do premium e Copa",
-      "summary": "Ambev registró un crecimiento del 5% en volumen de cerveza en Brasil durante Q2, alcanzando 21,034 millones de hectolitros, impulsado por el segmento premium y la demanda incremental generada por la C",
-      "companies": [
-        "AB InBev",
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "AB InBev tem alta de 5,8% no Ebitda no 2º trimestre em base anual, para US$ 5,94 bilhões",
-      "summary": "AB InBev registró un crecimiento del EBITDA de 5,8% interanual en Q2 2024, alcanzando US$ 5.940 millones, impulsado por incremento en volúmenes de venta, ingresos y ganancias. La empresa reafirmó sus ",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Lucro da Ambev cresce 24,5% no 2º trimestre, para R$ 3,474 bilhões",
-      "summary": "Ambev reportó un crecimiento del lucro neto del 24,5% en Q2 2026 (R$ 3.474 mil millones vs. R$ 2.790 mil millones en Q2 2025), demostrando expansión significativa de márgenes operacionales. La receita",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev aprova o pagamento de R$ 1,1 bi em juros sobre capital próprio",
-      "summary": "Ambev aprobó el pago de R$ 1.100 millones en juros sobre capital propio (R$ 0,07 por acción) correspondientes al segundo trimestre, remunerando a accionistas registrados hasta el 21 de septiembre. Est",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev (ABEV3) frustra projeções no 2º tri, apesar de lucro forte; ação tem queda",
-      "summary": "Ambev reportó resultados del Q2 2026 con crecimiento de volúmenes y expansión de márgenes, pero ingresos y Ebitda por debajo de las proyecciones del mercado, generando una caída de 2,83% en las accion",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Investment and innovation boost AB InBev sales",
-      "summary": "AB InBev reportó crecimiento de ingresos del 5.6% y volumen de cerveza del 1.1% en Q2 2026, con máximos históricos en México, Colombia y Ecuador. Brasil retornó al crecimiento volumétrico mientras que",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari H1 sales up 2.7% as it divests brands",
-      "summary": "Campari Group reportó crecimiento orgánico de 2.7% en ventas H1 2026 (€1.51 mil millones), impulsado por fuerte desempeño en aperitivos, mejorando significativamente respecto al 0.1% de H1 2025. El gr",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cognac raises hopes for Rémy Cointreau in Q1",
-      "summary": "Rémy Cointreau registró ventas de €223.2 millones en Q1 2026-27 con crecimiento orgánico de 1.3%, recuperándose del estancamiento del año fiscal anterior (0.2%). Su división de Cognac mostró un desemp",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone reaps rewards of health-focused strategy",
-      "summary": "Danone reportó crecimiento de ventas en el primer semestre con incremento del 3,5% en base comparable, alcanzando €13,9bn, impulsado por su estrategia de portafolio orientado a salud. El desempeño pos",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "RNDC’s Unpaid Tab, Craft’s Mid-Year Number and Boston Beer’s Rally Dog",
-      "summary": "RNDC, el mayor distribuidor independiente de bebidas en EE.UU., presentó quiebra bajo Capítulo 11 con pasivos entre $1-10 mil millones y más de 100,000 acreedores. Este evento impacta directamente la ",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "2 Reasons AB InBev Stock Is Dropping After Bud Light Brewer’s Earnings Beat - Barron's",
-      "summary": "AB InBev reportó resultados que superaron expectativas, pero su cotización cayó por preocupaciones estratégicas más amplias. Los inversores cuestionan la capacidad de recuperación de marcas clave como",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage to report Q2 2026 earnings on August 6 with CEO call at 2 p.m. PT - Pluang",
-      "summary": "Monster Beverage reportará sus resultados del Q2 2026 el 6 de agosto con llamada de CEO a las 2 p.m. PT. Este evento es clave para monitorear la performance financiera y estratégica de uno de los prin",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "AB InBev’s premium strategy pays off globally, but SA buys less beer - Business Day",
-      "summary": "AB InBev experimenta resultados positivos en su estrategia premium a nivel global, pero enfrenta desafío en Sudáfrica con caída en volumen de consumo de cerveza. El desempeño diferenciado entre mercad",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Wee Smoky RTDs aim to shift whisky perceptions",
-      "summary": "Wee Smoky, marca de whisky escocés, lanzó una línea de cócteles RTD (ready-to-drink) en asociación con el bartender Jack Sotti para expandir la base de consumidores de whisky. La estrategia apunta a c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg Azerbaijan to become the bottler of PepsiCo in Azerbaijan (PHOTO) - trend.az",
-      "summary": "Carlsberg Azerbaijan asumirá como embotellador de PepsiCo en Azerbaiyán, representando un cambio estratégico en la distribución de bebidas no alcohólicas en la región. Esta alianza permite a Carlsberg",
-      "companies": [
-        "PepsiCo",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Webinar offers chance to buy Polish distillery",
-      "summary": "La destilería polaca centenaria Starka, productora del reconocido vodka de centeno envejecido, se encuentra en venta. Los actuales propietarios realizarán un webinario en agosto para presentar la opor",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Renaissance Technologies LLC Acquires 11,100 Shares of The Boston Beer Company, Inc. $SAM - MarketBeat",
-      "summary": "Renaissance Technologies LLC incrementó su posición accionaria en The Boston Beer Company ($SAM) con la adquisición de 11,100 acciones. Este movimiento del fondo de inversión cuantitativo indica confi",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "New bill prevents price hikes for Michigan spirits",
-      "summary": "Michigan aprobó la ley SB 604 que limita las tarifas que los proveedores de destilados deben pagar a los Agentes de Distribución Autorizados (ADAs), reduciendo costos operativos en la cadena de distri",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo Rides Global Volume Growth as North American Demand Slows - The Globe and Mail",
-      "summary": "PepsiCo experimenta crecimiento en volumen global impulsado por mercados emergentes, mientras enfrenta desaceleración en la demanda de América del Norte. Este patrón refleja una reconfiguración estrat",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Estas son las 50 marcas mexicanas más valiosas según Brand Finance 2026: Lista completa",
-      "summary": "Brand Finance publicó el ranking 2026 de las 50 marcas mexicanas más valiosas, liderado por Corona Extra y Modelo Especial, consolidando el dominio de bebidas alcohólicas en la valuación de marcas mex",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Campari sells two spirit brands to Dublin-based Cobblestone | FoodBev Media",
-      "summary": "Campari Group desinvierte dos marcas de espíritus premium: Bisquit & Dubouché (coñac) y Cabo Wabo (tequila), vendiéndolas a Cobblestone Brands, empresa irlandesa especializada en espíritus premium. La",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari Group offloads Bisquit & Dubouché and Cabo Wabo - Drinks International",
-      "summary": "Campari Group vende las marcas de coñac Bisquit & Dubouché y tequila Cabo Wabo a Cobblestone Brands (Irlanda) por monto no revelado, con cierre esperado en octubre 2026. La desinversión responde a la ",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage to Report Financial Results for 2026 Second Quarter on August 6, 2026 - GlobeNewswire",
-      "summary": "Monster Beverage anunciará resultados financieros del segundo trimestre de 2026 el 6 de agosto de 2026. Esta noticia es relevante para seguimiento de desempeño de competidor clave en el segmento de be",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "AmBev (ABEV3) | Revisão dos resultados do 2T26: comps entregues: volume de Cerveja Brasil +5% (= XPe) - XP Investimentos",
-      "summary": "AmBev reportó en Q2 2026 un crecimiento de volumen de cerveza en Brasil del +5%, en línea con las expectativas de XP Investimentos. Este resultado refleja la performance operativa de la mayor cervecer",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev (ABEV3) bate expectativa do mercado e lucro avança 24,5% no 2T26, a R$ 3,47 bilhões - Money Times",
-      "summary": "Ambev, principal competidor regional, reportó ganancia neta de R$ 3.47 mil millones en Q2 2026, superando expectativas del mercado con crecimiento de 24.5% interanual. Este desempeño de la mayor empre",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ambev supera expectativas no 2TRI26, mas BTG vê espaço para resultados mais robustos - EuQueroInvestir",
-      "summary": "Ambev superó las expectativas en el segundo trimestre de 2026, aunque el análisis de BTG Pactual identifica margen para resultados aún más sólidos. La noticia es relevante porque Ambev es el mayor pro",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    }
-  ],
   "2026-07-31": [
     {
       "title": "Yakult Morango é a última novidade da marca",
@@ -2790,6 +2469,375 @@
       "segments": [
         "consumer_market_trends",
         "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-08-07": [
+    {
+      "title": "El dueño de Johnnie Walker tomó una decisión que cambiará el rumbo de la compañía",
+      "summary": "Diageo, propietaria de Johnnie Walker, implementa una estrategia integral de recortes y reorganización para adaptarse a un mercado de bebidas alcohólicas cada vez más competitivo. La decisión incluye ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Celsius rocked by earnings miss as Pepsi shift backfires",
+      "summary": "Celsius Holdings reportó resultados por debajo de expectativas en Q2, con caída de cotización accionaria. El desempeño negativo se atribuye a dificultades en la integración de sus marcas (Celsius, Ala",
+      "companies": [
+        "PepsiCo",
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Ball CEO: Beer ‘an Important Category’ But ‘Not Our Only Category’ | Brewbound",
+      "summary": "Ball Corporation, principal fabricante de envases de aluminio, reporta que la cerveza sigue siendo una categoría importante pero ya no es su mayor fuente de ingresos. El CEO Ronald Lewis destaca que l",
+      "companies": [
+        "Ball Corporation"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Innovation drives growth at Campari, Coca-Cola and AG Barr despite market challenges",
+      "summary": "Campari Group reportó resultados del primer semestre 2026 con ventas netas orgánicas de €1.5bn (-1% vs 2025), en un contexto de desafíos macroeconómicos agravados por conflictos geopolíticos. La compa",
+      "companies": [
+        "The Coca-Cola Company",
+        "AG Barr",
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken USA Volume Down ‘High-Single-Digit,’ Lagunitas Gains Share; Shareholders Approve New CEO | Brewbound",
+      "summary": "Heineken USA experimentó una caída de volumen en rango de 'altos dígitos simples' en Q2, reflejando debilidad en el mercado cervecero estadounidense. La filial Lagunitas ganó participación de mercado ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors ‘Not Satisfied’ With Share Performance, But Maintains FY26 Guidance Despite Q2 Losses | Brewbound",
+      "summary": "Molson Coors reportó pérdidas aceleradas año a año en Q2, principalmente por desaceleración en sus marcas cerveceras core, pero mantiene su guidance para FY26 sin cambios. La compañía enfrenta presión",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Michelob Ultra desplaza a Bud Light como prioridad comercial de AB InBev en Estados Unidos",
+      "summary": "AB InBev está reorientando su inversión publicitaria en EE.UU. desde Bud Light hacia Michelob Ultra, reflejando cambios estructurales en el mercado de cervezas. Bud Light proyecta caer de 15,8 a 12,7 ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "financial_results",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr share price slumps as distribution error hits sales",
+      "summary": "AG Barr, fabricante escocés de bebidas, reportó una caída de 8% en su cotización tras revelar que un error de distribución (inventario extraviado) impactó aproximadamente £10M en ventas durante el pri",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper Sees Double-Digit Growth In Beverages, But U.S. Coffee Sales Slip - BevNET.com",
+      "summary": "Keurig Dr Pepper logró crecimiento de dos dígitos en bebidas con alzas de volumen (+6.5%) y precios (+3.5%), mientras prepara la separación de su división de café como compañía independiente cotizada.",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Peligran 172 empleos en las destilerías escocesas de Diageo por su reestructuración",
+      "summary": "Diageo anuncia reestructuración en Reino Unido con riesgo para 172 empleos en destilerías escocesas (Cardhu, Cragganmore, Dufftown y otras), con potencial pérdida de 38 posiciones (22,1%). Este movimi",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "#WeekInPictures: Bacardí opens ageing warehouses as Clarkson’s pie collaboration lands",
+      "summary": "Bacardí invirtió millones en su destilería de Puerto Rico e inauguró por primera vez sus bodegas de envejecimiento al público mediante la experiencia Maestro's Walk de 90 minutos. La iniciativa respon",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "China inicia la cancelación de la licencia cervecera de Budweiser en Ningbo",
+      "summary": "AB InBev enfrenta la cancelación de la licencia de producción de Budweiser en Ningbo, China, tras su vencimiento el 1 de agosto. La Administración de Supervisión del Mercado inició procedimiento de re",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage earnings in focus as growth faces valuation test By Investing.com - Investing.com Canada",
+      "summary": "Monster Beverage enfrenta un análisis crítico de sus resultados financieros en un contexto donde su crecimiento debe justificar su valuación actual. Como líder en bebidas energéticas, sus métricas de ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Tequila and baijiu weigh on Diageo as FY sales dip – results data - Global Drinks Intel",
+      "summary": "Diageo, el mayor grupo de bebidas alcohólicas del mundo, reportó caída en ventas fiscales impulsada por desempeño débil en tequila y baijiu (destilado chino). Este resultado refleja presión en segment",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Earnings call transcript: Monster Beverage tops Q2 2026 forecasts as sales hit record - Investing.com",
+      "summary": "Monster Beverage reportó resultados de Q2 2026 que superaron las previsiones analistas con ventas récord. Este desempeño refleja la consolidación de Monster como líder global en bebidas energéticas y ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo Expects Flat Sales in Fiscal 2027 with $1B Cost Savings Plan - Global Banking & Finance Review",
+      "summary": "Diageo, líder global en bebidas alcohólicas, proyecta crecimiento plano de ventas para el ejercicio fiscal 2027 mientras implementa un plan de ahorro de costos por USD 1.000 millones. Esta estrategia ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stock Market Today, Aug. 6: Celsius Whiffs on Q2 Earnings, Shares Tumble 18% - The Globe and Mail",
+      "summary": "Celsius Energy Drink reportó resultados de Q2 por debajo de expectativas, generando una caída del 18% en el precio de sus acciones. Como competidor directo en el segmento de bebidas energéticas de alt",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken recortó 3.000 puestos de trabajo en seis meses",
+      "summary": "Heineken ejecuta su plan de reducción de costos con mayor velocidad: ya eliminó 3.000 puestos en el primer semestre de 2026 (50-60% del objetivo de 5.000-6.000 en dos años). Esta reestructuración acel",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors earnings up next as supply chain issues test brewer - Investing.com UK",
+      "summary": "Molson Coors enfrenta presiones en su cadena de suministro mientras reporta sus resultados financieros próximos. Las disrupciones logísticas representan un desafío clave para la rentabilidad de uno de",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors looks beyond beer as sales slide continues",
+      "summary": "Molson Coors enfrenta caída sostenida en ventas, volúmenes y ganancias, impulsando una estrategia de diversificación hacia categorías más allá de cerveza para capturar nuevos gustos de consumo. La com",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken gana terreno en China con un avance cercano al 30%",
+      "summary": "Heineken logró un crecimiento del 30% en volumen durante H1 2026 en China a través de sus marcas Heineken Original, Heineken Silver y Amstel, operadas en asociación con China Resources Beer. El avance",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "[TAP Q2 2026 Earnings Call] Molson Coors Profit Dives 27.8% as Iran Energy Shock Adds $40M in Aluminum Costs, but Guidance Stays - finance.biggo.com",
+      "summary": "Molson Coors reportó caída de ganancias del 27.8% en Q2 2026, impactada por un shock energético en Irán que incrementó costos de aluminio en $40M. A pesar del deterioro operativo significativo, la com",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Earnings call transcript: CCU posts Q2 2026 revenue beat as loss widens By Investing.com - Investing.com India",
+      "summary": "CCU reportó ingresos superiores a las expectativas en Q2 2026, pero amplió sus pérdidas operativas. Este resultado es crítico para los competidores regionales, ya que CCU es el principal jugador en be",
+      "companies": [
+        "CCU",
+        "CCU"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper Posts Strong Revenue Growth for Q2 2026, Beats on EPS - AlphaStreet",
+      "summary": "Keurig Dr Pepper reportó un crecimiento sólido de ingresos en Q2 2026 y superó expectativas en ganancias por acción. La compañía, uno de los mayores productores de bebidas en América del Norte con mar",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Brewing (TAP) Surpasses Q2 Earnings and Revenue Estimates - Yahoo Finance",
+      "summary": "Molson Coors Brewing superó estimaciones de ganancias e ingresos en Q2, demostrando fortaleza operativa en un mercado cervecero competitivo. Este desempeño es relevante como benchmark de competidor gl",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "What are the three trends driving non-alcoholic beverages?",
+      "summary": "ADM publicó un informe de tendencias en bebidas no alcohólicas que identifica tres tendencias clave sobre qué, cuándo y en qué ocasiones los consumidores beben. El estudio abarcó nueve países incluyen",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo unveils $1.2bn restructuring plan as sales decline hits North America and Asia Pacific",
+      "summary": "Diageo, propietaria de marcas globales como Guinness y Johnnie Walker, anunció un plan de reestructuración de $1.200 millones ante caída de ventas en América del Norte y Asia Pacífico. Las ventas neta",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Celsius’ Core Brand Stumbles as Multi-Energy Strategy Gains Momentum - BevNET.com",
+      "summary": "Celsius Holdings enfrenta un desempeño débil en su marca core de bebidas energéticas, pero lo compensa con un crecimiento sólido en sus marcas complementarias Alani Nu y Rockstar Energy. La estrategia",
+      "companies": [
+        "PepsiCo",
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nashville Sweet Tea Co. Adds Sugar-Free Southern Sweet Tea to Chain and Grocery Distribution Across Tennessee",
+      "summary": "Nashville Sweet Tea Co. lanzó una versión sin azúcar de su té dulce estrella, expandiendo su portafolio a cinco SKU disponibles en distribución retail y tiendas de abarrotes en Tennessee. La innovació",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jamieson Wellness to be acquired by Japanese food, beverage, pharmaceutical business Kirin Holdings in $2.5B deal - 🇨🇦 Grocery Business Canada",
+      "summary": "Kirin Holdings, conglomerado japonés de alimentos, bebidas y farmacéuticos, adquiere Jamieson Wellness por USD 2.5 mil millones. La operación fortalece la presencia de Kirin en el segmento de salud y ",
+      "companies": [
+        "Kirin Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BeatBox Is Turning Anheuser-Busch into a Top ‘Wine’ Seller",
+      "summary": "Anheuser-Busch ha logrado posicionarse como un vendedor importante de 'vino' a través de BeatBox, su marca de wine cocktails premezclados. Esta estrategia refleja la diversificación de la cervecería h",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Black Rifle: Wholesale, DTC Drive Double-Digit Sales Turnaround in Q2 - BevNET.com",
+      "summary": "Black Rifle Coffee Company reportó un crecimiento neto de ventas del 12.8% en Q2 2026, impulsado por su estrategia dual de canales mayorista y directo al consumidor. Este desempeño refleja la efectivi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
