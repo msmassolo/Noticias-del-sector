@@ -2476,17 +2476,38 @@
   ],
   "2026-08-08": [
     {
-      "title": "Del furor al ajuste: cómo cambió el negocio de la cerveza artesanal en Argentina",
-      "summary": "La cerveza artesanal en Argentina transita de una fase de crecimiento especulativo a consolidación estructural, enfrentando presiones competitivas, económicas y de demanda del consumidor. El sector ma",
+      "title": "La cerveza rompe récords en Argentina y las ventas por delivery crecieron 80% en 2026 - iProfesional",
+      "summary": "El mercado cervecero argentino registra récords históricos de ventas, con un crecimiento del 80% en canales de delivery durante 2026. Este dato refleja un cambio estructural en los hábitos de consumo ",
       "companies": [],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Día Mundial de la Cerveza: la industria artesanal argentina exporta más pero vende menos en los bares - Rosario3",
+      "summary": "La industria cervecera artesanal argentina presenta una paradoja: incrementa sus exportaciones mientras reduce su presencia en bares locales. Este fenómeno refleja una reconfiguración del mercado domé",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Radiografía del mercado cervecero: del fenómeno artesanal sin distribuidores al auge del delivery y las opciones sin alcohol - Forbes Argentina",
+      "summary": "El mercado cervecero argentino experimenta una transformación estructural con tres dinámicas clave: consolidación de canales de distribución para productores artesanales (previamente desconectados), e",
+      "companies": [],
+      "segments": [
+        "distribution_execution",
+        "non_alcoholic_beverages"
       ],
       "region": "Local"
     },
     {
       "title": "Bait alcanza 26.8 millones de usuarios y ya genera 3 mil 800 millones de pesos trimestrales para Walmart",
-      "summary": "Bait, la plataforma de comercio electrónico de Walmart México, alcanzó 26.8 millones de usuarios y genera ingresos trimestrales de 3,800 millones de pesos, mostrando crecimiento resiliente en contexto",
+      "summary": "Bait, plataforma digital de Walmart México, alcanzó 26.8 millones de usuarios y genera $3.8 mil millones de pesos trimestrales. Este crecimiento de comercio electrónico ocurre en contexto de debilidad",
       "companies": [
         "Walmart"
       ],
@@ -2497,10 +2518,11 @@
       "region": "Regional"
     },
     {
-      "title": "Mês da Cerveja: como a Ambev lidera a evolução da categoria no Brasil",
-      "summary": "Ambev reporta crecimiento significativo en segmentos de cerveza sin alcohol (30% en Q2) y wellness (60% en Q2), demostrando la diversificación de su portafolio hacia categorías de menor contenido alco",
+      "title": "Coca-Cola FEMSA sube hasta 5 pesos sus bebidas en #Oaxaca y otras regiones del país - Libertad Oaxaca",
+      "summary": "Coca-Cola FEMSA implementó incrementos de precio de hasta 5 pesos en sus bebidas en Oaxaca y otras regiones de México. Este movimiento refleja estrategias de gestión de márgenes ante presiones de cost",
       "companies": [
-        "Ambev"
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2508,18 +2530,19 @@
       "region": "Regional"
     },
     {
-      "title": "Día Internacional de la Cerveza: Chela artesanal y sin alcohol conquistan a Millennials y Gen Z",
-      "summary": "El consumo de cerveza está experimentando un giro entre Millennials y Gen Z, con creciente preferencia por opciones artesanales y sin alcohol por sobre factores tradicionales como precio y marca. Este",
-      "companies": [],
+      "title": "Diageo resiente menor consumo de tequila en EU; Don Julio y Casamigos caen 21% - EL CEO",
+      "summary": "Diageo, principal productor global de bebidas alcohólicas, reporta una caída del 21% en sus marcas de tequila (Don Julio y Casamigos) en Europa, reflejando una contracción significativa en la demanda ",
+      "companies": [
+        "Diageo"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
+        "consumer_market_trends"
       ],
       "region": "Regional"
     },
     {
       "title": "Celsius rocked by earnings miss as Pepsi shift backfires",
-      "summary": "Celsius Holdings registró una caída accionaria tras incumplir objetivos de ganancias en Q2, impulsado por dificultades en la integración de sus marcas (Celsius, Alani Nu y Rockstar) en la red de distr",
+      "summary": "Celsius Holdings registró pérdidas en resultados Q2 y su acción se desplomó, impactada por dificultades en la integración de sus marcas (Celsius, Alani Nu y Rockstar) en la red de distribución de Peps",
       "companies": [
         "PepsiCo",
         "Celsius Holdings"
@@ -2532,7 +2555,7 @@
     },
     {
       "title": "Diageo targets $1 billion savings after FY sales decline",
-      "summary": "Diageo (propietaria de Johnnie Walker) reportó caída de ventas netas del 2% en FY2026 y anunció un plan de reestructuración de US$1.000 millones a implementar en tres años. La contracción de ventas fu",
+      "summary": "Diageo, propietario de Johnnie Walker, reportó caída de ventas netas del 2% en el año fiscal 2026 y anunció un plan de reestructuración de USD 1.000 millones durante los próximos tres años. Las reducc",
       "companies": [
         "Diageo"
       ],
@@ -2544,7 +2567,7 @@
     },
     {
       "title": "Lewis bets on Guinness and RTDs in Diageo recovery strategy",
-      "summary": "Diageo, bajo el liderazgo del nuevo CEO Dave Lewis, implementa una estrategia de recuperación centrada en reestructuración de costos y reposicionamiento del portafolio. La compañía mantiene su apuesta",
+      "summary": "Diageo, bajo el liderazgo del nuevo CEO Dave Lewis, implementa una estrategia de recuperación centrada en reestructuración operativa y optimización de portafolio. La compañía mantiene su apuesta por p",
       "companies": [
         "Diageo"
       ],
@@ -2555,8 +2578,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Rockstar Founder Russ Savage Calls For Celsius Leadership Ouster After Q2 Earnings Miss - BevNET.com",
+      "summary": "El fundador de Rockstar Energy, Russ Savage, demanda la salida de la cúpula directiva de Celsius tras resultados decepcionantes en Q2. Esta pugna accionaria en una empresa de bebidas energéticas de al",
+      "companies": [
+        "PepsiCo",
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Monster Q2 Sales Cross $2.5B; Pricing Possible This Fall - BevNET.com",
-      "summary": "Monster Energy alcanzó ingresos de $2.5B en Q2, un hito histórico que evidencia el crecimiento sostenido de la categoría de bebidas energéticas. La compañía evalúa aumentos de precios para el otoño, r",
+      "summary": "Monster Energy alcanzó ingresos de $2.5B en Q2, marcando un hito histórico trimestral. La empresa evalúa incrementos de precio para el próximo otoño, reflejando presiones inflacionarias y estrategia d",
       "companies": [
         "Monster Beverage"
       ],
@@ -2568,7 +2603,7 @@
     },
     {
       "title": "How Shaved Ice, Karaoke and 'Immersive Cultural Experiences' Are Fueling RTD -196's Growth | Brewbound",
-      "summary": "Suntory Global Spirits impulsa el crecimiento de -196, su marca de chu-hi en lata originaria de Japón, mediante experiencias culturales inmersivas en EE.UU. La estrategia combina activaciones con shav",
+      "summary": "Suntory Global Spirits impulsa el crecimiento de -196, su marca de chu-hi en lata, mediante experiencias culturales inmersivas en EE.UU., incluyendo eventos con shaved ice y karaoke. La estrategia bus",
       "companies": [
         "Beam Suntory"
       ],
@@ -2580,7 +2615,7 @@
     },
     {
       "title": "Cutwater is fastest-growing alcohol brand in US",
-      "summary": "AB InBev's marca Cutwater de cócteles enlatados registró un crecimiento del 104% en los últimos 12 meses, posicionándose como la marca de alcohol de más rápido crecimiento en EE.UU. según datos de Cir",
+      "summary": "AB InBev's marca Cutwater de cócteles en lata registró un crecimiento del 104% en los últimos 12 meses (hasta julio 2026), posicionándose como la marca de alcohol de más rápido crecimiento en EE.UU. C",
       "companies": [
         "AB InBev"
       ],
@@ -2591,7 +2626,7 @@
     },
     {
       "title": "No Reprieve For PepsiCo, Red Bull, Monster As FSSAI Rejects Extension On 'Energy Drink' Labels: Report - NDTV Profit",
-      "summary": "La autoridad sanitaria india (FSSAI) rechazó la solicitud de extensión de plazo para que PepsiCo, Red Bull y Monster cumplan con nuevas regulaciones de etiquetado de bebidas energéticas. Esta decisión",
+      "summary": "La autoridad sanitaria india (FSSAI) rechazó la solicitud de extensión de plazo para que PepsiCo, Red Bull y Monster cumplan con nuevas regulaciones sobre el etiquetado de bebidas energéticas. Esta de",
       "companies": [
         "PepsiCo",
         "Red Bull"
@@ -2602,8 +2637,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Diageo sales slip as Guinness continues to power ahead",
+      "summary": "Diageo reportó caída de 2% en ventas globales a US$19.6bn en el año fiscal 2026, pero Guinness se destaca con crecimiento de 2.9% en Gran Bretaña impulsado por demanda doble dígito en bares y pubs. El",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "#WeekInPictures: Bacardí opens ageing warehouses as Clarkson’s pie collaboration lands",
-      "summary": "Bacardí invirtió millones en su destilería de Puerto Rico y abrió al público sus warehouses de envejecimiento por primera vez, con una experiencia de 90 minutos llamada Maestro's Walk. La iniciativa f",
+      "summary": "Bacardí inauguró sus bodegas de envejecimiento al público por primera vez en Puerto Rico, tras inversión multimillonaria en su destilería y experiencia de visitantes. La iniciativa de turismo experien",
       "companies": [
         "Bacardi"
       ],
@@ -2613,8 +2659,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage earnings in focus as growth faces valuation test By Investing.com - Investing.com Australia",
-      "summary": "Monster Beverage enfrenta un punto de inflexión crítico con sus resultados financieros bajo escrutinio del mercado respecto a su valuación. La compañía, líder global en bebidas energéticas, enfrenta p",
+      "title": "Monster Beverage: International Sales Surge 34.6% To $1.16 Billion And Reach 46% Of Revenue - Pulse 2.0",
+      "summary": "Monster Beverage reporta un crecimiento internacional del 34.6%, alcanzando $1.16 mil millones en ventas y representando el 46% de sus ingresos totales. Este desempeño refleja la expansión geográfica ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2626,7 +2672,7 @@
     },
     {
       "title": "Monster Beverage (MNST) Stock Sinks As Record Sales Meet Premium Doubts - simplywall.st",
-      "summary": "Monster Beverage reportó ventas récord pero el mercado reacciona negativamente cuestionando la sostenibilidad del modelo premium. La caída accionaria refleja preocupaciones sobre saturación en el segm",
+      "summary": "Monster Beverage reportó ventas récord, pero el mercado castigó sus acciones por dudas sobre la sostenibilidad del modelo premium de energy drinks. La caída de valuación señala preocupaciones inversor",
       "companies": [
         "Monster Beverage"
       ],
@@ -2637,44 +2683,11 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage: International Sales Surge 34.6% To $1.16 Billion And Reach 46% Of Revenue - Pulse 2.0",
-      "summary": "Monster Beverage reportó un crecimiento de 34.6% en ventas internacionales, alcanzando $1.16 mil millones y representando el 46% de los ingresos totales. Este desempeño refleja la estrategia global de",
+      "title": "Coca-Cola Europacific Partners PLC (AMS:CCEP) Just Reported Half-Year Earnings: Have Analysts Changed Their Mind On The Stock? - simplywall.st",
+      "summary": "Coca-Cola Europacific Partners reportó resultados de medio año, generando una revisión de posiciones analíticas sobre el stock. CCEP es un embotellador clave en mercados europeos y asiáticos con impac",
       "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Stock Market Today, Aug. 6: Celsius Whiffs on Q2 Earnings, Shares Tumble 18% - The Globe and Mail",
-      "summary": "Celsius Energy Drink reportó resultados de Q2 por debajo de las expectativas, provocando una caída de 18% en el precio de sus acciones. Este desempeño negativo afecta directamente a un competidor clav",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sliding sales, ‘Drastic Dave’ and job cuts: what is going on at Diageo? - The Journal",
-      "summary": "Diageo enfrenta caída de ventas y está implementando recortes de personal bajo el liderazgo de Dave Brailsford ('Drastic Dave'). La noticia refleja desafíos estratégicos en el gigante de bebidas alcoh",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Alani Nu Revenue Higher Than CELSIUS (AGAIN!) | Celsius Holdings 2026 Q1 Update Ken Loach (AwMMkm9x6w) - Mshale",
-      "summary": "Alani Nu está generando ingresos superiores a los de Celsius Holdings en el mercado de bebidas energéticas, según actualización de Q1 2026. Este desempeño relativo de marcas competidoras en el segment",
-      "companies": [
-        "Celsius Holdings"
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
       ],
       "segments": [
         "financial_results"
@@ -2683,7 +2696,18 @@
     },
     {
       "title": "Celsius Holdings (CELH) After Earnings Drop And Buyback The Fair Value Debate Returns - simplywall.st",
-      "summary": "Celsius Holdings enfrentó una caída en resultados trimestrales, generando debate sobre su valuación justa en el mercado. La empresa implementó un programa de recompra de acciones en contexto de presió",
+      "summary": "Celsius Holdings reportó una caída en ganancias, generando debate sobre su valuación de mercado. La empresa implementó un programa de recompra de acciones en este contexto de presión en resultados. Es",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Alani Nu Revenue Higher Than CELSIUS (AGAIN!) | Celsius Holdings 2026 Q1 Update Ken Loach (AwMMkm9x6w) - Mshale",
+      "summary": "Alani Nu continúa superando a Celsius Holdings en ingresos trimestrales, reflejando dinámicas competitivas en el mercado de bebidas energéticas. El desempeño de Celsius en Q1 2026 muestra presión comp",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2694,7 +2718,7 @@
     },
     {
       "title": "New Beverages: Waterloo Refreshes, Liquid Death x Feastables, More Protein - BevNET.com",
-      "summary": "Waterloo rediseña su identidad visual y lanza nueva línea de productos, mientras que Jolene expande su portafolio de bebidas de avena con nuevos sabores de café con leche. BellRing introduce opciones ",
+      "summary": "Waterloo rediseña su identidad visual como parte de su estrategia de modernización de marca. Jolene expande su línea de oat milk lattes, capitalizando la tendencia de bebidas a base de plantas. BellRi",
       "companies": [
         "Oatly"
       ],
@@ -2704,8 +2728,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Keurig Dr Pepper reports 2Q results beating expectations, but the U.S. Coffee disappoints, Jde Peet’s posts sales of $2.8 billion - Comunicaffe International",
-      "summary": "Keurig Dr Pepper superó expectativas en resultados del Q2, aunque su división de café en EE.UU. mostró desempeño débil. JDE Peet's reportó ventas de $2.8 mil millones. Esta noticia es crítica para mon",
+      "title": "Molson Coors Beverage Company 2026 Q2 - Results - Earnings Call Presentation (NYSE:TAP) 2026-08-07 - Seeking Alpha",
+      "summary": "Molson Coors reportó resultados de Q2 2026, proporcionando visibilidad sobre desempeño financiero, márgenes y estrategia de un competidor global clave en la industria cervecera. Los resultados incluye",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper Tops Q2 Estimates on Beverage Strength, Coffee Turnaround in Focus - finance.biggo.com",
+      "summary": "Keurig Dr Pepper superó estimaciones de Q2 impulsado por fortaleza en su portafolio de bebidas y recuperación en el segmento de café. La compañía demuestra turnaround exitoso en su división de café, c",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2716,32 +2752,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors Beverage Co (TAP) (Q2 2026) Earnings Call Highlights: Navigating Category ... - Yahoo Finance",
-      "summary": "Molson Coors presentó resultados de Q2 2026, abordando estrategias para navegar dinámicas de categoría en un entorno competitivo. Como uno de los principales fabricantes de bebidas a nivel global, sus",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Q2 2026 slides: volumes fall, costs rise amid soft beer market - Investing.com Nigeria",
-      "summary": "Molson Coors reportó caída de volúmenes en Q2 2026 en un mercado de cerveza debilitado, acompañado por incremento de costos operativos. La compañía enfrenta presión simultánea en ingresos por volumen ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Suntory Beverage & Food (TSE:2587) Stock Trails Revenue Growth as Margins Tighten - simplywall.st",
-      "summary": "Suntory Beverage & Food experimenta un desajuste entre crecimiento de ingresos y desempeño accionario, con márgenes en contracción. Este movimiento de un competidor global relevante indica presiones d",
+      "summary": "Suntory Beverage & Food, gigante japonés de bebidas, experimenta compresión de márgenes operativos a pesar de crecimiento en ingresos, impactando el desempeño de su cotización bursátil. La presión de ",
       "companies": [
         "Suntory Beverage & Food"
       ],
@@ -2753,7 +2765,7 @@
     },
     {
       "title": "Molson Coors Beverage (NYSE:TAP) Posts Earnings Results, Beats Estimates By $0.07 EPS - MarketBeat",
-      "summary": "Molson Coors Beverage Company superó estimaciones de mercado en sus resultados trimestrales, con una ganancia por acción (EPS) $0.07 superior a lo esperado. Este desempeño financiero refleja la solide",
+      "summary": "Molson Coors Beverage reportó resultados trimestrales que superaron las estimaciones de mercado por $0.07 por acción, demostrando desempeño financiero positivo en un contexto competitivo global. Este ",
       "companies": [
         "Molson Coors"
       ],
@@ -2765,7 +2777,7 @@
     },
     {
       "title": "Sarene Craft Beer, Remarkable Liquids Swap Territories in New York and New Jersey | Brewbound",
-      "summary": "Sarene Craft Beer y Remarkable Liquids ejecutaron un canje de territorios en Nueva York y Nueva Jersey: Sarene adquirió el negocio de Remarkable Liquids en Nueva Jersey, mientras que Remarkable Liquid",
+      "summary": "Sarene Craft Beer y Remarkable Liquids ejecutaron un intercambio de territorios mediante adquisiciones cruzadas en el mercado norteamericano: Sarene adquirió el negocio de Remarkable Liquids en Nueva ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2774,10 +2786,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Jamieson Wellness to be acquired by Japanese food, beverage, pharmaceutical business Kirin Holdings in $2.5B deal - 🇨🇦 Grocery Business Canada",
-      "summary": "Kirin Holdings, conglomerado japonés de alimentos, bebidas y farmacéutica, adquiere Jamieson Wellness por USD 2.500 millones. Jamieson es líder canadiense en suplementos nutricionales y wellness. La o",
+      "title": "Molson Coors Beverage's (TAP) Buy Rating Reiterated at Needham & Company LLC - MarketBeat",
+      "summary": "Needham & Company LLC reiteró su calificación de compra (Buy) para Molson Coors Beverage Company (TAP), uno de los mayores productores de cerveza en América del Norte. Esta confirmación de rating por ",
       "companies": [
-        "Kirin Holdings"
+        "Molson Coors"
       ],
       "segments": [
         "consumer_market_trends",
@@ -2786,100 +2798,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Rockstar Founder Russ Savage Calls For Celsius Leadership Ouster After Q2 Earnings Miss - BevNET.com",
-      "summary": "Russ Savage, fundador de Rockstar Energy, demanda la salida de la dirección de Celsius tras resultados decepcionantes en Q2. Este movimiento accionista refleja tensiones internas en una de las marcas ",
-      "companies": [
-        "PepsiCo",
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo sales slip as Guinness continues to power ahead",
-      "summary": "Diageo, gigante global de bebidas con marcas como Guinness, Smirnoff, Johnnie Walker y Don Julio, reportó caída de 2% en ventas a USD 19.6bn en el ejercicio a junio 2026. Guinness se posiciona como es",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo’s ‘Drastic Dave’ targets $1 billion cost savings to confront weak growth",
-      "summary": "Diageo, líder global en bebidas alcohólicas destiladas, lanzó un plan de reducción de costos por $1.000 millones bajo su nuevo CEO Dave Lewis. La medida responde a perspectivas de crecimiento débil pr",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage earnings in focus as growth faces valuation test By Investing.com - Investing.com Canada",
-      "summary": "Monster Beverage enfrenta un momento crítico con sus resultados financieros bajo escrutinio mientras su valuación se pone a prueba frente a perspectivas de crecimiento. La noticia analiza cómo la empr",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper Tops Q2 Estimates on Beverage Strength, Coffee Turnaround in Focus - finance.biggo.com",
-      "summary": "Keurig Dr Pepper superó estimaciones de Q2 impulsado por fortaleza en su portafolio de bebidas y recuperación en su negocio de café. La empresa demuestra capacidad de crecimiento en dos categorías cla",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage Company 2026 Q2 - Results - Earnings Call Presentation (NYSE:TAP) 2026-08-07 - Seeking Alpha",
-      "summary": "Molson Coors reportó resultados del Q2 2026, empresa cervecera líder en Norteamérica con operaciones globales. Los resultados trimestrales y presentación de earnings call son indicadores clave de dese",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper Posts Strong Revenue Growth for Q2 2026, Beats on EPS - AlphaStreet",
-      "summary": "Keurig Dr Pepper reportó un crecimiento sólido en ingresos para Q2 2026 y superó las expectativas de ganancias por acción, consolidando su posición como jugador global relevante en bebidas. Este desem",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors profit falls 49 percent in second quarter - Milwaukee Journal Sentinel",
-      "summary": "Molson Coors reportó una caída del 49% en ganancias netas en el segundo trimestre, reflejando presiones de margen en el segmento de cerveza norteamericano. La contracción de rentabilidad evidencia des",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "BeatBox Is Turning Anheuser-Busch into a Top ‘Wine’ Seller",
-      "summary": "Anheuser-Busch ha logrado posicionarse como un vendedor top en la categoría de 'vinos' a través de BeatBox, su marca de bebidas innovadora. Este movimiento refleja la estrategia del gigante cervecero ",
+      "summary": "Anheuser-Busch está capitalizando el crecimiento de bebidas innovadoras a través de su marca BeatBox, posicionándose como un jugador importante en el segmento de 'vinos' alternativos y bebidas de tend",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2888,9 +2808,67 @@
       "region": "Mundial"
     },
     {
-      "title": "Black Rifle: Wholesale, DTC Drive Double-Digit Sales Turnaround in Q2 - BevNET.com",
-      "summary": "Black Rifle Coffee Company reportó un crecimiento en ventas netas del 12.8% en Q2 2026, impulsado por su estrategia dual de canal mayorista y directo al consumidor (DTC). Este desempeño refleja la ten",
-      "companies": [],
+      "title": "MONSTER BEVERAGE CORP : PIPER SANDLER RAISES TARGET PRICE TO $101 FROM $94 - Bitget",
+      "summary": "Piper Sandler elevó el precio objetivo de Monster Beverage de $94 a $101, reflejando mayor confianza en los fundamentos de la compañía. El movimiento del analista indica optimismo sobre el crecimiento",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Q2 2026 slides: volumes fall, costs rise amid soft beer market - Investing.com Nigeria",
+      "summary": "Molson Coors reportó caída de volúmenes en Q2 2026 con incremento de costos operativos en un mercado cervecero debilitado. Este deterioro de performance en uno de los mayores productores globales refl",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola sube (otra vez) sus precios: refrescos, aguas y bebidas se encarecen hasta 5 pesos - El Economista",
+      "summary": "Coca-Cola implementó un nuevo incremento de precios en su portafolio de bebidas (refrescos, aguas y otras categorías) con aumentos de hasta 5 pesos en Argentina. Este movimiento refleja la estrategia ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo (NASDAQ:PEP) Beverage and Snack Business Faces Home Market Pressure - Kalkine Media",
+      "summary": "PepsiCo enfrenta presión en su negocio de bebidas y snacks en el mercado doméstico estadounidense, su mayor mercado. Esta situación refleja desafíos competitivos y de demanda que impactan directamente",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott International and the Coca-Cola Company come together in strategic beverage agreement - Hotelier Middle East",
+      "summary": "Marriott International y The Coca-Cola Company firmaron un acuerdo estratégico de bebidas para abastecer las propiedades hoteleras de Marriott en la región de Oriente Medio. El acuerdo amplía la distr",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kirin pushes LC-Plasma postbiotic into everyday beverage and foodservice formats - foodingredientsfirst.com",
+      "summary": "Kirin expande su ingrediente funcional LC-Plasma (postbiótico) hacia formatos de bebidas de consumo cotidiano y canal foodservice. Esta estrategia de innovación funcional responde a la creciente deman",
+      "companies": [
+        "Kirin Holdings"
+      ],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
@@ -2898,24 +2876,23 @@
       "region": "Mundial"
     },
     {
-      "title": "Kirin Holdings to Acquire Canadian Supplement Giant Jamieson for Approximately $1.6 Billion, Making Full-Scale Entry into North American Market - finance.biggo.com",
-      "summary": "Kirin Holdings adquiere Jamieson, líder canadiense en suplementos, por USD 1.600 millones, marcando su entrada a escala completa en el mercado norteamericano. La operación amplía el portafolio de la e",
+      "title": "Mês da Cerveja: como a Ambev lidera a evolução da categoria no Brasil",
+      "summary": "Ambev reporta crecimiento acelerado en segmentos estratégicos de cerveza en Brasil durante Q2: bebidas sin alcohol crecieron 30% y categoría wellness más de 60%. El portafolio diversificado posiciona ",
       "companies": [
-        "Kirin Holdings"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Drinks giant Diageo unveils $1bn in cost cuts to tackle slowing growth - euronews.com",
-      "summary": "Diageo, uno de los principales productores de bebidas alcohólicas globales, anunció un plan de reducción de costos de USD 1.000 millones para contrarrestar el desaceleración de crecimiento. Esta estra",
-      "companies": [
-        "Diageo"
+        "Ambev"
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Westrock Coffee ‘No Longer’ Needs Capital, Net Sales +8.8% in Q2 - BevNET.com",
+      "summary": "Westrock Coffee reportó un crecimiento en ventas netas del 8.8% en Q2 y alcanzó su quinto trimestre consecutivo de crecimiento EBITDA, declarando que ya no requiere capital externo. Este hito refleja ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     }
