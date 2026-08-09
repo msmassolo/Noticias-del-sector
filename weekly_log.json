@@ -1,375 +1,4 @@
 {
-  "2026-08-01": [
-    {
-      "title": "Campari eleva su previsión anual tras crecer un 2,7% en ventas orgánicas - vinetur.com",
-      "summary": "Campari incrementó su previsión anual tras registrar un crecimiento del 2,7% en ventas orgánicas, señalando desempeño positivo en su cartera de bebidas alcohólicas. Este movimiento refleja fortaleza e",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Ações da Ambev caem 4,9% após balanço e resultados da Copa - Associação Comercial e Industrial de Araçatuba",
-      "summary": "Las acciones de Ambev cayeron 4,9% tras la publicación de sus resultados financieros y el desempeño durante la Copa América. Este movimiento de mercado refleja la reacción de inversores a los números ",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "La cervecera brasileña Ambev ganó 1.224 millones de euros hasta junio, un 11,6% más - Infobae",
-      "summary": "Ambev, principal cervecera brasileña y operador clave en Latinoamérica, reportó ganancias de 1.224 millones de euros en el primer semestre con crecimiento de 11,6% interanual. Este desempeño refleja f",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Movimento conecta a cafeicultura brasileira",
-      "summary": "Movimiento en el sur de Minas Gerais busca integrar la cadena cafetera brasileña enfocándose en sustentabilidad, rastreabilidad e innovación. Brasil domina la producción y exportaciones mundiales de c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Con el 30% del mercado cervecero, CCU apuesta a las opciones 0.0 (del 0,3% al 3% en dos años) - InfoNegocios",
-      "summary": "CCU, con 30% del mercado cervecero regional, aceleró su estrategia en cervezas sin alcohol (0.0), proyectando crecer de 0,3% a 3% de participación en dos años. Este movimiento refleja la tendencia glo",
-      "companies": [
-        "CCU",
-        "CCU"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Carlsberg to become PepsiCo bottler in Azerbaijan as partnership expands | FoodBev Media",
-      "summary": "Carlsberg Group expandirá su alianza con PepsiCo convirtiéndose en embotellador exclusivo de su portafolio de bebidas no alcohólicas en Azerbaiyán a partir de enero de 2027. Carlsberg asumirá producci",
-      "companies": [
-        "PepsiCo",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Recovery in France aids Marie Brizard Q2 sales",
-      "summary": "Marie Brizard Wine & Spirits reportó ventas de Q2 2026 por €45,3 millones con crecimiento orgánico de 0,5% interanual. Francia mostró recuperación significativa con crecimiento de 6,0% alcanzando €18,",
-      "companies": [
-        "Marie Brizard Wine & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari growth figures signal positive H1 - Harpers Wine & Spirit Trade News",
-      "summary": "Campari Group reportó ventas netas orgánicas de €1.5bn en H1 2026 con crecimiento del 2.7%, y ganancia neta de €226m (+4.7%). En Q2 específicamente el crecimiento fue 2.5% orgánico. El grupo proyecta ",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "7 Things You Should Know About Sun Cruiser, Boston Beer Company’s Other Hard Tea",
-      "summary": "Boston Beer Company lanzó Sun Cruiser en 2024, un nuevo té duro enlatado que complementa su marca Twisted Tea (lanzada en 2001). Este movimiento refleja la estrategia de Boston Beer de expandir su por",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hugo Spritz overtakes Aperol Spritz in UK summer Google searches",
-      "summary": "Hugo Spritz superó a Aperol Spritz en búsquedas de Google durante el verano en UK por primera vez, con un índice de interés de 55.8 vs 53.9 (3.6% superior). Este shift en preferencias de consumo refle",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo Is Paying Attention. Are You?",
-      "summary": "PepsiCo adapta su estrategia frente a dos megatendencias: la adopción de GLP-1s (fármacos para pérdida de peso) y presiones inflacionarias, señalando cambios en la demanda de productos más saludables ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Endeavour Group to offload Australian wine assets",
-      "summary": "Endeavour Group anuncia la desinversión de activos vitivinícolas en Australia, incluyendo Chapel Hill Estate en McLaren Vale, como parte de una reestructuración estratégica. La empresa mantiene las ma",
-      "companies": [
-        "Endeavour Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Booze News Weekly Roundup: Brown-Forman Turns Down Another Sazerac Offer, U.S. Lifts Tariffs from Scotch Whisky, and More",
-      "summary": "Brown-Forman rechazó nuevamente una oferta de adquisición de Sazerac, uno de los mayores productores de bebidas alcohólicas en EE.UU. Simultáneamente, Estados Unidos eliminó aranceles sobre whisky esc",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marie Brizard mejora ventas trimestrales por Francia pese al retroceso internacional",
-      "summary": "Marie Brizard Wine & Spirits reportó ventas de €45,3M en Q2 2026, crecimiento orgánico de 0,5% año a año impulsado por recuperación en Francia (+6% a €18,6M), aunque el negocio internacional continúa ",
-      "companies": [
-        "Marie Brizard Wine & Spirits"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Tsingtao enters Irish whiskey with Great Northern",
-      "summary": "Tsingtao, el segundo mayor cervecero global, se asocia con Great Northern Distillery para producir whisky irlandés dirigido al mercado asiático, con planes de abrir una destilería en China. Esta diver",
-      "companies": [
-        "Tsingtao Brewery"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rémy Cointreau hires ex-Pernod Africa CEO",
-      "summary": "Rémy Cointreau contrata a Grégory Leymarie, ex CEO de Pernod Ricard Africa, como nuevo Director General Global de Mercados Emergentes. El ejecutivo liderará la estrategia de crecimiento en regiones cl",
-      "companies": [
-        "Pernod Ricard",
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Bull Case For Monster Beverage (MNST) Could Change Following Q2 2026 Earnings Release And Call – Learn Why - simplywall.st",
-      "summary": "Monster Beverage (MNST) presenta resultados de Q2 2026 que podrían modificar el caso alcista de la compañía según analistas. Como competidor clave en el segmento de bebidas energéticas de consumo masi",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Earnings Beat: The Coca-Cola Company Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st",
-      "summary": "Coca-Cola superó las previsiones de analistas en sus últimos resultados, lo que ha generado actualizaciones en los modelos de valuación del sector. Este desempeño superior refleja fortaleza operaciona",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "MGP’s whiskey sales plunge 59% in Q2",
-      "summary": "MGP Ingredients reportó una caída de 42% en su división Distilling Solutions en Q2 2026, con whiskey desplomándose 59%, reflejando una tendencia negativa que se extiende desde Q1. Como proveedor críti",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo, Coca-Cola Launch Functional Beverages in 2026 | Market Shift - News and Statistics - IndexBox",
-      "summary": "PepsiCo y Coca-Cola anuncian el lanzamiento de bebidas funcionales en 2026, reflejando una estrategia de reconversión hacia categorías de mayor valor agregado. Este movimiento responde a la demanda cr",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marie Brizard Wine & Spirits Q2 sales flat as France returns to growth – results data - drinks-intel.com",
-      "summary": "Marie Brizard Wine & Spirits reportó ventas planas en Q2, mientras Francia mostró retorno al crecimiento. La compañía, productora de bebidas alcohólicas con presencia en mercados europeos, enfrenta de",
-      "companies": [
-        "Marie Brizard Wine & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Southern Glazer’s Completes Eagle Rock Colorado Acquisition; Appoints A-B Vet as GM | Brewbound",
-      "summary": "Southern Glazer's Wine & Spirits finalizó la adquisición de las operaciones de Colorado de Eagle Rock Distributing Co., un distribuidor independiente de bebidas alcohólicas. La compra incluye el nombr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Yakult Honsha Q1 Sales Rise as Profits Mixed, Full-Year Outlook and Dividend Guidance Maintained - TipRanks",
-      "summary": "Yakult Honsha reportó incremento en ventas en Q1, aunque con resultados mixtos en ganancias, manteniendo su guidance de outlook para el año completo y política de dividendos. Como jugador global clave",
-      "companies": [
-        "Yakult Honsha"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Harrison Ford co-creates Glenmorangie whisky for global travel retail",
-      "summary": "Glenmorangie lanzó un whisky single malt de edición limitada co-creado con Harrison Ford, distribuido exclusivamente en aeropuertos internacionales. La iniciativa refuerza la estrategia de la destiler",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Moët Hennessy entra en Portman Group en pleno aniversario de su código",
-      "summary": "Moët Hennessy, división de vinos y espirituosos de LVMH, se incorporó como miembro de Portman Group, el organismo de autorregulación de bebidas alcohólicas en Reino Unido. Esta adhesión eleva a 20 los",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Financial Focus: Updates at Asahi, Unilever and Nestle",
-      "summary": "Mondelēz reporta crecimiento acelerado en mercados emergentes con confianza del consumidor estable, particularmente fuerte en India aunque moderado en China. La compañía expande distribución en Brasil",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NIQ: Vodka RTD Growth Shows Where Spirits Innovation is Converting | Brewbound",
-      "summary": "NIQ reporta que el vodka enfrenta envejecimiento de consumidores y menor frecuencia de consumo, pero los nuevos formatos ready-to-drink (RTD) actúan como herramientas de captación de nuevos públicos. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El vino argentino vende más fuera pero pincha en ingresos por la caída de precios",
-      "summary": "Las exportaciones de vino argentino crecieron 14% en volumen (103 millones de litros) durante el primer semestre de 2026, pero los ingresos aumentaron solo 2,6% a USD 319 millones debido a caída de pr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Red Bull gives you zings: two zesty new flavours to add punch to Friday night drinks | - creammagazine.com",
-      "summary": "Red Bull lanza dos nuevos sabores para expandir su portafolio de bebidas energéticas, apuntando al segmento de consumo social nocturno. La estrategia de innovación en flavors busca capturar demanda en",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage to Post Strong Results Again, Faces Higher Bar After Strong Growth, UBS Says - marketscreener.com",
-      "summary": "Monster Beverage enfrentará expectativas más elevadas en sus próximos resultados tras un período de crecimiento sólido, según análisis de UBS. La compañía mantiene trayectoria de desempeño fuerte pero",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Theakston and Equinox launch Hopbucha alcohol-free beer and kombucha hybrid | FoodBev Media",
-      "summary": "Theakston Brewery y Equinox Kombucha lanzaron Hopbucha, una bebida fermentada sin alcohol que hibrida cerveza tradicional con kombucha. Este movimiento representa una estrategia de innovación en el se",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Southern Glazer's Closes Eagle Rock Colorado Deal - BevNET.com",
-      "summary": "Southern Glazer's Wine & Spirits completó la adquisición de las operaciones de Colorado de Eagle Rock Distributing Co., un distribuidor independiente de red roja. Este movimiento refuerza la presencia",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Campari eleva su previsión anual tras crecer un 2,7% en ventas orgánicas",
-      "summary": "Campari Group reportó ventas netas de €1.510M en H1 2026 con crecimiento orgánico del 2,7% y elevó su guía anual. El desempeño se sostiene en el impulso de su segmento de aperitivos, un impacto menor ",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-08-02": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2890,6 +2519,218 @@
       "title": "Westrock Coffee ‘No Longer’ Needs Capital, Net Sales +8.8% in Q2 - BevNET.com",
       "summary": "Westrock Coffee reportó un crecimiento en ventas netas del 8.8% en Q2 y alcanzó su quinto trimestre consecutivo de crecimiento EBITDA, declarando que ya no requiere capital externo. Este hito refleja ",
       "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-08-09": [
+    {
+      "title": "Con el consumo en baja, las bodegas apuestan a crecer transformando el vino argentino en una experiencia gourmet",
+      "summary": "Ante la caída del consumo mundial de vino, bodegas argentinas están pivoteando hacia estrategias de experiencialización premium. Argentina Reloaded, plataforma lanzada en 2022, busca posicionar vinos ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción de demanda con ajustes en estructura de costos y cambios en patrones de consumo. Esta tendencia es estratégica para las grandes cerveceras arg",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Coca-Cola sube (otra vez) sus precios: refrescos, aguas y bebidas se encarecen hasta 5 pesos - El Economista",
+      "summary": "Coca-Cola implementó un nuevo incremento de precios en su portafolio de bebidas (refrescos, aguas y otras bebidas) con aumentos de hasta 5 pesos en Argentina. Esta acción refleja la estrategia de tras",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "México lidera exportaciones mundiales de cerveza; vendió 6 mil 480 millones de dólares en 2025 - El Buen Tono",
+      "summary": "México consolidó su liderazgo global en exportaciones de cerveza con ventas de USD 6.480 millones en 2025, demostrando la fortaleza competitiva del país en la industria cervecera. Este desempeño refle",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "How Shaved Ice, Karaoke and 'Immersive Cultural Experiences' Are Fueling RTD -196's Growth | Brewbound",
+      "summary": "Suntory Global Spirits impulsa el crecimiento de -196, su marca de chu-hi (cóctel enlata japonés), mediante experiencias culturales inmersivas en EE.UU. que incluyen shaved ice y karaoke. Esta estrate",
+      "companies": [
+        "Beam Suntory"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Should Stronger Q2 2026 Profit Momentum at Coca-Cola FEMSA (KOF) Require Action From Investors? - simplywall.st",
+      "summary": "Coca-Cola FEMSA reporta momentum positivo en ganancias para Q2 2026, sugiriendo fortaleza operacional en el mayor embotellador independiente de la región. El análisis invita a inversores a evaluar si ",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Sinks As Record Sales Meet Premium Doubts - simplywall.st",
+      "summary": "Monster Beverage reportó ventas récord, pero el mercado castiga la acción por dudas sobre la sostenibilidad del segmento premium de bebidas energéticas. La caída de cotización refleja preocupaciones s",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage: International Sales Surge 34.6% To $1.16 Billion And Reach 46% Of Revenue - Pulse 2.0",
+      "summary": "Monster Beverage reporta un crecimiento de 34.6% en ventas internacionales, alcanzando USD 1.16 mil millones y representando el 46% de sus ingresos totales. Este hito refleja la expansión global exito",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) Releases Quarterly Earnings Results, Beats Expectations By $0.02 EPS - MarketBeat",
+      "summary": "Monster Beverage reportó resultados trimestrales superando estimaciones de mercado por $0.02 en EPS, consolidando su posición como jugador clave en la categoría de bebidas energéticas. Este desempeño ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev Launches ‘Cheers to Beer’ Global Campaign Ahead of International Beer Day - MediaNews4U",
+      "summary": "AB InBev lanzó una campaña global 'Cheers to Beer' coincidiendo con el Día Internacional de la Cerveza. La iniciativa representa un movimiento estratégico de la cervecería número uno mundial para fort",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company (SAM) Stock Sees Fair Value Cut After Q2 Miss Sparks Analyst Caution - Yahoo Finance",
+      "summary": "Boston Beer Company reportó resultados de Q2 por debajo de expectativas, generando revisiones a la baja en valuaciones de analistas. Este movimiento refleja presiones en la rentabilidad de un jugador ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper (KDP) Stock Carries Revenue Surge Into A Profit Squeeze - simplywall.st",
+      "summary": "Keurig Dr Pepper reporta crecimiento de ingresos pero enfrenta presión en márgenes de ganancia, indicando desafíos operacionales a pesar de expansión de ventas. Este movimiento es estratégicamente rel",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors: Free Cash Flow Jumps About 75% To $514 Million As Beyond-Beer Portfolio Expands - Pulse 2.0",
+      "summary": "Molson Coors reportó un incremento del 75% en flujo de caja libre, alcanzando $514 millones, impulsado por la expansión de su cartera más allá de bebidas alcohólicas tradicionales (beyond-beer). Este ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marriott International and the Coca-Cola Company come together in strategic beverage agreement - Hotelier Middle East",
+      "summary": "Marriott International y The Coca-Cola Company firmaron un acuerdo estratégico de bebidas que posiciona a Coca-Cola como proveedor preferente en la cadena hotelera global. La alianza abarca la distrib",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Hemp Recap: Attorneys General Push For Permanent Ban N.C. Pulls Back | Brewbound",
+      "summary": "Los Fiscales Generales de estados estadounidenses presionan al Congreso para mantener la prohibición de productos de cáñamo intoxicante programada para noviembre, mientras fabricantes de bebidas busca",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Next Century Spirits Acquires Grain & Barrel Spirits Brand Portfolio, Including Historic Circa 1856 Chicken Cock Whiskey",
+      "summary": "Next Century Spirits adquirió el portafolio de marcas de Grain & Barrel Spirits, incluyendo Chicken Cock Whiskey, una marca de patrimonio histórico desde 1856. Esta adquisición le otorga a Next Centur",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Xul Beer Company opens renovated Nashville location after Southern Grist acquisition - WBIR",
+      "summary": "Xul Beer Company completó la adquisición de Southern Grist y reabrió su ubicación en Nashville con renovaciones. Esta operación representa una estrategia de consolidación en el mercado craft cervecero",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Monster Beverage (MNST) Is Down 6.2% After Stronger First-Half 2026 Earnings Performance And What's Next - simplywall.st",
+      "summary": "Monster Beverage reportó resultados sólidos en el primer semestre 2026, pero su acción cayó 6.2%, señalando posibles preocupaciones del mercado sobre perspectivas futuras o valuación. Como competidor ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage (NYSE:TAP) Posts Earnings Results, Beats Estimates By $0.07 EPS - MarketBeat",
+      "summary": "Molson Coors superó estimaciones de ganancias por acción en $0.07, demostrando desempeño operacional sólido en el trimestre reportado. Este resultado positivo de uno de los principales productores glo",
+      "companies": [
+        "Molson Coors"
+      ],
       "segments": [
         "consumer_market_trends",
         "financial_results"
