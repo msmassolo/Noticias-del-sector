@@ -2543,7 +2543,7 @@
   "2026-08-10": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal en Argentina enfrenta una crisis de demanda con caída significativa del consumo, ajuste de costos operacionales y cambios en los patrones de consumo de bebidas. Este movimiento im",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción de demanda con presión en márgenes por ajustes de costos y cambios en los patrones de consumo. Aunque el artículo no detalla cifras específica",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2551,20 +2551,32 @@
       "region": "Local"
     },
     {
-      "title": "Carrefour unifica marcas próprias para ganhar escala e fidelizar clientes",
-      "summary": "Carrefour Brasil consolidó sus marcas propias (Carrefour, Member's Mark y Bulnez) bajo una estructura unificada para ganar escala negociadora, eliminar sobreposiciones entre sus formatos (hipermercado",
+      "title": "Less sugar, more protein and fiber: the new consumption habits transforming PepsiCo’s portfolio",
+      "summary": "PepsiCo acelera la transformación de su portafolio global ante la demanda creciente de bebidas sin azúcar, snacks con proteína y fibra, opciones de porciones controladas e ingredientes simples. El cam",
       "companies": [
-        "Walmart"
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Amante 1530 seeks to take on Aperol in UK",
+      "summary": "Amante 1530, un amaro italiano con 25% menos azúcar que Aperol, ingresa al mercado UK a través de un acuerdo de distribución con Maverick Drinks. El producto busca posicionarse como alternativa premiu",
+      "companies": [
+        "Campari Group"
       ],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
       ],
-      "region": "Regional"
+      "region": "Mundial"
     },
     {
       "title": "United Spirits accused of ‘misleading’ whisky maturation claims",
-      "summary": "El regulador alimentario de India (FSSAI) acusa a United Spirits, subsidiaria de Diageo, de publicidad engañosa en etiquetas de whisky al afirmar que el producto está madurado en barriles de roble ame",
+      "summary": "La autoridad reguladora de seguridad alimentaria de India (FSSAI) acusa a United Spirits (subsidiaria de Diageo) de publicidad engañosa en etiquetado de whisky, alegando que el producto no está realme",
       "companies": [
         "Diageo"
       ],
@@ -2574,8 +2586,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage (NASDAQ:MNST) Releases Quarterly Earnings Results, Beats Expectations By $0.02 EPS - MarketBeat",
-      "summary": "Monster Beverage superó las expectativas del mercado en su último reporte trimestral con un EPS de $0.02 por encima de lo proyectado. Este desempeño de un líder global en bebidas energéticas es releva",
+      "title": "Why Monster Beverage (MNST) Is Down 6.2% After Stronger First-Half 2026 Earnings Performance And What's Next - simplywall.st",
+      "summary": "Monster Beverage reportó resultados sólidos en el primer semestre de 2026, pero las acciones cayeron 6.2%, sugiriendo expectativas de mercado aún más elevadas o preocupaciones sobre perspectivas futur",
       "companies": [
         "Monster Beverage"
       ],
@@ -2586,8 +2598,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Ironhill India merges with US namesake in bankruptcy deal",
+      "summary": "Ironhill India, la mayor cadena de microcervecerías de la India, adquirió a Ironhill USA en un proceso de reestructuración por bancarrota, invirtiendo $7M para revitalizar la operación estadounidense.",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "How a Q2 Earnings Miss and Softer Volumes At Boston Beer Company (SAM) Has Changed Its Investment Story - simplywall.st",
-      "summary": "Boston Beer Company registró un faltante en resultados de Q2 con volúmenes débiles, alterando significativamente su narrativa de inversión. Este desempeño sugiere presión en la demanda de sus principa",
+      "summary": "Boston Beer Company (SAM) reportó resultados por debajo de expectativas en Q2 con volúmenes más débiles, alterando significativamente su narrativa de inversión. Esta caída refleja presiones de demanda",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2598,8 +2620,28 @@
       "region": "Mundial"
     },
     {
+      "title": "Suntory posts stagnant H1 alcohol sales",
+      "summary": "Suntory reporta estancamiento en ventas de alcohol en H1 2026 con ingresos prácticamente planos (¥653.6 mil millones, +0.2%) pero caída de 24.6% en ingresos operativos. El desempeño en las Américas fu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How RTDs are winning over bars",
+      "summary": "Las bebidas ready-to-drink (RTD) están expandiendo su presencia del retail hacia el canal on-trade (bares y locales gastronómicos), impulsadas por un crecimiento sostenido en un mercado de spirits en ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Suntory Beverage & Food Limited (TSE:2587) Just Released Its Half-Yearly Earnings: Here's What Analysts Think - simplywall.st",
-      "summary": "Suntory Beverage & Food, uno de los mayores fabricantes globales de bebidas y alimentos, publicó resultados semestrales. Este movimiento es crítico para monitorear estrategias de un competidor clave e",
+      "summary": "Suntory Beverage & Food divulgó resultados semestrales con análisis de mercado. Como uno de los mayores productores globales de bebidas, sus resultados impactan tendencias de mercado regional y decisi",
       "companies": [
         "Suntory Beverage & Food"
       ],
@@ -2611,7 +2653,7 @@
     },
     {
       "title": "Keurig Dr Pepper (KDP) Stock Looks Overvalued As Earnings Beat Lands - simplywall.st",
-      "summary": "Keurig Dr Pepper reportó resultados que superaron expectativas de mercado, pero el análisis de valuación sugiere que la acción está sobrevalorada en los niveles actuales. Este movimiento es relevante ",
+      "summary": "Keurig Dr Pepper reportó resultados que superaron expectativas de mercado, pero el análisis indica que la acción estaría sobrevalorada en su cotización actual. KDP es uno de los mayores productores de",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2622,7 +2664,7 @@
     },
     {
       "title": "Nichols eyes functional drinks growth with £64m purchase of VITHIT",
-      "summary": "Nichols PLC adquiere VITHIT por £64 millones, expandiendo su portafolio hacia bebidas funcionales de bajo contenido calórico y azucarado enriquecidas con vitaminas. La compra, que complementa marcas i",
+      "summary": "Nichols PLC adquirió VITHIT por £64 millones, una marca irlandesa de bebidas funcionales bajas en calorías y azúcar enriquecidas con vitaminas. La adquisición refuerza la estrategia de Nichols (dueña ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2632,7 +2674,7 @@
     },
     {
       "title": "A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter? - AOL.com",
-      "summary": "Monster Beverage ejecutará un split accionario el 11 de agosto, operación que aunque no altera los fundamentos empresariales, tiene implicaciones estratégicas para la compañía. El split reduce el prec",
+      "summary": "Monster Beverage ejecutará un split de acciones el 11 de agosto, evento corporativo que refleja la solidez y valoración de la compañía en mercados financieros. Aunque técnicamente un split no altera l",
       "companies": [
         "Monster Beverage"
       ],
@@ -2642,8 +2684,19 @@
       "region": "Mundial"
     },
     {
+      "title": "AB InBev shifts from selling beer to building rituals around it - campaignindia.in",
+      "summary": "AB InBev, el mayor cervecero global, reorienta su estrategia de marketing desde la venta transaccional hacia la construcción de rituales y experiencias de consumo. Este cambio refleja una evolución en",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Top Consumer Stocks to Watch: Can Coca-Cola (NYSE:KO) Benefit From Resilient Demand? - Kalkine Media",
-      "summary": "Análisis de Coca-Cola evaluando su capacidad para capitalizar una demanda resiliente en el mercado de bebidas de consumo masivo. La noticia posiciona a KO como acción a monitorear en el sector, sugiri",
+      "summary": "Análisis de Coca-Cola (KO) como acción de consumo destacada, enfocado en su capacidad de capitalizar la demanda resiliente del consumidor. La noticia evalúa el desempeño de la empresa líder global en ",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2653,19 +2706,28 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola stock holds steady as the company leans on scale and margins. - AD HOC NEWS",
-      "summary": "Coca-Cola mantiene estabilidad en su cotización aprovechando su escala operativa y márgenes de ganancia. La noticia destaca cómo el gigante de bebidas sostiene su posición de mercado mediante economía",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
+      "title": "Helmsman Imports and Ankaa Global Logistics join forces",
+      "summary": "Helmsman Imports se asoció con Ankaa Global Logistics, el brazo logístico de Southern Glazer's (el mayor distribuidor de bebidas en EE.UU.), para acceso a servicios de almacenamiento y fulfillment. So",
+      "companies": [],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "International Delight expands seasonal range with apple butter coffee cake creamer | FoodBev Media",
+      "summary": "International Delight lanza una crema para café de edición limitada con sabor a manzana y bizcocho, expandiendo su portafolio estacional de otoño. Este movimiento refleja la estrategia de innovación e",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Top Consumer Stocks to Watch: Can Constellation Brands (NYSE:STZ) Sharpen Its Strategic Focus? - Kalkine Media",
-      "summary": "Análisis sobre Constellation Brands (STZ), gigante global en bebidas alcohólicas y cerveza, evaluando su capacidad para afinar su estrategia corporativa. La noticia es relevante porque STZ es competid",
+      "summary": "Análisis sobre la necesidad de Constellation Brands de afinar su enfoque estratégico en el mercado de consumo masivo. La empresa, líder global en bebidas alcohólicas y cerveza, enfrenta presiones para",
       "companies": [
         "Constellation Brands"
       ],
@@ -2675,18 +2737,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Next Century Spirits Acquires Grain & Barrel Spirits Brand Portfolio, Including Historic Circa 1856 Chicken Cock Whiskey",
-      "summary": "Next Century Spirits adquirió la cartera de marcas de Grain & Barrel Spirits, incluyendo Chicken Cock Whiskey, una marca premium de whiskey estadounidense con origen en 1856. Esta operación representa",
-      "companies": [],
+      "title": "JPMorgan Adjusts PT on Molson Coors Beverage to $42 From $41, Maintains Neutral Rating - marketscreener.com",
+      "summary": "JPMorgan elevó su precio objetivo para Molson Coors Beverage de $41 a $42 por acción, manteniendo rating Neutral. Aunque el ajuste es marginal, refleja la evaluación de un banco de inversión de tier-1",
+      "companies": [
+        "Molson Coors"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Why Monster Beverage (MNST) Is Down 6.2% After Stronger First-Half 2026 Earnings Performance And What's Next - simplywall.st",
-      "summary": "Monster Beverage reportó resultados sólidos en el primer semestre de 2026, pero la acción cayó 6.2% post-anuncio, señalando posibles expectativas de mercado no satisfechas o preocupaciones sobre el cr",
+      "title": "Monster Beverage (NASDAQ:MNST) Releases Quarterly Earnings Results, Beats Expectations By $0.02 EPS - MarketBeat",
+      "summary": "Monster Beverage reportó resultados trimestrales superando expectativas de mercado con una ganancia por acción $0.02 superior a lo proyectado. Este desempeño de un competidor clave global en bebidas e",
       "companies": [
         "Monster Beverage"
       ],
@@ -2698,7 +2761,7 @@
     },
     {
       "title": "Boston Beer Company (SAM) Stock Sees Fair Value Cut After Q2 Miss Sparks Analyst Caution - Yahoo Finance",
-      "summary": "Boston Beer Company (SAM) enfrentó un desempeño negativo en Q2 que generó recortes en valuaciones de analistas. Este movimiento refleja presiones en la rentabilidad del mayor productor de cerveza arte",
+      "summary": "Boston Beer Company reportó resultados decepcionantes en Q2, lo que llevó a analistas a reducir su valuación de precio justo (fair value). Este movimiento refleja preocupaciones sobre el desempeño ope",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2709,12 +2772,33 @@
       "region": "Mundial"
     },
     {
-      "title": "Nichols acquires functional soft drinks brand VitHit for £64m | FoodBev Media",
-      "summary": "Nichols, fabricante británico de bebidas blandas (propietario de Vimto), adquirió la marca de bebidas funcionales VitHit por £64 millones. Esta operación responde a la estrategia de Nichols de fortale",
+      "title": "Vimto maker Nichols buys functional drinks brand VitHit for £64m | FoodBev Media",
+      "summary": "Nichols plc, fabricante de bebidas icónicas como Vimto, adquirió la marca de bebidas funcionales VitHit (irlandesa) por £64 millones. Esta operación refuerza la estrategia corporativa de diversificaci",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nichols buys Irish vitamin drink brand VitHit for £64m",
+      "summary": "Nichols, fabricante de Vimto, adquirió VitHit, marca irlandesa de bebidas bajas en calorías enriquecidas con vitaminas y minerales, por £64 millones (€75m). VitHit, fundada en 2001, opera en el segmen",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Treasury Wine Estates reveals plan to improve \"returns\" in under pressure Americas - Just Drinks",
+      "summary": "Treasury Wine Estates, productor global de vinos, presentó un plan estratégico para mejorar retornos en América, región bajo presión competitiva y de márgenes. La iniciativa busca optimizar el portafo",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
