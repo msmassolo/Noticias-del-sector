@@ -2419,16 +2419,7 @@
   "2026-08-11": [
     {
       "title": "Extreme heat is reshaping Italy's sparkling wine industry with early harvests and nighttime picking",
-      "summary": "El cambio climático está acelerando la cosecha de uvas para espumantes italianos como Franciacorta, con adelantos de hasta 10 días debido a temperaturas extremas. Los productores implementan nuevas pr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una contracción de demanda en Argentina, presionada por ajuste de costos y cambios en hábitos de consumo del segmento. Este movimiento impacta directamente la composición",
+      "summary": "El cambio climático está acelerando la maduración de uvas en Italia, obligando a productores de Franciacorta a adelantar cosechas hasta 10 días e implementar recogidas nocturnas. Esta tendencia impact",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2437,7 +2428,7 @@
     },
     {
       "title": "Less sugar, more protein and fiber: the new consumption habits transforming PepsiCo’s portfolio",
-      "summary": "PepsiCo acelera la transformación de su portafolio global hacia bebidas sin azúcar, snacks con proteína y fibra, opciones de porción controlada e ingredientes simples, respondiendo a cambios en prefer",
+      "summary": "PepsiCo está reorientando su portafolio global hacia bebidas sin azúcar, snacks con proteína y fibra, y opciones de porciones controladas, respondiendo a cambios en preferencias de consumo. Esta trans",
       "companies": [
         "PepsiCo"
       ],
@@ -2448,8 +2439,29 @@
       "region": "Regional"
     },
     {
+      "title": "Starbucks tiene un inesperado motor de crecimiento y no es el café: Refreshers crece a doble dígito y fortalece el negocio de bebidas frías",
+      "summary": "Starbucks identifica las bebidas frías Refreshers como un motor de crecimiento de doble dígito, diversificando su portafolio más allá del café tradicional. Esta estrategia de expansión en categorías d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Em Teresina, equipe Heineken anuncia a chegada da versão sem glúten da marca - Portal Piauí Hoje",
+      "summary": "Heineken lanzó una versión sin glúten de su marca en el mercado brasileño (Teresina, Piauí). Esta innovación responde a la creciente demanda de opciones sin glúten en bebidas alcohólicas, un segmento ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "La industria de bebidas y alimentos alerta sobre los costes que provoca el nuevo reglamento de residuos - ABC",
-      "summary": "La industria de bebidas y alimentos advierte sobre impactos económicos significativos derivados de nuevas regulaciones de residuos. Esta normativa afecta directamente los costos operacionales, logísti",
+      "summary": "La industria de bebidas y alimentos enfrenta aumentos de costos significativos derivados de nuevas regulaciones sobre gestión de residuos. Este cambio regulatorio impacta directamente en la estructura",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2457,8 +2469,19 @@
       "region": "Regional"
     },
     {
+      "title": "Celsius Holdings announces leadership changes",
+      "summary": "Celsius Holdings realizó cambios en su estructura de liderazgo: el COO Eric Hanson se marchó y Tyler Bohannon, EVP de Ventas en Norteamérica, fue ascendido a Chief Commercial Officer. Bohannon liderar",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Campari vende Bisquit & Dubouché Cognac y Cabo Wabo Tequila a Cobblestone",
-      "summary": "Campari Group desinvierte dos marcas de espíritus premium: Bisquit & Dubouché Cognac y Cabo Wabo Tequila, vendidas a Cobblestone Brands (irlandesa). La operación se cierra antes del 31 de octubre y fo",
+      "summary": "Campari Group divulga la venta de dos marcas de espirituosos premium —Bisquit & Dubouché (Cognac) y Cabo Wabo (Tequila)— a Cobblestone Brands, operación que se cierra antes de octubre 2024. Esta desin",
       "companies": [
         "Campari Group"
       ],
@@ -2469,7 +2492,7 @@
     },
     {
       "title": "Kirin pierde ingresos por cerveza en Japón pese a las subidas de precios",
-      "summary": "Kirin Brewery reporta caída de 2.3% en ingresos de cerveza y categorías afines en Japón durante el primer semestre de 2026, pasando de 228.200 a 223.000 millones de yenes. A pesar de implementar aumen",
+      "summary": "Kirin Brewery reportó una caída de 2,3% en ingresos por cerveza y categorías afines en Japón durante el primer semestre de 2026, con una disminución de 5.200 millones de yenes a pesar de los aumentos ",
       "companies": [
         "Kirin Holdings"
       ],
@@ -2481,7 +2504,7 @@
     },
     {
       "title": "Treasury Wine Estates set to overhaul US business",
-      "summary": "Treasury Wine Estates (TWE), propietaria de marcas globales como Penfolds y Lindemans, anuncia una reestructuración de su cadena de suministro en EE.UU. ante la caída de demanda. La empresa enfrenta e",
+      "summary": "Treasury Wine Estates (TWE), propietario de marcas premium como Penfolds y Lindemans, reestructura su cadena de suministro en EE.UU. ante la caída de demanda. La compañía enfrenta exceso de capacidad ",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -2492,7 +2515,7 @@
     },
     {
       "title": "Japan Focus: Asahi’s growth plans, Calbee on personalised nutrition, food tech investment, and more",
-      "summary": "Asahi enfrentó un ciberataque crítico en septiembre 2025 que impactó operaciones y generó pérdidas significativas, marcando uno de los mayores incidentes de cibercrimen documentados en la industria al",
+      "summary": "Asahi enfrenta recuperación post-cyberattaque de septiembre 2025 que impactó significativamente operaciones y resultados financieros, uno de los mayores incidentes de ciberseguridad documentados en la",
       "companies": [
         "Asahi Group"
       ],
@@ -2504,7 +2527,7 @@
     },
     {
       "title": "Investing in Monster Beverage (MNST)? Don't Miss Assessing Its International Revenue Trends - Yahoo Finance",
-      "summary": "Monster Beverage reporta tendencias significativas en sus ingresos internacionales, un indicador clave para inversores y competidores en la industria de bebidas energéticas. La evaluación de la perfor",
+      "summary": "Monster Beverage reporta y analiza sus tendencias de ingresos internacionales, un indicador crítico para empresas de bebidas energéticas en mercados globales. El análisis sugiere que los inversores de",
       "companies": [
         "Monster Beverage"
       ],
@@ -2516,7 +2539,7 @@
     },
     {
       "title": "Monster Beverage posts record Q2 sales, Deutsche Bank raises price target to $100 - Pluang",
-      "summary": "Monster Beverage registró ventas récord en Q2, lo que generó que Deutsche Bank elevara su precio objetivo a $100 por acción. Este desempeño excepcional refleja la fortaleza continuada de la marca en e",
+      "summary": "Monster Beverage reportó ventas récord en Q2, consolidando su posición como jugador dominante en el segmento de bebidas energéticas. Deutsche Bank elevó su precio objetivo a $100, reflejando confianza",
       "companies": [
         "Monster Beverage"
       ],
@@ -2528,7 +2551,7 @@
     },
     {
       "title": "Afternoon Brief, August 10",
-      "summary": "Treasury Wine Estates (Australia) anuncia una reestructuración estratégica de su negocio en EE.UU. con cargo de US$394M post-impuesto. La operación incluye dejar en barbecho viñedos, deterioro de marc",
+      "summary": "Treasury Wine Estates, productor australiano de vinos, registra un cargo de US$394M por reestructuración de su operación en EE.UU., incluyendo cierre de viñedos, depreciación de marcas e inventarios. ",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -2539,8 +2562,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Jim Cramer Asks Why Constellation Brands (STZ) Stock Remains Cut in Half Despite Strong Earnings - Yahoo Finance UK",
-      "summary": "Constellation Brands, productor global de bebidas alcohólicas (Corona, Modelo, Robert Mondavi), experimenta una desconexión entre su desempeño operativo sólido y una depreciación significativa de su c",
+      "title": "Jim Cramer Asks Why Constellation Brands (STZ) Stock Remains Cut in Half Despite Strong Earnings - Yahoo Finance",
+      "summary": "Constellation Brands, uno de los mayores productores de bebidas alcohólicas con presencia global, enfrenta una desconexión entre sus sólidos resultados financieros y una caída del 50% en su cotización",
       "companies": [
         "Constellation Brands"
       ],
@@ -2551,7 +2574,7 @@
     },
     {
       "title": "Who really makes the world’s fastest-growing private label foods?",
-      "summary": "El crecimiento acelerado de marcas propias está transformando la estructura del mercado de alimentos y bebidas global, con participación del 40% en Europa Occidental según NIQ. Este fenómeno impacta d",
+      "summary": "El crecimiento de marcas propias está acelerando globalmente, alcanzando el 40% de participación en mercados desarrollados como Europa Occidental. Este fenómeno impacta directamente la estrategia de b",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2560,8 +2583,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Bev-Alc Sales Rut Likely to Last Until Labor Day, per Circana Weekly Scans | Brewbound",
+      "summary": "Las ventas de bebidas alcohólicas en EE.UU. continuaron contrayéndose un 2,2% interanual en la semana del 2 de agosto, alcanzando $1.452 mil millones en canales off-premise, según Circana. La caída es",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo sufre un desplome del 21% en el tequila de Estados Unidos",
-      "summary": "Diageo reporta una caída del 21% en ventas de tequila en Estados Unidos en el ejercicio cerrado al 30 de junio, revirtiendo un crecimiento previo del 16,9%. La contracción afecta tanto a Casamigos com",
+      "summary": "Diageo reporta una caída del 21% en ventas de tequila en Estados Unidos en su ejercicio fiscal 2024, revirtiendo el crecimiento del 16,9% del año anterior. El desplome afecta tanto a Casamigos como a ",
       "companies": [
         "Diageo"
       ],
@@ -2571,8 +2604,30 @@
       "region": "Mundial"
     },
     {
+      "title": "Nestlé and Danone under investigation in Austria following infant formula contamination recalls | FoodBev Media",
+      "summary": "Nestlé y Danone enfrentan investigación de fiscales austriacos por importantes retiros de fórmula infantil contaminada con cereulide en 2024. La crisis regulatoria impacta directamente en la categoría",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "7UP Debuts Lime-Forward Reformulation and Vertical Logo Redesign",
+      "summary": "Keurig Dr Pepper relanza 7UP con su mayor reformulación en 15 años y rediseño de packaging vertical, enfocándose en una propuesta de lima más pronunciada. La renovación impacta los cuatro principales ",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "How a Q2 Earnings Miss and Softer Volumes At Boston Beer Company (SAM) Has Changed Its Investment Story - simplywall.st",
-      "summary": "Boston Beer Company (SAM) reportó una caída de volúmenes y resultados por debajo de expectativas en Q2, alterando su narrativa de inversión. Este desempeño refleja presiones competitivas en el mercado",
+      "summary": "Boston Beer Company (SAM) registró una caída en volúmenes y no cumplió expectativas de ganancias en Q2, alterando significativamente su narrativa de inversión. Este desempeño débil refleja presiones c",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2583,19 +2638,8 @@
       "region": "Mundial"
     },
     {
-      "title": "7UP Debuts Lime-Forward Reformulation and Vertical Logo Redesign",
-      "summary": "Keurig Dr Pepper lanza reformulación y rediseño de packaging de 7UP en EE.UU., el primero en 15+ años, afectando cuatro variantes core del portafolio. La iniciativa busca diferenciar la marca en el se",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Molson Coors Beverage (TAP) Could Be 6% Undervalued Following Q2 Results And Deal Plans - simplywall.st",
-      "summary": "Molson Coors reportó resultados Q2 con planes de operaciones estratégicas que sugieren una subvaluación de 6% en su cotización actual. La compañía, uno de los mayores productores de bebidas alcohólica",
+      "summary": "Molson Coors reportó resultados de Q2 que sugieren una subvaluación de aproximadamente 6% según análisis de Simply Wall St, acompañado por planes de operaciones corporativas. La compañía, uno de los m",
       "companies": [
         "Molson Coors"
       ],
@@ -2606,18 +2650,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Functional drinks boom, but can brands prove they actually work?",
-      "summary": "Las bebidas funcionales representan uno de los segmentos de más rápido crecimiento en el mercado global de bebidas. La tendencia refleja un cambio estratégico importante en preferencias de consumo hac",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "poppi’s marketing director on turning Love Island buzz into UK growth - Retail Gazette",
-      "summary": "Poppi, marca de bebidas funcionales, aprovecha su visibilidad en el reality show Love Island para expandir su presencia en el mercado UK. La estrategia de marketing vincula entretenimiento masivo con ",
+      "summary": "Poppi, marca de bebidas funcionales, aprovecha la visibilidad generada por su presencia en Love Island para acelerar su expansión en el mercado británico. La estrategia de marketing busca convertir el",
       "companies": [
         "Poppi"
       ],
@@ -2628,20 +2662,41 @@
       "region": "Mundial"
     },
     {
-      "title": "Suntory Beverage & Food Limited (TSE:2587) Just Released Its Half-Yearly Earnings: Here's What Analysts Think - simplywall.st",
-      "summary": "Suntory Beverage & Food reportó resultados semestrales que generan evaluaciones de analistas. Como jugador global en bebidas no alcohólicas y alimentos, los movimientos de Suntory señalan tendencias e",
-      "companies": [
-        "Suntory Beverage & Food"
-      ],
+      "title": "Functional drinks boom, but can brands prove they actually work?",
+      "summary": "Las bebidas funcionales representan uno de los segmentos de mayor crecimiento en el mercado global de bebidas no alcohólicas. El segmento enfrenta un desafío crítico de credibilidad: los consumidores ",
+      "companies": [],
       "segments": [
         "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock holds as fiscal 2025 sales and margin stay in view - AD HOC NEWS",
+      "summary": "Pernod Ricard mantiene estabilidad en su cotización mientras el mercado monitorea sus objetivos de ventas y margen para el ejercicio fiscal 2025. Como uno de los mayores grupos de bebidas alcohólicas ",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
+      "title": "Rémy Cointreau consolidates India distribution, marketing with Monika Alcobev - Global Drinks Intel",
+      "summary": "Rémy Cointreau consolidó su estrategia de distribución y marketing en India mediante una alianza con Monika Alcobev, fortaleciendo su posicionamiento en el mercado asiático de destilados premium. La m",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Walmart to deploy 90 million Wiliot IoT tags by end of 2026",
-      "summary": "Walmart desplegará 90 millones de etiquetas IoT de Wiliot para 2026, acelerando la adopción de tecnología de rastreo sin batería en la cadena de suministro. Esta solución mejora la visibilidad de inve",
+      "summary": "Walmart desplegará 90 millones de etiquetas IoT de Wiliot para 2026, consolidando la trazabilidad de la cadena de suministro. La tecnología de etiquetas inteligentes sin batería permite monitoreo en t",
       "companies": [
         "Walmart"
       ],
@@ -2652,7 +2707,7 @@
     },
     {
       "title": "Nichols eyes functional drinks growth with £64m purchase of VITHIT",
-      "summary": "Nichols PLC adquiere VITHIT por £64 millones, expandiendo su portafolio hacia bebidas funcionales de bajo contenido calórico y azúcar. VITHIT, fundada en Dublín en 2001, ofrece bebidas enriquecidas co",
+      "summary": "Nichols plc adquiere VITHIT por £64 millones, expandiendo su portafolio hacia bebidas funcionales de bajo contenido calórico y azúcar. VITHIT, marca de bebidas vitaminadas fundada en Dublín, represent",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2661,8 +2716,8 @@
       "region": "Mundial"
     },
     {
-      "title": "BNP Paribas Adjusts Price Target on Monster Beverage to $98 From $84, Maintains Neutral Rating - marketscreener.com",
-      "summary": "BNP Paribas elevó el precio objetivo de Monster Beverage de USD 84 a USD 98, aunque mantiene su calificación neutral. Este ajuste refleja una revaluación del principal competidor global en el segmento",
+      "title": "Is Monster Beverage’s Best-Case Scenario Already Priced Into the Stock? - MarketBeat",
+      "summary": "Un análisis de valoración de Monster Beverage cuestiona si el mejor escenario de desempeño ya está reflejado en el precio de sus acciones. Esta evaluación es relevante para directivos de la industria ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2672,10 +2727,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Is Monster Beverage’s Best-Case Scenario Already Priced Into the Stock? - marketbeat.com",
-      "summary": "Análisis de valoración de Monster Beverage que cuestiona si el potencial de crecimiento de la empresa ya está reflejado en su precio de cotización. Relevante para el sector de bebidas energéticas, don",
+      "title": "Drinks giant Diageo unveils $1bn in cost cuts to tackle slowing growth - PressReader",
+      "summary": "Diageo, el mayor productor de bebidas alcohólicas del mundo, anunció un plan de reducción de costos por USD 1.000 millones para enfrentar el desaceleración del crecimiento en su negocio. Esta medida r",
       "companies": [
-        "Monster Beverage"
+        "Diageo"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2684,7 +2739,7 @@
     },
     {
       "title": "El vino español pierde fuerza en producción, consumo interior y ventas al exterior",
-      "summary": "La producción de vino en España acusa una contracción significativa en la campaña 2025/26, con caídas simultáneas en producción, consumo doméstico y exportaciones, mientras las importaciones crecen en",
+      "summary": "La producción vinícola española registra contracción en la campaña 2025/26 con caídas simultáneas en producción, consumo doméstico y exportaciones, mientras crece la competencia importadora. Este retr",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2694,7 +2749,7 @@
     },
     {
       "title": "Is the Three-Tier System Having Its Day of Reckoning?",
-      "summary": "Análisis crítico del sistema de tres niveles (Three-Tier System) en la industria de bebidas alcohólicas de EE.UU., que cuestiona la asimetría regulatoria: minoristas deben pagar a mayoristas en 30 día",
+      "summary": "Análisis crítico del sistema de tres niveles (productor-distribuidor-minorista) que rige la industria de bebidas alcohólicas en EE.UU., destacando una asimetría regulatoria: minoristas están obligados",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2704,7 +2759,7 @@
     },
     {
       "title": "International Delight expands seasonal range with apple butter coffee cake creamer | FoodBev Media",
-      "summary": "International Delight lanzó una crema de café edición limitada con sabor a Apple Butter Coffee Cake, expandiendo su portafolio estacional para otoño. La innovación combina sabores de manzana con notas",
+      "summary": "International Delight lanzó una nueva crema para café de edición limitada con sabor a Apple Butter Coffee Cake, expandiendo su portafolio estacional. Esta iniciativa refleja la estrategia de innovació",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2713,50 +2768,8 @@
       "region": "Mundial"
     },
     {
-      "title": "FSSAI crackdown: Thousands of Diageo whisky, vodka bottles seized - Business Standard",
-      "summary": "La autoridad regulatoria de seguridad alimentaria india (FSSAI) confiscó miles de botellas de whisky y vodka de Diageo en una operación de cumplimiento. Este incidente revela riesgos regulatorios sign",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands (NYSE:STZ) and the Case for Brand Muscle in a Shifting Bar Cart - Kalkine Media",
-      "summary": "Constellation Brands (STZ), uno de los principales productores de bebidas alcohólicas a nivel mundial, enfrenta cambios en las preferencias del consumidor que impactan su portafolio de marcas. La nota",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "MAGNETiC Beverage Expands MiNi MAG Line with New 5mg Option as Brand Grows Functional Beverage Network",
-      "summary": "MAGNETiC Beverage, marca de bebidas funcionales con infusión de THC derivado del cáñamo, expande su línea MiNi MAG con una nueva opción de 5mg tras el lanzamiento previo de 2mg. La empresa, con base e",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ingredient companies expanding reach",
-      "summary": "Nexira adquirió Keragum, empresa marroquí especializada en ingredientes a base de algarroba, como parte de su estrategia de crecimiento Ambitions 2030. Esta adquisición fortalece la posición de Nexira",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "7UP puts lime in the spotlight with refreshed identity",
-      "summary": "Keurig Dr Pepper reformuló 7UP con un enfoque liderado por lima, su primera evolución significativa en más de 15 años, para reposicionar el segmento de bebidas limón-lima valuado en miles de millones ",
+      "summary": "7UP (Keurig Dr Pepper) lanza su primer rediseño en 15+ años con una reformulación liderada por lima en su portafolio de bebidas gaseosas. La innovación incluye la línea 7UP Lime Lemon en variantes reg",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2767,7 +2780,7 @@
     },
     {
       "title": "7UP Says It’s Time For Lime With Brand Refresh, Reformulation - BevNET.com",
-      "summary": "7UP reformuló su producto por primera vez en 15 años, pivotando hacia una identidad con énfasis en lima. Este cambio estratégico refleja la tendencia del mercado de bebidas hacia perfiles de sabor más",
+      "summary": "7UP reformuló su producto por primera vez en 15 años para potenciar una identidad centrada en limón. Este cambio estratégico de producto busca diferenciar la marca en el competitivo segmento de bebida",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2778,7 +2791,7 @@
     },
     {
       "title": "Vimto maker Nichols buys functional drinks brand VitHit for £64m | FoodBev Media",
-      "summary": "Nichols, fabricante de Vimto, adquirió la marca de bebidas funcionales VitHit por £64 millones. La adquisición responde a la estrategia de diversificación del portafolio hacia bebidas diferenciadas co",
+      "summary": "Nichols, fabricante de Vimto, adquirió la marca de bebidas funcionales VitHit por £64 millones. Esta operación refuerza la estrategia del grupo de diversificar su portafolio hacia bebidas diferenciada",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2788,22 +2801,12 @@
     },
     {
       "title": "India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - Business Recorder",
-      "summary": "Autoridades de India confiscaron miles de botellas de whisky y vodka de Diageo en un operativo de control de seguridad alimentaria. El decomiso afecta a uno de los principales productores globales de ",
+      "summary": "Las autoridades sanitarias indias confiscaron miles de botellas de whisky y vodka de Diageo en operativos de control de seguridad alimentaria. El operativo afecta a uno de los mayores productores mund",
       "companies": [
         "Diageo"
       ],
       "segments": [
         "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nichols buys Irish vitamin drink brand VitHit for £64m",
-      "summary": "Nichols, fabricante de Vimto, adquirió VitHit, marca irlandesa de bebidas vitamínicas bajas en calorías, por £64 millones (€75m). VitHit opera desde 2001 con un portafolio de bebidas saborizadas y gas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
