@@ -2233,7 +2233,7 @@
   "2026-08-13": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída de consumo, obligando a productores a ajustar costos operativos y reposicionar estrategias comerciales. Este fenómeno refleja cambios en l",
+      "summary": "La cerveza artesanal enfrenta una crisis de consumo en Argentina con caída de demanda, lo que obliga a productores a ajustar costos y revisar modelos de negocio. El cambio de hábitos de consumo y pres",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2241,8 +2241,20 @@
       "region": "Local"
     },
     {
+      "title": "Heineken investe até R$ 460 milhões para concluir transição térmica renovável",
+      "summary": "Heineken invertirá hasta R$ 460 millones en implementar un sistema de generación térmica renovable en su cervecería de Jacareí (SP) en alianza con Veolia. El proyecto utiliza biomasa y biometano certi",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "PepsiCo vs Nestlé: Así se disputa el mercado mundial de snacks",
-      "summary": "PepsiCo y Nestlé lideran la disputa global en el mercado de snacks, competidiendo por la preferencia de millones de consumidores. Ambas corporaciones, con presencia relevante en bebidas, expandieron s",
+      "summary": "PepsiCo y Nestlé compiten por el liderazgo en el mercado global de snacks, uno de los segmentos de mayor crecimiento en la industria de consumo masivo. Esta rivalidad es estratégicamente relevante par",
       "companies": [
         "PepsiCo"
       ],
@@ -2252,8 +2264,8 @@
       "region": "Regional"
     },
     {
-      "title": "Bara abre 253 tiendas en un año: FEMSA acelera un formato de proximidad que complementa la red de OXXO",
-      "summary": "FEMSA aceleró su estrategia de retail de proximidad con la apertura de 253 tiendas Bara en un año, formato que complementa la red OXXO. Bara se posiciona como canal de distribución para bebidas y prod",
+      "title": "Escala perde força na corrida por aumento de vendas de bens de consumo, diz estudo da Bain",
+      "summary": "Según Bain & Company, la escala tradicional pierde relevancia como generador de valor en la industria de bebidas y consumo masivo. Entre 2022-2025, el mercado global creció 6,6% anual, pero los princi",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2261,8 +2273,29 @@
       "region": "Regional"
     },
     {
+      "title": "Bara abre 253 tiendas en un año: FEMSA acelera un formato de proximidad que complementa la red de OXXO",
+      "summary": "FEMSA aceleró la expansión de Bara, su formato de tiendas de proximidad, con 253 aperturas en un año. El modelo complementa la red de OXXO enfocándose en consumo cotidiano, incluyendo bebidas, abarrot",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "The Beer Industry’s New Era of Competition",
+      "summary": "Expiró en julio el decreto de consentimiento que regulaba la fusión de Anheuser-Busch InBev con SABMiller, removiendo restricciones impuestas por el Departamento de Justicia de EE.UU. sobre el mayor f",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Press Clips: Asahi USA’s New Bottling Line, Monster’s Q2 Bev-Alc Drag and an Iron Hill Update | Brewbound",
-      "summary": "Asahi USA implementa una nueva línea de embotellamiento, ampliando capacidad de producción en el mercado estadounidense. Monster experimenta arrastre en bebidas alcohólicas durante Q2, indicando desaf",
+      "summary": "Asahi USA implementa una nueva línea de envasado que mejora capacidad de producción y eficiencia operativa. Monster reporta un arrastre en su segmento de bebidas alcohólicas en Q2, reflejando presión ",
       "companies": [
         "Asahi Group"
       ],
@@ -2274,7 +2307,7 @@
     },
     {
       "title": "Olipop unveils new leadership to support next growth phase",
-      "summary": "Olipop, marca de bebidas funcionales estadounidense, designó a Christian Patiño Webb como CEO, mientras su fundador Ben Goodwin asume el rol de Executive Chairman y Head of Innovation. La empresa, que",
+      "summary": "Olipop, marca de bebidas funcionales estadounidense, anunció cambio en su liderazgo: Christian Patiño Webb asume como CEO mientras el fundador Ben Goodwin pasa a Executive Chairman y Head of Innovatio",
       "companies": [
         "Olipop"
       ],
@@ -2284,8 +2317,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Celsius Holdings reshuffles leadership team | FoodBev Media",
-      "summary": "Celsius Holdings anuncia cambios en su equipo de liderazgo senior con la designación de Tyler Bohannon como Chief Commercial Officer a partir de agosto de 2026. El movimiento responde a la estrategia ",
+      "title": "Celsius Holdings reshuffles leadership team",
+      "summary": "Celsius Holdings realizó cambios en su equipo de liderazgo senior mientras continúa expandiendo su portafolio multi-marca de bebidas energéticas. Este movimiento ocurre en un contexto donde Celsius es",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2296,21 +2329,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola vs. PepsiCo Stock After Q2 Earnings: Which Is the Better Buy? - TradingView",
-      "summary": "Análisis comparativo de Coca-Cola y PepsiCo tras resultados de Q2, evaluando performance accionaria y atractivo de inversión de ambas gigantes. Relevante para entender posicionamiento competitivo, sal",
+      "title": "US write-down hits Treasury Wine Estates hard as it reports AU$1 billion loss - Harpers Wine & Spirit Trade News",
+      "summary": "Treasury Wine Estates reportó una pérdida neta de AU$1.000 millones en FY26, impulsada principalmente por una depreciación de AU$1.300 millones en activos estadounidenses, incluyendo AU$558 millones e",
       "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
+        "Treasury Wine Estates"
       ],
       "segments": [
-        "financial_results",
-        "ma_and_strategy"
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "India inmoviliza 18.000 cajas de Diageo por irregularidades en botellas de plástico reciclado",
-      "summary": "Reguladores indios inmovilizaron 18.000 cajas de bebidas espirituosas de Diageo (whisky y vodka) en su planta de Bengaluru por incumplimientos en el marcado de botellas de plástico reciclado apto para",
+      "summary": "Autoridades indias inmovilizaron 18.000 cajas de bebidas alcohólicas (whisky y vodka) de Diageo por irregularidades en el marcado de botellas de plástico reciclado. El operativo afectó la planta de Un",
       "companies": [
         "Diageo"
       ],
@@ -2321,8 +2353,8 @@
       "region": "Mundial"
     },
     {
-      "title": "7Up unveils biggest brand evolution in over 15 years with lime-led reformulation | FoodBev Media",
-      "summary": "7Up (Keurig Dr Pepper) lanzó su mayor reformulación en más de 15 años con énfasis en limón-lima para el mercado estadounidense. La nueva fórmula 7Up Lime Lemon busca fortalecer la posición de la marca",
+      "title": "7Up unveils biggest brand evolution in over 15 years with lime-led reformulation",
+      "summary": "7UP (Keurig Dr Pepper) lanzó su mayor reformulación en 15+ años, centrando la estrategia en un perfil con énfasis en lima. Este movimiento refleja la necesidad de rejuvenecer una marca icónica en un m",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2333,7 +2365,7 @@
     },
     {
       "title": "La cerveza en China se estanca con una producción casi plana en el semestre",
-      "summary": "La producción cervecera china alcanzó 19,362 mil millones de kilolitros en H1 2026, con apenas 0,2% de crecimiento interanual, evidenciando estancamiento en el mayor mercado cervecero mundial. Este da",
+      "summary": "La producción de cerveza en China creció apenas 0,2% en el primer semestre de 2026, alcanzando 19,362 mil millones de kilolitros. Este estancamiento refleja una desaceleración significativa en el merc",
       "companies": [
         "AB InBev"
       ],
@@ -2344,7 +2376,7 @@
     },
     {
       "title": "Will Strong Q2 2026 International-Driven Results Change Monster Beverage's (MNST) Margin and Growth Narrative? - Yahoo Finance",
-      "summary": "Monster Beverage reportó resultados sólidos en Q2 2026 impulsados por su desempeño internacional, sugiriendo un cambio en su narrativa de márgenes y crecimiento. La expansión geografía está generando ",
+      "summary": "Monster Beverage reportó resultados sólidos en Q2 2026 impulsados por desempeño internacional, potencialmente modificando la narrativa de márgenes y crecimiento de la compañía. Este resultado es signi",
       "companies": [
         "Monster Beverage"
       ],
@@ -2356,7 +2388,7 @@
     },
     {
       "title": "Monster Beverage (MNST) Stock Looks Near Fair Value While Earnings Price In More - simplywall.st",
-      "summary": "Monster Beverage se cotiza cerca de su valor justo según análisis de valuación, con el precio de la acción reflejando expectativas de ganancias futuras. El análisis sugiere que la valoración actual no",
+      "summary": "Monster Beverage presenta una valuación cercana a su valor justo de mercado, con perspectivas de ganancias que anticipan crecimiento futuro. El análisis sugiere que el precio actual refleja adecuadame",
       "companies": [
         "Monster Beverage"
       ],
@@ -2368,7 +2400,7 @@
     },
     {
       "title": "Patrón Tequila Launches “100% Additive-Free Tequila” Campaign Celebrating Its Additive-Free History",
-      "summary": "Patrón Tequila lanzó una campaña global enfocada en su posicionamiento como tequila 100% libre de aditivos, reforzando su propuesta de valor basada en ingredientes naturales (agave azul Weber, agua y ",
+      "summary": "Patrón Tequila lanza campaña de marketing global destacando su posicionamiento como tequila 100% libre de aditivos, reforzando su propuesta de valor basada en ingredientes naturales (agave azul Weber,",
       "companies": [
         "Bacardi"
       ],
@@ -2378,19 +2410,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Alani Nu Revenue Higher Than CELSIUS (AGAIN!) | Celsius Holdings 2026 Q1 Update Ken Loach (1AwMMkm9x6) - Mshale",
-      "summary": "Alani Nu mantiene ingresos superiores a Celsius Holdings en el Q1 2026, reflejando dinámicas competitivas en el mercado de bebidas energéticas. Este benchmark entre dos jugadores clave del segmento de",
+      "title": "Diageo (LSE:DGE) And Coca-Cola HBC (LSE:CCH) Face Different Tests Of Beverage Demand as beverage demand and pricing Leads Today's Debate - Kalkine Media",
+      "summary": "Diageo y Coca-Cola HBC enfrentan desafíos distintos en la demanda de bebidas y estrategias de pricing, reflejando dinámicas divergentes en el mercado global. La noticia señala que ambos competidores c",
       "companies": [
-        "Celsius Holdings"
+        "The Coca-Cola Company",
+        "Diageo"
       ],
       "segments": [
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Treasury Wine Estates recorta producción en California tras asumir un ajuste de 458,6 millones",
-      "summary": "Treasury Wine Estates anuncia un ajuste de cadena de suministro de 458,6 millones de dólares australianos en California, incluyendo reducción física de producción, viñedos e inventarios. La decisión m",
+      "summary": "Treasury Wine Estates anuncia un ajuste de 458,6 millones de dólares australianos en su cadena de suministro en California, incluyendo reducción de capacidad productiva, vendimia y viñedos. Esta decis",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -2400,28 +2433,43 @@
       "region": "Mundial"
     },
     {
-      "title": "Fulton Brewing to Acquire Bemidji Brewing and Form True North Beverage | Brewbound",
-      "summary": "Fulton Brewing (Minneapolis) adquiere Bemidji Brewing, cervecería artesanal de 14 años, formando True North Beverage. La operación consolida activos y derechos de distribución en Minnesota, expandiend",
-      "companies": [],
+      "title": "Heineken stock holds steady as investors digest latest earnings and pricing strategy - AD HOC NEWS",
+      "summary": "Heineken reportó resultados de earnings y anunció ajustes en su estrategia de precios, manteniendo estabilidad en cotización mientras el mercado evalúa el impacto. Esta información es crítica para mon",
+      "companies": [
+        "Heineken"
+      ],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "UK Non-Alc Botivo Sells Pleasure, Not Moderation, as Non-Alc Drinks Mature | Brewbound",
-      "summary": "La marca británica de bebidas sin alcohol Botivo está reposicionando su estrategia de marketing hacia el hedonismo y el placer, alejándose del mensaje tradicional de moderación que caracteriza al segm",
-      "companies": [],
+      "title": "‘More to do,’ admits Treasury Wine Estates as 12-month sales decline – results data - Global Drinks Intel",
+      "summary": "Treasury Wine Estates reportó una caída en ventas en los últimos 12 meses, reconociendo la necesidad de implementar cambios estratégicos. Este resultado refleja presiones en el segmento de vinos premi",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock steadies as latest earnings and U.S. exposure frame 2026 outlook - AD HOC NEWS",
+      "summary": "Pernod Ricard reportó resultados que estabilizan su cotización bursátil, con la exposición al mercado estadounidense como factor clave para la proyección 2026. Como productor global de bebidas alcohól",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "GUT HOP Brings Real Hop Flavor and Functionality to the Non-Alcoholic Beverage Aisle",
-      "summary": "GUT HOP lanza una bebida sin alcohol con sabor de lúpulo, cero azúcar y cero calorías, enriquecida con fibra prebiótica y funcionalidad isotónica. El producto busca captar consumidores que desean la e",
+      "summary": "GUT HOP lanza una bebida sin alcohol a base de agua con sabor a lúpulo, posicionándose en el segmento de bebidas funcionales no alcohólicas con cero azúcar, cero calorías y fibra prebiótica. Este prod",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2430,8 +2478,29 @@
       "region": "Mundial"
     },
     {
+      "title": "UK Non-Alc Botivo Sells Pleasure, Not Moderation, as Non-Alc Drinks Mature | Brewbound",
+      "summary": "Botivo, marca británica de bebidas sin alcohol, está reposicionando su propuesta de valor en el mercado estadounidense, enfatizando placer y experiencia hedonista en lugar de moderación o salud. Este ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo challenges FSSAI rum ban in court, says action lacked 'due process' - business-standard.com",
+      "summary": "Diageo, principal productor global de bebidas alcohólicas, impugna ante tribunales indios una prohibición de ron emitida por la FSSAI (autoridad de seguridad alimentaria india) argumentando falta de d",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Hemp-Derived THC Beverage Maker Pharos Brands Names Former PepsiCo and Del Monte Executive Mathew ‘Matt’ Smith CEO - EIN News",
-      "summary": "Pharos Brands, fabricante de bebidas con THC derivado del cáñamo, designó como CEO a Mathew Smith, ejecutivo con trayectoria en PepsiCo y Del Monte. El movimiento refleja la profesionalización de star",
+      "summary": "Pharos Brands, productor de bebidas con THC derivado del cáñamo, designó como CEO a Mathew Smith, ejecutivo con trayectoria en PepsiCo y Del Monte. Este movimiento señala la profesionalización de la c",
       "companies": [
         "PepsiCo"
       ],
@@ -2442,132 +2511,39 @@
       "region": "Mundial"
     },
     {
+      "title": "Cointreau sitúa el regreso a los clásicos en el centro de la coctelería actual",
+      "summary": "Cointreau posiciona su licor de naranja como protagonista en la tendencia actual de recuperación de cócteles clásicos, vinculada a la preferencia del consumidor por bebidas con menos ingredientes y de",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Juice Burst Drinks Co profits slide on commodity inflation",
+      "summary": "Juice Burst Drinks Co reportó caída de 4.7% en ingresos (£25.7m) y contracción de 72.4% en ganancias pre-impuestos, atribuida a inflación significativa de commodities. El caso evidencia el impacto sev",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Las ventas minoristas de vino en Estados Unidos siguen cayendo por la debilidad de la demanda",
-      "summary": "Las ventas minoristas de vino en EE.UU. cayeron 4,1% en dólares y 5,5% en volumen en el período de 4 semanas al 1 de agosto, según NielsenIQ. Pese a la contracción de volumen, se registró un increment",
+      "summary": "Las ventas minoristas de vino en EE.UU. cayeron 4,1% en dólares y 5,5% en volumen en las cuatro semanas al 1 de agosto, según NielsenIQ. La brecha entre ambas métricas sugiere que los productores comp",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Yorkshire Tea makes fruit and herbal teas debut",
-      "summary": "Yorkshire Tea, líder en el mercado británico de té negro, lanza su primera línea de tés de frutas, hierbas y té verde para diversificar su portafolio ante el estancamiento de ventas en té negro conven",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cawston Press sales boosted by demand for natural drinks",
-      "summary": "Cawston Press registró un crecimiento de ventas de £1.9M (8.6%) alcanzando £23.8M anuales, impulsado por la demanda creciente de bebidas naturales a base de frutas y verduras. Sus líneas de jugos pren",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Las bebidas espirituosas encadenan caídas con un retroceso del -3,8% en facturación en Estados Unidos",
-      "summary": "Las bebidas espirituosas experimentaron una caída del -3,8% en facturación en Estados Unidos en las cuatro semanas al 1 de agosto, con retroceso de volumen del -4,2% según NielsenIQ. El 91% de la dism",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NORT launches a non-alcoholic stout",
-      "summary": "Modus Brewery lanza NORT, el primer stout sin alcohol en botella de Australia, disponible desde el 13 de agosto. El producto replica características organolépticas de una stout tradicional (sabor, aro",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "RYSE Fights Back Against 'Baseless' Lawsuit Challenging Its Protein Claims - BevNET.com",
-      "summary": "RYSE, marca de bebidas funcionales, enfrenta un juicio colectivo en California por alegaciones de que su línea Clear Protein contiene menos proteína de la advertida. El CEO Nic Stella desestima las ac",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Spirits Distribution: Original Southside Hits Major Retailers; SGWS Adds To Its Book - BevNET.com",
-      "summary": "The Original Southside RTD gin cocktail logró distribución en retailers mayoristas, mientras Southern Glazer's (SGWS) expandió su portafolio con vodka, ron y scotch. Estas adiciones reflejan consolida",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Visy Logistics partners with CCEP on linehaul transport - Food & Beverage Industry News",
-      "summary": "Visy Logistics estableció una asociación con Coca-Cola Europacific Partnership (CCEP) para servicios de transporte linehaul, optimizando la cadena de distribución de bebidas. Esta alianza fortalece la",
-      "companies": [
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mountaintop Beverage Plots Major Manufacturing Expansion with Fresh Capital - BevNET.com",
-      "summary": "Mountaintop Beverage anuncia expansión significativa de su capacidad de manufactura en tecnología aséptica de bajo ácido, agregando 250,000 pies cuadrados para responder a la creciente demanda de bebi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "La cerveza profundiza su caída en Estados Unidos por el frenazo de la demanda",
-      "summary": "La cerveza en Estados Unidos registró caídas significativas en las cuatro semanas hasta agosto 1: -3,9% en valor y -5,2% en volumen según NielsenIQ. El 71% del retroceso responde a debilitamiento de d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boston Beer Company Initiates $25 Million 10b5-1 Stock Buyback Program - Kalkine Media",
-      "summary": "Boston Beer Company lanzó un programa de recompra de acciones por $25 millones bajo la regla 10b5-1, señalando confianza en su valuación y retorno de valor a accionistas. Esta decisión refleja solidez",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo challenges FSSAI rum ban in court, says action lacked 'due process' - Business Standard",
-      "summary": "Diageo impugna ante tribunales indios una prohibición de ron dictada por la Autoridad de Seguridad Alimentaria y Estándares (FSSAI), argumentando que faltó debido proceso. La medida regulatoria afecta",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "regulation_tax_policy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Fulton compra las marcas de Bemidji Brewing para consolidar su red en Minnesota",
-      "summary": "Fulton Brewing adquiere las marcas y derechos de distribución de Bemidji Brewing Company, consolidando su posición en Minnesota mediante la creación de True North Beverage, una nueva entidad que agrup",
+      "summary": "Fulton Brewing adquiere las marcas y derechos de distribución de Bemidji Brewing Company, consolidando su posición en Minnesota mediante la creación de True North Beverage, una nueva estructura que ag",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2576,19 +2552,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Indian authorities seize Diageo products worth $1.6 million - The Spirits Business",
-      "summary": "Autoridades indias decomisaron productos de Diageo valuados en USD 1.6 millones, evidenciando presión regulatoria o cumplimiento fiscal en el mercado. Este incidente afecta al principal productor glob",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Las ventas de alcohol en Estados Unidos encadenan caídas por el freno del consumo",
-      "summary": "Las ventas de bebidas alcohólicas en EE.UU. cayeron 3,3% en valor y 5,0% en volumen en las cuatro semanas al 1 de agosto, alcanzando USD 8.500 millones según NielsenIQ. La contracción responde a debil",
+      "summary": "Las ventas de bebidas alcohólicas en Estados Unidos cayeron 3,3% en valor y 5,0% en volumen en las cuatro semanas al 1 de agosto, según NielsenIQ. La contracción responde a una demanda débil de final ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2598,11 +2563,64 @@
     },
     {
       "title": "Estados Unidos concentró casi seis de cada diez euros perdidos por las exportaciones italianas de vino",
-      "summary": "Italia experimentó una caída significativa en exportaciones de vino hacia Estados Unidos en el primer semestre de 2026, con ventas reducidas 15,4% en valor (709 millones de euros) y 6% en volumen (141",
+      "summary": "Italia registró una caída del 15,4% en exportaciones de vino a Estados Unidos durante enero-mayo 2026, perdiendo 129 millones de euros (60% de las pérdidas totales de exportación). Las ventas cayeron ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Las bebidas espirituosas encadenan caídas con un retroceso del -3,8% en facturación en Estados Unidos",
+      "summary": "Las bebidas espirituosas en EE.UU. registran caída de facturación del -3,8% y volumen de -4,2% en las cuatro semanas al 1 de agosto, según NielsenIQ. El descenso se atribuye principalmente a debilitam",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RYSE Fights Back Against 'Baseless' Lawsuit Challenging Its Protein Claims - BevNET.com",
+      "summary": "RYSE, marca de bebidas funcionales, enfrenta una demanda colectiva en California por presuntas discrepancias en el contenido de proteína de su línea Clear Protein versus lo publicitado. El CEO rechaza",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Spirits Distribution: Original Southside Hits Major Retailers; SGWS Adds To Its Book - BevNET.com",
+      "summary": "Original Southside, un cóctel RTD de ginebra, logró colocación en retailers mayoristas, mientras Southern Glazer's (SGWS) expande su cartera con vodka, ron y scotch. Simultáneamente, distribuidoras es",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Asahi Beer USA adds high-speed bottling line at Wisconsin facility",
+      "summary": "Asahi Beer USA implementó una nueva línea de embotellado de alta velocidad en su planta de Octopi en Wisconsin, incrementando su capacidad productiva en Estados Unidos. Esta inversión en infraestructu",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Indian authorities seize Diageo products worth $1.6 million - The Spirits Business",
+      "summary": "Autoridades indias confiscaron productos de Diageo valuados en USD 1,6 millones, evidenciando presión regulatoria en el mercado de spirits de India. El operativo refleja intensificación de controles s",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
