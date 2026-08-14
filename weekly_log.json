@@ -2325,7 +2325,7 @@
   "2026-08-14": [
     {
       "title": "El consumo en México prende las alertas: ventas de ANTAD avanzan apenas 1% y Walmart, Alsea, Liverpool y Bimbo ajustan sus estrategias",
-      "summary": "El consumo en México muestra debilidad con ventas de retail (ANTAD) creciendo apenas 1%, impulsando a grandes jugadores como Walmart, Alsea, Liverpool y Bimbo a revisar sus estrategias de inversión. E",
+      "summary": "El consumo en México muestra debilidad con crecimiento de apenas 1% en ventas de ANTAD, generando ajustes estratégicos en retailers y productores clave como Walmart, Alsea, Liverpool y Grupo Bimbo. La",
       "companies": [
         "Walmart"
       ],
@@ -2337,7 +2337,7 @@
     },
     {
       "title": "PepsiCo® presenta PopCorners® con una campaña que celebra la evolución de la experiencia de disfrutar palomitas",
-      "summary": "PepsiCo lanza PopCorners®, una innovación en su portafolio de snacks que rediseña el formato tradicional de palomitas con forma triangular y nueva textura. El lanzamiento incluye campaña de marketing ",
+      "summary": "PepsiCo lanza PopCorners®, una innovación en la categoría de snacks que redefine el formato tradicional de palomitas con forma triangular y nueva textura. El lanzamiento representa una estrategia de d",
       "companies": [
         "PepsiCo"
       ],
@@ -2348,7 +2348,7 @@
     },
     {
       "title": "Coca-Cola cambia de imagen y el negro se convierte en la clave de sus bebidas sin azúcar en México",
-      "summary": "Coca-Cola implementa rediseño de identidad visual en México, con el negro como color predominante en su portafolio de bebidas sin azúcar. La estrategia busca diferenciación clara en góndola y mayor id",
+      "summary": "Coca-Cola rediseña la identidad visual de su portafolio de bebidas sin azúcar en México, adoptando el negro como elemento clave de diferenciación. El cambio es puramente visual y de packaging, sin mod",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2359,18 +2359,19 @@
       "region": "Regional"
     },
     {
-      "title": "Inflação na Argentina volta a acelerar em julho após três meses e atinge 2,1%",
-      "summary": "La inflación mensual en Argentina alcanzó 2,1% en julio, interrumpiendo tres meses de desaceleración, mientras que la inflación acumulada a 12 meses llega a 33,8%. Este repunte inflacionario impacta d",
-      "companies": [],
+      "title": "Mercados nesta sexta, JCP da Embraer e dividendo da LWSA, notícia da Allos, Ambev, Cosan e resultados do 2T26 de várias companhias - financenews.com.br",
+      "summary": "Ambev reporta resultados del segundo trimestre de 2026 en un contexto de movimientos financieros clave del mercado brasileño. Los resultados trimestrales de la principal cervecera de América Latina so",
+      "companies": [
+        "Ambev"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
+        "financial_results"
       ],
       "region": "Regional"
     },
     {
-      "title": "Heineken antecipa Ultimate no Nordeste em corrida por cerveja com menos caloria - movimentoeconomico.com.br",
-      "summary": "Heineken adelanta el lanzamiento de Heineken Ultimate en la región Nordeste de Brasil, posicionándose en el segmento de cervezas bajas en calorías. Esta estrategia responde a la creciente demanda por ",
+      "title": "Heineken antecipa Ultimate no Nordeste em corrida por cerveja com menos caloria - Movimento Econômico",
+      "summary": "Heineken adelanta el lanzamiento de su cerveza Ultimate (baja en calorías) en la región Nordeste de Brasil, respondiendo a la demanda creciente de opciones más saludables en el segmento de cerveza lig",
       "companies": [
         "Heineken"
       ],
@@ -2380,8 +2381,20 @@
       "region": "Regional"
     },
     {
+      "title": "The VinePair Podcast: What to Make of Diageo’s New Direction",
+      "summary": "Diageo, principal competidor global en bebidas alcohólicas, anunció cambios estratégicos en su dirección que incluyen mayor enfoque en bebidas listas para consumir (RTD) y expansión de marcas orientad",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "The Beer Industry’s New Era of Competition",
-      "summary": "El decreto de consentimiento de 10 años que regulaba la fusión de Anheuser-Busch InBev (A-B) con SABMiller expiró en julio, eliminando las restricciones impuestas por el Departamento de Justicia de EE",
+      "summary": "La década de restricciones impuestas por el Departamento de Justicia de EE.UU. a Anheuser-Busch InBev tras su fusión con SABMiller expiró en julio, eliminando límites regulatorios sobre el fabricante ",
       "companies": [
         "AB InBev"
       ],
@@ -2393,7 +2406,7 @@
     },
     {
       "title": "High-ABV RTDs Are On The Rise, But They’re More Than Buzz For Your Buck | Brewbound",
-      "summary": "La categoría de bebidas RTD (ready-to-drink) de alto contenido alcohólico está experimentando crecimiento significativo, liderada por marcas innovadoras como BuzzBallz (propiedad de Sazerac). El fenóm",
+      "summary": "El mercado de bebidas RTD (ready-to-drink) de alto contenido alcohólico está en expansión, con productos como BuzzBallz (de Sazerac) liderando la categoría mediante formatos innovadores y entretenidos",
       "companies": [
         "Sazerac Company"
       ],
@@ -2404,8 +2417,19 @@
       "region": "Mundial"
     },
     {
+      "title": "US snack giants find their fastest growth is no longer at home",
+      "summary": "Los gigantes estadounidenses de snacks y alimentos (Mondelēz, Kraft Heinz, Hershey, PepsiCo) reportan en Q2 2026 que el crecimiento internacional supera al mercado doméstico por primera vez. América L",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Budweiser Brews Field of Dreams Beer with Baseball Bats",
-      "summary": "Budweiser lanza Beechwood Reserve, una edición limitada con packaging especial para el MLB Field of Dreams Game 2026, que incluye cerveza envejecida con bates auténticos de Grandes Ligas. Esta iniciat",
+      "summary": "Budweiser lanza Beechwood Reserve, una edición limitada envejecida con bates de béisbol autenticados por MLB, para el Field of Dreams Game 2026 en Iowa. La iniciativa combina marketing experiencial co",
       "companies": [
         "AB InBev"
       ],
@@ -2417,7 +2441,7 @@
     },
     {
       "title": "US write-down hits Treasury Wine Estates hard as it reports AU$1 billion loss - Harpers Wine & Spirit Trade News",
-      "summary": "Treasury Wine Estates reportó una pérdida neta de AU$1.000 millones en FY26, principalmente por ajustes contables de AU$1.300 millones vinculados a depreciación de activos estadounidenses e impairment",
+      "summary": "Treasury Wine Estates reportó una pérdida de AU$1.000 millones en FY26, principalmente por una revaluación a la baja de activos estadounidenses por AU$1.300 millones. La crisis refleja problemas estru",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -2429,7 +2453,7 @@
     },
     {
       "title": "Pernod Ricard reordena su negocio para impulsar los espirituosos claros",
-      "summary": "Pernod Ricard reorganiza su estructura de negocio agrupando espirituosos claros en una unidad única, reorientando la estrategia hacia ocasiones de consumo en lugar de marcas individuales. El nuevo VP ",
+      "summary": "Pernod Ricard reorganiza su estructura empresarial para consolidar los espirituosos claros en una unidad única, reorientando la estrategia desde marcas individuales hacia ocasiones de consumo. La comp",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2440,22 +2464,10 @@
       "region": "Mundial"
     },
     {
-      "title": "“We’re Making Significant Progress”: PepsiCo CSO Jim Andrew on New ESG Report - Food & Beverage Outlook",
-      "summary": "PepsiCo divulgó nuevos avances en su estrategia ESG a través de su Chief Sustainability Officer Jim Andrew. Este informe refleja el posicionamiento de un competidor global clave en sustentabilidad, te",
+      "title": "Booze News Weekly Roundup: Beyoncé Secures Ownership of SirDavis Whisky, a New $11,000 Tequila, and More",
+      "summary": "Treasury Wine Estates registró devaluaciones significativas en su cartera, mientras Beyoncé aseguró la propiedad total de SirDavis Whisky, consolidando su participación en el segmento de bebidas alcoh",
       "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "🎧📺What to Make of Diageo’s New Direction | The VinePair Podcast",
-      "summary": "Diageo anunció un cambio estratégico para modernizar su enfoque de negocio, incluyendo ajustes en su portafolio y distribución. Esta reorientación refleja la necesidad del gigante de bebidas alcohólic",
-      "companies": [
-        "Diageo"
+        "Treasury Wine Estates"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2464,7 +2476,7 @@
     },
     {
       "title": "Olipop appoints former Electrolit CEO Christian Patiño Webb as chief executive | FoodBev Media",
-      "summary": "Olipop, marca de gaseosas funcionales, designó a Christian Patiño Webb como CEO. Webb es ex CEO de Electrolit, empresa líder en bebidas de rehidratación, lo que evidencia el fortalecimiento de lideraz",
+      "summary": "Olipop designó a Christian Patiño Webb, exCEO de Electrolit, como nuevo CEO. Patiño Webb lleva experiencia en la categoría de bebidas funcionales y de hidratación, lo que señala la apuesta de Olipop p",
       "companies": [
         "Olipop"
       ],
@@ -2474,8 +2486,19 @@
       "region": "Mundial"
     },
     {
+      "title": "New Beverages: Poppi Sour Apple, MALK, Milonga, 5-Hour Energy - BevNET.com",
+      "summary": "Lanzamiento de nuevas variantes de productos en la categoría de bebidas funcionales y energéticas: Poppi introduce sabor Sour Apple, 5-Hour Energy lanza edición temática, Bulletproof expande su portfo",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Monster Beverage stock steadies after Q2 earnings beat as margin questions linger - AD HOC NEWS",
-      "summary": "Monster Beverage superó expectativas en resultados Q2, aunque el mercado mantiene cautela respecto a la evolución de márgenes operativos. La compañía, líder global en bebidas energéticas con presencia",
+      "summary": "Monster Beverage superó expectativas en resultados del Q2, lo que estabilizó su cotización bursátil, aunque persisten interrogantes sobre márgenes operativos. Como competidor global clave en bebidas e",
       "companies": [
         "Monster Beverage"
       ],
@@ -2487,7 +2510,7 @@
     },
     {
       "title": "Asahi Beer USA adds high-speed bottling line at Wisconsin facility | FoodBev Media",
-      "summary": "Asahi Beer USA instaló una nueva línea de embotelamiento de alta velocidad en su planta de producción Octopi en Wisconsin, ampliando su capacidad de envasado doméstica. Esta inversión en infraestructu",
+      "summary": "Asahi Beer USA instaló una nueva línea de embotellado de alta velocidad en su planta de Waunakee, Wisconsin, en colaboración con Octopi beverage. La inversión responde a la demanda sostenida de cervez",
       "companies": [
         "Asahi Group"
       ],
@@ -2499,7 +2522,7 @@
     },
     {
       "title": "Constellation Brands stock eases after Q2 revenue beat but softer full year guidance - AD HOC NEWS",
-      "summary": "Constellation Brands reportó ingresos superiores en Q2 pero revisó a la baja su guidance para el año completo, lo que presionó el precio de su acción. Como uno de los mayores productores de bebidas al",
+      "summary": "Constellation Brands reportó un beat en ingresos de Q2, pero redujo la guidance para el año completo, generando presión en el precio de la acción. La compañía es uno de los mayores productores mundial",
       "companies": [
         "Constellation Brands"
       ],
@@ -2510,7 +2533,7 @@
     },
     {
       "title": "Adult Non-Alc In 2026: A $1 Billion Category With a Splitting Playbook | Brewbound",
-      "summary": "El segmento de bebidas sin alcohol para adultos (ANA) alcanzó USD 1.08 mil millones en ventas fuera de local en EE.UU. durante 2026, representando una categoría consolidada que ya supera el umbral de ",
+      "summary": "El mercado de bebidas sin alcohol para adultos (ANA) alcanzó USD 1.08 mil millones en ventas off-premise en EE.UU. durante 2026, consolidándose como categoría establecida. El crecimiento está desacele",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2520,7 +2543,7 @@
     },
     {
       "title": "CPG Week Podcast: Defining Ultraprocessed, Celsius Cools Off, Reinventing 7UP",
-      "summary": "El Departamento de Salud de EE.UU. propuso la primera definición federal de alimentos ultraprocesados, con potencial impacto regulatorio en bebidas. Celsius enfrentó un trimestre difícil, señalando vo",
+      "summary": "El gobierno federal estadounidense propuso la primera definición oficial de alimentos ultraprocesados, generando potencial regulatorio crítico para la industria de bebidas. Celsius experimentó un trim",
       "companies": [
         "Keurig Dr Pepper",
         "Celsius Holdings"
@@ -2531,8 +2554,29 @@
       "region": "Mundial"
     },
     {
+      "title": "World Cup Is Gone. Beer’s Summer Blues Remain. Now What?",
+      "summary": "El Mundial de fútbol del verano generó expectativas en la industria cervecera como oportunidad para impulsar ventas en un sector en dificultades. Sin embargo, el análisis sugiere que los volúmenes de ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Western Wealth Management LLC Makes New Investment in Constellation Brands Inc $STZ - MarketBeat",
+      "summary": "Western Wealth Management realizó una nueva inversión en Constellation Brands (STZ), uno de los mayores productores de bebidas alcohólicas en América del Norte con posiciones significativas en cerveza",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Heineken stock holds steady as investors digest latest earnings and pricing strategy - AD HOC NEWS",
-      "summary": "Heineken mantiene estabilidad en cotización mientras el mercado analiza sus últimos resultados y estrategia de precios. La noticia refleja la reacción de inversores a la gestión financiera y decisione",
+      "summary": "Heineken mantiene estabilidad accionaria tras publicar resultados financieros y comunicar su estrategia de precios. La noticia refleja la respuesta del mercado a las decisiones de pricing de la cervec",
       "companies": [
         "Heineken"
       ],
@@ -2543,20 +2587,8 @@
       "region": "Mundial"
     },
     {
-      "title": "‘More to do,’ admits Treasury Wine Estates as 12-month sales decline – results data - Global Drinks Intel",
-      "summary": "Treasury Wine Estates reportó una caída en las ventas de los últimos 12 meses, reconociendo que aún hay trabajo pendiente en su estrategia de recuperación. Este resultado es significativo para el segm",
-      "companies": [
-        "Treasury Wine Estates"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Is Weaker Q2 Earnings Amid Buybacks Altering The Investment Case For Molson Coors (TAP)? - simplywall.st",
-      "summary": "Molson Coors (TAP) reportó resultados débiles en Q2 mientras continúa con programas de recompra de acciones, generando cuestionamientos sobre la asignación de capital. La noticia es relevante para mon",
+      "summary": "Molson Coors reportó resultados débiles en Q2 mientras continúa con programas de recompra de acciones, generando interrogantes sobre la estrategia de retorno de capital versus reinversión operativa. E",
       "companies": [
         "Molson Coors"
       ],
@@ -2568,7 +2600,7 @@
     },
     {
       "title": "Pernod Ricard stock steadies as latest earnings and U.S. exposure frame 2026 outlook - AD HOC NEWS",
-      "summary": "Pernod Ricard estabiliza su cotización tras publicar resultados que redefinen perspectivas para 2026, con particular énfasis en su exposición al mercado estadounidense. La evolución del grupo francés ",
+      "summary": "Pernod Ricard estabiliza su cotización tras divulgar resultados que enmarcan perspectivas para 2026, con énfasis en su exposición al mercado estadounidense. La noticia es relevante para monitorear din",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2579,7 +2611,7 @@
     },
     {
       "title": "Rhinegeist Wades into RTDs with Cincy Splash | Brewbound",
-      "summary": "Rhinegeist Brewing expande su portafolio hacia el segmento de bebidas RTD (ready-to-drink) con el lanzamiento de Cincy Splash, cócteles de vodka en lata de 355ml con tres sabores (piña, cereza negra, ",
+      "summary": "Rhinegeist Brewing lanza Cincy Splash, una línea de cócteles listos para beber (RTD) a base de vodka en tres sabores (Piña, Cereza Negra y Durazno), con 4.5% ABV y 100 calorías en latas slim de 355ml.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2589,7 +2621,7 @@
     },
     {
       "title": "Hemp-Derived THC Beverage Maker Pharos Brands International Names Former PepsiCo and Del Monte Executive Mathew ‘Matt’ Smith President and CEO - citybiz",
-      "summary": "Pharos Brands International, productora de bebidas con THC derivado del cáñamo, nombró a Mathew Smith como Presidente y CEO. Smith posee experiencia ejecutiva en PepsiCo y Del Monte, lo que señala la ",
+      "summary": "Pharos Brands International, fabricante de bebidas con THC derivado del cáñamo, nombró como Presidente y CEO a Mathew Smith, ejecutivo con trayectoria en PepsiCo y Del Monte. Este movimiento señala pr",
       "companies": [
         "PepsiCo"
       ],
@@ -2601,7 +2633,7 @@
     },
     {
       "title": "Cointreau sitúa el regreso a los clásicos en el centro de la coctelería actual",
-      "summary": "Cointreau identifica una tendencia estratégica en la coctelería global: el retorno a recetas clásicas con menos ingredientes y mayor trazabilidad de origen. La marca francesa posiciona su licor de nar",
+      "summary": "Cointreau posiciona su licor de naranja como protagonista en la tendencia global de retorno a cócteles clásicos, identificando una preferencia del consumidor por formulaciones simples con ingredientes",
       "companies": [
         "Remy Cointreau"
       ],
@@ -2612,7 +2644,7 @@
     },
     {
       "title": "Rogue’s Dead Guy Gets New Lease on Life as Bid for Bankrupt Brewery’s IP Reaches $400k",
-      "summary": "Rogue Ales & Spirits, marca de cerveza artesanal estadounidense, está en liquidación (Chapter 7) y su propiedad intelectual fue ofertada en $400k por la agencia digital británica Silver Scope Media. L",
+      "summary": "Rogue Ales & Spirits, empresa cervecera que entró en bancarrota hace nueve meses, tiene su propiedad intelectual (incluyendo marcas como Dead Guy) en subasta judicial. La agencia británica Silver Scop",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2621,18 +2653,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Juice Burst Drinks Co profits slide on commodity inflation",
-      "summary": "Juice Burst Drinks Co reportó caída de 4.7% en ingresos (£25.7m) y contracción de 72.4% en ganancias pre-impuesto, atribuida a inflación significativa en commodities. Este caso ilustra la presión de c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Social Rundown: McDonald’s Red Bull drinks, Taco Bell x Peso Pluma & Chick-fil-A new fall menu - Texomashomepage.com",
-      "summary": "McDonald's lanzó bebidas de marca Red Bull, Taco Bell ejecutó una colaboración con el artista Peso Pluma, y Chick-fil-A presentó su menú de otoño. Estos movimientos reflejan la estrategia de diferenci",
+      "summary": "McDonald's lanza bebidas co-branded con Red Bull, mientras Taco Bell ejecuta una colaboración con el artista Peso Pluma y Chick-fil-A presenta su menú de otoño. Estos movimientos reflejan estrategias ",
       "companies": [
         "Red Bull"
       ],
@@ -2642,8 +2664,29 @@
       "region": "Mundial"
     },
     {
+      "title": "Mountain Dew Is Bringing Back the Soda That Sold Out in 8 Minutes - allrecipes.com",
+      "summary": "Mountain Dew relanza un producto que agotó sus existencias en 8 minutos, evidenciando fuerte demanda de ofertas limitadas y experiencias de exclusividad en bebidas carbonatadas. La estrategia de reint",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Freedom to Focus: Ska Begins 4th Decade Refocused on Beer, Following Ownership Change | Brewbound",
+      "summary": "Ska Brewing, bajo nueva propiedad, inicia su cuarta década reenfocándose exclusivamente en cerveza tras una reestructuración operativa y de portafolio. La limpieza de operaciones internas y simplifica",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Senior Diageo exec counters beer as no & low ‘obvious choice’ claim - Global Drinks Intel",
-      "summary": "Un ejecutivo senior de Diageo cuestiona la posición del segmento cervecero en la categoría de bebidas sin y bajas en alcohol, argumentando que no es la opción 'obvia'. La declaración refleja la estrat",
+      "summary": "Un ejecutivo senior de Diageo cuestiona la posición del cerveza como la opción obvia en la categoría de bebidas sin y bajas calorías. La declaración refleja la estrategia competitiva de Diageo para po",
       "companies": [
         "Diageo"
       ],
@@ -2653,29 +2696,11 @@
       "region": "Mundial"
     },
     {
-      "title": "Freedom to Focus: Ska Begins 4th Decade Refocused on Beer, Following Ownership Change | Brewbound",
-      "summary": "Ska Brewing Company inicia su cuarta década bajo nuevo liderazgo refocalizándose en su negocio cervecero central tras cambio de propiedad. La estrategia incluye optimización operacional interna y raci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+      "title": "‘The next test is execution’: former CEO welcomes Treasury Wine Estates reset - The Drinks Business",
+      "summary": "Treasury Wine Estates, uno de los mayores productores de vino a nivel mundial, está atravesando un reset estratégico tras cambios en su liderazgo ejecutivo. El foco se centra en la capacidad de ejecuc",
+      "companies": [
+        "Treasury Wine Estates"
       ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El espumoso resiste la caída del vino en Rusia como única categoría al alza",
-      "summary": "Las ventas de vino en Rusia cayeron 2,8% en el primer semestre de 2024, pero los espumosos y champagnes crecieron 3,7%, convirtiéndose en la única categoría alcista del segmento vinícola. Este dato es",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Spirits Distribution: Original Southside Hits Major Retailers; SGWS Adds To Its Book - BevNET.com",
-      "summary": "The Original Southside, un cóctel RTD de gin, ingresa a retailers mayores mientras Southern Glazer's (SGWS) expande su portafolio en vodka, ron y scotch. Simultáneamente, distribuidores aprovechan el ",
-      "companies": [],
       "segments": [
         "consumer_market_trends",
         "distribution_execution"
@@ -2683,10 +2708,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Treasury Wine Estates profits slump amid US write-off",
-      "summary": "Treasury Wine Estates reportó pérdidas por A$1.1bn tras ejecutar un reset estratégico que incluyó depreciaciones por A$1.3bn. El principal impacto proviene de la reestructuración del negocio estadouni",
+      "title": "🎧📺What to Make of Diageo’s New Direction | The VinePair Podcast",
+      "summary": "Diageo, gigante mundial de bebidas alcohólicas, anunció cambios estratégicos para modernizar su operación y enfoque comercial. La discusión aborda iniciativas de transformación del portafolio y actual",
       "companies": [
-        "Treasury Wine Estates"
+        "Diageo"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2694,33 +2719,22 @@
       "region": "Mundial"
     },
     {
-      "title": "Asahi lleva toda su Super Dry a producción local en Estados Unidos",
-      "summary": "Asahi inaugura línea de embotellado en Wisconsin (EE.UU.) con capacidad de 20.000 botellas/hora, completando la producción local de Super Dry en sus tres presentaciones (lata, barril y botella). Esta ",
+      "title": "‘More to do,’ admits Treasury Wine Estates as 12-month sales decline – results data - Global Drinks Intel",
+      "summary": "Treasury Wine Estates reportó caída de ventas en los últimos 12 meses, con management reconociendo necesidad de acciones correctivas. Como uno de los mayores productores mundiales de vino (marcas Penf",
       "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Asahi Beer USA adds high-speed bottling line at Wisconsin facility - FoodBev Media",
-      "summary": "Asahi Beer USA instaló una línea de embotellado de alta velocidad en su planta de Wisconsin, incrementando capacidad productiva y eficiencia operativa. Esta inversión en infraestructura responde a la ",
-      "companies": [
-        "Asahi Group"
+        "Treasury Wine Estates"
       ],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola (NYSE:KO) In Focus As Volume Growth Anchors A Steady Picture - Kalkine Media",
-      "summary": "Coca-Cola reporta crecimiento en volumen de ventas que mantiene su desempeño estable en el mercado. El análisis de Kalkine Media destaca que el aumento de volumen representa un ancla positiva para la ",
+      "title": "Asahi lleva toda su Super Dry a producción local en Estados Unidos",
+      "summary": "Asahi inauguró una nueva línea de embotellado en Wisconsin (EE.UU.) para Super Dry con capacidad de 20.000 botellas/hora, completando la producción local de sus tres formatos principales (botella, lat",
       "companies": [
-        "The Coca-Cola Company"
+        "Asahi Group"
       ],
       "segments": [
         "company_news"
