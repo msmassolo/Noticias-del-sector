@@ -2338,7 +2338,7 @@
   "2026-08-17": [
     {
       "title": "Supermercados se reconvierten con la baja del consumo y los nuevos hábitos: locales más chicos y menos costos",
-      "summary": "Los supermercados argentinos adaptan su formato con locales más pequeños y menor costo operativo ante la caída del consumo. El 36% de consumidores afirma que su sueldo solo alcanza para lo esencial (a",
+      "summary": "Las cadenas ensayan distintas estrategias para atraer a clientes que compran menos y más frecuente.Cierran grandes locales poco eficientes y que dejaron de ser rentables, y se vuelcan a los más chicos",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2348,7 +2348,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis marcada por caída de consumo, presión en costos y cambios en hábitos de los consumidores. Este movimiento refleja transformaciones estratégicas en el segmento ",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2356,19 +2356,63 @@
       "region": "Local"
     },
     {
-      "title": "Backus amplía su apuesta más allá de la cerveza: qué viene con Mike’s, Flying Fish y Guaraná",
-      "summary": "Backus ejecuta estrategia de diversificación más allá de cerveza tradicional, incorporando Ready to Drink (RTD), cervezas saborizadas y soft drinks (marcas Mike's, Flying Fish, Guaraná). La expansión ",
+      "title": "Show e restaurantes inéditos estão na nova edição do SP Gastronomia",
+      "summary": "Parceria de Bento Gil e Flor Gil poderá ser vista de maneira inédita na edição do evento marcada para acontecer nos dias 21 a 23 e 28 a 30 de agosto na Ilha Musical do Parque Villa-Lobos",
       "companies": [
-        "Backus"
+        "AJE Group"
       ],
       "segments": [
-        "consumer_market_trends"
+        "distribution_execution",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "¿Quién es el dueño de Bacardí? La familia que mantiene el control del imperio del famoso murciélago",
+      "summary": "Este 16 de agosto se celebra el Día Internacional del Ron, una de las bebidas alcohólicas destiladas que se obtiene de la caña de azúcar y de la que México también es productora.",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diretor jurídico e dois membros do conselho do Grupo Casas Bahia renunciam",
+      "summary": "Empresa entrou com pedido de recuperação judicial na noite de domingo",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "risk_crisis_reputation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Indicador Stone mostra crescimento do varejo em julho",
+      "summary": "Resultado mostra comportamento diferente entre setores mais e menos dependentes de juros",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Nestlé busca desenvolver novos produtos para atender usuários de medicamentos para perda de peso",
+      "summary": "Companhia trabalha para identificar combinações de nutrientes que possam ajudar a preservar a saúde muscular, a hidratação e a ingestão adequada de nutrientes",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Regional"
     },
     {
       "title": "Heineken vai demitir 6 mil funcionários e parar de produzir cerveja em fábrica - Portal Tempo Novo",
-      "summary": "Heineken anuncia despidos de 6.000 empleados y cierre de operaciones de producción en una fábrica. Esta decisión refleja una reestructuración estratégica de la compañía global, posiblemente vinculada ",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "companies": [
         "Heineken"
       ],
@@ -2378,17 +2422,29 @@
       "region": "Regional"
     },
     {
-      "title": "Tendencia 2026: crece el consumo de vino ecológico en EE. UU. impulsado por millennials y generación Z - Noticias Ambientales",
-      "summary": "El mercado estadounidense experimenta crecimiento sostenido en vinos ecológicos, impulsado por millennials y Gen Z que priorizan sustentabilidad en sus decisiones de compra. Esta tendencia representa ",
-      "companies": [],
+      "title": "Backus amplía su apuesta más allá de la cerveza: qué viene con Mike’s, Flying Fish y Guaraná - Gestión",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Backus"
+      ],
       "segments": [
         "consumer_market_trends"
       ],
       "region": "Regional"
     },
     {
+      "title": "Starbucks wins over Gen Z with S’mores drinks and achieves its best summer coffee launch in years",
+      "summary": "Starbucks wins over Gen Z with its S’mores drinks—its best summer coffee launch in years—backed by its Rewards program and marketing",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Coca-Cola doubles down on localisation in China as sales grow",
-      "summary": "Coca-Cola intensifica su estrategia de localización en China, expandiendo su portafolio de bebidas con enfoque en productos de salud digestiva, alineándose con la demanda local y tendencias de bienest",
+      "summary": "Coca-Cola taps on localised product innovation, digital engagement and community initiatives to strengthen consumer connections in China, as the beverage giant posted 8% unit case volume growth across",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2399,20 +2455,43 @@
       "region": "Mundial"
     },
     {
-      "title": "Former PepsiCo Executive Joins THC-Infused Beverage Maker Pharos Brands International as CEO",
-      "summary": "Matt Smith, ejecutivo senior de PepsiCo con 15 años de experiencia en operaciones y desarrollo de packaging, asume como CEO de Pharos Brands International, productora de bebidas infusionadas con THC. ",
+      "title": "Au Vodka sold to US spirits giant Sazerac",
+      "summary": "The Swansea-based brand will join RTD peer BuzzBallz in Sazerac’s portfolio",
       "companies": [
-        "PepsiCo"
+        "Sazerac Company"
       ],
       "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustainability push",
+      "summary": "From Coca-Cola’s localisation efforts to China’s push for alternative proteins and food waste reduction, we explore how the country’s food and beverage sector is adapting to evolving consumer and sust",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pave The Way Cocktail Competition Emphasizes Sustainability and Community in the Hospitality Industry",
+      "summary": "Pave the Way helps to strengthen bartending communities, provide education about cognac, and mentor bar professionals.",
+      "companies": [
+        "LVMH Wines & Spirits"
+      ],
+      "segments": [
+        "packaging_sustainability"
       ],
       "region": "Mundial"
     },
     {
       "title": "The Bull Case For Monster Beverage (MNST) Could Change Following Strong Q2 Results And Zero Sugar Momentum - simplywall.st",
-      "summary": "Monster Beverage reportó resultados sólidos en Q2 con momentum significativo en su línea de productos zero azúcar, redefiniendo el caso alcista de la compañía. Este desempeño refuerza la posición de M",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "companies": [
         "Monster Beverage"
       ],
@@ -2423,8 +2502,121 @@
       "region": "Mundial"
     },
     {
+      "title": "Fevertree Drinks (LSE:FEVR) Puts AIM Stocks Under An Earnings-Quality Spotlight - Kalkine Media",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "HSBC Adjusts Price Target on Monster Beverage to $52 From $50, Maintains Buy Rating - marketscreener.com",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Au Vodka sold to Sazerac - Drinks International",
+      "summary": "Swansea-founded Au Vodka has reportedly been sold to American spirits giant Sazerac.",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB Tax-Managed Wealth Appreciation Strategy's Monster Beverage Corp(MNST) Holding History - GuruFocus",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Botanist eleva un 21% su puntuación de impacto con una producción ligada a Islay",
+      "summary": "Bruichladdich refuerza el sello B Corp con 22 botánicos silvestres, electricidad renovable, más de 70 empleos locales",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Empowered Funds LLC Sells 32,412 Shares of Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks Stock And Two Founder Led UK Shares Worth A Closer Look - simplywall.st",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Long Can Softer Spirits Demand Keep Overshadowing Diageo (LSE:DGE) On The London Market? - Kalkine Media",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sea Change Wine funds seagrass restoration with new charity partner - Harpers Wine & Spirit Trade News",
+      "summary": "Sea Change Wine has named the",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola (NYSE:KO) steadies as consumer staples payers draw attention - Kalkine Media",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Ayda Works Hydration Powder Sticks",
-      "summary": "Ayda Works lanzó Hydration Powder Sticks, un producto de hidratación funcional dirigido específicamente a mujeres, disponible en tres sabores. La propuesta combina electrolitos con ingredientes funcio",
+      "summary": "Ayda Works announced the launch of Ayda Works Hydration Powder Sticks, a daily hydration and wellness product formulated around the way women live.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2434,7 +2626,17 @@
     },
     {
       "title": "Bright Brewery establishes Bright Taphouses banner for hospitality arm",
-      "summary": "Bright Brewery, cervecería independiente australiana fundada en 2005, lanzó Bright Taphouses como nueva marca paraguas para su división de hostelería. La empresa expande su presencia de un único brewp",
+      "summary": "The move follows the acquisition of the former Dainton Taphouse in Croydon and a further hospitality development in North East Victoria.",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Corby sells Lamb’s rum brand for $39.2m as it refocuses on growth categories | FoodBev Media",
+      "summary": "Corby Spirit and Wine Limited has agreed to sell the Lamb’s rum brand and related assets to Maison des Futailles and Glen Turner Company Limited.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2444,7 +2646,27 @@
     },
     {
       "title": "Pumpkin Spice ‘Preseason’ Kicks Off Earlier Than Ever",
-      "summary": "Starbucks y otras cadenas anticipan el lanzamiento de bebidas de calabaza especiada con mayor adelanto que años anteriores, evidenciado por un incremento del 301% en búsquedas de 'pumpkin spice latte'",
+      "summary": "Pumpkin spice season is starting earlier this year, with Yelp searches for pumpkin spice lattes surging 301%.",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Under 30s Wine Trade Sips: Daria, 28",
+      "summary": "Under 30s Wine Trade Sips: To spread the word that wine is for everyone, we ask Zoomers in the wine industry to share their experience of a bottle they love.",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Double-Barrelled Brewery secures funding to boost retail presence",
+      "summary": "Founded in 2018 by husband-and-wife team, the business has grown from a small-scale brewing operation to an established craft brewery and taproom in Reading",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2454,7 +2676,7 @@
     },
     {
       "title": "Kirin Holdings Company (TSE:2503) Could Be 40% Undervalued After Its AI Research Push - simplywall.st",
-      "summary": "Kirin Holdings, uno de los mayores grupos de bebidas a nivel global, está siendo revaluado al alza por su inversión estratégica en investigación de IA, con análisis sugiriendo potencial de subrevaluac",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "companies": [
         "Kirin Holdings"
       ],
@@ -2465,7 +2687,7 @@
     },
     {
       "title": "La vendimia más temprana de la historia, con el precio de la uva por debajo de lo que cuesta recogerla: el calor acelera la crisis del vino español",
-      "summary": "La vendimia española 2026 inicia con el mayor adelanto histórico debido al calor extremo, agravando una crisis estructural del sector vitivinícola. Los precios de la uva no cubren costes de producción",
+      "summary": "Las organizaciones agrarias denuncian pérdidas de más de 50 céntimos por kilo de uva tras seis campañas sin rentabilidad, mientras el adelanto histórico de la cosecha dispara los costes de producción",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2474,25 +2696,23 @@
       "region": "Mundial"
     },
     {
+      "title": "Europe's functional beverage market is rebuilding around proof: Most ingredients won't make the cut - nutraceuticalbusinessreview.com",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Alta cocina, espuma y economía: la revolución de la cerveza en el mercado peruano - Gestión",
-      "summary": "El mercado cervecero peruano experimenta una transformación hacia segmentos premium y artesanales, con énfasis en experiencias de alta cocina e innovación en presentación. Esta tendencia refleja cambi",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "companies": [],
       "segments": [
         "consumer_market_trends"
       ],
       "region": "Regional"
-    },
-    {
-      "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustainability push",
-      "summary": "Coca-Cola reporta un crecimiento del 8% en volumen de casos en Asia Pacífico (Q2), impulsado por su estrategia de innovación localizada en China que combina productos adaptados, engagement digital e i",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
     }
   ]
 }
