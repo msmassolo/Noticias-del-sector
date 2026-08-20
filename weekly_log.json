@@ -2307,18 +2307,8 @@
   ],
   "2026-08-20": [
     {
-      "title": "La inflación mayorista empezó con 0 en julio: cómo influirá en los próximos datos de precios",
-      "summary": "La inflación mayorista (IPIM) registró 0,8% en julio, iniciando con 0% como anticipó el Gobierno. Este indicador adelanta tendencias del IPC minorista de agosto, relevante para la industria de bebidas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
       "title": "Crecen las exportaciones de vino de la mano de los varietales",
-      "summary": "Las exportaciones de vino argentino crecieron en los primeros siete meses de 2026, lideradas por varietales premium, compensando una caída del 9% en precios unitarios. El Instituto Nacional de Vitivin",
+      "summary": "Las exportaciones de vino argentino crecen en los primeros siete meses de 2026, lideradas por varietales, según el Instituto Nacional de Vitivinicultura. Aunque los precios por litro cayeron 9%, el vo",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2326,8 +2316,20 @@
       "region": "Local"
     },
     {
+      "title": "Walmart registra rara frustração nas vendas comparáveis com consumidores reduzindo gastos",
+      "summary": "Walmart reportó un trimestre por debajo de expectativas en ventas comparables, reflejando reducción de gastos de consumidores estadounidenses. Sin embargo, la compañía elevó ligeramente su guidance an",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Mientras Tequila Don Julio atraviesa una crisis en EU, los mexicanos compran más whisky Johnnie Walker y Buchanan’s",
-      "summary": "Diageo reporta caída en ventas de sus marcas de tequila premium (Don Julio y Casamigos) en México, mientras sus whiskies (Johnnie Walker y Buchanan's) muestran desempeño positivo. Este cambio en prefe",
+      "summary": "Diageo reporta caída en ventas de tequila premium (Don Julio y Casamigos) en México, mientras sus marcas de whisky (Johnnie Walker y Buchanan's) muestran desempeño positivo. Este cambio de preferencia",
       "companies": [
         "Diageo"
       ],
@@ -2338,7 +2340,7 @@
     },
     {
       "title": "Walmart vende más en cada compra, pero recibe menos transacciones en México: la paradoja que revelan sus resultados financieros",
-      "summary": "Walmart México reporta un aumento en el ticket promedio por compra, pero enfrenta una caída en frecuencia de transacciones y visitas. Esta paradoja refleja un cambio en comportamiento del consumidor m",
+      "summary": "Walmart México reporta aumento en el ticket promedio de compra pero disminución en la cantidad de transacciones, indicando que los consumidores compran más volumen por visita pero con menor frecuencia",
       "companies": [
         "Walmart"
       ],
@@ -2349,18 +2351,31 @@
       "region": "Regional"
     },
     {
-      "title": "The Starbucks paradox: it sells more coffee, yet its revenue is falling—and a shift in its business model in China explains the apparent contradiction",
-      "summary": "Starbucks registró una caída de ingresos del 1,4% a pesar del crecimiento en ventas comparables, un paradoja explicada por cambios en su modelo operativo en China. La compañía está pivotando hacia un ",
-      "companies": [],
+      "title": "Órgão antitruste do Reino Unido aprova compra da Huel pela Danone por US$ 1,2 bi",
+      "summary": "Danone completó la adquisición de Huel por USD 1.200 millones, tras aprobación regulatoria de la autoridad antimonopolio británica. Huel es líder en la categoría de alimentos funcionales y nutrición p",
+      "companies": [
+        "Danone"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "ma_and_strategy"
       ],
       "region": "Regional"
     },
     {
+      "title": "Do We Need Another NA Version of a Legacy Beer Brand?",
+      "summary": "Molson Coors lanza una versión sin alcohol de Leinenkugel's Summer Shandy, reactivando el debate sobre la necesidad de líneas NA para marcas legacy. La industria cuestiona si es innovación estratégica",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo workforce falls by almost 2,000 as company starts restructuring plan",
-      "summary": "Diageo, principal productor global de bebidas espirituosas (Guinness, Johnnie Walker, Smirnoff), redujo su plantilla en casi 2.000 empleados, pasando de 29.860 a 27.938 FTE entre 2025 y 2026. Esta ree",
+      "summary": "Diageo, gigante mundial de bebidas con marcas como Guinness, Johnnie Walker y Smirnoff, redujo su plantilla en casi 2.000 empleados en el último año fiscal (27.938 FTE vs 29.860 en el período anterior",
       "companies": [
         "Diageo"
       ],
@@ -2371,8 +2386,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Unilever is offloading its food businesses – but keeping ice tea",
+      "summary": "Unilever está desinversiendo sus negocios de alimentos mediante una fusión con McCormick, pero mantiene Lipton Ice Tea fuera de la transacción. Esta decisión estratégica refleja que Unilever considera",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Carlsberg cierra el semestre con menos cerveza vendida por el frenazo en Polonia, China y Ucrania",
-      "summary": "Carlsberg reportó caída del 1,0% en volumen de cerveza en H1 (52,2 vs 52,7 millones hectolitros), impulsada por contracción en Polonia, China y Ucrania, particularmente en Q2. A pesar de la debilidad ",
+      "summary": "Carlsberg reportó caída del 1,0% en volumen de cerveza en H1 (52,2M vs 52,7M hectolitros) debido a contracciones en Polonia, China y Ucrania, aunque mejoró ingresos y EBIT gracias a negocios de refres",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2385,7 +2412,7 @@
     },
     {
       "title": "Diageo to reformulate whisky and rum drinks in India following ban due to flavourings – Reuters | FoodBev Media",
-      "summary": "Diageo, a través de su unidad United Spirits en India, debe reformular sus bebidas alcohólicas (whiskies y rones) tras prohibiciones regulatorias en varios estados por incumplimiento de normativas de ",
+      "summary": "Diageo, a través de su filial India United Spirits, deberá reformular varios de sus whiskies y rones populares tras prohibiciones regulatorias en algunos estados indios por presunto incumplimiento de ",
       "companies": [
         "Diageo"
       ],
@@ -2396,20 +2423,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Carlsberg confident on profits as Britvic benefits kick in sooner than expected",
-      "summary": "Carlsberg estrecha su guía de ganancias anuales hacia el rango superior (4-6% de crecimiento orgánico) gracias a sinergias más rápidas de lo esperado de su adquisición de Britvic. La compañía espera m",
-      "companies": [
-        "Britvic",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Sazerac enters the soju category with launch of DALHO",
-      "summary": "Sazerac Co. lanza DALHO Soju en Estados Unidos, marcando su entrada al segmento de soju de rápido crecimiento. El producto estará disponible en formatos de 50 ml y 375 ml, con el primero diseñado para",
+      "summary": "Sazerac Co. lanza DALHO Soju en Estados Unidos, marcando su entrada en la categoría de soju de rápido crecimiento. El producto estará disponible en formatos de 50 ml y 375 ml, con énfasis en facilitar",
       "companies": [
         "Sazerac Company"
       ],
@@ -2420,8 +2435,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Constellation Brands upgraded to Strong Buy on value, strong beer sales, and growth potential. - Pluang",
+      "summary": "Constellation Brands fue elevado a recomendación Strong Buy por su potencial de valor, desempeño sólido en ventas de cerveza y oportunidades de crecimiento. La actualización refleja confianza en la es",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "How Prolonged Flat Organic Revenue At Constellation Brands (STZ) Has Changed Its Investment Story - simplywall.st",
-      "summary": "Constellation Brands enfrenta estancamiento en su crecimiento orgánico de ingresos, lo que redefinió su narrativa como inversión. Este deterioro afecta a un jugador clave en bebidas alcohólicas (cerve",
+      "summary": "Constellation Brands experimenta estancamiento prolongado en ingresos orgánicos, lo que altera significativamente su narrativa como inversión. Este desempeño plano contrasta con expectativas de crecim",
       "companies": [
         "Constellation Brands"
       ],
@@ -2432,19 +2459,32 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola stock holds above $88 as earnings beat and guidance support outlook - Ad-hoc-news.de",
-      "summary": "Coca-Cola superó estimaciones de ganancias y mantiene cotización sobre USD 88 con outlook positivo respaldado por guidance. El desempeño financiero de la empresa matriz impacta directamente las operac",
+      "title": "Fevertree Drinks (LSE:FEVR) Puts AIM Stocks Under An Earnings-Quality Spotlight - Kalkine Media",
+      "summary": "Fevertree Drinks, empresa cotizada en AIM (London Stock Exchange), está siendo analizada por la calidad de sus ganancias, lo que refleja escrutinio sobre la solidez financiera de las empresas de bebid",
       "companies": [
-        "The Coca-Cola Company"
+        "Fevertree Drinks"
       ],
       "segments": [
+        "consumer_market_trends",
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Carlsberg boosted by strong sales of soft drinks and alcohol-free beer - East Renfrewshire News",
-      "summary": "Carlsberg reporta crecimiento impulsado por ventas fuertes en bebidas sin alcohol y cervezas alcohol-free, reflejando la tendencia global de consumidores hacia opciones de menor contenido alcohólico. ",
+      "title": "Carlsberg boosted by strong sales of soft drinks and alcohol-free beer - Newark Advertiser",
+      "summary": "Carlsberg reporta un desempeño positivo impulsado por el crecimiento en bebidas sin alcohol y cervezas alcohol-free, reflejando una estrategia corporativa de diversificación hacia categorías de menor ",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Soft drink and no-alcohol beer sales soar for Carlsberg but demand for regular lager goes flat - This is Money",
+      "summary": "Carlsberg reporta crecimiento acelerado en ventas de bebidas sin alcohol y soft drinks, mientras que la demanda de cerveza lager tradicional se estanca. Este patrón refleja la reconfiguración del port",
       "companies": [
         "Carlsberg Group"
       ],
@@ -2456,7 +2496,7 @@
     },
     {
       "title": "Kirin’s big biotic drinks bet pays off in Asia",
-      "summary": "Kirin ha consolidado su apuesta en bebidas bioactivas con la marca iMUSE lanzada en 2017 en Japón, utilizando su postbiótico propietario LC-Plasma. La estrategia ha generado retornos positivos en Asia",
+      "summary": "Kirin ha consolidado una estrategia exitosa en bebidas funcionales con su marca iMUSE, lanzada en 2017 en Japón con postbióticos (LC-Plasma). La tendencia de postbióticos ganó reconocimiento masivo a ",
       "companies": [
         "Kirin Holdings"
       ],
@@ -2466,220 +2506,8 @@
       "region": "Mundial"
     },
     {
-      "title": "How Poppi’s founder is using her platform to launch her next venture - Marketing Brew",
-      "summary": "La fundadora de Poppi, marca de bebidas funcionales con presencia en mercados clave, está leverageando su plataforma y reputación para lanzar un nuevo venture. Este movimiento refleja una estrategia c",
-      "companies": [
-        "Poppi"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kweichow Moutai's Historic Profit Slide Reflects China's Economic Evolution - Earnings Season Review - Vinanet",
-      "summary": "Kweichow Moutai, líder global en spirits premium, registra una caída histórica de ganancias, indicador de cambios estructurales en la economía china y transformación en patrones de consumo de bebidas ",
-      "companies": [
-        "Kweichow Moutai"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown Forman (BF.B) Stock Looks Undervalued On Cash Flow Yet Fair On Earnings - simplywall.st",
-      "summary": "Brown-Forman, productor global de bebidas alcohólicas, presenta una valoración atractiva según análisis de flujo de caja, aunque la métrica de ganancias sugiere precio justo. El análisis señala oportu",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "CMA clears Danone’s €1bn takeover of Huel",
-      "summary": "Danone completó la adquisición de Huel por €1.000 millones tras obtener la aprobación de la CMA (autoridad de competencia británica). La operación representa la expansión estratégica de Danone hacia e",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Maker’s Mark Releases its 2026 Cellar Aged Bourbon for Bourbon Heritage Month – A Blend of it’s Oldest Bourbon Ever",
-      "summary": "Maker's Mark lanza su cuarto Cellar Aged bourbon a partir de septiembre 2026, combinando destilados de 11, 12 y 14 años de antigüedad, posicionándose como su bourbon más maduro hasta la fecha. La estr",
-      "companies": [
-        "Beam Suntory"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Shede Spirits sufre un desplome del 67,26% en beneficio por el ajuste del canal de baijiu",
-      "summary": "Shede Spirits, productor chino de baijiu, reportó caída de 67,26% en beneficio neto en H1 2026 (145 millones de yuanes) mientras mantiene una estrategia de menor volumen de envíos para reducir inventa",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Celsius Stock And Two Cross Border Beverage Names Worth A Closer Look - simplywall.st",
-      "summary": "Análisis de oportunidades de inversión en Celsius y dos empresas de bebidas con operaciones transfronterizas. Relevante para seguimiento competitivo: Celsius es un jugador clave en el segmento de bebi",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock holds near recent highs as valuation debate intensifies - Ad-hoc-news.de",
-      "summary": "Las acciones de Monster Beverage se mantienen cerca de máximos recientes mientras intensifica el debate sobre su valuación. Esta noticia es crítica para monitorear dado que Monster es un competidor di",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Soft Pricing Leads to Non-Alc Beverage Deceleration - BevNET.com",
-      "summary": "El segmento de bebidas sin alcohol experimentó una desaceleración en su crecimiento de ventas en dólares, pasando de 3.5% en el período de cuatro semanas a 3% en las dos semanas finalizadas el 8 de ag",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El mercado del alcohol en Estados Unidos vuelve a caer en ventas y volumen",
-      "summary": "El mercado de bebidas alcohólicas en EE.UU. registró caídas significativas en las cuatro semanas al 8 de agosto: ventas cayeron 3,6% a US$8.500M y volumen descendió 5,4% a 167,7M de cajas interanual. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Dash makes first UK profit as sales soar",
-      "summary": "Dash Water, marca challenger de bebidas carbonatadas saborizadas, alcanzó su primer beneficio en el mercado UK con crecimiento de ventas del 42%. Este hito refleja la consolidación de competidores dis",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Los cócteles preparados pierden ritmo en EEUU con caídas en ventas y volumen",
-      "summary": "Los cócteles preparados (RTD y RTS) registraron caída del 0,8% en ventas y 5,2% en volumen en EEUU durante las cuatro semanas al 8 de agosto según NielsenIQ. La categoría incluye bebidas listas para b",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Huiquan Beer gana un 23,26% más tras mejorar precio y mezcla de productos",
-      "summary": "Huiquan Beer, fabricante chino cotizado, registró un crecimiento del beneficio neto de 23,26% en H1 2026 (48,78 millones de yuanes) impulsado por mejora en precio y mix de productos, a pesar de una ca",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Las ventas de bebidas espirituosas vuelven a caer en Estados Unidos por el freno del consumo estival",
-      "summary": "Las ventas de bebidas espirituosas en EE.UU. cayeron 3,7% en facturación y 3,9% en volumen en el período de cuatro semanas al 8 de agosto, impulsadas por debilitamiento estacional post-verano y menor ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "SPYLT Banana Milk",
-      "summary": "SPYLT lanzó una edición limitada de Banana Milk, bebida proteica lista para consumir con 20g de proteína, 0g azúcar y 90 calorías por lata. La estrategia responde a la tendencia de sabores nostálgicos",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "La debilidad del consumo estadounidense lleva al mercado cervecero a caer un 5,5% en volumen",
-      "summary": "El mercado cervecero estadounidense retrocedió 5,5% en volumen y 4,5% en valor durante las cuatro semanas al 8 de agosto, según NielsenIQ, reflejando debilidad en el consumo masivo. La caída superior ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Starbucks lanza Pumpkin Spice 2026; estas son las bebidas que ya puedes pedir",
-      "summary": "Starbucks lanzó su línea Pumpkin Spice 2026 en México, marcando el inicio de la estrategia estacional de otoño del gigante global. Este lanzamiento es relevante para la industria de bebidas porque val",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Nearly 2,000 jobs at Diageo axed due to restructure - Harpers Wine & Spirit Trade News",
-      "summary": "Diageo redujo casi 2.000 empleados (6% de su workforce) en el último año fiscal bajo el liderazgo del nuevo CEO Sir David Lewis, bajando de 29.860 a 27.938 trabajadores. A pesar de los despidos, los c",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Soft drink and no-alcohol beer sales soar for Carlsberg but demand for regular lager goes flat - This is Money",
-      "summary": "Carlsberg experimenta un crecimiento significativo en bebidas no alcohólicas y cervezas sin alcohol, mientras que la demanda de lager tradicional se estanca. Este patrón refleja el cambio global de pr",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo cuts 2,000 staff members amid restructuring",
-      "summary": "Diageo, líder global en bebidas alcohólicas (Guinness, Johnnie Walker, Smirnoff, Captain Morgan), ejecuta un plan de reducción de 2.000 empleados como parte de una reestructuración estratégica liderad",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Carlsberg raises outlook as Britvic soft drinks offset weak beer demand - London Business News",
-      "summary": "Carlsberg elevó su perspectiva de resultados anuales impulsada por el desempeño de Britvic, su división de bebidas no alcohólicas, que compensó la debilidad en demanda de cerveza. Esta noticia refleja",
+      "summary": "Carlsberg elevó su perspectiva financiera anual impulsada por el desempeño de Britvic, su división de bebidas sin alcohol, que compensó la débil demanda de cerveza. La adquisición de Britvic continúa ",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2691,15 +2519,222 @@
       "region": "Mundial"
     },
     {
-      "title": "Rafael Golfe assume direção de Brand Experience e Patrocínios do Grupo Heineken - Live MKT News",
-      "summary": "Rafael Golfe asume la dirección de Brand Experience y Patrocinios del Grupo Heineken, posicionándose como ejecutivo clave en la estrategia de experiencia de marca y activaciones. Este cambio organizac",
+      "title": "How Poppi’s founder is using her platform to launch her next venture - Marketing Brew",
+      "summary": "La fundadora de Poppi, marca de bebidas funcionales con presencia en EE.UU., está lanzando un nuevo emprendimiento aprovechando su plataforma y audiencia existente. Esta estrategia de diversificación ",
       "companies": [
-        "Heineken"
+        "Poppi"
       ],
       "segments": [
         "marketing_innovation"
       ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown Forman (BF.B) Stock Looks Undervalued On Cash Flow Yet Fair On Earnings - simplywall.st",
+      "summary": "Brown-Forman, uno de los mayores productores de bebidas alcohólicas a nivel global (Jack Daniel's, Woodford Reserve), presenta una valuación atractiva según análisis de flujo de caja, aunque su valuac",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kweichow Moutai's Historic Profit Slide Reflects China's Economic Evolution - Earnings Season Review - Vinanet",
+      "summary": "Kweichow Moutai reportó una caída histórica de ganancias, reflejando la desaceleración económica de China y cambios en patrones de consumo. Como el productor de bebidas alcohólicas premium más grande ",
+      "companies": [
+        "Kweichow Moutai"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Maker’s Mark Releases its 2026 Cellar Aged Bourbon for Bourbon Heritage Month – A Blend of it’s Oldest Bourbon Ever",
+      "summary": "Maker's Mark lanza su Cellar Aged 2026, su bourbon más antiguo hasta la fecha, durante Bourbon Heritage Month (septiembre 2026). La edición combina bourbons de 11, 12 y 14 años, posicionándose como un",
+      "companies": [
+        "Beam Suntory"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Shede Spirits sufre un desplome del 67,26% en beneficio por el ajuste del canal de baijiu",
+      "summary": "Shede Spirits, productor chino de baijiu, reportó caída de 67,26% en beneficio neto en H1 2026 (145 millones de yuanes) tras implementar política de reducción de volumen de envíos al canal para ajusta",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Celsius Stock And Two Cross Border Beverage Names Worth A Closer Look - simplywall.st",
+      "summary": "Análisis de inversión que posiciona a Celsius Energy Drink como valor atractivo junto con otros actores de bebidas en mercados transfronterizos. La recomendación refleja el crecimiento acelerado de Ce",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Starbucks paradox: it sells more coffee, yet its revenue is falling—and a shift in its business model in China explains the apparent contradiction",
+      "summary": "Starbucks reporta una caída de 1,4% en ingresos totales a pesar de aumentar ventas comparables, una paradoja explicada por su cambio de modelo operativo en China. El reposicionamiento estratégico en e",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
       "region": "Regional"
+    },
+    {
+      "title": "Monster Beverage stock holds near recent highs as valuation debate intensifies - Ad-hoc-news.de",
+      "summary": "Monster Beverage mantiene sus acciones cerca de máximos recientes mientras crece el debate sobre su valuación en mercados. La evolución del precio y la discusión sobre múltiplos de valoración reflejan",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bad Daddy’s Burger Bar Welcomes Coca-Cola as New Beverage Partner Across All Locations - RestaurantNews.com",
+      "summary": "Bad Daddy's Burger Bar designó a Coca-Cola como su nuevo socio de bebidas en todas sus ubicaciones, reemplazando un acuerdo anterior. Este movimiento refleja la estrategia de Coca-Cola de expandir su ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone granted greenlight for £860M Huel acquisition",
+      "summary": "Danone obtiene aprobación regulatoria de la CMA para adquirir Huel por £860M, consolidando su estrategia 'Renew Danone' enfocada en nutrición funcional. La adquisición fortalece el portafolio del giga",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nearly 2,000 jobs at Diageo axed due to restructure - Harpers Wine & Spirit Trade News",
+      "summary": "Diageo redujo su plantilla en casi 2,000 empleados (6%) en el último año fiscal bajo la nueva estrategia del CEO Sir David Lewis, bajando de 29,860 a 27,938 trabajadores. A pesar de los recortes, los ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone’s £864m Huel acquisition cleared by UK competition watchdog | FoodBev Media",
+      "summary": "Danone completó la adquisición de Huel por £864 millones, aprobada por la autoridad de competencia británica. Huel es una marca líder en nutrición funcional a base de plantas con presencia en categorí",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo headcount falls by nearly 2,000 amid $1bn cost savings drive | FoodBev Media",
+      "summary": "Diageo redujo su plantilla global en casi 2.000 empleados (6% del total) en el año fiscal 2026, alcanzando 27.972 FTE, como parte de una iniciativa de ahorro de costos de USD 1.000 millones. Este movi",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg boosted by strong sales of soft drinks and alcohol-free beer - East Renfrewshire News",
+      "summary": "Carlsberg reporta un desempeño positivo impulsado por el crecimiento en bebidas sin alcohol y refrescos sin alcohol. Este resultado refleja la tendencia global hacia categorías de menor contenido alco",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac taps into US market’s growing interest in Korean culture with new soju innovation | FoodBev Media",
+      "summary": "Sazerac, gigante destilador estadounidense, lanza Dalho Soju en el mercado estadounidense para capitalizar la creciente demanda de productos coreanos. La estrategia apunta a renovar la categoría de so",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CMA clears Danone’s €1bn takeover of Huel",
+      "summary": "Danone completó la adquisición de Huel por €1.000 millones tras obtener la aprobación de la autoridad británica de competencia (CMA). La operación consolida la estrategia de Danone en el segmento de n",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Soft Pricing Leads to Non-Alc Beverage Deceleration - BevNET.com",
+      "summary": "Las bebidas sin alcohol desaceleraron su crecimiento a 3% en ventas en dólares (período de dos semanas al 8 de agosto) versus 3.5% en el período de cuatro semanas previo, según análisis de Goldman Sac",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El mercado del alcohol en Estados Unidos vuelve a caer en ventas y volumen",
+      "summary": "El mercado de bebidas alcohólicas estadounidense registró caídas significativas en las cuatro semanas al 8 de agosto: ventas cayeron 3,6% ($8.500M) y volumen se contrajo 5,4% (167,7M cajas) versus el ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Los cócteles preparados pierden ritmo en EEUU con caídas en ventas y volumen",
+      "summary": "La categoría de cócteles preparados en EE.UU. registra caída de 0,8% en ventas y 5,2% en volumen en las cuatro semanas al 8 de agosto según NielsenIQ, revirtiendo su tendencia alcista reciente. El seg",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Las ventas de bebidas espirituosas vuelven a caer en Estados Unidos por el freno del consumo estival",
+      "summary": "Las ventas de bebidas espirituosas en EE.UU. cayeron 3,7% en facturación y 3,9% en volumen durante las cuatro semanas al 8 de agosto, según NielsenIQ. La contracción refleja un debilitamiento estacion",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
     }
   ]
 }
