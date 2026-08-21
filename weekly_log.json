@@ -2345,7 +2345,7 @@
   "2026-08-21": [
     {
       "title": "El e-commerce también siente el freno del consumo: el dato que enciende más alarmas",
-      "summary": "El e-commerce argentino creció nominalmente 28% en H1, pero con dinámicas preocupantes: mientras órdenes (+21%) y unidades vendidas (+22%) desaceleran, el ticket promedio apenas crece 5% interanual a ",
+      "summary": "El e-commerce argentino registró crecimiento nominal de 28% en H1 2024 ($19,53 billones), pero con señales de desaceleración en consumo real: órdenes subieron 21% y unidades 22%, mientras el ticket pr",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2354,8 +2354,20 @@
       "region": "Local"
     },
     {
+      "title": "Los mexicanos gastan menos en el súper y Walmart responde con “Precios que no se tocan” en 4,000 productos",
+      "summary": "Walmart México lanza campaña 'Precios que no se tocan' congelando precios de 4,000 productos por 90 días en Walmart Supercenter y Bodega Aurrera, incluyendo canales digitales. La estrategia responde a",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Backus amplía su apuesta más allá de la cerveza: qué viene con Mike’s, Flying Fish y Guaraná - Gestión",
-      "summary": "Backus, principal cervecera peruana, diversifica su portafolio hacia bebidas no alcohólicas y spirits con marcas como Mike's, Flying Fish y Guaraná. Esta estrategia de expansión responde a la tendenci",
+      "summary": "Backus, principal cervecería peruana, diversifica su portafolio hacia categorías adyacentes con marcas como Mike's (bebidas cítricas), Flying Fish (bebidas funcionales) y Guaraná (bebidas energizantes",
       "companies": [
         "Backus"
       ],
@@ -2365,8 +2377,20 @@
       "region": "Regional"
     },
     {
+      "title": "Con el 30% del mercado cervecero, CCU apuesta a las opciones 0.0 (del 0,3% al 3% en dos años) - InfoNegocios",
+      "summary": "CCU, líder cervecero con 30% de market share, acelera su estrategia en cervezas sin alcohol (0.0), expandiendo este segmento del 0,3% al 3% en dos años. Esta apuesta refleja la tendencia global de cat",
+      "companies": [
+        "CCU",
+        "CCU"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "PepsiCo bets on healthier versions of legacy brands",
-      "summary": "PepsiCo está reformulando sus marcas líderes con enfoque en salud, agregando fibra, proteína y ingredientes funcionales orientados a bienestar digestivo y saciedad, más allá del tradicional enfoque de",
+      "summary": "PepsiCo está reformulando sus marcas principales para responder a la demanda de consumidores por productos más saludables, ampliando su estrategia más allá de reducción de azúcar y sal hacia la adició",
       "companies": [
         "PepsiCo"
       ],
@@ -2378,7 +2402,7 @@
     },
     {
       "title": "Do We Need Another NA Version of a Legacy Beer Brand?",
-      "summary": "Molson Coors lanza una versión sin alcohol de Leinenkugel's Summer Shandy, reavivando el debate sobre la estrategia de portfolios NA en cervecerías legacy. La industria cuestiona si esta expansión res",
+      "summary": "Molson Coors lanza una versión sin alcohol de Leinenkugel's Summer Shandy, generando debate sobre la estrategia de extensión de portfolios de marcas legacy hacia segmento NA. La discusión cuestiona si",
       "companies": [
         "Molson Coors"
       ],
@@ -2390,7 +2414,7 @@
     },
     {
       "title": "Danone granted greenlight for £860M Huel acquisition",
-      "summary": "Danone obtuvo la aprobación regulatoria de la autoridad competencia británica (CMA) para adquirir Huel por £860 millones. La operación, parte de la estrategia 'Renew Danone', busca fortalecer la posic",
+      "summary": "Danone obtiene aprobación regulatoria de la CMA (Competition and Markets Authority) para adquirir Huel por £860M. La operación se alinea con la estrategia 'Renew Danone' y busca fortalecer la posición",
       "companies": [
         "Danone"
       ],
@@ -2402,7 +2426,7 @@
     },
     {
       "title": "Unilever is offloading its food businesses – but keeping ice tea",
-      "summary": "Unilever está desinvirtiendo sus negocios de alimentos mediante una fusión con McCormick, pero mantiene Lipton Ice Tea fuera del acuerdo. Esta decisión estratégica subraya la importancia del segmento ",
+      "summary": "Unilever está desinvirtiendo sus negocios de alimentos mediante una fusión con McCormick, pero retiene su marca Lipton Ice Tea. Esta decisión estratégica refleja que Unilever prioriza las bebidas fren",
       "companies": [
         "PepsiCo"
       ],
@@ -2413,8 +2437,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Booze News Weekly Roundup: Diageo Cuts 2,000 Jobs, U.S. Drinking Rate Remains at Record Low, and More",
+      "summary": "Diageo, principal productor global de bebidas alcohólicas, anuncia despidos de 2,000 empleados (6% de su plantilla), señalando ajustes estratégicos en la industria. Simultáneamente, el consumo de alco",
+      "companies": [
+        "Boston Beer Company",
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "7 Brew Grows from Stands to Stores with National Ready-To-Drink Coffee and Energy Beverage Expansion at Walmart",
-      "summary": "7 Brew, marca de bebidas de rápido crecimiento en EE.UU., expande su portafolio de bebidas listas para consumir en Walmart con presencia en aproximadamente 4.400 tiendas para café RTD y más de 1.100 p",
+      "summary": "7 Brew, marca de bebidas de rápido crecimiento en EE.UU., expande su línea de ready-to-drink (café y bebidas energéticas) a aproximadamente 4.400 tiendas Walmart, con su línea de energéticos llegando ",
       "companies": [
         "Walmart"
       ],
@@ -2426,7 +2462,7 @@
     },
     {
       "title": "Boston Beer CFO Diego Reynoso to Exit; Formal Search Launched for Replacement | Brewbound",
-      "summary": "Diego Reynoso, CFO y tesorero de Boston Beer Company, se retira de la compañía apenas un año después de recibir un bono de retención accionario de $1.2 millones. La empresa ha iniciado una búsqueda fo",
+      "summary": "Diego Reynoso, CFO de Boston Beer Company, abandona su posición un año después de recibir un bono de retención de $1.2 millones. La compañía ha iniciado una búsqueda formal para su reemplazo. Este mov",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2436,8 +2472,19 @@
       "region": "Mundial"
     },
     {
+      "title": "The VinePair Podcast: White Wine Is Booming. Can American Producers Pivot?",
+      "summary": "El consumo de vino blanco está en alza mientras retrocede la demanda de tintos de cuerpo completo, tradicionalmente el pilar de la industria vinícola estadounidense. Productores y viticultores estadou",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Fevertree Drinks (LSE:FEVR) Puts AIM Stocks Under An Earnings-Quality Spotlight - Kalkine Media",
-      "summary": "Fevertree Drinks, productor líder de mixers premium listado en LSE, está siendo analizado por su calidad de earnings en el contexto de acciones AIM. La compañía es referente en el segmento de bebidas ",
+      "summary": "Fevertree Drinks, fabricante británico de bebidas mixers premium cotizado en LSE, está bajo escrutinio por su calidad de ganancias. Esta situación genera atención sobre la salud financiera de empresas",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2448,20 +2495,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Reflecting On Beverages, Alcohol, and Tobacco Stocks’ Q2 Earnings: Coca-Cola (NYSE:KO) - Yahoo Finance",
-      "summary": "Análisis de resultados del Q2 de Coca-Cola y otros actores del sector de bebidas, alcohol y tabaco. La noticia cubre el desempeño financiero trimestral del mayor jugador global de bebidas, información",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Monster Beverage (MNST) Posted Strong Q2 Earnings, Is The Stock Now Fully Valued? - simplywall.st",
-      "summary": "Monster Beverage reportó resultados sólidos en Q2, lo que generó debate sobre la valoración actual de la empresa. Como líder global en bebidas energéticas, los movimientos de Monster impactan directam",
+      "summary": "Monster Beverage reportó resultados sólidos en Q2, generando análisis sobre la valoración actual de su acción. Como líder global en bebidas energéticas, los movimientos financieros y cambios de valuac",
       "companies": [
         "Monster Beverage"
       ],
@@ -2472,8 +2507,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Reflecting On Beverages, Alcohol, and Tobacco Stocks’ Q2 Earnings: Coca-Cola (NYSE:KO) - Yahoo Finance",
+      "summary": "Análisis de resultados de Q2 para Coca-Cola y sector de bebidas/alcohol/tabaco. Coca-Cola reportó su desempeño trimestral, permitiendo evaluar tendencias de consumo, presiones de precio y desempeño ge",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "India amplía el cerco al alcohol con una inspección a Pernod Ricard en Bengaluru",
-      "summary": "India intensifica inspecciones regulatorias en la industria de bebidas alcohólicas, visitando plantas de Pernod Ricard en Bengaluru y United Spirits (filial de Diageo). La Food Safety and Standards Au",
+      "summary": "India intensifica inspecciones regulatorias en plantas de bebidas alcohólicas, visitando instalaciones de Pernod Ricard en Bengaluru tras inspecciones previas a United Spirits (filial de Diageo). La F",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2483,19 +2530,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo headcount falls by nearly 2,000 amid $1bn cost savings drive | FoodBev Media",
-      "summary": "Diageo redujo su plantilla en casi 2.000 empleados (6% de reducción) como parte de una estrategia de ahorro de costos de $1.000 millones. El gigante alcohólico pasó de 29.000 a 27.972 empleados equiva",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Safety First: Health halos, Asahi cyberattack and PFAS",
-      "summary": "La noticia analiza el fenómeno de 'health halos' en alimentos de bienestar, destacando que las marcas de bebidas deben respaldar sus claims de salud con evidencia científica, etiquetado transparente y",
+      "summary": "La noticia aborda la importancia de respaldar claims de salud y bienestar con evidencia científica en la industria de alimentos y bebidas, particularmente en India. Destaca que las empresas necesitan ",
       "companies": [
         "Asahi Group"
       ],
@@ -2505,20 +2541,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Soft drink and no-alcohol beer sales soar for Carlsberg but demand for regular lager goes flat - This is Money",
-      "summary": "Carlsberg experimenta un crecimiento significativo en bebidas sin alcohol y refrescos, pero enfrenta caída en la demanda de cerveza lager tradicional. Esta tendencia refleja el cambio estructural del ",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Everyday Dose Names New CEO, Expands into Sam’s Club - BevNET.com",
-      "summary": "Everyday Dose, empresa de café funcional, designó nuevo CEO manteniendo al fundador Jack Savage en rol estratégico. La compañía expande su distribución hacia Sam's Club, importante canal de retail mas",
+      "summary": "Everyday Dose, empresa de café funcional, designó nuevo CEO mientras su fundador Jack Savage mantiene un rol estratégico. La compañía amplía su distribución ingresando a Sam's Club, importante cadena ",
       "companies": [
         "Walmart"
       ],
@@ -2528,8 +2552,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Brown-Forman Stock Outlook: What Market Sentiment Reveals About the Spirits Giant - Share Dilution Risk - Vinanet",
+      "summary": "Análisis de perspectivas de Brown-Forman, gigante global de bebidas alcohólicas, enfocado en sentimiento de mercado y riesgo de dilución accionaria. La noticia es relevante para monitorear la salud fi",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Calm Markets, Loud Headlines: Agrowgate Q3 2026 Supply Chain Update",
-      "summary": "Agrowgate reporta en Q3 2026 que las cadenas de suministro de bebidas mantienen estabilidad aparente pero enfrentan presiones persistentes en costos y disponibilidad. Los principales desafíos se conce",
+      "summary": "Agrowgate reporta en Q3 2026 que las cadenas de suministro de bebidas mantienen estabilidad aparente pero enfrentan presiones subyacentes en costos y disponibilidad. Packaging, transporte, metales, gr",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2538,10 +2574,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Brown-Forman stock finds support as investors eye September earnings and rejected takeover bid - Ad-hoc-news.de",
-      "summary": "Brown-Forman rechazó una oferta de adquisición mientras los inversores aguardan resultados de septiembre. Este movimiento de M&A rechazado en un competidor clave de destilados impacta la valuación y e",
+      "title": "Resilient Keurig Dr Pepper stock holds near $31 as Q2 earnings beat and Overweight calls highlight v - Ad-hoc-news.de",
+      "summary": "Keurig Dr Pepper reportó resultados de Q2 que superaron expectativas, manteniendo el precio de su acción cerca de $31 con calificaciones Overweight de analistas. Este desempeño es relevante para Argen",
       "companies": [
-        "Brown-Forman"
+        "Keurig Dr Pepper"
       ],
       "segments": [
         "financial_results"
@@ -2550,7 +2586,7 @@
     },
     {
       "title": "Keurig Dr Pepper (KDP) Could Be 13% Below Fair Value As New Launches Meet Mixed Earnings - simplywall.st",
-      "summary": "Keurig Dr Pepper, uno de los mayores productores de bebidas de EE.UU., presenta una valoración potencialmente deprimida con acción en torno a 13% por debajo de valor justo según análisis. La empresa e",
+      "summary": "Keurig Dr Pepper enfrenta resultados mixtos en sus nuevos lanzamientos de productos, con su valuación actual potencialmente 13% por debajo de su valor justo según análisis de mercado. La empresa, uno ",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2561,7 +2597,7 @@
     },
     {
       "title": "Sazerac taps into US market’s growing interest in Korean culture with new soju innovation | FoodBev Media",
-      "summary": "Sazerac, gigante global de bebidas alcohólicas, lanza Dalho Soju en el mercado estadounidense capitalizando la creciente demanda de productos coreanos. La marca se posiciona con enfoque en sabor y exp",
+      "summary": "Sazerac, gigante de bebidas espirituosas, lanza Dalho Soju en el mercado estadounidense en dos formatos, posicionándose en la categoría de soju que experimenta crecimiento impulsado por el interés cul",
       "companies": [
         "Sazerac Company"
       ],
@@ -2572,7 +2608,7 @@
     },
     {
       "title": "Beer Loses Summer Traction as Bev-Alc Slump Deepens in Weekly NIQ Off-Premise Scans | Brewbound",
-      "summary": "Las bebidas alcohólicas experimentan una contracción acelerada en agosto según datos semanales de escaneo de NIQ en canal off-premise, con la cerveza perdiendo tracción específicamente en el período e",
+      "summary": "Las bebidas alcohólicas experimentan una contracción acelerada en agosto según datos de escaneos semanales de NIQ, con la cerveza perdiendo tracción específicamente en la temporada estival. Esta tende",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2582,7 +2618,7 @@
     },
     {
       "title": "Altamura Distilleries hires Constellation Brands, Brown-Forman know-how to lead US efforts - Global Drinks Intel",
-      "summary": "Altamura Distilleries contrató ejecutivos con experiencia en Constellation Brands y Brown-Forman para liderar sus operaciones en EE.UU., indicando una estrategia agresiva de expansión en el mercado no",
+      "summary": "Altamura Distilleries incorporó talento ejecutivo proveniente de Constellation Brands y Brown-Forman para liderar su expansión en el mercado estadounidense. Este movimiento estratégico refleja la inte",
       "companies": [
         "Brown-Forman",
         "Constellation Brands"
@@ -2594,7 +2630,7 @@
     },
     {
       "title": "PepsiCo's Largest U.S. Beverage Plant Anchors $201 Million Denver Project - Briefs Finance",
-      "summary": "PepsiCo invierte $201 millones en su planta de bebidas más grande de EE.UU. ubicada en Denver, reforzando su capacidad de producción en una región estratégica. Esta inversión evidencia la apuesta de P",
+      "summary": "PepsiCo invertirá $201 millones en un proyecto de expansión en Denver que incluye su planta de bebidas más grande de EE.UU. Esta inversión refuerza la capacidad productiva del gigante en el mercado no",
       "companies": [
         "PepsiCo"
       ],
@@ -2605,7 +2641,7 @@
     },
     {
       "title": "La empresa cervecera más grande de China crece ocho veces más que el mercado cervecero chino",
-      "summary": "China Resources Beer, el mayor cervecero chino, creció 1,7% en el primer semestre con 6,6 millones de kilolitros vendidos, mientras el mercado cervecero chino apenas avanzó 0,2%. Este desempeño indica",
+      "summary": "China Resources Beer, el mayor productor cervecero de China, creció 1,7% en el primer semestre de 2024 con ventas de 6,6 millones de kilolitros, mientras el mercado cervecero chino apenas avanzó 0,2%.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2614,8 +2650,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Celsius Holdings (NASDAQ:CELH) Mid Cap Stock Gains Fresh Market Attention - Kalkine Media",
+      "summary": "Celsius Holdings experimenta renovada atención del mercado como mid cap stock. La empresa de bebidas energéticas es competidor estratégico clave en el segmento de bebidas funcionales de rápido crecimi",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Madison Asset Management LLC Invests $8.19 Million in Constellation Brands Inc $STZ - MarketBeat",
-      "summary": "Madison Asset Management LLC realizó una inversión de $8.19 millones en Constellation Brands Inc (STZ), uno de los mayores productores de bebidas alcohólicas a nivel mundial. Este movimiento refleja c",
+      "summary": "Madison Asset Management LLC realizó una inversión de $8.19 millones en Constellation Brands Inc (STZ), uno de los mayores productores de bebidas alcohólicas del mundo con presencia dominante en cerve",
       "companies": [
         "Constellation Brands"
       ],
@@ -2626,7 +2673,7 @@
     },
     {
       "title": "Mission Craft Cocktails Pickle-Rita",
-      "summary": "Mission Craft Cocktails lanza Pickle-Rita, una innovación en cócteles listos para beber de formato bar-strength que expande su línea de margaritas. El producto incorpora tequila premium de Productos F",
+      "summary": "Mission Craft Cocktails lanzó Pickle-Rita, una nueva variante de cóctel listo para beber con sabor a pepinillo, expandiendo su línea de margaritas premium. El producto utiliza tequila de Productos Fin",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2635,19 +2682,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Does Unionization Pressure And Brand Strain Reshape The Bull Case For Boston Beer Company (SAM)? - simplywall.st",
-      "summary": "Boston Beer Company (SAM) enfrenta presiones de sindicalización y deterioro de marca que cuestionan su caso de inversión alcista. La unionización impacta costos operativos y relaciones laborales en un",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Danone’s £864m Huel acquisition cleared by UK competition watchdog | FoodBev Media",
-      "summary": "Danone completó la adquisición de Huel por £864 millones, aprobada por la autoridad de competencia británica (CMA). La operación, anunciada en marzo de 2026, integra a Huel —líder en nutrición funcion",
+      "summary": "Danone completó la adquisición de Huel por £864 millones, aprobada por la autoridad de competencia británica (CMA). La operación incorpora a Danone una marca líder en nutrición funcional basada en pla",
       "companies": [
         "Danone"
       ],
@@ -2658,8 +2694,42 @@
       "region": "Mundial"
     },
     {
+      "title": "Coca-Cola stock hits fresh 52-week high as earnings and guidance support valuation - Ad-hoc-news.de",
+      "summary": "Coca-Cola alcanzó un máximo de 52 semanas en bolsa sustentado por resultados sólidos y guidance optimista. La fortaleza en valuación refleja confianza de mercado en la estrategia de la compañía y su c",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo headcount falls by nearly 2,000 amid $1bn cost savings drive | FoodBev Media",
+      "summary": "Diageo redujo su plantilla en casi 2.000 empleados (6% de disminución) como parte de su programa de ahorros de $1.000 millones. El gigante alcohólico pasó de 29.000 a 27.972 empleados equivalentes a t",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Heineken UK is Using Heat Pumps to Slash Brewery Gas Use by 45% - Food & Beverage Outlook",
+      "summary": "Heineken UK implementó sistemas de bombas de calor en sus instalaciones de cervecería para reducir el consumo de gas natural en un 45%, mejorando significativamente su eficiencia energética. Esta inic",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Grows From Stands to Stores With National Ready-To-Drink Coffee and Energy Beverage Expansion at Walmart - Business Wire",
-      "summary": "Una marca de bebidas de café y energía listo para beber amplía su distribución nacional a través de Walmart, escalando desde canales de venta directa (stands/puestos) a retail masivo. Este movimiento ",
+      "summary": "Una marca de bebidas listas para beber (café y energizantes) expandió su distribución nacional a través de Walmart, escalando desde operaciones de stands a presencia masiva en retail. Este movimiento ",
       "companies": [
         "Walmart"
       ],
@@ -2670,13 +2740,14 @@
       "region": "Mundial"
     },
     {
-      "title": "CMA clears Danone’s €1bn takeover of Huel",
-      "summary": "Danone completó la adquisición de Huel por €1.000 millones, aprobada por la autoridad de competencia británica (CMA) tras revisión preliminar. La operación, anunciada en marzo de 2026, refuerza la est",
+      "title": "7 Brew® Grows From Stands to Stores With National Ready-To-Drink Coffee and Energy Beverage Expansion at Walmart - Morningstar",
+      "summary": "7 Brew expandió su línea de bebidas listas para beber (café y energéticas) a nivel nacional a través de Walmart, trasladando su modelo de quioscos a distribución retail masiva. Esta estrategia de crec",
       "companies": [
-        "Danone"
+        "Walmart"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
