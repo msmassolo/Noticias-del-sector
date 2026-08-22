@@ -2334,8 +2334,20 @@
   ],
   "2026-08-22": [
     {
+      "title": "Nocera Birra lanza su modelo de franquicias: cuánto cuesta abrir un bar en CABA",
+      "summary": "Nocera Birra, marca de cerveza artesanal argentina con origen en Quilmes, lanza un modelo de franquicias enfocado en expandir su presencia en CABA mediante bares que combinan producto cervecero, gastr",
+      "companies": [
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Cayeron las ventas en supermercados, mayoristas y shoppings en junio, según el Indec",
-      "summary": "Las ventas de consumo masivo cayeron en junio según el Indec: supermercados bajaron 1%, mayoristas 1,4% y shoppings 6,2% a precios constantes. Los tres canales de distribución formales muestran deteri",
+      "summary": "Las ventas de consumo masivo cayeron en junio según el Indec: supermercados bajaron 1%, mayoristas 1,4% y shoppings 6,2% a precios constantes. La contracción en los tres canales formales de distribuci",
       "companies": [],
       "segments": [
         "distribution_execution",
@@ -2344,18 +2356,8 @@
       "region": "Local"
     },
     {
-      "title": "El eCommerce argentino creció 28% en el primer semestre: vendió 248 millones de artículos",
-      "summary": "El eCommerce argentino creció 28% en el primer semestre de 2026, facturando $20 mil millones con 181,5 millones de órdenes. El segmento de Alimentos y Bebidas lidera el ranking de facturación. Este da",
-      "companies": [],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Local"
-    },
-    {
       "title": "¿Cambia la tendencia?: en julio se desaceleró la caída del consumo en supermercados",
-      "summary": "En julio se registró una desaceleración en la caída del consumo masivo en Argentina, con recuperación especialmente notable en supermercados y mayoristas—canales que venían siendo los más impactados. ",
+      "summary": "En julio se registró una desaceleración en la caída del consumo de masivos en supermercados y mayoristas, canales que habían sido los más afectados. Todos los rubros de consumo masivo (supermercados, ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2364,8 +2366,29 @@
       "region": "Local"
     },
     {
+      "title": "Franco Falasco: \"La industria del vino está obligada a evolucionar\"",
+      "summary": "Franco Falasco, CEO de Familia Falasco Wines (una de las mayores bodegas argentinas con 75-90 millones de litros anuales), sostiene que la industria vitivinícola debe evolucionar frente a la caída del",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Press Clips: Increased Brewery Visits, A New Mexico Hermit-Crabbing and Sierra Nevada Agua Azul Spiked Agave Seltzer | Brewbound",
+      "summary": "Sierra Nevada lanza Agua Azul Spiked Agave Seltzer, expandiendo su portafolio en la categoría de bebidas alcohólicas saborizadas de rápido crecimiento. El movimiento refleja la estrategia de jugadores",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Soaring demand for low-carb, low-calorie beer at Anheuser-Busch – The Brewers Journal",
-      "summary": "Anheuser-Busch invierte $13M en su planta de Baldwinsville para expandir capacidad de producción de Michelob Ultra, su cerveza bajo en calorías y carbohidratos, respondiendo a demanda creciente del se",
+      "summary": "Anheuser-Busch invierte $13 millones en su planta de Baldwinsville, Nueva York, para aumentar capacidad de producción de Michelob Ultra, su marca de cerveza baja en calorías y carbohidratos. La invers",
       "companies": [
         "AB InBev"
       ],
@@ -2377,7 +2400,7 @@
     },
     {
       "title": "Booze News Weekly Roundup: Diageo Cuts 2,000 Jobs, U.S. Drinking Rate Remains at Record Low, and More",
-      "summary": "Diageo, líder global en bebidas alcohólicas, anuncia reducción de 2.000 empleados (6% de su plantilla), señalando presiones en la estructura de costos de la industria. Simultáneamente, los datos muest",
+      "summary": "Diageo, líder global en destilados, anuncia reducción de 2,000 empleados (6% de su workforce), reflejando ajustes estructurales en la industria ante contexto de consumo de bebidas alcohólicas en mínim",
       "companies": [
         "Boston Beer Company",
         "Diageo"
@@ -2389,7 +2412,7 @@
     },
     {
       "title": "Walmart same-store sales slowdown could portend trouble for packaged food brands",
-      "summary": "Walmart reportó un crecimiento de mismas tiendas débil en Q2 pese a superar ganancias y proyecciones de ingresos, lo que desencadenó una caída de 9% en su cotización. Este indicador es crítico para ma",
+      "summary": "Walmart reportó un Q2 sólido en ganancias y ingresos, pero su crecimiento de same-store sales fue débil, causando una caída del 9% en el precio de la acción. Este indicador es crítico para la industri",
       "companies": [
         "Walmart"
       ],
@@ -2401,7 +2424,7 @@
     },
     {
       "title": "7 Brew Goes Beyond the Drive-Thru with Major Coffee, Energy Launch at Walmart - BevNET.com",
-      "summary": "7 Brew, cadena de cafeterías de rápido crecimiento, expande su presencia mediante el lanzamiento de cafés enlatados y bebidas energéticas en Walmart. La estrategia busca capitalizar su base de consumi",
+      "summary": "7 Brew, cadena de café con drive-thru de rápido crecimiento, lanza línea de bebidas enlatadas (café y bebidas energéticas) en Walmart para expandir su presencia más allá de foodservice. La estrategia ",
       "companies": [
         "Walmart"
       ],
@@ -2412,19 +2435,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Boston Beer CFO Diego Reynoso to Exit; Formal Search Launched for Replacement | Brewbound",
-      "summary": "Diego Reynoso, CFO de Boston Beer Company, abandona su posición tras recibir un bono de retención de $1.2M hace un año. La compañía ha iniciado una búsqueda formal para su reemplazo. Este cambio en la",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "The VinePair Podcast: White Wine Is Booming. Can American Producers Pivot?",
-      "summary": "La industria vinícola estadounidense enfrenta un giro en preferencias de consumo hacia vinos blancos, desplazando la demanda de tintos de cuerpo completo que históricamente dominaban el mercado. Este ",
+      "summary": "La industria vitivinícola estadounidense enfrenta un cambio de preferencias de consumo desde vinos tintos de cuerpo completo hacia blancos, lo que ha sido históricamente la columna vertebral del merca",
       "companies": [
         "Bacardi"
       ],
@@ -2435,7 +2447,7 @@
     },
     {
       "title": "PepsiCo makes packaging gains, but infrastructure remains a hurdle",
-      "summary": "PepsiCo avanzó en su agenda de sostenibilidad de packaging al reducir plástico virgen e incrementar contenido reciclado, según su último reporte ESG. Sin embargo, la infraestructura de reciclaje globa",
+      "summary": "PepsiCo avanzó en reducción de plástico virgen e incremento de contenido reciclado según su último reporte ESG, pero enfrenta limitaciones en infraestructura de reciclaje para escalar estos logros. Es",
       "companies": [
         "PepsiCo"
       ],
@@ -2446,7 +2458,7 @@
     },
     {
       "title": "Sazerac Company Continues Investing in Kentucky with Acquisition of Garrard County Distilling",
-      "summary": "Sazerac Company adquirió la destilería Garrard County Distilling en Lancaster, Kentucky, ampliando su red de producción en el estado. Esta inversión se suma a sus instalaciones existentes (Buffalo Tra",
+      "summary": "Sazerac Company adquirió Garrard County Distilling en Kentucky, ampliando su red de destilerías en el estado a cuatro instalaciones principales. Esta M&A refuerza la capacidad productiva del mayor des",
       "companies": [
         "Sazerac Company"
       ],
@@ -2457,7 +2469,7 @@
     },
     {
       "title": "Gatorade addresses disparities in how women hydrate",
-      "summary": "Gatorade lanzó un estudio del Gatorade Sports Science Institute sobre disparidades en las necesidades de hidratación entre mujeres y hombres, con cuatro décadas de investigación en el área. Este halla",
+      "summary": "Gatorade lanzó un estudio del Gatorade Sports Science Institute sobre diferencias en necesidades de hidratación entre hombres y mujeres, marcando su primer enfoque explícito en disparidades de género.",
       "companies": [
         "PepsiCo"
       ],
@@ -2467,20 +2479,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Reflecting On Beverages, Alcohol, and Tobacco Stocks’ Q2 Earnings: Coca-Cola (NYSE:KO) - Yahoo Finance",
-      "summary": "Análisis de resultados Q2 de Coca-Cola y su desempeño frente a otros competidores en el sector de bebidas y alcohol. La noticia cubre el desempeño financiero trimestral de KO, proporcionando contexto ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (MNST) Posted Strong Q2 Earnings, Is The Stock Now Fully Valued? - simplywall.st",
-      "summary": "Monster Beverage reportó resultados sólidos en Q2, generando interés sobre su valoración actual en bolsa. Como actor dominante en el mercado global de bebidas energéticas, los resultados de Monster so",
+      "title": "Monster Beverage stock holds firm as Q2 2026 growth and new labelling rules shape outlook - Ad-hoc-news.de",
+      "summary": "Monster Beverage reporta crecimiento en Q2 2026 mientras nuevas regulaciones de etiquetado impactan la industria de bebidas energéticas. La estabilidad del precio de la acción refleja confianza en el ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2491,8 +2491,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Coca-Cola stock hits fresh 52-week high as earnings and guidance support valuation - Ad-hoc-news.de",
+      "summary": "Coca-Cola alcanzó nuevos máximos de 52 semanas impulsado por resultados sólidos y guidance positiva que justifican su valoración. Este movimiento del principal competidor global refleja confianza del ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Safety First: Health halos, Asahi cyberattack and PFAS",
-      "summary": "La seguridad alimentaria en India subraya la importancia estratégica de que las marcas de bebidas y alimentos wellness respalden sus claims con evidencia científica y etiquetado transparente. El creci",
+      "summary": "La seguridad alimentaria en India impulsa la necesidad de que marcas de bebidas de salud y bienestar respalden sus claims con evidencia científica, etiquetado transparente y trazabilidad robusta. El p",
       "companies": [
         "Asahi Group"
       ],
@@ -2503,7 +2514,7 @@
     },
     {
       "title": "How Heineken UK is Using Heat Pumps to Slash Brewery Gas Use by 45% - Food & Beverage Outlook",
-      "summary": "Heineken UK implementó bombas de calor en sus operaciones de cervecería logrando reducir el consumo de gas en un 45%, una estrategia de eficiencia energética con impacto significativo en costos operat",
+      "summary": "Heineken UK implementó bombas de calor en sus instalaciones de producción para reducir el consumo de gas en un 45%, una iniciativa de eficiencia energética con impacto significativo en costos operativ",
       "companies": [
         "Heineken"
       ],
@@ -2514,51 +2525,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Calm Markets, Loud Headlines: Agrowgate Q3 2026 Supply Chain Update",
-      "summary": "Agrowgate reporta en Q3 2026 que las cadenas de suministro de bebidas mantienen estabilidad aparente pero enfrentan presiones subyacentes en costos y disponibilidad. Los principales desafíos se concen",
-      "companies": [],
+      "title": "Resilient Keurig Dr Pepper stock holds near $31 as Q2 earnings beat and Overweight calls highlight v - Ad-hoc-news.de",
+      "summary": "Keurig Dr Pepper reportó resultados de Q2 que superaron expectativas, manteniendo su cotización cercana a $31 con calificaciones Overweight de analistas. Como uno de los mayores productores globales d",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors stock holds steady as investors weigh pricing strategy and Canada tariff risk - Ad-hoc-news.de",
+      "summary": "Molson Coors enfrenta presiones de mercado por su estrategia de precios y riesgos arancelarios en Canadá, lo que genera volatilidad en la valuación accionaria. La compañía debe balancear el incremento",
+      "companies": [
+        "Molson Coors"
+      ],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper (KDP) Could Be 13% Below Fair Value As New Launches Meet Mixed Earnings - simplywall.st",
-      "summary": "Keurig Dr Pepper podría cotizar 13% por debajo de su valor justo según análisis de simplywall.st, con resultados mixtos que reflejan presiones en la performance operativa. Los nuevos lanzamientos de p",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Resilient Keurig Dr Pepper stock holds near $31 as Q2 earnings beat and Overweight calls highlight v - Ad-hoc-news.de",
-      "summary": "Keurig Dr Pepper reportó resultados de Q2 que superaron expectativas, manteniendo su cotización cerca de $31 con llamadas de analistas a Overweight. La resiliencia de la empresa refleja una estrategia",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo's Largest U.S. Beverage Plant Anchors $201 Million Denver Project - Briefs Finance",
-      "summary": "PepsiCo invierte $201 millones en un proyecto que incluye su planta de bebidas más grande de EE.UU. en Denver. Esta inversión estratégica en infraestructura de manufactura refleja el compromiso de la ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
+        "regulation_tax_policy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Las ventas de vino tranquilo caen un 4,9% en Rusia",
-      "summary": "Las ventas de vino tranquilo en Rusia cayeron 4,9% en el primer semestre de 2026, descendiendo a 297 millones de litros, mientras que el vino espumoso creció 2,3%. Este desempeño divergente refleja ca",
+      "summary": "Las ventas de vino tranquilo en Rusia cayeron 4,9% en H1 2026 (29,7 millones de decalitros), mientras que el espumoso creció 2,3% (10,1 millones de decalitros). Esta divergencia de tendencias indica u",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2567,10 +2558,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Celsius Holdings (NASDAQ:CELH) Mid Cap Stock Gains Fresh Market Attention - Kalkine Media",
-      "summary": "Celsius Holdings mantiene visibilidad en mercados de capitales como acción mid-cap en NASDAQ. Este movimiento refleja el creciente interés inversor en marcas de bebidas funcionales y energéticas, un s",
+      "title": "Shelter Mutual Insurance Co Invests $1.43 Million in Constellation Brands Inc $STZ - MarketBeat",
+      "summary": "Shelter Mutual Insurance Co realizó una inversión de $1.43 millones en Constellation Brands Inc (STZ), uno de los mayores productores de bebidas alcohólicas a nivel mundial. La operación refleja confi",
       "companies": [
-        "Celsius Holdings"
+        "Constellation Brands"
       ],
       "segments": [
         "company_news"
@@ -2578,18 +2569,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Anheuser-Busch invests $13m in expansion of Baldwinsville Brewery | FoodBev Media",
-      "summary": "Anheuser-Busch invierte $13M en su planta de Baldwinsville, Nueva York, para expandir capacidad de producción de Michelob Ultra y Cutwater, sus marcas de mayor crecimiento en segmentos premium y spiri",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Vacuum Packaging Technology Gains Traction Across Food and Beverage Operations as Shelf-Life and Quality Demands Rise",
-      "summary": "La tecnología de envasado al vacío está ganando adopción en operaciones de alimentos y bebidas para mejorar vida útil, reducir desperdicios y mantener consistencia sin preservantes artificiales. Los p",
+      "summary": "La tecnología de empaque al vacío está ganando adopción en operaciones de alimentos y bebidas como respuesta a demandas crecientes de mayor vida útil y calidad de productos. Los productores están eval",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2598,8 +2579,51 @@
       "region": "Mundial"
     },
     {
+      "title": "Anheuser-Busch invests $13m in expansion of Baldwinsville Brewery | FoodBev Media",
+      "summary": "Anheuser-Busch invierte $13 millones en la expansión de su cervecería de Baldwinsville, Nueva York, para aumentar la capacidad de producción de Michelob Ultra y Cutwater, marcas de alto crecimiento en",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Shares Slip as CFO Diego Reynoso Announces Departure - finance.biggo.com",
+      "summary": "El CFO Diego Reynoso anunció su salida de Boston Beer Company, lo que generó caída en el precio de las acciones. Este movimiento en la cúpula financiera de uno de los mayores productores de bebidas al",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock holds steady as spirits sector valuations stay resilient - Ad-hoc-news.de",
+      "summary": "Pernod Ricard mantiene estabilidad en su cotización mientras el sector de destilados evidencia valuaciones resilientes en mercado. La fortaleza del segmento de bebidas alcohólicas premium refleja dema",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Landscape Capital Management L.L.C. Invests $3.60 Million in National Beverage Corp. $FIZZ - MarketBeat",
+      "summary": "Landscape Capital Management realizó una inversión de $3.6 millones en National Beverage Corp. (FIZZ), fabricante de bebidas de marca LaCroix y Fanta, señalando confianza institucional en la compañía.",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Heineken reduz 3 mil posições em reestruturação e inclui Brasil na expansão de serviços - Mercado&Consumo",
-      "summary": "Heineken anuncia reducción de 3.000 posiciones a nivel global como parte de una reestructuración corporativa, simultáneamente incluyendo a Brasil en su expansión de servicios. Esta estrategia refleja ",
+      "summary": "Heineken anuncia reducción de 3.000 posiciones globales como parte de una reestruturación corporativa, mientras simultáneamente expande operaciones de servicios en Brasil. Esta estrategia de optimizac",
       "companies": [
         "Heineken"
       ],
@@ -2609,37 +2633,13 @@
       "region": "Regional"
     },
     {
-      "title": "Monster Beverage stock holds firm as Q2 2026 growth and new labelling rules shape outlook - Ad-hoc-news.de",
-      "summary": "Monster Beverage reportó crecimiento en Q2 2026 manteniendo solidez en cotización bursátil, en un contexto de nuevas regulaciones de etiquetado que impactan la industria. Las nuevas normativas de labe",
+      "title": "Sazerac Company Continues Investing in Kentucky with Acquisition of Garrard County Distilling - PR Newswire",
+      "summary": "Sazerac Company, uno de los mayores productores de bebidas alcohólicas de EE.UU., adquirió Garrard County Distilling en Kentucky, reforzando su posición en destilería y producción de whiskey. Esta ope",
       "companies": [
-        "Monster Beverage"
+        "Sazerac Company"
       ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Los mexicanos gastan menos en el súper y Walmart responde con “Precios que no se tocan” en 4,000 productos",
-      "summary": "Walmart México lanzó 'Precios que no se tocan', una campaña que congela precios en 4,000 SKUs durante 90 días en Walmart Supercenter y Bodega Aurrera, incluyendo canales digitales desde agosto 20. La ",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
         "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Pernod Ricard stock holds steady as spirits sector valuations stay resilient - Ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene estabilidad en cotización mientras las valoraciones del sector de bebidas alcohólicas permanecen resilientes. La noticia indica solidez en los múltiplos de valuación del segment",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
