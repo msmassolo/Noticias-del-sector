@@ -1,104 +1,4 @@
 {
-  "2026-08-16": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída de consumo, presionando ajustes de costos en productores. El cambio de hábitos de consumo en Argentina impacta directamente en un segmento",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Backus amplía su apuesta más allá de la cerveza: qué viene con Mike’s, Flying Fish y Guaraná",
-      "summary": "Backus, principal cervecería peruana, expande su portafolio más allá de cerveza tradicional hacia Ready to Drink (RTD), cervezas saborizadas y soft drinks, aprovechando marcas como Mike's, Flying Fish",
-      "companies": [
-        "Backus"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Tendencia 2026: crece el consumo de vino ecológico en EE. UU. impulsado por millennials y generación Z - Noticias Ambientales",
-      "summary": "El mercado estadounidense de vino ecológico experimenta crecimiento impulsado por millennials y generación Z, segmentos demográficos con alta capacidad de gasto y preferencia por productos sustentable",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Former PepsiCo Executive Joins THC-Infused Beverage Maker Pharos Brands International as CEO",
-      "summary": "Matt Smith, ejecutivo con 15 años en PepsiCo y Del Monte, asume la presidencia de Pharos Brands International, productor de bebidas infusionadas con THC. La empresa está escalando su presencia retail ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation stock Analysis: Q2 Sales Boost with Mixed Signals - en.cryptonomist.ch",
-      "summary": "Monster Beverage reportó crecimiento en ventas Q2 con señales mixtas en su desempeño financiero. Como uno de los principales actores en el segmento de bebidas energéticas a nivel global, los resultado",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Celsius Holdings (CELH) Has The Market Watching, What Is Behind The Attention? - simplywall.st",
-      "summary": "Celsius Holdings (CELH), principal jugador en bebidas energéticas funcionales, genera atención del mercado como potencial oportunidad de inversión. La compañía ha capturado participación significativa",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Suntory Beverage & Food (TSE:2587) Posted Strong Half Year Results, Is The Stock Still Undervalued? - simplywall.st",
-      "summary": "Suntory Beverage & Food reportó resultados sólidos en el primer semestre, mostrando desempeño positivo en su línea de negocio de bebidas. La noticia analiza si la valuación de mercado de la compañía j",
-      "companies": [
-        "Suntory Beverage & Food"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kirin Holdings Company (TSE:2503) Could Be 40% Undervalued After Its AI Research Push - simplywall.st",
-      "summary": "Kirin Holdings, uno de los mayores fabricantes de bebidas globales, está implementando una estrategia de investigación en IA que analistas sugieren podría subestimar su valuación en hasta 40%. Esta ap",
-      "companies": [
-        "Kirin Holdings"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Former PepsiCo Executive Joins THC-Infused Beverage Maker Pharos Brands International as CEO - BevNET.com",
-      "summary": "Un ejecutivo senior de PepsiCo se incorporó como CEO a Pharos Brands International, empresa especializada en bebidas infusionadas con THC. Este movimiento refleja la creciente legitimación del segment",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-08-17": [
     {
       "title": "Supermercados se reconvierten con la baja del consumo y los nuevos hábitos: locales más chicos y menos costos",
@@ -2419,6 +2319,100 @@
       "segments": [
         "consumer_market_trends",
         "marketing_innovation"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-08-24": [
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "La cerveza artesanal enfrenta una contracción significativa en consumo, obligando a productores a ajustar costos operativos ante cambios en los patrones de demanda. Esta crisis refleja tendencias estr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Heineken manda demitir 6 mil funcionários e vai parar de produzir cerveja em fábrica - Portal Tempo Novo",
+      "summary": "Heineken anuncia despidos de 6.000 empleados y cierre de operaciones de producción en una planta. Esta decisión refleja una reestructuración estratégica en la compañía, probablemente vinculada a optim",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Will Iraq become PepsiCo’s next Middle East manufacturing hub?",
+      "summary": "PepsiCo está evaluando Iraq como potencial centro de manufactura en Medio Oriente, aprovechando la estabilidad relativa del país a pesar del conflicto regional con Irán. Esta expansión estratégica rep",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors stock holds steady as investors look to earnings and U.S. partnership benefits - Ad-hoc-news.de",
+      "summary": "Molson Coors mantiene estabilidad accionaria mientras el mercado anticipa resultados financieros y beneficios de asociaciones estratégicas en EE.UU. La noticia refleja confianza de inversores en la ej",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CLSA backs Varun Beverages with ₹654 target on Asahi-CALPIS India launch - scanx.trade",
+      "summary": "CLSA eleva su precio objetivo para Varun Beverages a ₹654 respaldada por el lanzamiento de Asahi-CALPIS en India, un producto premium de Asahi Group. Este movimiento refleja la estrategia de Varun Bev",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock faces regulatory scrutiny as FSSAI targets whisky plant - Ad-hoc-news.de",
+      "summary": "Pernod Ricard enfrenta escrutinio regulatorio en India, donde la Autoridad de Seguridad Alimentaria (FSSAI) está investigando una planta de whisky del grupo. Este desarrollo impacta directamente la va",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Dry-state Gujarat finds a new high: Non-alcoholic drinks’ fizzing market now worth crores; massive consumpt... - Bhaskar English",
+      "summary": "El mercado de bebidas no alcohólicas en Gujarat (estado seco de India) está experimentando crecimiento significativo, alcanzando un valor de varios crores. Esta tendencia es relevante para la industri",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "As GLP-1 Patients Rethink Food, CPGs Must Follow Suit",
+      "summary": "El crecimiento del uso de fármacos GLP-1 para pérdida de peso está transformando las preferencias de consumo: los usuarios reducen volúmenes pero priorizan calidad nutricional, rechazando productos ul",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Gallup poll: US alcohol consumption remains at record lows - Harpers Wine & Spirit Trade News",
+      "summary": "El consumo de alcohol en EE.UU. se mantiene en mínimos históricos con 54% de adultos consumidores en 2026, sin cambios respecto a 2025 pero representando una caída de 13 puntos porcentuales desde 2022",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
