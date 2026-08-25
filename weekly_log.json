@@ -2147,37 +2147,19 @@
   ],
   "2026-08-25": [
     {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de consumo con presión en márgenes y reestructura de costos operativos. Este movimiento refleja cambios en los hábitos de los co",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Fuerte repunte de las exportaciones de vino a granel argentino: crecieron 46,5% en volumen durante el primer semestre - InfoMendoza",
-      "summary": "Las exportaciones de vino a granel argentino crecieron 46,5% en volumen durante el primer semestre, evidenciando una recuperación significativa del sector exportador. Este dinamismo refleja mayor dema",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Rafael Golfe es el nuevo director de brand experience y patrocinios en Heineken Brasil - Marketers by Adlatina",
-      "summary": "Rafael Golfe asume como director de brand experience y patrocinios en Heineken Brasil. Este cambio refleja la reorganización de la estrategia de experiencia de marca y activaciones patrocinadas de Hei",
+      "title": "O El Niño vem aí e deve mexer com o milho, o arroz — e até a cerveja",
+      "summary": "El Niño representa una amenaza climática para la cosecha 2026/27 en Brasil, impactando directamente la disponibilidad y costo del maíz, insumo crítico para la industria de bebidas (especialmente cerve",
       "companies": [
-        "Heineken"
+        "Ambev"
       ],
       "segments": [
-        "marketing_innovation"
+        "consumer_market_trends"
       ],
       "region": "Regional"
     },
     {
       "title": "Heineken manda demitir 6 mil funcionários e vai parar de produzir cerveja em fábrica - Portal Tempo Novo",
-      "summary": "Heineken anuncia el despido de 6.000 empleados y cierre de operaciones de producción en una planta. Esta decisión refleja una estrategia de reestructuración corporativa que impacta la capacidad produc",
+      "summary": "Heineken anuncia despido de 6.000 empleados y cierre de operaciones de producción en una planta. Esta reestructuración representa un movimiento estratégico de optimización de costos y capacidad produc",
       "companies": [
         "Heineken"
       ],
@@ -2188,7 +2170,7 @@
     },
     {
       "title": "La nueva estrategia de Starbucks: ahora quiere vender más después del mediodía con bebidas frías, matcha y alimentos",
-      "summary": "Starbucks implementa una estrategia de diversificación de portafolio dirigida a capturar consumo en horario vespertino, enfocándose en bebidas frías (Refreshers), bebidas de tendencia (matcha) y alime",
+      "summary": "Starbucks implementa una estrategia comercial para capturar demanda en horario vespertino (post meridiano) mediante la expansión de su portafolio con bebidas frías, bebidas a base de matcha y alimento",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2196,8 +2178,19 @@
       "region": "Regional"
     },
     {
+      "title": "Will Iraq become PepsiCo’s next Middle East manufacturing hub?",
+      "summary": "PepsiCo evalúa a Iraq como potencial hub de manufactura en Medio Oriente, aprovechando la estabilidad relativa del país frente al conflicto regional en Irán. Esta expansión geográfica es estratégica p",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Mountain Dew, Trolli announce Mango Pineapple Punch release",
-      "summary": "Mountain Dew y Trolli lanzan una bebida limitada co-branded que combina sabores tropicales (mango, piña, fresa) con elementos picantes, respondiendo a la demanda de consumidores por perfiles de sabor ",
+      "summary": "Mountain Dew y Trolli lanzan Mango Pineapple Punch, una bebida limitada que combina sabores tropicales con especias, respondiendo a la demanda de consumidores por perfiles frutales innovadores. La est",
       "companies": [
         "PepsiCo"
       ],
@@ -2209,7 +2202,7 @@
     },
     {
       "title": "Olipop's Ben Goodwin: Focus on Growth Over Acquisition Offers from PepsiCo and Coca-Cola - News and Statistics - IndexBox",
-      "summary": "Ben Goodwin, CEO de Olipop, rechazó ofertas de adquisición de PepsiCo y Coca-Cola para mantener el enfoque en crecimiento independiente. La decisión refleja la estrategia de la marca de bebidas funcio",
+      "summary": "El CEO de Olipop, Ben Goodwin, rechazó ofertas de adquisición de PepsiCo y Coca-Cola, optando por mantener la independencia y enfocarse en crecimiento orgánico. Olipop, marca de bebidas funcionales en",
       "companies": [
         "The Coca-Cola Company",
         "PepsiCo",
@@ -2222,7 +2215,7 @@
     },
     {
       "title": "BuzzBallz teams up with Pop-Tarts on limited-edition nostalgia collaboration | FoodBev Media",
-      "summary": "BuzzBallz, marca de cócteles RTD, lanzó una colaboración limitada con Pop-Tarts en el mercado estadounidense, introduciendo dos sabores nostálgicos (S'mores y Brown Sugar Cinnamon) como estrategia de ",
+      "summary": "BuzzBallz, marca de cócteles RTD, lanzó una colaboración limitada con Pop-Tarts en el mercado estadounidense con dos variedades nostalgia-inspiradas (Frosted S'mores y Frosted Brown Sugar Cinnamon). L",
       "companies": [
         "Sazerac Company"
       ],
@@ -2233,8 +2226,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Unite threatens strike at Diageo’s Cameronbridge distillery over job cuts - Harpers Wine & Spirit Trade News",
+      "summary": "Diageo enfrenta una votación de huelga en su destilería escocesa de Cameronbridge (100 empleados) por recortes de personal anunciados. El grupo ya redujo ~2.000 empleados globalmente en el último año ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Constellation Brands commits $100m to US farmers supplying beer industry | FoodBev Media",
-      "summary": "Constellation Brands invierte $100M en los próximos 5 años para fortalecer su cadena de suministro agrícola doméstica en EEUU, enfocándose en cultivadores en Idaho, Montana y Dakota del Norte. La inic",
+      "summary": "Constellation Brands invertirá $100M en cinco años para apoyar a agricultores en Idaho, Montana y Dakota del Norte, fortaleciendo su cadena de suministro agrícola doméstica para la producción de cerve",
       "companies": [
         "Constellation Brands"
       ],
@@ -2244,8 +2249,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Caffeine in Costa coffee nearly four times that of Starbucks’",
+      "summary": "Un estudio del organismo de defensa del consumidor Which? reveló que un cappuccino de Costa Coffee contiene 325mg de cafeína, más de tres veces superior a Starbucks (89mg) y equivalente a cuatro latas",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Monster Beverage stock holds steady as Q2 estimates point to double-digit growth - Ad-hoc-news.de",
-      "summary": "Monster Beverage proyecta crecimiento de doble dígito en Q2, lo que mantiene estable el precio de sus acciones. Este desempeño refleja la fortaleza continua de la marca en el segmento de bebidas energ",
+      "summary": "Monster Beverage presenta estimaciones de crecimiento de doble dígito para Q2, lo que mantiene estable el precio de su acción. Este desempeño refleja la fortaleza continua de la marca líder en bebidas",
       "companies": [
         "Monster Beverage"
       ],
@@ -2256,19 +2272,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Will Iraq become PepsiCo’s next Middle East manufacturing hub?",
-      "summary": "PepsiCo evalúa a Iraq como potencial hub de manufactura en Medio Oriente, aprovechando la estabilidad relativa del país a pesar de la guerra en Irán. Esta expansión estratégica responde a la búsqueda ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Functional Coffee Leader Everyday Dose Expands Into Sam's Club Nationwide & Appoints Kyle Thibaut as CEO",
-      "summary": "Everyday Dose, marca de café funcional de nueve dígitos, alcanzó 5.000 puntos de venta minorista en menos de un año y se posicionó como #7 en alimentos y bebidas en la lista Inc. 5000 de 2026. Acaba d",
+      "summary": "Everyday Dose, marca de café funcional de nueve dígitos, alcanzó más de 5.000 puntos de venta minoristas menos de un año tras su debut y expandió su línea Coffee+ a más de 300 sucursales de Sam's Club",
       "companies": [
         "Walmart"
       ],
@@ -2279,7 +2284,7 @@
     },
     {
       "title": "Nestlé Waters Regenerates 14 Million Cubic Metres of Water as Stewardship Programme Expands - Food & Beverage Outlook",
-      "summary": "Nestlé Waters reporta la regeneración de 14 millones de metros cúbicos de agua a través de su programa de administración ambiental en expansión. Esta iniciativa de sustentabilidad se alinea con la est",
+      "summary": "Nestlé Waters reporta regeneración de 14 millones de metros cúbicos de agua a través de su programa de administración ambiental en expansión. Esta iniciativa de sustentabilidad aborda un factor crític",
       "companies": [
         "Nestle Waters"
       ],
@@ -2291,7 +2296,7 @@
     },
     {
       "title": "Beyond accelerates plant protein strategy with Beyond Immerse retail expansion",
-      "summary": "Beyond Meat expande su estrategia de proteína vegetal con el lanzamiento de Beyond Immerse, su línea de bebidas funcionales, en 14 locales de la cadena orgánica Erewhon. Tras su introducción en el áre",
+      "summary": "Beyond Meat expande su línea de bebidas funcionales Beyond Immerse con 14 nuevas ubicaciones en la cadena orgánica Erewhon, complementando su distribución previa a través de Big Geyser en Nueva York y",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2301,7 +2306,7 @@
     },
     {
       "title": "Molson Coors stock holds steady as investors look to earnings and U.S. partnership benefits - Ad-hoc-news.de",
-      "summary": "Molson Coors mantiene estabilidad accionaria mientras el mercado anticipa resultados financieros y beneficios de una alianza estratégica en EE.UU. La noticia es relevante para monitorear movimientos d",
+      "summary": "Molson Coors mantiene estabilidad bursátil mientras el mercado anticipa resultados financieros y beneficios de alianzas estratégicas en EE.UU. La noticia señala confianza de inversores en la capacidad",
       "companies": [
         "Molson Coors"
       ],
@@ -2311,18 +2316,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Asterisk Imports Launches, Secures Exclusive U.S. Rights to Belgium's Kasteel Beer Portfolio",
-      "summary": "Asterisk Imports aseguró los derechos exclusivos de distribución en EE.UU. para el portafolio completo de Kasteel, la cerveza belga especializada de Brouwerij Vanhonsebrouck. Este movimiento represent",
-      "companies": [],
+      "title": "The House of Suntory Unveils Hibiki 12 Years Old Travel Exclusive Series",
+      "summary": "Suntory lanza Hibiki 12 Years Old Travel Exclusive Series en duty-free de aeropuertos internacionales, retornando al canal de viajes después de 11 años con nuevo diseño inspirado en naturaleza japones",
+      "companies": [
+        "Beam Suntory"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "company_news"
       ],
       "region": "Mundial"
     },
     {
       "title": "Brown-Forman family split over failed merger and declining stock price, report says - Lexington Herald Leader",
-      "summary": "La familia Brown-Forman enfrenta divisiones internas por la fallida fusión y caída de cotización bursátil. Brown-Forman es productor global de bebidas alcohólicas (Jack Daniel's, Woodford Reserve, ent",
+      "summary": "Brown-Forman, uno de los mayores productores de bebidas alcohólicas del mundo (Jack Daniel's, Woodford Reserve), enfrenta conflictos internos dentro de la familia controladora por la caída del precio ",
       "companies": [
         "Brown-Forman"
       ],
@@ -2332,30 +2338,8 @@
       "region": "Mundial"
     },
     {
-      "title": "McDonald's (MCD) Enters Energy Drinks Following Red Bull Launch As Fair Value Questions Linger - simplywall.st",
-      "summary": "McDonald's ingresa al mercado de bebidas energizantes siguiendo el lanzamiento de su marca propia, compitiendo directamente con Red Bull y otros jugadores establecidos. Este movimiento representa una ",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo faces 4% beverage volume decline as Mountain Dew Trolli launch rolls out - TechStock²",
-      "summary": "PepsiCo reporta una caída del 4% en volumen de bebidas, coincidiendo con el lanzamiento de Mountain Dew Trolli. Este descenso refleja presiones en el portafolio de marcas tradicionales de la compañía,",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Bernstein Adjusts Monster Beverage Price Target to $50 From $95 - marketscreener.com",
-      "summary": "Bernstein redujo el precio objetivo de Monster Beverage de $95 a $50, señalando una revisión significativa en la valuación del líder global de bebidas energéticas. Esta caída del 47% refleja cambios e",
+      "summary": "Bernstein rebajó el precio objetivo de Monster Beverage de $95 a $50, reflejando una revisión negativa significativa sobre la valoración de la empresa. Esta corrección de casi 47% indica cambios en la",
       "companies": [
         "Monster Beverage"
       ],
@@ -2365,8 +2349,51 @@
       "region": "Mundial"
     },
     {
+      "title": "McDonald's (MCD) Enters Energy Drinks Following Red Bull Launch As Fair Value Questions Linger - simplywall.st",
+      "summary": "McDonald's ingresa al mercado de bebidas energéticas siguiendo el lanzamiento de Red Bull, ampliando su portafolio de bebidas más allá de sus ofertas tradicionales. Este movimiento responde a la creci",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo rallies among London's risers: is the spirits downturn turning a corner? - Kalkine Media",
+      "summary": "Diageo, el principal productor mundial de bebidas espirituosas, mostró recuperación en cotización en Londres, sugiriendo posible reversión de la desaceleración del mercado de spirits. La noticia indic",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Asterisk Imports Launches, Secures Exclusive U.S. Rights to Belgium's Kasteel Beer Portfolio",
+      "summary": "Asterisk Imports aseguró los derechos exclusivos de importación y distribución en EE.UU. de la cartera completa de cervezas belgas Kasteel de Brouwerij Vanhonsebrouck. El acuerdo marca una estrategia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Varun Beverages forays into alcohol business, names ex-Diageo executive Prathmesh Mishra to lead new unit - The Economic Times",
+      "summary": "Varun Beverages, principal embotellador de PepsiCo en India, ingresa al negocio de bebidas alcohólicas contratando a Prathmesh Mishra, ejecutivo senior de Diageo, para liderar la nueva unidad. Esta di",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Consumers redefine beverage premiumisation as experience overtakes price",
-      "summary": "Los consumidores están redefiniendo premiumización: ya no se trata solo de precio, sino de experiencia y justificación de valor. Según IWSR, la inflación distorsionó la percepción de premiumización, p",
+      "summary": "Los consumidores están redefiniendo premiumización hacia experiencias y justificación de valor sobre el precio. Según IWSR, la inflación ha distorsionado la percepción de premiumización tradicional, p",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2375,28 +2402,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Tennent’s readies stout launch amid falling lager sales",
-      "summary": "Tennent's prepara el lanzamiento de una cerveza tipo stout en el Reino Unido, aprovechando la tendencia de crecimiento de este segmento mientras el mercado de lagers enfrenta caídas generalizadas. La ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Eebria relaunched with mission to drive growth for suppliers",
-      "summary": "Eebria, plataforma distribuidora B2B de bebidas, se relanzó bajo nueva marca tras su adquisición por Beer52 en 2024, con inversión en tecnología, propuesta comercial y equipo. El reposicionamiento bus",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Beekeeper Coffee Adds NBA Stars to Cap Table in New Investment Round - BevNET.com",
-      "summary": "Beekeeper Coffee, marca de café listo para beber (RTD), cerró una ronda de inversión con participación de nueve nuevos inversores, incluyendo estrellas NBA como Draymond Green y Anthony Davis, además ",
+      "summary": "Beekeeper Coffee, marca de café ready-to-drink, completó una nueva ronda de inversión con nueve nuevos inversores, incluyendo estrellas de la NBA Draymond Green y Anthony Davis, además de Rich Paul, C",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2406,7 +2413,7 @@
     },
     {
       "title": "Distribution: Beyond’s Protein Beverage Lands in Erewhon; Target Brings More Coffee - BevNET.com",
-      "summary": "Beyond The Plant Protein Co. amplía la distribución de Beyond Immerse, su bebida funcional de proteína vegetal, a las 14 sucursales de Erewhon en el sur de California. Este movimiento fortalece la pre",
+      "summary": "Beyond The Plant Protein Co. amplió la distribución de su bebida funcional Beyond Immerse a los 14 locales de Erewhon en el Sur de California. Erewhon es una cadena premium de retail con presencia est",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2416,7 +2423,7 @@
     },
     {
       "title": "Las exportaciones surcoreanas de otros licores superan los 100 millones de dólares por el tirón del soju de frutas",
-      "summary": "Las exportaciones surcoreanas de soju de frutas y otros licores alcanzaron USD 100,41 millones en 2025, superando por primera vez la barrera de los USD 100 millones con crecimiento del 4,3% interanual",
+      "summary": "Las exportaciones surcoreanas de soju de frutas y otros licores alcanzaron USD 100,41 millones en 2025, un crecimiento de 4,3% interanual. Este hito refleja la consolidación del soju de frutas como ca",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2425,18 +2432,8 @@
       "region": "Mundial"
     },
     {
-      "title": "🎧Jenny Thielen, Green Seed North America",
-      "summary": "Jenny Thielen, CMO de Green Seed North America, comparte estrategias de escalado y salida exitosa de marcas como Siggi's, Quorn y GoGo squeeZ en el mercado estadounidense. Su experiencia abarca gestió",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "SVEDKA Vodka Launches Canned Vodka Water, Molson Coors Introduces Oversized Promotional Canister, and Jones Soda's Back-to-School Multipack - Packaging World",
-      "summary": "SVEDKA lanza agua de vodka en lata, Molson Coors introduce un contenedor promocional de gran tamaño, y Jones Soda presenta multipacks para back-to-school. Estos movimientos de packaging reflejan innov",
+      "summary": "SVEDKA lanza una línea de vodka en agua enlatada, Molson Coors introduce un canister promocional oversized, y Jones Soda desarrolla multipack para back-to-school. Estas iniciativas de packaging reflej",
       "companies": [
         "Molson Coors"
       ],
@@ -2448,7 +2445,7 @@
     },
     {
       "title": "China vende cerveza en envases de hasta 10 litros para recortar el gasto por litro",
-      "summary": "En China emerge una estrategia de empaque disruptiva con envases de cerveza de hasta 10 litros para reducir el costo por litro, reflejando cambios estructurales en el consumo post-pandemia hacia espac",
+      "summary": "China está introduciendo formatos de cerveza de gran volumen (hasta 10 litros) en comercios urbanos, reflejando una estrategia de reducción de costos por litro y adaptación a cambios en patrones de co",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2458,7 +2455,7 @@
     },
     {
       "title": "Coca-Cola leads consumer staples growth rankings; P&G, Altria lag (XLP:NYSEARCA) - Seeking Alpha",
-      "summary": "Coca-Cola encabeza los rankings de crecimiento en el sector de bienes de consumo masivo, mientras que P&G y Altria rezagan. Este posicionamiento refleja la fortaleza relativa de Coca-Cola en su segmen",
+      "summary": "Coca-Cola encabeza los rankings de crecimiento en el sector de bienes de consumo básico, mientras que P&G y Altria rezagan. Este posicionamiento refleja la fortaleza competitiva de Coca-Cola en el mer",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2469,7 +2466,7 @@
     },
     {
       "title": "Paramount Coffee Joe Knows Coffee Cold Brew",
-      "summary": "Paramount Coffee lanzó Joe Knows Coffee Cold Brew, una bebida ready-to-drink premium en latas de 12 oz con cuatro sabores (Caramel Café, Mocha Mo-Joe, Vanilla Chill y Tall, Dark and Handsome). El prod",
+      "summary": "Paramount Coffee lanzó Joe Knows Coffee Cold Brew, una bebida lista para consumir en latas de 12 onzas con cuatro sabores (Caramel Café, Mocha Mo-Joe, Vanilla Chill y Tall, Dark and Handsome). El prod",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2478,20 +2475,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Mountain Dew® x Trolli® Mango Pineapple Punch delivers bold tropical flavors in new limited-edition soda - PepsiCo",
-      "summary": "PepsiCo lanzó Mountain Dew x Trolli Mango Pineapple Punch, una bebida de edición limitada que combina su marca de soda con sabores tropicales. La colaboración representa una estrategia de innovación e",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Beer giant Constellation Brands invests $100M in US farm profitability - Food Dive",
-      "summary": "Constellation Brands, productor global de bebidas alcohólicas (Corona, Pacifico), invierte $100M en rentabilidad agrícola estadounidense. La inversión apunta a fortalecer la cadena de suministro de ma",
+      "summary": "Constellation Brands, uno de los mayores productores de cerveza a nivel mundial, anunció una inversión de $100M en productividad agrícola estadounidense. Esta iniciativa asegura el suministro de mater",
       "companies": [
         "Constellation Brands"
       ],
@@ -2501,13 +2486,13 @@
       "region": "Mundial"
     },
     {
-      "title": "Constellation Brands commits $100M to support US farmers - Rochester Business Journal",
-      "summary": "Constellation Brands anunció una inversión de $100M para apoyar a agricultores estadounidenses, estrategia que refuerza su cadena de suministro de materias primas clave como cereales y granos para beb",
+      "title": "PepsiCo faces 4% beverage volume decline as Mountain Dew Trolli launch rolls out - TechStock²",
+      "summary": "PepsiCo experimenta una caída de 4% en volumen de bebidas, en simultaneidad con el lanzamiento de Mountain Dew Trolli. La contracción de volumen sugiere desafíos en retención de demanda o canibalizaci",
       "companies": [
-        "Constellation Brands"
+        "PepsiCo"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
