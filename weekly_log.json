@@ -1,339 +1,4 @@
 {
-  "2026-08-18": [
-    {
-      "title": "Sabor com tecnologia: Empresas de alimentos levam IA para a operação",
-      "summary": "Empresas líderes en alimentos y bebidas de Brasil integran IA como capa operacional en sus procesos, trascendiendo el uso experimental. La tecnología está anticipando falhas de fabricación y acelerand",
-      "companies": [
-        "PepsiCo",
-        "AB InBev",
-        "E. & J. Gallo Winery"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Coca-Cola encontró cómo unificar la imagen de su versión original y sin azúcar sin perder 140 años de historia",
-      "summary": "Coca-Cola lanza 'Icon', una nueva identidad visual unificada para Coca-Cola Original y Sin Azúcar en México, manteniendo el rojo emblemático, cinta dinámica y tipografía Spencerian. La estrategia busc",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "ma_and_strategy",
-        "supply_chain_commodities"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PepsiCo lanza PopCorners en México y apuesta por una nueva forma de disfrutar las palomitas",
-      "summary": "PepsiCo lanza PopCorners en México, un nuevo snack a base de maíz con formato triangular, expandiendo su portafolio de productos en la categoría de snacks salados. La estrategia incluye una campaña cr",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Modelo sorprende y lanza ‘modelito’: una nueva cerveza que cabe en la palma de tu mano",
-      "summary": "Grupo Modelo lanza Modelito, un nuevo formato de cerveza de tamaño compacto basado en Modelo Especial, dirigido a expandir ocasiones de consumo. Esta estrategia de extensión de línea busca capturar se",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "O plano de R$ 30 bilhões da Coca-Cola Brasil: ‘Teremos novas fábricas’, diz presidente",
-      "summary": "Coca-Cola Brasil anuncia plan de inversión por R$ 30 mil millones hasta 2030, incluyendo expansión de plantas existentes y construcción de nuevas fábricas. Brasil es el 4º mercado más importante de Co",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Grupo Modelo y Heineken vuelven a chocar por Michelob y Amstel Ultra: la pelea llega otra vez a la SCJN",
-      "summary": "La SCJN atrae dos amparos por la disputa de marca entre Grupo Modelo y Heineken México sobre el uso de \"Ultra\" en sus portfolios (Michelob Ultra vs Amstel Ultra), conflicto iniciado en 2018. La corte ",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Coca-Cola doubles down on localisation in China as sales grow",
-      "summary": "Coca-Cola intensifica su estrategia de localización en China, expandiendo su portafolio de bebidas con enfoque en productos de salud digestiva ante la creciente demanda local. La compañía adapta su of",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac Acquires Au Vodka, Adds UK's Top-Selling Vodka RTD to Portfolio | Brewbound",
-      "summary": "Sazerac completó la adquisición de Au Vodka, la marca de vodka RTD enlatado más vendida en Reino Unido, consolidando su estrategia de expansión internacional en categorías de alto crecimiento. Esta op",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo appoints former P&G Beauty CEO Alex Keith as non-executive director",
-      "summary": "Diageo designa a Alex Keith, ex-CEO de la división Beauty de Procter & Gamble, como directora no ejecutiva con entrada prevista en noviembre de 2026. Keith suma 35+ años en bienes de consumo masivo co",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Bull Case For Monster Beverage (MNST) Could Change Following Strong Q2 Results And Zero Sugar Momentum - simplywall.st",
-      "summary": "Monster Beverage reportó resultados sólidos en Q2 con impulso significativo en su línea de productos Zero Sugar, reposicionando la tesis alcista del mercado. Este movimiento refleja la aceleración de ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "HSBC Adjusts Price Target on Monster Beverage to $52 From $50, Maintains Buy Rating - marketscreener.com",
-      "summary": "HSBC incrementó su precio objetivo para Monster Beverage de $50 a $52 por acción, manteniendo calificación de compra. Este movimiento refleja confianza del sector financiero en el desempeño y perspect",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diamond Hill Capital Management LLC Investment Advisor Acquires New Holdings in Constellation Brands Inc $STZ - MarketBeat",
-      "summary": "Diamond Hill Capital Management adquirió nuevas posiciones accionarias en Constellation Brands (STZ), uno de los mayores productores de bebidas alcohólicas a nivel mundial. Este movimiento refleja int",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is Molson Coors Beverage (TAP) Below Fair Value As Softer Earnings Pressure The Stock? - simplywall.st",
-      "summary": "Molson Coors Beverage enfrenta presión en ganancias que impacta la valuación de su acción (TAP). El análisis sugiere que el stock podría estar cotizando por debajo de su valor intrínseco, señalando un",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boston Beer Company (SAM) Could Be 9% Below Fair Value If Margin Repair Holds - simplywall.st",
-      "summary": "Boston Beer Company (SAM) podría estar cotizando 9% por debajo de su valor justo si logra recuperar márgenes operativos. El análisis sugiere que la empresa tiene potencial de revalorización en bolsa s",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo Introduces Recycled PET Bottles, Danone's Pilot for Beverage Packaging Returns, and McDonald's Recycled Plastic Cup Replaces Paper - Packaging World",
-      "summary": "PepsiCo, Danone y McDonald's avanzan en sostenibilidad de packaging con iniciativas de economía circular: PepsiCo expande uso de botellas PET reciclado, Danone pilotea un sistema de retorno de envases",
-      "companies": [
-        "PepsiCo",
-        "Danone"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks Stock And Two Founder Led UK Shares Worth A Closer Look - simplywall.st",
-      "summary": "Fevertree Drinks, empresa británica líder en mixers premium, es analizada como oportunidad de inversión en mercados de bebidas especializadas. La compañía ha ganado relevancia estratégica en el segmen",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Former Red Bull Executive Builds California's Next Lifestyle Beverage Company - EIN Presswire",
-      "summary": "Un ex ejecutivo de Red Bull está fundando una nueva empresa de bebidas lifestyle en California, señalando movimiento de talento clave desde la mayor marca de bebidas energéticas del mundo hacia empren",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo agrees to reformulate India whisky, rum drinks after flavouring breach, sources say - TradingView",
-      "summary": "Diageo, multinacional líder en bebidas alcohólicas, debe reformular sus productos de whisky y ron en India tras incumplir regulaciones sobre saborizantes permitidos. Esta acción regulatoria refleja el",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kenya regulator seeks $115 million reserve before approving Diageo’s EABL sale to Japan’s beverage giant - Business Insider Africa",
-      "summary": "El regulador de Kenia exige que Diageo constituya una reserva de $115 millones como condición para aprobar la venta de East African Breweries Limited (EABL) a un conglomerado de bebidas japonés. Esta ",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac expands its whiskey portfolio in India with the launch of two new brands – American Wolf and Southern Comfort - HospiBuz",
-      "summary": "Sazerac lanza dos nuevas marcas de whiskey (American Wolf y Southern Comfort) en el mercado indio, expandiendo su portafolio de destilados en una región con alto potencial de crecimiento. India es un ",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jones Soda Revenue Rebounds in Q2, As Branded Collabs Offset Modern Soda, Adult Bev Declines - BevNET.com",
-      "summary": "Jones Soda reportó crecimiento de ventas en Q2 impulsado por alianzas estratégicas con marcas, demostrando que las colaboraciones pueden compensar debilidades en categorías específicas. A pesar del re",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Las exportaciones de vino del nuevo mundo sufren una caída del 8,2% en valor",
-      "summary": "Las exportaciones de vino del Nuevo Mundo (Argentina, Chile, Australia, Nueva Zelanda, Sudáfrica y EE.UU.) cayeron 8,2% en valor y 6,3% en volumen en el primer semestre de 2026, alcanzando €2.618 mill",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac targets UK growth with Au Vodka acquisition",
-      "summary": "Sazerac, propietaria de marcas como Buffalo Trace y Southern Comfort, adquiere Au Vodka, marca británica de vodka premium con botella distintiva de oro, para impulsar su crecimiento en el mercado UK. ",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac agrees to acquire UK spirits brand Au Vodka | FoodBev Media",
-      "summary": "Sazerac, líder global en spirits, adquirirá Au Vodka, marca británica de vodka y bebidas RTD. La operación refuerza la presencia de Sazerac en el mercado UK, segmento estratégico en spirits premium y ",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac Acquires The UK's Au Vodka, Adds Another RTD to Portfolio - BevNET.com",
-      "summary": "Sazerac adquirió Au Vodka, una marca líder de RTD (ready-to-drink) de vodka en el Reino Unido, en el marco de su estrategia de expansión de dos años. Esta es la mayor incursión de Sazerac en el mercad",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustainability push",
-      "summary": "Coca-Cola implementa una estrategia de localización en China enfocada en innovación de productos, engagement digital e iniciativas comunitarias, logrando un crecimiento de 8% en volumen de casos unita",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo appoints former P&G beauty boss to the board",
-      "summary": "Diageo incorpora a su directorio un nuevo consejero no ejecutivo con 35 años de experiencia en bienes de consumo internacional, proveniente de P&G. Este movimiento refleja la estrategia del mayor prod",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rafael Golfe passa a liderar Brand Experience e Patrocínios do Grupo HEINEKEN Brasil - Marcas pelo Mundo",
-      "summary": "Rafael Golfe asume el liderazgo de Brand Experience y Patrocinios en el Grupo HEINEKEN Brasil, reflejando un reordenamiento estratégico en la estructura directiva de uno de los principales competidore",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Rafael Golfe assume Diretoria de Brand Experience & Sponsorship do Grupo HEINEKEN Brasil - Portal Nosso Meio",
-      "summary": "Rafael Golfe asume la Dirección de Brand Experience & Sponsorship del Grupo Heineken Brasil. Este cambio organizacional refleja el refuerzo de la estrategia de experiencia de marca y activaciones de H",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    }
-  ],
   "2026-08-19": [
     {
       "title": "Indústria de alumínio mantém resiliência e otimismo, apesar da guerra no Oriente Médio e da China",
@@ -2493,6 +2158,425 @@
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-08-26": [
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción de demanda significativa acompañada por ajustes de costos operativos y transformación en patrones de consumo. Esta tendencia es estratégicamen",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Rafael Golfe es el nuevo director de brand experience y patrocinios en Heineken Brasil - Marketers by Adlatina",
+      "summary": "Rafael Golfe asume la dirección de Brand Experience y Patrocinios en Heineken Brasil, posición estratégica en la operación del grupo en la segunda economía más grande de Latinoamérica. Este cambio de ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Backus fortalece el desarrollo de más de 300 mil bodegas de su cadena de valor en el Perú - Business Empresarial",
+      "summary": "Backus implementa un programa de fortalecimiento dirigido a más de 300 mil bodegas en su cadena de distribución en Perú. Esta estrategia de desarrollo de canal es crítica para ampliar la penetración d",
+      "companies": [
+        "Backus"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOMO-inducing launches",
+      "summary": "Coca-Cola, PepsiCo y Hershey lanzan productos de edición limitada para Halloween aplicando estrategias de 'drop culture' con packaging distintivo, disponibilidad limitada y campañas seriales de market",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard encaja en Corea del Sur un desplome del 71,6% en su beneficio operativo",
+      "summary": "Pernod Ricard Korea reporta una caída del 71,6% en beneficio operativo (15.100 millones de wones) en Corea del Sur, reflejando deterioro significativo en la rentabilidad del negocio de destilados en e",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard",
+        "Campari Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer to Launch Rally Dog Spiked Sports Drink in 4 States | Brewbound",
+      "summary": "Boston Beer Company lanza Rally Dog Vodka Ade, una bebida deportiva alcohólica, en cuatro mercados de prueba en septiembre. Este movimiento posiciona a Boston Beer en el segmento de spiked sports drin",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Unite threatens strike at Diageo’s Cameronbridge distillery over job cuts - Harpers Wine & Spirit Trade News",
+      "summary": "Diageo enfrenta una amenaza de huelga en su destilería Cameronbridge (Escocia) por recortes de personal. Unite the Union abrirá una votación de huelga entre ~100 miembros del 26 de agosto al 9 de sept",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bones Coffee Names Former Celsius Chief Gerry David to Board - BevNET.com",
+      "summary": "Bones Coffee Company incorporó a Gerry David, ex presidente y CEO de Celsius, a su directorio. Este movimiento refleja el reconocimiento de la experiencia en la industria de bebidas funcionales y posi",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Alcohol Next: Varun Beverages Set To Diversify, Taps Ex-Diageo Executive For New Arm - NDTV Profit",
+      "summary": "Varun Beverages, principal embotellador de PepsiCo en India, está diversificando su portafolio hacia bebidas alcohólicas con una nueva división denominada 'Alcohol Next', contratando a un ejecutivo se",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Los analistas rebajan a China Resources Beer por la debilidad de la demanda cervecera",
+      "summary": "Morgan Stanley y Bank of America rebajaron previsiones sobre China Resources Beer, el mayor productor cervecero de China, por debilidad en la demanda, especialmente en canal hostelero. Las revisiones ",
+      "companies": [
+        "China Resources Snow Breweries"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Endeavour asume un ajuste de A$78 millones por la reestructuración de su negocio del vino",
+      "summary": "Endeavour Group registró un ajuste de A$78 millones por reestructuración de su negocio vinícola dentro de Pinnacle Drinks, incluyendo cambios en bodegas, viñedos e inventarios en Australia. La restruc",
+      "companies": [
+        "Endeavour Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Espolòn Tequila Calls Out the Culture of Exclusivity With New Global Platform, \"Ride the Rooster\"",
+      "summary": "Espolòn Tequila lanzó la plataforma global 'Ride the Rooster' para desafiar la percepción de exclusividad en la categoría premium de espirituosos. La estrategia repositiona al tequila hacia la accesib",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Budweiser APAC encadena doce trimestres de caída del volumen en China",
+      "summary": "Budweiser APAC registra su doceavo trimestre consecutivo de caída de volumen en China, con descenso del 9,7% interanual en Q2 2024 e ingresos en baja del 8,6%. La tendencia negativa se mantiene sin in",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Functional Coffee Leader Everyday Dose Expands Into Sam's Club Nationwide & Appoints Kyle Thibaut as CEO",
+      "summary": "Everyday Dose, marca de café funcional de nueve dígitos, alcanzó 5.000 puntos de venta minorista en menos de un año y se expandió nacionalmente en Sam's Club con más de 300 locales. La empresa fue cla",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola vs. PepsiCo: Which Stock Deserves the Top Spot in Beverages? - Yahoo Finance",
+      "summary": "Análisis comparativo de desempeño bursátil entre Coca-Cola y PepsiCo, los dos mayores competidores globales en bebidas. El artículo evalúa métricas financieras y estrategia de ambas compañías para det",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beyond accelerates plant protein strategy with Beyond Immerse retail expansion",
+      "summary": "Beyond Meat expande su línea de bebidas funcionales de proteína vegetal Beyond Immerse mediante la distribución en 14 locales de la cadena orgánica Erewhon, complementando su presencia previa en el ár",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Gulf Distributing Taps Former RNDC Manager to Lead Spirits Push | Brewbound",
+      "summary": "Gulf Distributing Holdings, uno de los mayores distribuidores de cerveza del sureste estadounidense, crea un nuevo rol directivo para liderar su división de spirits e invierte en infraestructura asoci",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jack Daniel’s Debuts American Single Malt Whiskey Nationwide in Limited Annual Release",
+      "summary": "Jack Daniel's lanza nacionalmente su whiskey American Single Malt en edición anual limitada, ampliando su portafolio de bebidas alcohólicas. Esta estrategia de diferenciación y lanzamiento de producto",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India impulsa el crecimiento cervecero de Carlsberg con un avance cercano al 15%",
+      "summary": "Carlsberg reportó crecimiento de volumen en India cercano al 15% en el primer semestre de 2026, consolidando al mercado indio como motor estratégico de expansión cervecera del grupo danés. Este desemp",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands Appoints Alex Alvarez as Senior Vice President and Chief Supply Chain Officer for Beer Division - Wine Industry Advisor",
+      "summary": "Constellation Brands, uno de los mayores productores de bebidas alcohólicas a nivel global, designó a Alex Alvarez como Senior Vice President y Chief Supply Chain Officer de su división de cerveza. Es",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Viña Concha y Toro releases Casillero del Diablo campaign starring Orlando Bloom – video - Global Drinks Intel",
+      "summary": "Viña Concha y Toro lanzó una campaña global para su marca Casillero del Diablo protagonizada por Orlando Bloom, reforzando la estrategia de posicionamiento premium de su portfolio de vinos. Esta inver",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Las ventas de vino en Estados Unidos siguen cayendo por la debilidad de la demanda",
+      "summary": "Las ventas de vino en EE.UU. cayeron 3,4% en facturación y 4,6% en volumen en las cuatro semanas al 15 de agosto, según NielsenIQ. Aunque la caída se modera respecto a períodos anteriores, la categorí",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo faces 4% beverage volume decline as Mountain Dew Trolli launch rolls out - TechStock²",
+      "summary": "PepsiCo experimenta una contracción de 4% en volumen de bebidas, coincidiendo con el lanzamiento de Mountain Dew Trolli. Esta caída refleja presiones competitivas en el portafolio de bebidas y sugiere",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo rallies among London's risers: is the spirits downturn turning a corner? - Kalkine Media",
+      "summary": "Diageo, el mayor productor mundial de bebidas alcohólicas, muestra recuperación en bolsa londinense señalando potencial inflexión en la desaceleración del sector de destilados. La noticia sugiere que ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Looks Pricey After Its 100% Five Year Run - Yahoo Finance",
+      "summary": "Monster Beverage duplicó su valorización en los últimos cinco años, pero el análisis sugiere que el stock está sobrevalorado en niveles actuales. Esta revaluación del gigante de bebidas energéticas es",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Australia toca mínimos de 22 años en exportaciones de vino por la caída mundial del consumo",
+      "summary": "Australia registra sus exportaciones de vino más bajas en 22 años (cierre junio 2024), reflejando caída global del consumo y presión de precios. Nueva Zelanda aumentó volumen pero con valores planos y",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Chongqing Beer pierde fuerza en China por la caída del 5,95% de su volumen trimestral",
+      "summary": "Chongqing Beer reportó caída de volumen del 5,95% en Q2 2024 (862.700 KL vs 917.300 KL año anterior), afectando un período tradicionalmente fuerte para cervecería. La contracción de 54.600 KL refleja ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Warsteiner concentra toda su producción en una sola fábrica tras recortar un 30% su capacidad",
+      "summary": "Warsteiner (Haus Cramer Group) concentra su producción en una única fábrica en Warstein, cerrando plantas en Herford y Paderborn, reduciendo capacidad cervecera un 30%. La decisión responde al exceso ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Convenience, customization keeps coffee market stable",
+      "summary": "El mercado de café en EE.UU., incluyendo bebidas listas para consumir (RTD), mantiene estabilidad a pesar de cambios en preferencias de consumo. Los consumidores siguen considerando el café como un pr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Varun Beverages Forays Into Alcoholic Beverages, Appoints Diageo's Prathmesh Mishra As CEO - BW Marketing World",
+      "summary": "Varun Beverages, principal embotellador de PepsiCo en India, ingresa al segmento de bebidas alcohólicas y designa a Prathmesh Mishra (ex Diageo) como CEO para liderar esta expansión estratégica. Este ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Suntory Global Spirits supply chain lead departs for Constellation Brands - Global Drinks Intel",
+      "summary": "El líder de cadena de suministro de Suntory Global Spirits se trasladó a Constellation Brands, señalando movimiento de talento clave entre competidores de bebidas alcohólicas premium. Este cambio refl",
+      "companies": [
+        "Constellation Brands",
+        "Beam Suntory"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "La debilidad del consumidor arrastra las ventas de cerveza en Estados Unidos",
+      "summary": "Las ventas de cerveza en Estados Unidos cayeron 4,4% en valor y 5,5% en volumen en el período de cuatro semanas al 15 de agosto, según NielsenIQ. La debilidad del consumidor es el factor principal det",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Campari Group unveils Espolòn Tequila global activation – video - Global Drinks Intel",
+      "summary": "Campari Group lanzó una activación global para Espolòn Tequila, marca de su portafolio de espirituosos premium. Esta iniciativa responde a la estrategia de consolidación de Campari en categorías de al",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Las ventas de bebidas espirituosas en Estados Unidos caen un 3,2% por la debilidad del consumo",
+      "summary": "Las ventas de bebidas espirituosas en EE.UU. cayeron 3,2% en dólares y 3,5% en volumen en las cuatro semanas al 15 de agosto, según NielsenIQ. La debilidad persiste respecto al año anterior, atribuida",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Paramount Coffee Joe Knows Coffee Cold Brew",
+      "summary": "Paramount Coffee lanzó Joe Knows Coffee Cold Brew, una bebida lista para consumir en latas de 12 oz con cuatro sabores (Caramel Café, Mocha Mo-Joe, Vanilla Chill y Tall, Dark and Handsome). El product",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Freixenet Solare Spritz",
+      "summary": "Freixenet ingresa en la categoría de bebidas listas para consumir (RTD) con el lanzamiento de Freixenet Solare Spritz, apuntando a cubrir un segmento insatisfecho en góndolas. La estrategia responde a",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El mercado estadounidense de cócteles preparados cae lastrado por la debilidad de malta y seltzers",
+      "summary": "El mercado de cócteles preparados en EE.UU. registró contracción en las cuatro semanas al 15 de agosto, con caídas de -0,9% en ventas y -5,2% en volumen. La debilidad se concentra en bebidas de malta ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Gulf Distributing Hires First Spirits Director to Grow Division - BevNET.com",
+      "summary": "Gulf Distributing Holdings, uno de los mayores distribuidores de cerveza del Sureste de EE.UU., crea la posición de Director de Espirituosos e invierte en infraestructura para expandir su división de ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
