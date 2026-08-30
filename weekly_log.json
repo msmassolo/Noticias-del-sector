@@ -2252,7 +2252,7 @@
   "2026-08-30": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción de demanda en Argentina, con productores implementando ajustes en estructura de costos. Esta tendencia refleja cambios en los hábitos de consu",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de demanda, impulsando ajustes de costos operacionales y cambios en estrategias comerciales entre productores. Esta tendencia re",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2260,18 +2260,8 @@
       "region": "Local"
     },
     {
-      "title": "Tienda de barrio lidera las ventas de consumo masivo entre jugadores de retail",
-      "summary": "Las tiendas de barrio concentran el 37% de las ventas totales de consumo masivo en Colombia, liderando sobre otros canales retail. Cervezas y gaseosas figuran entre las cinco categorías que generan el",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Monster Beverage Split Its Stock, and Insiders Are Selling Into the Rally. Is It Too Late to Buy? - TIKR.com",
-      "summary": "Monster Beverage ejecutó un split de acciones coincidiendo con un rally bursátil, mientras ejecutivos internos están realizando ventas significativas. Este movimiento corporativo refleja cambios en la",
+      "summary": "Monster Beverage realizó un split de acciones, generando un rally en el mercado. Simultáneamente, insiders de la compañía están vendiendo sus posiciones, señal que típicamente indica valoración elevad",
       "companies": [
         "Monster Beverage"
       ],
@@ -2283,7 +2273,7 @@
     },
     {
       "title": "BACARDÍ builds on brand, rum’s legacy",
-      "summary": "BACARDÍ refuerza su posicionamiento en el mercado de ron estadounidense, destacando la relevancia continua de la categoría pese a la competencia creciente y cambios en preferencias de consumo. La comp",
+      "summary": "BACARDÍ reafirma la posición estratégica del ron en el mercado estadounidense de destilados, destacando su resiliencia ante cambios en preferencias de consumo y competencia creciente. La compañía enfa",
       "companies": [
         "Bacardi"
       ],
@@ -2293,8 +2283,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Pernod Ricard stock edges lower as spirits inventories weigh on outlook - AD HOC NEWS",
+      "summary": "Pernod Ricard enfrentó presión en cotización debido a niveles elevados de inventarios de destilados que impactan su proyección de resultados. Esta situación refleja desafíos en la demanda global de be",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Jefferies Financial Group Inc. Acquires New Shares in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "Jefferies Financial Group incrementó su participación accionaria en National Beverage Corp., fabricante de marcas premium como LaCroix y Fanta. Este movimiento de un inversor institucional clave señal",
+      "summary": "Jefferies Financial Group adquirió nuevas acciones de National Beverage Corp. (FIZZ), fabricante de marcas líderes como LaCroix y Fanta en EE.UU. Este movimiento de inversión institucional refleja con",
       "companies": [
         "National Beverage Corp"
       ],
@@ -2306,7 +2308,7 @@
     },
     {
       "title": "Fevertree Drinks (LSE:FEVR) prospects rest on measurable operating progress - Kalkine Media",
-      "summary": "Fevertree Drinks, cotizada en LSE, enfrenta presión de inversores para demostrar progreso operativo tangible que justifique su valuación. Este análisis es relevante para la industria de bebidas premiu",
+      "summary": "Fevertree Drinks, productor británico de bebidas mixers premium cotizado en LSE, enfrenta presión para demostrar progreso operativo que justifique su valuación. La empresa es competidor directo en el ",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2317,7 +2319,7 @@
     },
     {
       "title": "BlackRock Inc. Purchases New Position in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "BlackRock Inc. adquirió una nueva posición accionaria en National Beverage Corp. (FIZZ), productor de marcas como LaCroix. Este movimiento de un gestor de activos global de US$10 billones señala confi",
+      "summary": "BlackRock Inc. ha adquirido una nueva posición accionaria en National Beverage Corp., productor de marcas relevantes como LaCroix y Fanta. Este movimiento de un gestor de activos global de USD 10 bill",
       "companies": [
         "National Beverage Corp"
       ],
@@ -2328,7 +2330,7 @@
     },
     {
       "title": "Brown Forman (BF.B) Could Be 3% Undervalued As Growth Meets A Share Price Pullback - simplywall.st",
-      "summary": "Brown-Forman, productor global de bebidas alcohólicas premium (Jack Daniel's, Woodford Reserve), presenta una oportunidad de valoración con potencial de upside del 3% según análisis de Simply Wall Str",
+      "summary": "Brown-Forman, productor global de bebidas alcohólicas (Jack Daniel's, Woodford Reserve), presenta una potencial subvaluación del 3% según análisis de Simply Wall St, coincidiendo con una corrección de",
       "companies": [
         "Brown-Forman"
       ],
@@ -2339,7 +2341,7 @@
     },
     {
       "title": "Monster Beverage stock steadies after split as valuation debate builds - AD HOC NEWS",
-      "summary": "Monster Beverage completó un split accionario mientras su valuación genera debate en el mercado. El movimiento refleja estrategia de acceso accionario y liquidez, relevante para entender dinámicas de ",
+      "summary": "Monster Beverage completó un split de acciones mientras el mercado debate su valuación actual. Este movimiento es significativo para competidores regionales, ya que Monster es el líder global en bebid",
       "companies": [
         "Monster Beverage"
       ],
