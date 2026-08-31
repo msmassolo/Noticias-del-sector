@@ -1,99 +1,4 @@
 {
-  "2026-08-23": [
-    {
-      "title": "Nocera Birra lanza su modelo de franquicias: cuánto cuesta abrir un bar en CABA",
-      "summary": "Nocera Birra, marca de cerveza artesanal originaria de Quilmes, implementa modelo de franquicias con foco inicial en CABA, combinando producción de cerveza con gastronomía y entretenimiento. Esta estr",
-      "companies": [
-        "AB InBev",
-        "Cerveceria y Malteria Quilmes"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Franco Falasco: \"La industria del vino está obligada a evolucionar\"",
-      "summary": "Franco Falasco, CEO de Familia Falasco Wines (una de las mayores bodegas argentinas con 75-90 millones de litros anuales), advierte sobre la obligación de evolución en la industria vitivinícola ante l",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis estructural con caída significativa en el consumo y cambio de hábitos de los consumidores. Los productores están ejecutando ajustes de costos para mantener com",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Las exportaciones de vino a granel argentino crecieron un 46,5% en los primeros siete meses de 2026 - Mendovoz",
-      "summary": "Las exportaciones de vino a granel argentino registraron un crecimiento del 46,5% en los primeros siete meses de 2026, evidenciando una recuperación significativa en la demanda internacional. Este des",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Monster Beverage stock steadies as analysts see limited upside at current price - Ad-hoc-news.de",
-      "summary": "Monster Beverage enfrenta una valoración estancada con analistas proyectando limitado potencial alcista en los precios actuales. Esta evaluación es crítica para directivos de bebidas argentinas que co",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Shelter Mutual Insurance Co Invests $1.43 Million in Constellation Brands Inc $STZ - MarketBeat",
-      "summary": "Shelter Mutual Insurance Co realizó una inversión de $1.43 millones en Constellation Brands (STZ), uno de los mayores productores de bebidas alcohólicas a nivel mundial con presencia dominante en cerv",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock holds steady as spirits sector valuations stay resilient - Ad-hoc-news.de",
-      "summary": "Pernod Ricard mantiene estabilidad accionaria mientras el sector de destilados preserva valoraciones resilientes. La fortaleza del segmento de spirits—que representa un pilar estratégico clave en bebi",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Landscape Capital Management L.L.C. Invests $3.60 Million in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "Landscape Capital Management invirtió $3.60 millones en National Beverage Corp. (FIZZ), propietaria de marcas como LaCroix y Fanta en EE.UU. Este movimiento de capital refleja confianza institucional ",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Viña Cobos presenta Ensayos, un proyecto de investigación que desafialos límites de la enología",
-      "summary": "Viña Cobos lanza 'Ensayos', una línea de vinos experimentales que materializa su inversión en I+D enológica. La iniciativa presenta dos expresiones de Malbec de vides centenarias con técnicas inspirad",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-08-24": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2347,6 +2252,166 @@
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-08-31": [
+    {
+      "title": "El boom del vino a granel: las exportaciones crecen un 46,5% en volumen impulsadas por el Malbec y la sustentabilidad global - Diario San Rafael",
+      "summary": "Las exportaciones de vino a granel de Argentina crecen 46,5% en volumen, impulsadas por la demanda global de Malbec y tendencias de sustentabilidad. Este crecimiento refleja un cambio estratégico haci",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída en el consumo, ajuste de costos operacionales y cambio en hábitos de consumo del segmento. Este segmento, aunque representa un nicho de al",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Más de 4.500 tenderos serán capacitados por PepsiCo en 2026 para fortalecer sus negocios y ventas",
+      "summary": "PepsiCo capacitará a más de 4.500 tenderos en 2026 como parte de su estrategia de fortalecimiento del canal minorista tradicional. Esta iniciativa de desarrollo de retailers refleja la apuesta de Peps",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Starbucks cambia su estrategia de menú y ahora utiliza pantallas digitales para impulsar las ventas durante la tarde",
+      "summary": "Starbucks implementará menús digitales dinámicos en hasta el 90% de sus sucursales en EE.UU., permitiendo personalizar oferta y promociones por franja horaria para optimizar ventas de tarde. Esta estr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo stock holds steady as investors weigh 2026 earnings guidance and dividend yield - AD HOC NEWS",
+      "summary": "PepsiCo mantiene estabilidad bursátil mientras el mercado evalúa su guidance de ganancias para 2026 y su rendimiento de dividendos. La confianza de inversores en la solidez financiera y capacidad de r",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands stock holds steady as investors eye FY 2027 earnings path - AD HOC NEWS",
+      "summary": "Constellation Brands mantiene estabilidad accionaria mientras el mercado analiza su trayectoria de ganancias hacia FY 2027. Como productor de bebidas alcohólicas con presencia significativa en mercado",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BACARDÍ builds on brand, rum’s legacy",
+      "summary": "BACARDÍ refuerza su posicionamiento en el mercado estadounidense de ron, destacando la relevancia persistente de la categoría a pesar de la competencia creciente en spirits. La compañía enfatiza la ve",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock edges lower as spirits inventories weigh on outlook - AD HOC NEWS",
+      "summary": "Pernod Ricard enfrenta presión en su cotización bursátil debido a niveles elevados de inventarios de bebidas espirituosas que afectan las perspectivas de crecimiento. Este indicador refleja un desajus",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jefferies Financial Group Inc. Acquires New Shares in National Beverage Corp. $FIZZ - MarketBeat",
+      "summary": "Jefferies Financial Group ha adquirido nuevas acciones en National Beverage Corp. (FIZZ), dueña de marcas líderes como Fanta, Sparkling Ice y Cranberry Ocean. Este movimiento refleja interés instituci",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Raising the functional beverage bar: Drinks are becoming more specific and creative",
+      "summary": "La categoría de bebidas funcionales está evolucionando desde claims genéricos de \"funcionalidad\" e \"hidratación\" hacia posicionamientos más específicos dirigidos a beneficios corporales, cognitivos y ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CLSA backs Varun Beverages with ₹654 target on Asahi-CALPIS India launch - scanx.trade",
+      "summary": "CLSA respalda a Varun Beverages con un precio objetivo de ₹654 por el lanzamiento de Asahi-CALPIS en India. Varun Beverages, distribuidor clave en el mercado indio, expandirá su portafolio con marcas ",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sweetener systems evolve to meet consumer preferences",
+      "summary": "El mercado de edulcorantes en bebidas experimenta transformación significativa impulsada por cambios en preferencias del consumidor. El 75% de los consumidores busca reducir azúcar pero mantiene expec",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why food and beverage brands' compostable packaging switch fails on use case, not material | FoodBev Media",
+      "summary": "Análisis crítico sobre el fracaso de marcas al adoptar packaging compostable, identificando que el problema no es el material sino su aplicación incorrecta a casos de uso específicos. Las fallas (abla",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Food and beverage sector faces margin pressures as export growth softens - Think Business",
+      "summary": "El sector de alimentos y bebidas enfrenta presiones en márgenes mientras crece la desaceleración de exportaciones. Esta tendencia afecta directamente la rentabilidad de empresas de bebidas con exposic",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How is India’s Functional Beverage Category Evolving Through Ayurvedic Infusions and Gut Health Innovations? - IMARC Group",
+      "summary": "India está experimentando una evolución significativa en bebidas funcionales impulsada por infusiones ayurvédicas e innovaciones de salud digestiva, dos pilares de crecimiento en el segmento premium. ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
       ],
       "region": "Mundial"
     }
