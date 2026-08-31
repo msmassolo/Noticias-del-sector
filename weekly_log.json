@@ -2258,8 +2258,17 @@
   ],
   "2026-08-31": [
     {
+      "title": "Vino: El mercado interno del vino cayó en julio, ¿qué sucedió en el semestre?",
+      "summary": "El mercado interno de vino argentino registró 649.674 hectolitros en julio de 2026, con caída del 1,4% interanual según el INV. En el acumulado del semestre se observa recuperación marginal con empate",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "El boom del vino a granel: las exportaciones crecen un 46,5% en volumen impulsadas por el Malbec y la sustentabilidad global - Diario San Rafael",
-      "summary": "Las exportaciones de vino a granel de Argentina crecen 46,5% en volumen, impulsadas por la demanda global de Malbec y tendencias de sustentabilidad. Este crecimiento refleja un cambio estratégico haci",
+      "summary": "Las exportaciones de vino a granel argentino crecieron 46,5% en volumen, impulsadas por Malbec y demanda global de productos sustentables. Este segmento representa una estrategia clave para competidor",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2269,7 +2278,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída en el consumo, ajuste de costos operacionales y cambio en hábitos de consumo del segmento. Este segmento, aunque representa un nicho de al",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción de consumo con presión en costos, reflejando cambios estructurales en hábitos de bebida. Este movimiento es crítico para empresas posicionadas",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2278,7 +2287,7 @@
     },
     {
       "title": "Más de 4.500 tenderos serán capacitados por PepsiCo en 2026 para fortalecer sus negocios y ventas",
-      "summary": "PepsiCo capacitará a más de 4.500 tenderos en 2026 como parte de su estrategia de fortalecimiento del canal minorista tradicional. Esta iniciativa de desarrollo de retailers refleja la apuesta de Peps",
+      "summary": "PepsiCo capacitará a más de 4.500 tenderos en 2026 como parte de su estrategia de fortalecimiento del canal de distribución minorista. La iniciativa busca mejorar las ventas y competitividad de pequeñ",
       "companies": [
         "PepsiCo"
       ],
@@ -2288,8 +2297,20 @@
       "region": "Regional"
     },
     {
+      "title": "El secreto detrás del boom de Tiendas 3B y por qué Walmart y Soriana lo están copiando",
+      "summary": "Las marcas blancas en México experimentan un crecimiento del 20.5%, impulsado por modelos exitosos como Tiendas 3B (donde representan 58% de ventas) y Kirkland de Costco. Walmart y Soriana están repli",
+      "companies": [
+        "Walmart",
+        "Costco"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Starbucks cambia su estrategia de menú y ahora utiliza pantallas digitales para impulsar las ventas durante la tarde",
-      "summary": "Starbucks implementará menús digitales dinámicos en hasta el 90% de sus sucursales en EE.UU., permitiendo personalizar oferta y promociones por franja horaria para optimizar ventas de tarde. Esta estr",
+      "summary": "Starbucks implementará menús digitales en el 90% de sus tiendas estadounidenses para personalizar la oferta por momento del día, maximizando ventas en franjas horarias específicas. Esta estrategia de ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2298,8 +2319,43 @@
       "region": "Regional"
     },
     {
+      "title": "Red Bull Fuji Apple & Ginger joins permanent lineup",
+      "summary": "Red Bull promocionó su sabor Winter Edition Fuji Apple & Ginger a producto permanente en su lineup de ediciones. El lanzamiento, ocurrido en agosto, demuestra la estrategia de la compañía de expandir ",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage stock extends 2026 gains as investors eye earnings momentum - AD HOC NEWS",
+      "summary": "Las acciones de Monster Beverage continúan con su tendencia alcista en 2026 mientras los inversores mantienen expectativas positivas sobre el momentum de ganancias de la compañía. Esta trayectoria ref",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Margin Outlook: Pricing Power or Cost Relief Driving Gains? - The Globe and Mail",
+      "summary": "Análisis sobre los márgenes operativos de Coca-Cola y los factores que impulsan su expansión: si proviene del poder de fijación de precios o de la reducción de costos de insumos. Relevante para entend",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "PepsiCo stock holds steady as investors weigh 2026 earnings guidance and dividend yield - AD HOC NEWS",
-      "summary": "PepsiCo mantiene estabilidad bursátil mientras el mercado evalúa su guidance de ganancias para 2026 y su rendimiento de dividendos. La confianza de inversores en la solidez financiera y capacidad de r",
+      "summary": "PepsiCo mantiene estabilidad bursátil mientras el mercado evalúa su guidance de ganancias para 2026 y rendimiento de dividendos. La noticia refleja cómo los inversores valoran la solidez financiera y ",
       "companies": [
         "PepsiCo"
       ],
@@ -2310,7 +2366,7 @@
     },
     {
       "title": "Constellation Brands stock holds steady as investors eye FY 2027 earnings path - AD HOC NEWS",
-      "summary": "Constellation Brands mantiene estabilidad accionaria mientras el mercado analiza su trayectoria de ganancias hacia FY 2027. Como productor de bebidas alcohólicas con presencia significativa en mercado",
+      "summary": "Constellation Brands mantiene estabilidad accionaria mientras inversores monitorean la trayectoria de ganancias para FY 2027. Como productor global de bebidas alcohólicas con marcas como Corona y Mode",
       "companies": [
         "Constellation Brands"
       ],
@@ -2321,7 +2377,7 @@
     },
     {
       "title": "BACARDÍ builds on brand, rum’s legacy",
-      "summary": "BACARDÍ refuerza su posicionamiento en el mercado estadounidense de ron, destacando la relevancia persistente de la categoría a pesar de la competencia creciente en spirits. La compañía enfatiza la ve",
+      "summary": "BACARDÍ refuerza su posicionamiento en el mercado de ron estadounidense, destacando la relevancia continua de la categoría a pesar de la competencia creciente y cambios en preferencias de consumo. La ",
       "companies": [
         "Bacardi"
       ],
@@ -2332,7 +2388,7 @@
     },
     {
       "title": "Pernod Ricard stock edges lower as spirits inventories weigh on outlook - AD HOC NEWS",
-      "summary": "Pernod Ricard enfrenta presión en su cotización bursátil debido a niveles elevados de inventarios de bebidas espirituosas que afectan las perspectivas de crecimiento. Este indicador refleja un desajus",
+      "summary": "Pernod Ricard experimenta presión en su cotización bursátil debido a niveles elevados de inventarios de destilados que afectan su perspectiva de resultados. Este movimiento refleja desafíos en la dema",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2344,7 +2400,7 @@
     },
     {
       "title": "Jefferies Financial Group Inc. Acquires New Shares in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "Jefferies Financial Group ha adquirido nuevas acciones en National Beverage Corp. (FIZZ), dueña de marcas líderes como Fanta, Sparkling Ice y Cranberry Ocean. Este movimiento refleja interés instituci",
+      "summary": "Jefferies Financial Group adquirió nuevas acciones en National Beverage Corp. (FIZZ), fabricante de marcas emblemáticas como Faygo, Sparkling Ice y Jelly Belly. Este movimiento de un fondo de inversió",
       "companies": [
         "National Beverage Corp"
       ],
@@ -2356,7 +2412,7 @@
     },
     {
       "title": "Raising the functional beverage bar: Drinks are becoming more specific and creative",
-      "summary": "La categoría de bebidas funcionales está evolucionando desde claims genéricos de \"funcionalidad\" e \"hidratación\" hacia posicionamientos más específicos dirigidos a beneficios corporales, cognitivos y ",
+      "summary": "El mercado de bebidas funcionales evoluciona desde claims simples de hidratación hacia propuestas más sofisticadas enfocadas en beneficios específicos para cuerpo, cerebro y estado de ánimo. Los consu",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2365,19 +2421,8 @@
       "region": "Mundial"
     },
     {
-      "title": "CLSA backs Varun Beverages with ₹654 target on Asahi-CALPIS India launch - scanx.trade",
-      "summary": "CLSA respalda a Varun Beverages con un precio objetivo de ₹654 por el lanzamiento de Asahi-CALPIS en India. Varun Beverages, distribuidor clave en el mercado indio, expandirá su portafolio con marcas ",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Sweetener systems evolve to meet consumer preferences",
-      "summary": "El mercado de edulcorantes en bebidas experimenta transformación significativa impulsada por cambios en preferencias del consumidor. El 75% de los consumidores busca reducir azúcar pero mantiene expec",
+      "summary": "El mercado de edulcorantes en bebidas experimenta transformación significativa ante la demanda de consumidores que buscan reducir azúcar sin sacrificar sabor. El 75% de los consumidores cree que debe ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2387,7 +2432,7 @@
     },
     {
       "title": "Why food and beverage brands' compostable packaging switch fails on use case, not material | FoodBev Media",
-      "summary": "Análisis crítico sobre el fracaso de marcas al adoptar packaging compostable, identificando que el problema no es el material sino su aplicación incorrecta a casos de uso específicos. Las fallas (abla",
+      "summary": "Las marcas de alimentos y bebidas enfrentan fracasos en la adopción de empaques compostables no por limitaciones del material, sino por su inadecuada aplicación a casos de uso específicos. Problemas c",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2397,7 +2442,7 @@
     },
     {
       "title": "Food and beverage sector faces margin pressures as export growth softens - Think Business",
-      "summary": "El sector de alimentos y bebidas enfrenta presiones en márgenes mientras crece la desaceleración de exportaciones. Esta tendencia afecta directamente la rentabilidad de empresas de bebidas con exposic",
+      "summary": "El sector de alimentos y bebidas enfrenta presiones en márgenes operativos mientras se desacelera el crecimiento de exportaciones. Esta situación afecta directamente a productores de bebidas que depen",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2407,11 +2452,22 @@
     },
     {
       "title": "How is India’s Functional Beverage Category Evolving Through Ayurvedic Infusions and Gut Health Innovations? - IMARC Group",
-      "summary": "India está experimentando una evolución significativa en bebidas funcionales impulsada por infusiones ayurvédicas e innovaciones de salud digestiva, dos pilares de crecimiento en el segmento premium. ",
+      "summary": "India está expandiendo su categoría de bebidas funcionales mediante infusiones ayurvédicas e innovaciones enfocadas en salud digestiva, tendencia que refleja la creciente demanda global por bebidas co",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard Reports Steep Sales Declines in US and China, Trims Growth Outlook - Vocal",
+      "summary": "Pernod Ricard, uno de los principales productores mundiales de bebidas alcohólicas y no alcohólicas, reportó caídas significativas de ventas en Estados Unidos y China, mercados estratégicos de alto va",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
       ],
       "region": "Mundial"
     }
