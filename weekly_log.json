@@ -1,206 +1,4 @@
 {
-  "2026-08-24": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída de consumo, obligando a productores a ajustar costos operacionales. Este segmento, que representaba un nicho de crecimiento en la industri",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Fuerte repunte de las exportaciones de vino a granel argentino: crecieron 46,5% en volumen durante el primer semestre - InfoMendoza",
-      "summary": "Las exportaciones de vino a granel argentino crecieron 46,5% en volumen durante el primer semestre, evidenciando un repunte significativo en la demanda internacional. Este incremento refuerza la posic",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Heineken manda demitir 6 mil funcionários e vai parar de produzir cerveja em fábrica - Portal Tempo Novo",
-      "summary": "Heineken anuncia despidos de 6.000 empleados y cierre de operaciones de producción en una planta. Esta decisión refleja una reestructuración estratégica del grupo cervecero global, probablemente vincu",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "La nueva estrategia de Starbucks: ahora quiere vender más después del mediodía con bebidas frías, matcha y alimentos",
-      "summary": "Starbucks implementa estrategia de diversificación de portafolio enfocada en aumentar ventas en horario post-meridiano mediante expansión de líneas de bebidas frías (Refreshers), bebidas a base de mat",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Olipop's Ben Goodwin: Focus on Growth Over Acquisition Offers from PepsiCo and Coca-Cola - News and Statistics - IndexBox",
-      "summary": "Ben Goodwin, CEO de Olipop, rechaza ofertas de adquisición de PepsiCo y Coca-Cola para mantener el enfoque en crecimiento independiente. La decisión refleja la estrategia de la marca de bebidas funcio",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo",
-        "Olipop"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "BuzzBallz teams up with Pop-Tarts on limited-edition nostalgia collaboration | FoodBev Media",
-      "summary": "BuzzBallz, marca de cócteles RTD, lanza colaboración limitada con Pop-Tarts en Estados Unidos con dos variedades inspiradas en sabores nostálgicos (S'mores y Brown Sugar Cinnamon). La estrategia de co",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "marketing_innovation",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands commits $100m to US farmers supplying beer industry | FoodBev Media",
-      "summary": "Constellation Brands invertirá USD 100M en los próximos cinco años para fortalecer su cadena de suministro agrícola doméstica en Estados Unidos (Idaho, Montana y Dakota del Norte), aumentando compras ",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock holds steady as Q2 estimates point to double-digit growth - Ad-hoc-news.de",
-      "summary": "Monster Beverage mantiene estabilidad accionaria con proyecciones de crecimiento de doble dígito en Q2, indicando desempeño positivo en la categoría de bebidas energéticas. Este movimiento refleja la ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Will Iraq become PepsiCo’s next Middle East manufacturing hub?",
-      "summary": "PepsiCo está evaluando Iraq como posible centro de manufactura en Medio Oriente, aprovechando la estabilidad relativa del país respecto a conflictos regionales. Esta expansión estratégica busca divers",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nestlé Waters Regenerates 14 Million Cubic Metres of Water as Stewardship Programme Expands - Food & Beverage Outlook",
-      "summary": "Nestlé Waters reporta la regeneración de 14 millones de metros cúbicos de agua mediante su programa de administración hídrica ampliado. Esta iniciativa de sustentabilidad refleja la estrategia corpora",
-      "companies": [
-        "Nestle Waters"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors stock holds steady as investors look to earnings and U.S. partnership benefits - Ad-hoc-news.de",
-      "summary": "Molson Coors mantiene estabilidad accionaria mientras el mercado anticipa resultados financieros y beneficios de asociaciones estratégicas en EE.UU. La noticia sugiere confianza de inversores en recup",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Asterisk Imports Launches, Secures Exclusive U.S. Rights to Belgium's Kasteel Beer Portfolio",
-      "summary": "Asterisk Imports aseguró derechos exclusivos de importación y distribución en EE.UU. para la cartera completa de Kasteel, cerveza belga de Brouwerij Vanhonsebrouck. La operación marca el inicio de una",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Eebria relaunched with mission to drive growth for suppliers",
-      "summary": "Eebria, plataforma distribuidora B2B de bebidas, realizó un relanzamiento tras ser adquirida por Beer52 en 2024. La empresa modernizó su tecnología, propuesta comercial y equipo para evolucionar de un",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola leads consumer staples growth rankings; P&G, Altria lag (XLP:NYSEARCA) - Seeking Alpha",
-      "summary": "Coca-Cola encabeza los rankings de crecimiento en el sector de productos de consumo masivo, superando a competidores como P&G y Altria. Este posicionamiento refleja la fortaleza estratégica de la empr",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "CLSA backs Varun Beverages with ₹654 target on Asahi-CALPIS India launch - scanx.trade",
-      "summary": "CLSA estableció un precio objetivo de ₹654 para Varun Beverages, respaldando la estrategia de la compañía en India. El analista valida la expansión del portafolio con el lanzamiento de Asahi-CALPIS en",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Strategic Beverage Services acquires BevZero US operations | FoodBev Media",
-      "summary": "Strategic Beverage Services adquirió las operaciones estadounidenses de BevZero, consolidando la posición como el mayor proveedor de servicios de desalcoholización en EE.UU. Esta transacción amplía la",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Dry-state Gujarat finds a new high: Non-alcoholic drinks’ fizzing market now worth crores; massive consumpt... - Bhaskar English",
-      "summary": "El mercado de bebidas no alcohólicas en Gujarat (estado prohibicionista en India) está experimentando un crecimiento significativo, alcanzando valuaciones de millones. Este fenómeno refleja una oportu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "As GLP-1 Patients Rethink Food, CPGs Must Follow Suit",
-      "summary": "El auge de medicamentos GLP-1 para pérdida de peso está transformando el comportamiento del consumidor estadounidense, con pacientes reduciendo ingesta calórica y siendo más selectivos sobre qué consu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Gallup poll: US alcohol consumption remains at record low - Harpers Wine & Spirit Trade News",
-      "summary": "El consumo de alcohol en EE.UU. se mantiene en mínimos históricos: 54% de adultos en 2026, cayendo desde 67% en 2022. Esta tendencia estructural de declive en penetración de consumidores afecta direct",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-08-25": [
     {
       "title": "O El Niño vem aí e deve mexer com o milho, o arroz — e até a cerveja",
@@ -2468,6 +2266,334 @@
       ],
       "segments": [
         "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-09-01": [
+    {
+      "title": "Vino: El mercado interno del vino cayó en julio, ¿qué sucedió en el semestre?",
+      "summary": "El mercado interno de vino argentino registró 649.674 hectolitros en julio de 2026, con caída de 1,4% interanual, aunque acumulado semestral mostró recuperación técnica versus 2025. Los vinos sin menc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "El boom del vino a granel: las exportaciones crecen un 46,5% en volumen impulsadas por el Malbec y la sustentabilidad global - Diario San Rafael",
+      "summary": "Las exportaciones de vino a granel crecieron 46,5% en volumen, impulsadas por demanda global de Malbec y preferencias por prácticas sustentables. Este modelo de exportación (vino sin marca propia) rep",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Exportaciones de vino: Argentina vendió más en el primer semestre, pero cayó el precio promedio - Diario Mendoza",
+      "summary": "Argentina incrementó volúmenes de exportación de vino en el primer semestre, pero enfrentó una caída en el precio promedio unitario. Este movimiento refleja presión competitiva global y cambios en la ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Más de 4.500 tenderos serán capacitados por PepsiCo en 2026 para fortalecer sus negocios y ventas",
+      "summary": "PepsiCo capacitará a más de 4.500 tenderos durante 2026 como parte de su estrategia de fortalecimiento de canal minorista. Esta iniciativa de desarrollo de retailers refleja la apuesta de la compañía ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "El secreto detrás del boom de Tiendas 3B y por qué Walmart y Soriana lo están copiando",
+      "summary": "Las marcas blancas en México experimentan un crecimiento del 20.5%, con Tiendas 3B liderando la tendencia al generar 58% de sus ventas con productos de marca propia. Walmart y Soriana replican esta es",
+      "companies": [
+        "Walmart",
+        "Costco"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Starbucks cambia su estrategia de menú y ahora utiliza pantallas digitales para impulsar las ventas durante la tarde",
+      "summary": "Starbucks implementará menús digitales en el 90% de sus sucursales estadounidenses para personalizar oferta y promociones por franja horaria, buscando maximizar ventas en períodos de bajo tráfico como",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Carlsberg and Sapporo go in big on alliance in Asia, UK",
+      "summary": "Carlsberg y Sapporo expandieron su alianza estratégica en Asia mediante acuerdos de distribución exclusiva de Sapporo Premium Beer en Malasia, Singapur y Hong Kong desde 2024. Carlsberg ha posicionado",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr appoints former Sainsbury’s CFO Darren Shapland as new chair",
+      "summary": "AG Barr, productor británico de bebidas, designó a Darren Shapland (ex-CFO de Sainsbury's) como nuevo presidente ejecutivo, reemplazando a Susan Barratt. El cambio de liderazgo ocurre en un contexto d",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Casa Herradura reivindica el origen del primer tequila reposado comercial del mundo",
+      "summary": "Brown-Forman reivindicó el posicionamiento de Casa Herradura como origen del primer tequila reposado comercial mundial, lanzado en 1974 desde su destilería en Amatitán, Jalisco. Esta innovación de pro",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Red Bull Fuji Apple & Ginger joins permanent lineup",
+      "summary": "Red Bull promueve su bebida Fuji Apple & Ginger de la línea Winter Edition a producto permanente en su portafolio de Editions. El producto, lanzado en agosto, mantiene el diseño de lata gradient (rojo",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage stock extends 2026 gains as investors eye earnings momentum - AD HOC NEWS",
+      "summary": "Las acciones de Monster Beverage continúan ganando valor en 2026 impulsadas por expectativas positivas en resultados financieros. El momentum de mercado refleja confianza en la trayectoria de ganancia",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Margin Outlook: Pricing Power or Cost Relief Driving Gains? - theglobeandmail.com",
+      "summary": "Análisis sobre los márgenes operativos de Coca-Cola y los drivers de mejora en rentabilidad. La noticia examina si la expansión de márgenes proviene del poder de precios (aumentos de tarifa) o de aliv",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Europacific Partners Launches New Fleet of Electric Trucks across APAC - Food & Beverage Outlook",
+      "summary": "Coca-Cola Europacific Partners desplegó una flota de camiones eléctricos en la región Asia-Pacífico, avanzando en su estrategia de descarbonización de la cadena logística. Esta iniciativa reduce costo",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands stock holds steady as investors eye FY 2027 earnings path - AD HOC NEWS",
+      "summary": "Las acciones de Constellation Brands se mantienen estables mientras los inversores analizan la proyección de ganancias para el año fiscal 2027. Constellation, uno de los mayores productores de bebidas",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola stock holds just below 52-week high as Q2 2026 margins improve - AD HOC NEWS",
+      "summary": "Coca-Cola reportó mejora en márgenes operativos en Q2 2026, manteniendo su cotización cerca del máximo de 52 semanas. La expansión de márgenes indica eficiencia en costos y pricing power, elementos cr",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CELSIUS Named Official Energy Drink Sponsor of ESPN’s College GameDay in New Multi-Year Agreement",
+      "summary": "Celsius aseguró un acuerdo de patrocinio multianual como bebida energética oficial de College GameDay de ESPN, convirtiéndose en el primer sponsor de energéticos de este programa insignia. La alianza ",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Thomas Conquet appointed managing director of Nestlé Waters & Premium Beverages UK | FoodBev Media",
+      "summary": "Thomas Conquet fue designado director general de Nestlé Waters & Premium Beverages en el Reino Unido, procedente de la operación estadounidense donde era senior director de marketing de marca. El camb",
+      "companies": [
+        "Nestle Waters"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Raising the functional beverage bar: Drinks are becoming more specific and creative",
+      "summary": "El mercado de bebidas funcionales está evolucionando desde claims genéricos de 'hidratación' hacia propuestas más específicas de bienestar corporal, mental y emocional. Los consumidores rechazan calor",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock reflects weaker fiscal 2026 sales and a cautious growth outlook - AD HOC NEWS",
+      "summary": "Pernod Ricard reporta desempeño más débil en ventas para el ejercicio fiscal 2026 con una proyección de crecimiento cautelosa, impactando la valuación accionaria. Esto señala presiones en el segmento ",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper stock trades around $32 as earnings and analyst targets shape expectations - AD HOC NEWS",
+      "summary": "Keurig Dr Pepper cotiza alrededor de $32 USD en medio de especulaciones sobre resultados financieros y proyecciones de analistas. Esta movimiento es relevante para la industria de bebidas global ya qu",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper to sell Chobani stake and facility for $925 million, Chobani unveils $1.2bn investment in site | FoodBev Media",
+      "summary": "Keurig Dr Pepper vende su participación accionaria en Chobani ($800M) y su planta manufacturera en Pennsylvania ($125M) por un total de $925M. Chobani anuncia simultáneamente una inversión de $1.2B en",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands Names New Supply Chain Top Boss For Beer Unit - esmmagazine.com",
+      "summary": "Constellation Brands, uno de los mayores productores de cerveza en América del Norte, designó nuevo líder de cadena de suministros para su división cervecera. Este movimiento responde a la necesidad d",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard Korea launches 'Split Drinks' campaign promoting water with cocktails - The Korea Times",
+      "summary": "Pernod Ricard Korea lanzó la campaña 'Split Drinks' que promueve el consumo de agua junto con cócteles, posicionándose en la tendencia de moderación alcohólica y opciones más saludables. La iniciativa",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Crooked Pop Taps Lee Schill as CCO; Inks Partnership with Reyes Beverage Group | Brewbound",
+      "summary": "Crooked Pop, marca de hard soda, nombró a Lee Schill como Chief Commercial Officer y estableció una alianza con Reyes Beverage Group, uno de los principales distribuidores de bebidas en EE.UU. El movi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer Growth Leaders ‘Drive Less Negativity’ in Circana Weekly Scans | Brewbound",
+      "summary": "Marcas líderes de cerveza experimentan un repunte a fin del verano, contrarrestando la tendencia negativa típica de la categoría en este período según datos semanales de Circana. El comportamiento dif",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BrewDog unveils Liquid Visions craft beer series",
+      "summary": "BrewDog lanzó Liquid Visions, una línea de cervezas artesanales con diseño de latas de artistas globales, sin branding frontal de la marca. La estrategia busca diferenciación en góndola mediante packa",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands stock holds below recent highs as investors weigh debt offering and beer growth - AD HOC NEWS",
+      "summary": "Constellation Brands enfrenta presión en su cotización bursátil mientras los inversores evalúan una oferta de deuda simultáneamente con perspectivas de crecimiento en su negocio cervecero. La tensión ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev’s Oriental Brewery to launch soju in S.Korea, targeting ‘Tesla’ cocktail market - KED Global",
+      "summary": "AB InBev, a través de su subsidiaria Oriental Brewery, lanzará soju en Corea del Sur orientándose al segmento premium de cócteles. La estrategia busca capturar el mercado de bebidas espirituosas de al",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El vino sin alcohol se dispara entre los jóvenes rusos",
+      "summary": "Las ventas de vino sin alcohol en la cadena rusa SimpleWine crecieron 25% interanual en verano 2026, con aceleración significativa en consumidores de 18-22 años. Esta tendencia refleja un cambio demog",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage (TAP) Stock Dropped, So What Is Driving Attention Now? - Yahoo Finance",
+      "summary": "Molson Coors Beverage Company (TAP) experimentó caída en su cotización, generando atención sobre los factores que impulsan el desempeño actual del grupo. Como uno de los principales productores de cer",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
