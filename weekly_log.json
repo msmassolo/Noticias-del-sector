@@ -2300,7 +2300,7 @@
   "2026-09-02": [
     {
       "title": "Procesaron al dueño de Manaos por presunta evasión tributaria y le trabaron un embargo millonario",
-      "summary": "La Justicia Federal procesó a Orlando Eduardo Canido, dueño de Manaos, por evasión tributaria del Impuesto a las Ganancias 2020, junto con su empresa Refres Now S.A. Se trabó un embargo de $250 millon",
+      "summary": "La Justicia Federal procesó a Orlando Eduardo Canido, dueño de Manaos, por evasión tributaria de Impuesto a las Ganancias del ejercicio 2020, afectando también a Refres Now S.A. Se ordenó un embargo d",
       "companies": [
         "Refres Now"
       ],
@@ -2311,7 +2311,7 @@
     },
     {
       "title": "La industria local del vino trabaja en una agenda de medidas para mejorar su competitividad",
-      "summary": "La industria vitivinícola argentina enfrenta presión por costos crecientes y competencia intensificada, tanto en mercados locales como internacionales. Bodegas de Argentina (cámara sectorial) formaliz",
+      "summary": "La industria vitivinícola argentina enfrenta presión por costos crecientes y competencia intensificada, lo que genera adaptaciones estratégicas tanto a nivel individual como sectorial. La cámara Bodeg",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2319,22 +2319,28 @@
       "region": "Local"
     },
     {
-      "title": "Clima volta ao radar do setor de cerveja",
-      "summary": "Las fabricantes de cerveza brasileñas reportan que factores climáticos emergieron como principal preocupación en resultados del Q2, con impacto directo en volúmenes de venta. Según Scanntech, cada aum",
+      "title": "Exportaciones de vino: Argentina vendió más en el primer semestre, pero cayó el precio promedio - Diario Mendoza",
+      "summary": "Argentina aumentó volumen de exportaciones de vino en el primer semestre, pero enfrentó caída en precio promedio, indicando presión competitiva en mercados internacionales. Este patrón afecta directam",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Mientras el tequila pierde fuerza, el whisky Johnnie Walker crece: la marca de Diageo que resiste la caída del consumo",
+      "summary": "Johnnie Walker (Diageo) muestra crecimiento mientras el tequila retrocede en el mercado de bebidas alcohólicas premium. La compañía implementó ajustes de precios selectivos y estrategias competitivas ",
       "companies": [
-        "AB InBev",
-        "Heineken",
-        "Ambev"
+        "Diageo"
       ],
       "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
+        "consumer_market_trends"
       ],
       "region": "Regional"
     },
     {
-      "title": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
-      "summary": "La familia Baillères tuvo participación histórica en Superior, marca cervecera fundada en 1896 en Orizaba, Veracruz, que fue parte de Cervecería Moctezuma antes de ser adquirida por Heineken México. E",
+      "title": "Impuesto a Sopas Maruchan, papas fritas y cervezas están en la mira de Hacienda en IEPS para 2027",
+      "summary": "El gobierno mexicano planea aumentar el Impuesto Especial sobre Producción y Servicios (IEPS) a bebidas alcohólicas (cervezas, vinos, destilados) y alimentos ultraprocesados a partir de 2027, como par",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2344,7 +2350,7 @@
     },
     {
       "title": "New RTD Cocktail Releases From BuzzBallz, Salt Point, Deep Eddy, Good Boy and More | Brewbound",
-      "summary": "El segmento RTD (Ready-to-Drink) de cócteles experimenta expansión con nuevos lanzamientos de marcas establecidas como BuzzBallz, Salt Point, Deep Eddy y Good Boy. Destaca la entrada de una marca prem",
+      "summary": "Múltiples marcas de cócteles listos para beber (RTD) lanzan nuevos productos en agosto, incluyendo alianzas deportivas (BuzzBallz con los 49ers) y entrada de marcas premium al segmento RTD. El sector ",
       "companies": [
         "Sazerac Company"
       ],
@@ -2355,20 +2361,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Pepsi Prebiotic Cola, Drybar team up for ‘getting-ready’ refresh",
-      "summary": "Pepsi Prebiotic Cola lanza una campaña de co-marketing con Drybar (cadena de 200 salones de belleza) para posicionar su línea prebiotic en momentos de consumo asociados a la preparación personal. La a",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Heineken España gana un 56% menos por la ausencia de ingresos extraordinarios",
-      "summary": "Heineken España reportó facturación de 1.021,7 millones de euros en 2025, con una caída del 1,3% interanual, mientras que la ganancia se contrajo 56% por ausencia de ingresos extraordinarios. La venta",
+      "summary": "Heineken España cerró 2025 con facturación de 1.021,7 millones de euros (caída de 1,3% interanual), manteniéndose por encima del umbral de 1.000 millones, con 970,9 millones provenientes de ventas de ",
       "companies": [
         "Heineken"
       ],
@@ -2379,19 +2373,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Carlsberg and Sapporo go in big on alliance in Asia, UK",
-      "summary": "Carlsberg y Sapporo expandieron su alianza estratégica iniciada en 2024 para distribuir Sapporo Premium Beer en Malaysia, Singapore y Hong Kong. Carlsberg posiciona a Sapporo como eje de su estrategia",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "AG Barr appoints former Sainsbury’s CFO Darren Shapland as new chair",
-      "summary": "AG Barr, productor británico de bebidas, nombra a Darren Shapland (ex-CFO de Sainsbury's) como nuevo presidente ejecutivo, reemplazando a Susan Barratt. El cambio de liderazgo ejecutivo ocurre en un c",
+      "summary": "AG Barr, fabricante escocés de bebidas, designó a Darren Shapland (ex CFO de Sainsbury's) como nuevo presidente del directorio, reemplazando a Susan Barratt en el cargo interino. El cambio de liderazg",
       "companies": [
         "AG Barr"
       ],
@@ -2401,8 +2384,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Carlsberg and Sapporo go in big on alliance in Asia, UK",
+      "summary": "Carlsberg y Sapporo formalizaron una alianza estratégica en 2024 para distribuir Sapporo Premium Beer en Malasia, Singapur y Hong Kong. Carlsberg asume la comercialización y distribución de la marca j",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Mondelēz, PepsiCo and pladis to take part in circular packaging trial",
-      "summary": "PepsiCo, Mondelēz Internacional y pladis participan en el proyecto HolyGrail 2030 en Bélgica para implementar marcas de agua digitales en envases flexibles de alimentos. Esta tecnología permite a las ",
+      "summary": "PepsiCo, Mondelēz International y pladis participan en el ensayo HolyGrail 2030 en Bélgica para evaluar marcas digitales imperceptibles en envases flexibles de alimentos. Esta tecnología permite a las",
       "companies": [
         "PepsiCo"
       ],
@@ -2413,7 +2407,7 @@
     },
     {
       "title": "Casa Herradura reivindica el origen del primer tequila reposado comercial del mundo",
-      "summary": "Brown-Forman reivindica que Casa Herradura creó el primer tequila reposado comercial en 1974, un hito que transformó la categoría de bebidas destiladas. La marca, fundada en 1870 en Amatitán, Jalisco,",
+      "summary": "Brown-Forman posiciona a Casa Herradura como creadora del primer tequila reposado comercial en 1974, marcando un hito que redefinió la categoría. Esta reivindicación de origen fortalece el posicionami",
       "companies": [
         "Brown-Forman"
       ],
@@ -2423,8 +2417,8 @@
       "region": "Mundial"
     },
     {
-      "title": "KDP Sells Back Chobani Stake, PA Facility - BevNET.com",
-      "summary": "Keurig Dr Pepper (KDP) desinvierte de Chobani al vender su participación accionaria minoritaria a la empresa por $800 millones, incluyendo la transferencia de una planta en Pensilvania de 1,5 millones",
+      "title": "Keurig Dr Pepper to sell Chobani stake and facility for $925 million, Chobani unveils $1.2bn investment in site | FoodBev Media",
+      "summary": "Keurig Dr Pepper (KDP) vende su participación accionaria en Chobani (80% del capital) por $800 millones y la planta de manufactura de Pennsylvania por $125 millones, totalizando $925 millones. Chobani",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2435,7 +2429,7 @@
     },
     {
       "title": "Coca-Cola stock trades near record levels as margins and guidance stay solid - AD HOC NEWS",
-      "summary": "Coca-Cola mantiene niveles de cotización cercanos a máximos históricos con márgenes sólidos y guidance estable, indicando fortaleza operativa y confianza del mercado. Este desempeño refleja la capacid",
+      "summary": "Las acciones de Coca-Cola operan cerca de máximos históricos sustentados por márgenes sólidos y guidance positiva. Este desempeño refleja la fortaleza operativa de la principal competidora global en l",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2445,20 +2439,41 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation (NASDAQ:MNST) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
-      "summary": "Monster Beverage recibió recomendación consensuada de «Moderate Buy» de analistas de Wall Street. Esta valoración refleja la confianza en el desempeño y potencial de crecimiento de la empresa, uno de ",
+      "title": "Constellation Brands stock holds steady near 130 dollars as investors digest latest earnings - AD HOC NEWS",
+      "summary": "Constellation Brands, una de las mayores empresas de bebidas del continente americano, mantiene su cotización cerca de los 130 USD mientras el mercado procesa sus últimos resultados financieros. La es",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Arca Continental stock holds steady as investors look to recent earnings - AD HOC NEWS",
+      "summary": "Las acciones de Arca Continental se mantienen estables en el mercado mientras inversores analizan sus últimos resultados financieros. Arca Continental es uno de los mayores embotelladores de Coca-Cola",
+      "companies": [
+        "Arca Continental"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Energy X Call of Duty: Modern Warfare 4 Squad Up for Biggest Giveaway Yet",
+      "summary": "Monster Energy ejecuta una campaña de marketing integrada con Call of Duty: Modern Warfare 4, iniciada el 1 de septiembre, que vincula la compra de productos Monster con recompensas digitales y experi",
       "companies": [
         "Monster Beverage"
       ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "company_news"
       ],
       "region": "Mundial"
     },
     {
       "title": "Coca-Cola Icecek stock supported by Bangladesh bottler deal and regional growth - AD HOC NEWS",
-      "summary": "Coca-Cola İçecek (principal embotellador de The Coca-Cola Company en Turquía y región) cerró un acuerdo estratégico de embotelladoras en Bangladesh, fortaleciendo su posición en mercados emergentes de",
+      "summary": "Coca-Cola Icecek (CCOLA) recibió soporte accionario por un acuerdo de embotelador en Bangladesh y crecimiento regional. Este movimiento refuerza la posición de CCOLA en mercados emergentes de Asia, am",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2470,7 +2485,7 @@
     },
     {
       "title": "Thomas Conquet appointed managing director of Nestlé Waters & Premium Beverages UK | FoodBev Media",
-      "summary": "Thomas Conquet fue designado director general de Nestlé Waters & Premium Beverages en Reino Unido, proveniente de la operación estadounidense donde ocupaba la posición de senior director de marketing ",
+      "summary": "Thomas Conquet asume como director general de Nestlé Waters & Premium Beverages en Reino Unido, proveniente de la operación estadounidense donde lideraba marketing de marcas. El cambio busca acelerar ",
       "companies": [
         "Nestle Waters"
       ],
@@ -2480,8 +2495,19 @@
       "region": "Mundial"
     },
     {
+      "title": "AriZona Beverages and Italian Sparkling Water Brand Ferrarelle Announce Strategic Partnership",
+      "summary": "AriZona Beverages se asoció estratégicamente con Ferrarelle, marca italiana de agua mineral con 130+ años de trayectoria, para distribuir su nueva línea en lata en retail y conveniencias de EE.UU. La ",
+      "companies": [
+        "Arizona Beverages"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Boston Beer Company stock holds firm as investors look beyond older earnings - AD HOC NEWS",
-      "summary": "Las acciones de Boston Beer Company se mantienen estables mientras los inversores descartan resultados anteriores. Esta dinámica refleja confianza del mercado en la recuperación de la compañía, uno de",
+      "summary": "Las acciones de Boston Beer Company se mantienen estables mientras los inversores superan los resultados anteriores, sugiriendo confianza en la trayectoria futura de la compañía. Este movimiento refle",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2493,7 +2519,7 @@
     },
     {
       "title": "Britvic stock holds steady as investors eye recent earnings and UK consumer trends - AD HOC NEWS",
-      "summary": "Britvic, principal productor de bebidas en el Reino Unido, mantiene estabilidad en su cotización mientras los inversores analizan sus resultados recientes y tendencias de consumo del mercado británico",
+      "summary": "Las acciones de Britvic se mantienen estables mientras los inversores analizan resultados recientes y tendencias de consumo en Reino Unido. Britvic es un productor europeo clave de bebidas no alcohóli",
       "companies": [
         "Britvic"
       ],
@@ -2504,8 +2530,32 @@
       "region": "Mundial"
     },
     {
+      "title": "National Beverage earnings up next: Can LaCroix regain volume growth? - Investing.com",
+      "summary": "National Beverage reportará resultados próximamente con el foco en la recuperación de volúmenes de LaCroix, su marca estrella de bebidas carbonatadas saborizadas. LaCroix ha enfrentado presión competi",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "FIZZ stock edges lower as National Beverage faces cautious earnings expectations - AD HOC NEWS",
+      "summary": "National Beverage Corp (FIZZ) experimenta presión en su cotización ante expectativas cautelosas del mercado respecto a sus próximos resultados financieros. La caída refleja inquietud de inversores sob",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Pernod Ricard stock reflects weaker fiscal 2026 sales and a cautious growth outlook - AD HOC NEWS",
-      "summary": "Pernod Ricard reporta débil desempeño de ventas en fiscal 2026 con perspectivas de crecimiento cautelosas, impactando su cotización bursátil. Este movimiento refleja presiones en el mercado global de ",
+      "summary": "Pernod Ricard reportó desempeño débil en ventas fiscales 2026 con perspectivas de crecimiento cautelosas, impactando el precio de sus acciones. Como líder global en bebidas alcohólicas (spirits, vinos",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2515,8 +2565,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Jack Daniel's maker Brown-Forman misses sales estimates on weak consumer spending - reuters.com",
+      "summary": "Brown-Forman, productor de Jack Daniel's, incumplió estimaciones de ventas debido a débil consumo del consumidor. Este resultado refleja presiones en la categoría de destilados premium, un segmento cr",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Innovation, trust and health credentials fuel growth for world’s leading non-alcoholic drinks brands",
-      "summary": "Brand Finance revela en su Food & Drink Report 2026 que la industria de bebidas no alcohólicas está transitando desde estrategias basadas en aumentos de precios hacia competencia centrada en innovació",
+      "summary": "Brand Finance reporta que marcas líderes de bebidas no alcohólicas están impulsando crecimiento mediante innovación, confianza y credenciales de salud. Tras dos años de aumentos de precios para proteg",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2526,7 +2587,7 @@
     },
     {
       "title": "Keurig Dr Pepper and Chobani expand ready-to-drink beverage partnership - Vending Market Watch",
-      "summary": "Keurig Dr Pepper y Chobani expanden su asociación en bebidas listas para consumir, fortaleciendo su posición conjunta en el segmento de RTD que crece aceleradamente. Esta alianza amplía la distribució",
+      "summary": "Keurig Dr Pepper y Chobani amplían su asociación en bebidas listas para consumir, consolidando la presencia de productos yogurt-based en el canal de vending. La expansión refleja la creciente demanda ",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2537,18 +2598,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Beer Growth Leaders ‘Drive Less Negativity’ in Circana Weekly Scans | Brewbound",
-      "summary": "Marcas líderes de cerveza muestran recuperación en escaneos semanales de Circana durante el verano tardío, contrarrestando la tendencia de caída estacional de la categoría. El dato sugiere diferenciac",
+      "title": "Athletic Brewing Appoints Dan Kleinman as CMO | Brewbound",
+      "summary": "Athletic Brewing, principal productor de cervezas sin alcohol, designó a Dan Kleinman como Chief Marketing Officer a partir de septiembre. Kleinman trae experiencia del sector vinos y espirituosos, se",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "non_alcoholic_beverages"
       ],
       "region": "Mundial"
     },
     {
       "title": "Pernod Ricard Korea launches 'Split Drinks' campaign promoting water with cocktails - The Korea Times",
-      "summary": "Pernod Ricard Korea lanzó la campaña 'Split Drinks' que promueve el consumo de agua junto con cócteles, respondiendo a tendencias de consumo más consciente en el mercado coreano. La iniciativa posicio",
+      "summary": "Pernod Ricard Korea lanzó la campaña 'Split Drinks' que promueve el consumo de agua junto con cócteles, posicionándose en la tendencia de bebidas más saludables y responsables. Esta estrategia respond",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2559,8 +2620,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Beer Growth Leaders ‘Drive Less Negativity’ in Circana Weekly Scans | Brewbound",
+      "summary": "Marcas líderes de cerveza muestran desempeño resiliente en escaneos semanales de Circana durante la desaceleración estival, con algunos jugadores top experimentando un crecimiento positivo que mitiga ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Los incendios y la sequía alteran la campaña del vino en Francia",
-      "summary": "Los incendios forestales y sequía en Francia están impactando la vendimia 2024, acelerando la maduración de uvas y adelantando calendarios de cosecha en regiones clave como Burdeos, Languedoc y Ródano",
+      "summary": "Los incendios forestales y sequía en Francia están impactando significativamente la campaña vitícola 2024, adelantando calendarios de vendimia y afectando la calidad final de las uvas en regiones clav",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2570,7 +2641,7 @@
     },
     {
       "title": "Diageo (LSE:DGE) — Can A Sharper Competitiveness Agenda Reset The Spirits Narrative? - Kalkine Media",
-      "summary": "Diageo, líder global en bebidas alcohólicas destiladas, enfrenta presión de inversores sobre su agenda competitiva y narrativa de mercado. El artículo cuestiona si la estrategia actual de la empresa p",
+      "summary": "Diageo, el gigante global de destilados y bebidas alcohólicas, enfrenta presión para implementar una agenda de competitividad más agresiva que revitalice su narrativa en el mercado. El análisis examin",
       "companies": [
         "Diageo"
       ],
@@ -2580,41 +2651,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Constellation Brands stock holds below recent highs as investors weigh debt offering and beer growth - AD HOC NEWS",
-      "summary": "Constellation Brands enfrenta presión en bolsa por su oferta de deuda mientras gestiona el crecimiento en su negocio cervecero. La decisión de financiamiento impacta la valuación de la compañía, uno d",
+      "title": "Keurig Dr Pepper Sells Chobani Stake for $800 Million as It Prepares to Split Company - citybiz.co",
+      "summary": "Keurig Dr Pepper (KDP) vende su participación accionaria en Chobani por $800 millones mientras se prepara para dividir la compañía. Esta desinversión estratégica en una marca de yogur griego premium r",
       "companies": [
-        "Constellation Brands"
+        "Keurig Dr Pepper"
       ],
       "segments": [
-        "consumer_market_trends"
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Diageo to lay off 305 employees at North America headquarters - Global Drinks Intel",
-      "summary": "Diageo, el mayor productor de bebidas alcohólicas a nivel mundial, anuncia despidos de 305 empleados en su sede de Norteamérica. Esta restructuración afecta a una región crítica que representa aproxim",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "AB InBev’s Oriental Brewery to launch soju in S.Korea, targeting ‘Tesla’ cocktail market - KED Global",
-      "summary": "AB InBev amplía su portafolio de bebidas alcohólicas mediante el lanzamiento de soju en Corea del Sur a través de Oriental Brewery, su subsidiaria local. La estrategia apunta al mercado emergente de c",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper to sell Chobani stake and facility for $925 million, Chobani unveils $1.2bn investment in site | FoodBev Media",
-      "summary": "Keurig Dr Pepper (KDP) vende su participación accionaria en Chobani por $800 millones y su planta manufacturera en Pennsylvania por $125 millones, totalizando $925 millones. Chobani anuncia simultánea",
+      "title": "KDP Sells Back Chobani Stake, PA Facility - BevNET.com",
+      "summary": "Keurig Dr Pepper (KDP) vende su participación minoritaria en Chobani nuevamente a la empresa por $800 millones, además de una planta de 1.5 millones de pies cuadrados en Pennsylvania. Esta desinversió",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2625,7 +2674,7 @@
     },
     {
       "title": "Chobani buys back Keurig Dr Pepper’s $800M stake as it invests $1.2B in Pennsylvania plant",
-      "summary": "Chobani adquiere nuevamente la participación accionaria del 15% de Keurig Dr Pepper (valorizada en $800M) y anuncia una inversión de $1.2B en una planta de manufactura en Pensilvania que operará a par",
+      "summary": "Chobani adquiere nuevamente la participación de $800M que Keurig Dr Pepper poseía en la empresa y anunci una inversión de $1.2B en cinco años en una planta de producción en Allentown, Pensilvania, que",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2636,7 +2685,7 @@
     },
     {
       "title": "AG Barr appoints Darren Shapland as board chair | FoodBev Media",
-      "summary": "AG Barr, importante empresa de bebidas del Reino Unido, designó a Darren Shapland como presidente independiente del directorio a partir de septiembre de 2026. Shapland aporta cuatro décadas de experie",
+      "summary": "AG Barr designó a Darren Shapland como presidente independiente del consejo de administración a partir del 1 de septiembre de 2026. Shapland aporta cuatro décadas de experiencia en finanzas, operacion",
       "companies": [
         "AG Barr"
       ],
@@ -2646,24 +2695,13 @@
       "region": "Mundial"
     },
     {
-      "title": "Escándalo con Manaos: la Justicia procesó al dueño de la marca de gaseosas por evasión fiscal",
-      "summary": "Orlando Eduardo Canido, propietario de Refres Now (marca Manaos), fue procesado por evasión fiscal en período 2020 con embargos por $250 millones. La decisión del Juzgado Federal de Morón genera riesg",
+      "title": "Constellation Brands stock holds below recent highs as investors weigh debt offering and beer growth - AD HOC NEWS",
+      "summary": "Constellation Brands, principal productor de cervezas importadas en América del Norte (Corona, Modelo), enfrenta presión en su cotización bursátil mientras analiza una oferta de deuda y evalúa perspec",
       "companies": [
-        "Refres Now"
+        "Constellation Brands"
       ],
       "segments": [
         "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Keurig Dr Pepper Sells Chobani Stake for $800 Million as It Prepares to Split Company - citybiz",
-      "summary": "Keurig Dr Pepper vende su participación accionaria en Chobani por $800 millones en el contexto de su reorganización corporativa. La desinversión forma parte de la estrategia de la compañía para escind",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
