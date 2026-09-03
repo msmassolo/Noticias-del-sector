@@ -2276,18 +2276,7 @@
   "2026-09-03": [
     {
       "title": "Mastellone perdió $4791 millones antes de pasar a manos de Arcor y Danone",
-      "summary": "Mastellone Hermanos (La Serenísima) reportó pérdidas de $4.791 millones en H1 2026 con ingresos de $908.674 millones (caída real del 6,7% interanual), antes de su transferencia al control conjunto de ",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "La importante pérdida que sufrió Mastellone en un semestre: sus ventas locales cayeron más del 10%",
-      "summary": "Mastellone (La Serenísima) reportó pérdida de $4.791 millones en H1 2026 con caída de ingresos de 6,7%, impactada principalmente por contracción del 10%+ en mercado local. Arcor y Danone avanzan en ad",
+      "summary": "Mastellone Hermanos (La Serenísima) reportó pérdida neta de $4.791 millones en H1 2026, con ingresos de $908.674 millones (caída real de 6,7% interanual). La operación precede la toma de control conju",
       "companies": [
         "Danone"
       ],
@@ -2298,7 +2287,7 @@
     },
     {
       "title": "Quilmes y el balance entre tradición y renovación de marca",
-      "summary": "Quilmes aborda su estrategia de renovación de marca manteniendo su esencia central mientras adapta su comunicación a audiencias fragmentadas. El vicepresidente de Marketing de Latinoamérica Sur enfati",
+      "summary": "Quilmes, líder cervecero argentino, expone su estrategia de renovación de marca manteniendo su esencia y propósito central, según declaraciones de su VP de Marketing para Latinoamérica Sur. La compañí",
       "companies": [
         "AB InBev",
         "Cerveceria y Malteria Quilmes"
@@ -2309,8 +2298,20 @@
       "region": "Local"
     },
     {
+      "title": "Walmart atrae cada vez más a consumidores de mayores ingresos y confirma que los precios bajos también conquistan a los hogares con mayor poder adquisitivo",
+      "summary": "Walmart expande su penetración en segmentos de mayores ingresos, demostrando que la propuesta de valor low-cost atrae más allá del consumidor tradicional de menor poder adquisitivo. Este movimiento ti",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "La leche podría convertirse en la nueva cerveza",
-      "summary": "Análisis de cambios en las preferencias de consumo que sugieren que la leche podría desplazar a la cerveza como categoría de bebida más promocionada y consumida, similar a cómo la cerveza desplazó a l",
+      "summary": "La leche está ganando protagonismo en el mercado de consumo, desplazando a la cerveza de su posición como bebida más promocionada—cambio que antes ocurrió con los refrescos hace una década. Este shift",
       "companies": [
         "Heineken"
       ],
@@ -2322,7 +2323,7 @@
     },
     {
       "title": "Mientras el tequila pierde fuerza, el whisky Johnnie Walker crece: la marca de Diageo que resiste la caída del consumo",
-      "summary": "Johnnie Walker (Diageo) mantiene crecimiento mientras el mercado de tequila se contrae, aprovechando ajustes de precios selectivos y competitivos. La estrategia de Diageo diferencia su portafolio de d",
+      "summary": "Johnnie Walker (Diageo) muestra crecimiento mientras el tequila enfrenta contracción en el mercado alcohólico. La marca implementó ajustes selectivos de precios para mantener competitividad y volumen ",
       "companies": [
         "Diageo"
       ],
@@ -2333,7 +2334,7 @@
     },
     {
       "title": "Tetra Pak proyecta ventas por US$92 millones y mantiene planes de crecimiento",
-      "summary": "Tetra Pak proyecta ventas de US$92 millones en Colombia (mercado Andina) y mantiene planes de expansión enfocados en envases sostenibles e innovación tecnológica. La empresa sigue invirtiendo en la re",
+      "summary": "Tetra Pak proyecta ventas de US$92 millones en Colombia y mantiene planes de expansión regional. La compañía acelera su estrategia en envases sostenibles y tecnologías para la industria de alimentos y",
       "companies": [
         "Tetra Pak"
       ],
@@ -2343,18 +2344,8 @@
       "region": "Regional"
     },
     {
-      "title": "Com comércio agêntico, apelo à emoção perde força no marketing",
-      "summary": "Brasil realizó la primera transacción de compra agéntica con IA, donde un agente autónomo completó una compra de vino usando tarjeta de crédito sin intervención humana. La operación, ejecutada por Ban",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Impuesto a sopas Maruchan, papas fritas y cervezas están en la mira de Hacienda en IEPS para 2027",
-      "summary": "El gobierno mexicano planea incrementar el IEPS (impuesto especial) a bebidas alcohólicas—cervezas, vinos y destilados—y alimentos ultraprocesados a partir de 2027, como continuidad de una revisión in",
+      "summary": "Hacienda de México planea aumentar el IEPS (Impuesto Especial sobre Producción y Servicios) en 2027 para productos con alto contenido de sodio y bebidas alcohólicas, incluyendo cervezas, vinos y desti",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2363,19 +2354,18 @@
       "region": "Regional"
     },
     {
-      "title": "Líder de vendas no Brasil, Heineken demite 6 mil funcionários e para de produzir cerveja em fábrica histórica - Portal Tempo Novo",
-      "summary": "Heineken, líder en ventas de cerveza en Brasil, anunció el despido de 6.000 empleados y el cierre de operaciones de producción en una planta histórica. Esta decisión representa un reajuste estratégico",
-      "companies": [
-        "Heineken"
-      ],
+      "title": "De gaseosas a la ¿coctelería?: Yura y los pasos del dueño de Kola Escocesa desde Arequipa",
+      "summary": "Empresa Yura S.R.L., embotelladora peruana con presencia en Arequipa, relanzó su marca Pasteurina con nueva fórmula tras más de 20 años de ausencia del mercado. La compañía, fundada en 1950 con Kola E",
+      "companies": [],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "distribution_execution"
       ],
       "region": "Regional"
     },
     {
       "title": "Press Clips: Press Hard Seltzer Sold, Diageo’s NYC Job Cuts and Sam Adams’ Inflatable Beer Hall | Brewbound",
-      "summary": "Diageo anuncia reducciones de personal en Nueva York mientras continúa su estrategia de optimización operacional. Press Hard Seltzer fue vendida, reflejando movimientos en el segmento de bebidas sabor",
+      "summary": "Diageo realiza despidos en Nueva York mientras la industria experimenta ajustes operacionales significativos. Press Hard Seltzer fue vendida, reflejando consolidación en el segmento de bebidas alcohól",
       "companies": [
         "AB InBev",
         "Boston Beer Company",
@@ -2389,7 +2379,7 @@
     },
     {
       "title": "Brown-Forman to take over Jack Daniel’s & Coca-Cola RTD distribution in Great Britain",
-      "summary": "Brown-Forman asume la distribución de las bebidas RTD de Jack Daniel's & Coca-Cola en Gran Bretaña, previamente gestionadas por CCEP. El cambio abarca tres SKU: Original Taste, Zero Sugar y Cherry. Es",
+      "summary": "Brown-Forman asume la distribución en Gran Bretaña de los ready-to-drink (RTD) de Jack Daniel's & Coca-Cola, previamente manejados por Coca-Cola Europacific Partners (CCEP). El cambio cubre tres SKUs:",
       "companies": [
         "The Coca-Cola Company",
         "Brown-Forman"
@@ -2402,7 +2392,7 @@
     },
     {
       "title": "Martignetti to Acquire Red Network Distributor Girardi in Massachusetts | Brewbound",
-      "summary": "Martignetti Companies adquirirá Girardi Distributors, distribuidor independiente de A-B en Massachusetts, consolidando su posición en Nueva Inglaterra. Esta operación refuerza la estrategia de integra",
+      "summary": "Martignetti Companies adquiere Girardi Distributors, distribuidor independiente de cerveza, vino y destilados con cartera enfocada en Anheuser-Busch InBev en Massachusetts. Esta operación fortalece la",
       "companies": [
         "AB InBev"
       ],
@@ -2413,30 +2403,33 @@
       "region": "Mundial"
     },
     {
-      "title": "Constellation Brands stock holds steady near 130 dollars as investors digest latest earnings - AD HOC NEWS",
-      "summary": "Constellation Brands mantiene su cotización cerca de los $130 USD mientras el mercado procesa sus últimos resultados. Como uno de los mayores productores de bebidas alcohólicas a nivel global (Corona,",
+      "title": "Guinness, Notre Dame release limited-edition cans",
+      "summary": "Guinness renovó su acuerdo de patrocinio con Notre Dame Athletics por tres temporadas adicionales y re-firmó a Joe Montana como embajador de marca. La estrategia refuerza la conexión entre Guinness y ",
       "companies": [
-        "Constellation Brands"
+        "Diageo"
       ],
       "segments": [
-        "financial_results"
+        "consumer_market_trends",
+        "marketing_innovation"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Arca Continental stock holds steady as investors look to recent earnings - AD HOC NEWS",
-      "summary": "Arca Continental, uno de los mayores embotelladoras de Coca-Cola en América Latina, mantiene estabilidad en cotización tras publicar resultados recientes. La compañía es accionista clave en el mercado",
+      "title": "Plenish introduces new high-protein oat drink without oils or additives | FoodBev Media",
+      "summary": "Plenish, marca de bebidas plant-based de Carlsberg Britvic, lanzó Protein Oat Drink en el Reino Unido con 10g de proteína por porción, formulado sin aceites ni aditivos. Este lanzamiento responde a la",
       "companies": [
-        "Arca Continental"
+        "Oatly",
+        "Britvic",
+        "Carlsberg Group"
       ],
       "segments": [
-        "financial_results"
+        "product_innovation"
       ],
       "region": "Mundial"
     },
     {
-      "title": "AG Barr appoints Darren Shapland as board chair",
-      "summary": "AG Barr, principal productor británico de bebidas carbonatadas y no alcohólicas, designó a Darren Shapland como presidente independiente del consejo de administración. Shapland cuenta con amplia exper",
+      "title": "AG Barr appoints Darren Shapland as board chair | FoodBev Media",
+      "summary": "AG Barr, importante fabricante de bebidas de consumo masivo, designó a Darren Shapland como presidente independiente del directorio a partir de septiembre de 2026. Shapland aporta 40 años de experienc",
       "companies": [
         "AG Barr"
       ],
@@ -2447,7 +2440,7 @@
     },
     {
       "title": "AriZona Beverages and Italian Sparkling Water Brand Ferrarelle Announce Strategic Partnership",
-      "summary": "AriZona Beverages y Ferrarelle (marca italiana de agua mineral con 130+ años) anunciaron una alianza estratégica de distribución para llevar el portfolio enlatado de Ferrarelle a retail y convenience ",
+      "summary": "AriZona Beverages estableció una alianza estratégica de distribución con Ferrarelle, la principal marca italiana de agua mineral, para comercializar su nuevo portafolio en latas en tiendas minoristas ",
       "companies": [
         "Arizona Beverages"
       ],
@@ -2457,32 +2450,8 @@
       "region": "Mundial"
     },
     {
-      "title": "National Beverage earnings up next: Can LaCroix regain volume growth? - Investing.com",
-      "summary": "National Beverage reportará resultados próximamente con enfoque en la recuperación de volumen de LaCroix, su marca insignia de bebidas funcionales. La pregunta central sobre crecimiento volumétrico es",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman sales, profit dip amid softening consumer demand - The Courier-Journal",
-      "summary": "Brown-Forman reportó caída en ventas y ganancias debido a debilitamiento de la demanda del consumidor, señalando presiones en el sector de bebidas alcohólicas premium. Este resultado refleja tendencia",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Herb Light Makes Its Case for Light Beer-Inspired, 1MG THC Drink | Brewbound",
-      "summary": "Herb Light lanza una bebida no alcohólica con infusión de THC de 1mg, posicionándose como alternativa a la cerveza light tradicional. El producto diferencia su propuesta mediante una dosis significati",
+      "summary": "Herb Light lanza una bebida no alcohólica con infusión de THC (1mg) posicionada como alternativa a cerveza light, con dosificación significativamente menor que competidores (2.5-3mg). El producto repr",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2492,7 +2461,7 @@
     },
     {
       "title": "Las grandes marcas de cerveza frenan la caída del mercado en Estados Unidos al final del verano",
-      "summary": "Las principales marcas de cerveza estadounidenses contienen la caída estacional del mercado en septiembre, según datos de Circana. Las ventas en canal off-premise (retail, bares, restaurantes) retroce",
+      "summary": "Las principales marcas de cerveza están mitigando la caída estacional del mercado estadounidense en el cierre del verano, según datos de Circana. Las ventas de cerveza en valor cayeron solo 1,8% inter",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2502,7 +2471,7 @@
     },
     {
       "title": "Spiked Sports Drink Race Heats Up with 2 Early Leaders, New Entrants | Brewbound",
-      "summary": "El segmento de bebidas deportivas alcohólicas (vodka + bebida deportiva) está en expansión acelerada. Stateside Spirits consolida posición dominante con dos productos exitosos: Surfside Iced Tea + Vod",
+      "summary": "El segmento de bebidas deportivas con alcohol (vodka + bebidas deportivas) experimenta un crecimiento acelerado con Stateside liderando el mercado tras el éxito de Surfside Iced Tea + Vodka y el lanza",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2511,30 +2480,39 @@
       "region": "Mundial"
     },
     {
-      "title": "Fevertree Drinks plc (FEVR) Completes Share Buyback at 851p–864p During Week Ending 28 August 2026 - Kalkine Media",
-      "summary": "Fevertree Drinks completó un programa de recompra de acciones en la semana del 28 de agosto de 2026, con precios entre 851p y 864p. Esta operación refleja confianza del management en la valuación de l",
-      "companies": [
-        "Fevertree Drinks"
-      ],
+      "title": "Hard Sports Drinks, Industry Layoffs and Pabst’s Stolen Beer",
+      "summary": "El segmento de bebidas deportivas alcohólicas experimentó un crecimiento acelerado durante el verano en EE.UU., con Boston Beer Company entre los nuevos competidores ingresando al mercado. La industri",
+      "companies": [],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "risk_crisis_reputation"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Premium beer drives AB InBev India growth; Budweiser maker expects double-digit momentum to continue - Moneycontrol.com",
-      "summary": "AB InBev India reporta crecimiento impulsado por su portafolio premium, con expectativas de mantener momentum de doble dígito. Este desempeño valida la estrategia global de AB InBev de migración hacia",
+      "title": "Latest EU beer production figures revealed – The Brewers Journal",
+      "summary": "La UE produjo 34.4 mil millones de litros de cerveza en 2025, mostrando una caída de 0.7% interanual pero crecimiento de 2.2% respecto a 2020. El segmento de cerveza sin alcohol y baja en alcohol alca",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Líder de vendas no Brasil, Heineken demite 6 mil funcionários e para de produzir cerveja em fábrica histórica - Portal Tempo Novo",
+      "summary": "Heineken, líder en ventas de cerveza en Brasil, despide 6.000 empleados y cierra la producción en una planta histórica. Este movimiento restructurador refleja una reconfiguración operativa en el mayor",
       "companies": [
-        "AB InBev"
+        "Heineken"
       ],
       "segments": [
         "consumer_market_trends"
       ],
-      "region": "Mundial"
+      "region": "Regional"
     },
     {
       "title": "Ambev: Strong Beverage Leader That Can Win From Brazil's Election Uncertainty (NYSE:ABEV) - Seeking Alpha",
-      "summary": "Ambev es posicionada como líder robusto en bebidas capaz de capitalizar la incertidumbre electoral en Brasil. La empresa, cotizada en NYSE, puede beneficiarse de volatilidades macroeconómicas típicas ",
+      "summary": "Ambev, líder beveragero brasileño, demuestra fortaleza para capitalizar la incertidumbre electoral en Brasil. El análisis destaca la posición dominante de la compañía en el mercado cervecero sudameric",
       "companies": [
         "Ambev"
       ],
@@ -2544,56 +2522,22 @@
       "region": "Mundial"
     },
     {
-      "title": "Henkell Freixenet acquires majority stake in Irish importer Cassidy Wines - Harpers Wine & Spirit Trade News",
-      "summary": "Henkell Freixenet adquirió una participación mayoritaria (60%) en Cassidy Wines, distribuidor e importador irlandés, ampliando su capacidad de distribución en el mercado de bebidas alcohólicas. La ope",
+      "title": "La cerveza pierde impulso en Noruega después de crecer con fuerza al inicio del año",
+      "summary": "Las ventas de cerveza en Noruega crecieron 3,3% en H1 2026 (131,4 M litros vs 127,2 M en H1 2025), pero el momentum se desaceleró en Q2. Este dato refleja tendencias de mercado en mercados desarrollad",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FIZZ stock edges lower as National Beverage faces cautious earnings expectations - AD HOC NEWS",
-      "summary": "Las acciones de National Beverage Corp (FIZZ) experimentan presión en bolsa ante expectativas cautelosas para sus resultados financieros próximos. Este movimiento refleja preocupaciones del mercado so",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jack Daniel's Maker Brown-Forman Misses Sales Estimates On Weak Consumer Spending - ESM Magazine",
-      "summary": "Brown-Forman, propietaria de Jack Daniel's, incumplió con las estimaciones de ventas por debilitamiento del gasto del consumidor. Este resultado refleja presiones en el segmento premium de spirits, in",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "How Low Can You Go? Herb Light Makes Its Case for Light Beer-Inspired, 1MG THC Drink - BevNET.com",
-      "summary": "Herb Light lanzó una bebida con THC de 1mg, más del 50% por debajo de los estándares de mercado (2.5-3mg), posicionándola como cerveza light no alcohólica inspirada en pilsners clásicas. El producto r",
+      "summary": "Herb Light lanza una bebida con THC de 1 mg (menos de la mitad del estándar de 2.5-3 mg del mercado), posicionándose como una alternativa de bajo contenido inspirada en cervezas light no alcohólicas. ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "HEINEKEN named as Official Beer, Cider, and Stout Supplier to the 2027 Ryder Cup - Ryder Cup | Official Site",
-      "summary": "Heineken aseguró un acuerdo de patrocinio como proveedor oficial de cerveza, sidra y stout para la Ryder Cup 2027, uno de los eventos deportivos más relevantes globalmente. Esta asociación refuerza la",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
