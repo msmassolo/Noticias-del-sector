@@ -2123,7 +2123,7 @@
   "2026-09-06": [
     {
       "title": "Industria vitivinícola: \"El consumo de vino en Argentina es de 16 litros per cápita\" - REALPOLITIK",
-      "summary": "Argentina registra un consumo de vino de 16 litros per cápita, cifra que refleja la importancia estratégica del sector vitivinícola en el mercado doméstico de bebidas. Este dato es crítico para entend",
+      "summary": "El consumo de vino en Argentina alcanza 16 litros per cápita, indicador clave para evaluar la salud del mercado doméstico de bebidas alcohólicas. Este dato es relevante para entender la penetración y ",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2132,7 +2132,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de consumo con presiones simultáneas en costos operativos y cambios en preferencias de consumidores. Este fenómeno impacta direc",
+      "summary": "La cerveza artesanal argentina enfrenta una crisis con caída significativa en consumo, presión en márgenes por ajuste de costos y cambios en preferencias de consumidores. El segmento, importante en el",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2140,17 +2140,8 @@
       "region": "Local"
     },
     {
-      "title": "Exportaciones de vino chileno caen más de 10% y la industria advierte un escenario difícil - Publimicro",
-      "summary": "Las exportaciones de vino chileno cayeron más del 10%, reflejando un contexto adverso para la industria vitivinícola regional. Este deterioro impacta directamente la dinámica competitiva de bebidas al",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "How Heineken UK is Using Heat Pumps to Slash Brewery Gas Use by 45% - Food & Beverage Outlook",
-      "summary": "Heineken UK implementó sistemas de bombas de calor para reducir el consumo de gas natural en sus operaciones de destilería en un 45%, representando una estrategia de descarbonización operacional signi",
+      "summary": "Heineken UK implementó bombas de calor en sus operaciones de cervecería, reduciendo el consumo de gas natural en 45%. Esta iniciativa de eficiencia energética alinea con compromisos de sustentabilidad",
       "companies": [
         "Heineken"
       ],
@@ -2161,19 +2152,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Keurig Dr Pepper (KDP) Stock Looks Strong On Returns While Earnings Look Stretched - simplywall.st",
-      "summary": "Keurig Dr Pepper, uno de los mayores productores de bebidas de consumo masivo en Norteamérica, presenta una desconexión entre su desempeño bursátil positivo y métricas de rentabilidad ajustadas que ev",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Constellation Brands (STZ) Appoints Alex Alvarez To Lead Beer Supply Chain - simplywall.st",
-      "summary": "Constellation Brands designó a Alex Alvarez como líder de la cadena de suministro de cerveza, reflejando cambios estratégicos en operaciones. Este movimiento es significativo para STZ, tercer producto",
+      "summary": "Constellation Brands, segundo productor cervecero global con marcas como Corona y Modelo, designó a Alex Alvarez como líder de cadena de suministro cervecera. Este movimiento responde a la necesidad d",
       "companies": [
         "Constellation Brands"
       ],
@@ -2184,10 +2164,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation (MNST) Appoints Matthew S. Burroughs as Chief Accounting Officer and Deputy CFO - GuruFocus",
-      "summary": "Monster Beverage Corporation nombró a Matthew S. Burroughs como Chief Accounting Officer y Deputy CFO, reforzando su estructura financiera en un momento crítico de la compañía. Este cambio responde a ",
+      "title": "United Breweries Sees India as Key Growth Engine for Heineken, Targets Premium Beer Growth - brewer-world.com",
+      "summary": "Heineken, a través de United Breweries (su distribuidor en India), posiciona al mercado indio como motor de crecimiento estratégico. La compañía enfatiza su apuesta por el segmento premium de cerveza ",
       "companies": [
-        "Monster Beverage"
+        "Heineken"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2195,10 +2175,21 @@
       "region": "Mundial"
     },
     {
-      "title": "United Breweries Sees India as Key Growth Engine for Heineken, Targets Premium Beer Growth - brewer-world.com",
-      "summary": "United Breweries, principal embotellador de Heineken en India, identifica al mercado indio como motor clave de crecimiento para la marca global. La estrategia se enfoca en expandir el segmento de cerv",
+      "title": "Odyssean LLC Boosts Stock Position in The Boston Beer Company, Inc. $SAM - MarketBeat",
+      "summary": "Odyssean LLC incrementó su posición accionaria en The Boston Beer Company (SAM), productor de cervezas artesanales y bebidas alcohólicas con presencia global. Este movimiento de un inversor institucio",
       "companies": [
-        "Heineken"
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company (SAM) Looks Undervalued As Growth Narrative Faces A Fresh Test - Yahoo Finance",
+      "summary": "Boston Beer Company (SAM) enfrenta un punto de inflexión en su narrativa de crecimiento, pero el mercado la valúa por debajo de su potencial según análisis de Yahoo Finance. La empresa, un jugador cla",
+      "companies": [
+        "Boston Beer Company"
       ],
       "segments": [
         "consumer_market_trends"
