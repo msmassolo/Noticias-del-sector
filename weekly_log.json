@@ -1,106 +1,4 @@
 {
-  "2026-08-30": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de demanda, impulsando ajustes de costos operacionales y cambios en estrategias comerciales entre productores. Esta tendencia re",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Monster Beverage Split Its Stock, and Insiders Are Selling Into the Rally. Is It Too Late to Buy? - TIKR.com",
-      "summary": "Monster Beverage realizó un split de acciones, generando un rally en el mercado. Simultáneamente, insiders de la compañía están vendiendo sus posiciones, señal que típicamente indica valoración elevad",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "BACARDÍ builds on brand, rum’s legacy",
-      "summary": "BACARDÍ reafirma la posición estratégica del ron en el mercado estadounidense de destilados, destacando su resiliencia ante cambios en preferencias de consumo y competencia creciente. La compañía enfa",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock edges lower as spirits inventories weigh on outlook - AD HOC NEWS",
-      "summary": "Pernod Ricard enfrentó presión en cotización debido a niveles elevados de inventarios de destilados que impactan su proyección de resultados. Esta situación refleja desafíos en la demanda global de be",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jefferies Financial Group Inc. Acquires New Shares in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "Jefferies Financial Group adquirió nuevas acciones de National Beverage Corp. (FIZZ), fabricante de marcas líderes como LaCroix y Fanta en EE.UU. Este movimiento de inversión institucional refleja con",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (LSE:FEVR) prospects rest on measurable operating progress - Kalkine Media",
-      "summary": "Fevertree Drinks, productor británico de bebidas mixers premium cotizado en LSE, enfrenta presión para demostrar progreso operativo que justifique su valuación. La empresa es competidor directo en el ",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "BlackRock Inc. Purchases New Position in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "BlackRock Inc. ha adquirido una nueva posición accionaria en National Beverage Corp., productor de marcas relevantes como LaCroix y Fanta. Este movimiento de un gestor de activos global de USD 10 bill",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown Forman (BF.B) Could Be 3% Undervalued As Growth Meets A Share Price Pullback - simplywall.st",
-      "summary": "Brown-Forman, productor global de bebidas alcohólicas (Jack Daniel's, Woodford Reserve), presenta una potencial subvaluación del 3% según análisis de Simply Wall St, coincidiendo con una corrección de",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock steadies after split as valuation debate builds - AD HOC NEWS",
-      "summary": "Monster Beverage completó un split de acciones mientras el mercado debate su valuación actual. Este movimiento es significativo para competidores regionales, ya que Monster es el líder global en bebid",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-08-31": [
     {
       "title": "Vino: El mercado interno del vino cayó en julio, ¿qué sucedió en el semestre?",
@@ -2195,6 +2093,341 @@
         "consumer_market_trends"
       ],
       "region": "Mundial"
+    }
+  ],
+  "2026-09-07": [
+    {
+      "title": "Exportaciones de vino argentino: Mendoza vende menos y cae la cuota global - mercado.com.ar",
+      "summary": "Las exportaciones de vino argentino desde Mendoza muestran contracción, con reducción en volúmenes y pérdida de cuota de mercado global. Esta tendencia impacta directamente la estrategia de bebidas al",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Industria vitivinícola: \"El consumo de vino en Argentina es de 16 litros per cápita\" - REALPOLITIK",
+      "summary": "El consumo de vino en Argentina alcanza 16 litros per cápita, indicador clave para dimensionar el mercado doméstico de bebidas alcohólicas. Esta cifra es estratégica para evaluar la saturación del mer",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal argentino experimenta una contracción de consumo significativa, con productores implementando ajustes de costos operacionales. La crisis refleja cambios estructurales ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Mientras Bodega Aurrera y Mamá Lucha dominan las tiendas físicas, Walmart gana la batalla del supermercado online en México",
+      "summary": "Walmart lidera el comercio electrónico de alimentos en México mientras Bodega Aurrera y Mamá Lucha dominan retail físico. Esta bifurcación de canales refleja un cambio estratégico en la distribución d",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Resultado da PepsiCo frustra Wall Street com queda na demanda por bebidas nos EUA - Times Brasil | CNBC",
+      "summary": "PepsiCo reportó resultados que decepcionaron a Wall Street, impulsados por una caída en la demanda de bebidas en Estados Unidos. Este movimiento refleja presión competitiva y cambios en preferencias d",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Poppi & PepsiCo : The US Viral Brand Going Global with UK Launch - Food & Beverage Outlook",
+      "summary": "PepsiCo adquirió o se asoció con Poppi, marca viral estadounidense de bebidas funcionales, para expandir globalmente comenzando con el lanzamiento en Reino Unido. Esta jugada estratégica posiciona a P",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola HBC Reports Progress on Mission 2025 and Launches New Sustainability Targets - Food & Beverage Outlook",
+      "summary": "Coca-Cola HBC reporta avances en su estrategia Mission 2025 y anuncia nuevos objetivos de sustentabilidad. Esta iniciativa es crítica para el embotellador regional ya que vincula su posicionamiento co",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo Opens $415 Million Alabama Facility to Strengthen Southern U.S. Supply Chain - Food & Beverage Outlook",
+      "summary": "Diageo inauguró una planta de $415 millones en Alabama para fortalecer su cadena de suministro en el sur de EE.UU., lo que representa una inversión estratégica en infraestructura de producción y distr",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg Expands PepsiCo Bottling Partnership Across Nordics and Baltics - Food & Beverage Outlook",
+      "summary": "Carlsberg amplió su acuerdo de embotellamiento con PepsiCo en la región Nórdica y Báltica, consolidando su posición como socio clave de distribución. Esta expansión permite a PepsiCo fortalecer su red",
+      "companies": [
+        "PepsiCo",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Benefits of the Coca-Cola System’s R17.6 Billion Investment in South Africa - Food & Beverage Outlook",
+      "summary": "El sistema Coca-Cola anunció una inversión de R17.6 mil millones (aproximadamente USD 950 millones) en Sudáfrica, reflejando estrategia de expansión regional en mercados emergentes africanos. Esta inv",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mondelēz, PepsiCo and Pladis join digital watermarking trial for flexible food packaging | FoodBev Media",
+      "summary": "Mondelēz, PepsiCo y Pladis participan en un piloto en Bélgica para evaluar marcas de agua digitales invisibles en envases flexibles de plástico, con el objetivo de mejorar la identificación y clasific",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Three Core Principles Behind Diageo’s New Climate Transition Plan - Food & Beverage Outlook",
+      "summary": "Diageo presentó un nuevo plan de transición climática fundamentado en tres principios estratégicos. La iniciativa del mayor productor mundial de bebidas alcohólicas impacta directamente en estándares ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone Marks 200 Years of Evian with Sustainability, Investment, and Innovation Push - Food & Beverage Outlook",
+      "summary": "Danone conmemora el bicentenario de Evian con un enfoque estratégico en sustentabilidad, inversión e innovación. La marca, uno de los activos más valiosos del portafolio de Danone, refuerza su posicio",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone Grows into Functional Nutrition with Huel Acquisition - Food & Beverage Outlook",
+      "summary": "Danone adquirió Huel, marca de nutrición funcional, consolidando su posicionamiento en el segmento de bebidas y alimentos de mayor valor agregado. La operación refleja la estrategia de diversificación",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sysco and Jetro Restaurant Depot Unite to Redefine Foodservice Distribution - Food & Beverage Outlook",
+      "summary": "Sysco adquirió Jetro Restaurant Depot, consolidando su posición en distribución foodservice. La operación redefine la cadena de suministro para restaurantes y establecimientos de comidas, impactando d",
+      "companies": [
+        "Sysco"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Installs Heat Pump System at Key UK Brewery - Food & Beverage Outlook",
+      "summary": "Molson Coors instaló un sistema de bomba de calor en su principal cervecería del Reino Unido, reduciendo significativamente la huella de carbono y costos energéticos operacionales. Esta iniciativa res",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg and WWF Denmark Expand Partnership to Strengthen Resilience in Asian Supply Chains - Food & Beverage Outlook",
+      "summary": "Carlsberg y WWF Dinamarca amplían su asociación para fortalecer la resiliencia en las cadenas de suministro asiáticas. La iniciativa aborda vulnerabilidades críticas en el abastecimiento agrícola (pri",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman stock holds steady as investors focus on stable earnings and dividend - AD HOC NEWS",
+      "summary": "Brown-Forman mantiene estabilidad accionaria con enfoque en ganancias sostenidas y dividendos. Como productor global de bebidas alcohólicas (Jack Daniel's, Woodford Reserve), su desempeño financiero r",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands (STZ) Appoints Alex Alvarez To Lead Beer Supply Chain - simplywall.st",
+      "summary": "Constellation Brands designó a Alex Alvarez como líder de la cadena de suministro de cerveza, uno de los mayores productores de bebidas alcohólicas en Norteamérica. Este cambio en la dirección operati",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Could Be 12% Undervalued On Its Growth Narrative - simplywall.st",
+      "summary": "Análisis de valoración de Monster Beverage sugiere que la acción podría estar infravalorada en un 12% considerando su narrativa de crecimiento. Monster es un competidor clave en el mercado global de b",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Is Fevertree Drinks (LSE:FEVR) Still Extending Its Buyback Programme? - Kalkine Media",
+      "summary": "Fevertree Drinks (cotizada en LSE) continúa expandiendo su programa de recompra de acciones, señalando confianza en la valuación de la empresa y generación de flujo de caja positivo. Esta estrategia e",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "German beer brand secures UK retail listing – The Brewers Journal",
+      "summary": "Hofmeister, marca cervecera alemana, logró su primer listado mayorista importante en UK mediante acuerdo con Booths, que distribuirá sus lagers bávaras en 25 tiendas. La expansión responde a creciente",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Vivazen launches kratom-based non-alcoholic Taboo Tea | FoodBev Media",
+      "summary": "Vivazen lanzó Taboo Tea, una bebida lista para consumir no alcohólica a base de kratom botánico, posicionándose como alternativa a bebidas alcohólicas y refrescos tradicionales. El producto está dispo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company (SAM) Looks Undervalued As Growth Narrative Faces A Fresh Test - Yahoo Finance",
+      "summary": "Boston Beer Company enfrenta un test crítico de su narrativa de crecimiento en un contexto de valuación potencialmente deprimida. Como productor de cerveza artesanal y bebidas alternativas (Truly, Twi",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Walmart shoppers can now get their fave Dunkin’ drinks and treats delivered - AL.com",
+      "summary": "Walmart ha integrado la entrega de productos Dunkin' (bebidas y alimentos) a través de su plataforma de e-commerce y delivery. Esta alianza amplía la distribución de Dunkin' más allá de sus locales tr",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman: Downtrading hits Herradura as El Jimador improves - The Spirits Business",
+      "summary": "Brown-Forman experimenta movimientos de consumidor hacia marcas de menor precio dentro su portafolio de tequila: Herradura enfrenta reducción de volumen por migración de consumidores hacia el segmento",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Garage Project Expand With Acquisition Of bStudio Production Brewery - The Crafty Pint",
+      "summary": "Garage Project, cervecería artesanal neozelandesa, adquirió bStudio Production Brewery, expandiendo su capacidad productiva. La operación representa una estrategia de crecimiento mediante consolidació",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage: An Exceptional Business At Full Price (NASDAQ:MNST) - Seeking Alpha",
+      "summary": "Análisis de valuación de Monster Beverage (MNST), líder global en bebidas energéticas, evaluando su posición competitiva y precio actual de cotización. El artículo examina los fundamentos de negocio d",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "La producción de vino francés se sitúa en mínimos de 30 años tras olas de calor",
+      "summary": "La producción de vino francés alcanzará mínimos de 30 años debido a olas de calor y sequía que dañaron viñedos. La región de Champagne proyecta una reducción del 50% desde 2025. Este evento impacta si",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Mendoza exporta 36% menos vino y cae al 2,1% del mercado global - El Ecosistema Startup",
+      "summary": "Mendoza, principal región vitivinícola argentina, redujo sus exportaciones de vino en 36%, descendiendo su participación del mercado global a 2,1%. Esta caída refleja presiones competitivas internacio",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
     }
   ]
 }
