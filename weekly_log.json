@@ -1,220 +1,4 @@
 {
-  "2026-08-31": [
-    {
-      "title": "Vino: El mercado interno del vino cayó en julio, ¿qué sucedió en el semestre?",
-      "summary": "El mercado interno de vino argentino registró 649.674 hectolitros en julio de 2026, con caída del 1,4% interanual según el INV. En el acumulado del semestre se observa recuperación marginal con empate",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "El boom del vino a granel: las exportaciones crecen un 46,5% en volumen impulsadas por el Malbec y la sustentabilidad global - Diario San Rafael",
-      "summary": "Las exportaciones de vino a granel argentino crecieron 46,5% en volumen, impulsadas por Malbec y demanda global de productos sustentables. Este segmento representa una estrategia clave para competidor",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción de consumo con presión en costos, reflejando cambios estructurales en hábitos de bebida. Este movimiento es crítico para empresas posicionadas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Más de 4.500 tenderos serán capacitados por PepsiCo en 2026 para fortalecer sus negocios y ventas",
-      "summary": "PepsiCo capacitará a más de 4.500 tenderos en 2026 como parte de su estrategia de fortalecimiento del canal de distribución minorista. La iniciativa busca mejorar las ventas y competitividad de pequeñ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "El secreto detrás del boom de Tiendas 3B y por qué Walmart y Soriana lo están copiando",
-      "summary": "Las marcas blancas en México experimentan un crecimiento del 20.5%, impulsado por modelos exitosos como Tiendas 3B (donde representan 58% de ventas) y Kirkland de Costco. Walmart y Soriana están repli",
-      "companies": [
-        "Walmart",
-        "Costco"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Starbucks cambia su estrategia de menú y ahora utiliza pantallas digitales para impulsar las ventas durante la tarde",
-      "summary": "Starbucks implementará menús digitales en el 90% de sus tiendas estadounidenses para personalizar la oferta por momento del día, maximizando ventas en franjas horarias específicas. Esta estrategia de ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Red Bull Fuji Apple & Ginger joins permanent lineup",
-      "summary": "Red Bull promocionó su sabor Winter Edition Fuji Apple & Ginger a producto permanente en su lineup de ediciones. El lanzamiento, ocurrido en agosto, demuestra la estrategia de la compañía de expandir ",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock extends 2026 gains as investors eye earnings momentum - AD HOC NEWS",
-      "summary": "Las acciones de Monster Beverage continúan con su tendencia alcista en 2026 mientras los inversores mantienen expectativas positivas sobre el momentum de ganancias de la compañía. Esta trayectoria ref",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Margin Outlook: Pricing Power or Cost Relief Driving Gains? - The Globe and Mail",
-      "summary": "Análisis sobre los márgenes operativos de Coca-Cola y los factores que impulsan su expansión: si proviene del poder de fijación de precios o de la reducción de costos de insumos. Relevante para entend",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo stock holds steady as investors weigh 2026 earnings guidance and dividend yield - AD HOC NEWS",
-      "summary": "PepsiCo mantiene estabilidad bursátil mientras el mercado evalúa su guidance de ganancias para 2026 y rendimiento de dividendos. La noticia refleja cómo los inversores valoran la solidez financiera y ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock holds steady as investors eye FY 2027 earnings path - AD HOC NEWS",
-      "summary": "Constellation Brands mantiene estabilidad accionaria mientras inversores monitorean la trayectoria de ganancias para FY 2027. Como productor global de bebidas alcohólicas con marcas como Corona y Mode",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "BACARDÍ builds on brand, rum’s legacy",
-      "summary": "BACARDÍ refuerza su posicionamiento en el mercado de ron estadounidense, destacando la relevancia continua de la categoría a pesar de la competencia creciente y cambios en preferencias de consumo. La ",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock edges lower as spirits inventories weigh on outlook - AD HOC NEWS",
-      "summary": "Pernod Ricard experimenta presión en su cotización bursátil debido a niveles elevados de inventarios de destilados que afectan su perspectiva de resultados. Este movimiento refleja desafíos en la dema",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jefferies Financial Group Inc. Acquires New Shares in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "Jefferies Financial Group adquirió nuevas acciones en National Beverage Corp. (FIZZ), fabricante de marcas emblemáticas como Faygo, Sparkling Ice y Jelly Belly. Este movimiento de un fondo de inversió",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Raising the functional beverage bar: Drinks are becoming more specific and creative",
-      "summary": "El mercado de bebidas funcionales evoluciona desde claims simples de hidratación hacia propuestas más sofisticadas enfocadas en beneficios específicos para cuerpo, cerebro y estado de ánimo. Los consu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sweetener systems evolve to meet consumer preferences",
-      "summary": "El mercado de edulcorantes en bebidas experimenta transformación significativa ante la demanda de consumidores que buscan reducir azúcar sin sacrificar sabor. El 75% de los consumidores cree que debe ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why food and beverage brands' compostable packaging switch fails on use case, not material | FoodBev Media",
-      "summary": "Las marcas de alimentos y bebidas enfrentan fracasos en la adopción de empaques compostables no por limitaciones del material, sino por su inadecuada aplicación a casos de uso específicos. Problemas c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Food and beverage sector faces margin pressures as export growth softens - Think Business",
-      "summary": "El sector de alimentos y bebidas enfrenta presiones en márgenes operativos mientras se desacelera el crecimiento de exportaciones. Esta situación afecta directamente a productores de bebidas que depen",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How is India’s Functional Beverage Category Evolving Through Ayurvedic Infusions and Gut Health Innovations? - IMARC Group",
-      "summary": "India está expandiendo su categoría de bebidas funcionales mediante infusiones ayurvédicas e innovaciones enfocadas en salud digestiva, tendencia que refleja la creciente demanda global por bebidas co",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard Reports Steep Sales Declines in US and China, Trims Growth Outlook - Vocal",
-      "summary": "Pernod Ricard, uno de los principales productores mundiales de bebidas alcohólicas y no alcohólicas, reportó caídas significativas de ventas en Estados Unidos y China, mercados estratégicos de alto va",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-09-01": [
     {
       "title": "Procesaron al dueño de Manaos por presunta evasión tributaria y le trabaron un embargo millonario",
@@ -2450,6 +2234,411 @@
         "consumer_market_trends"
       ],
       "region": "Local"
+    }
+  ],
+  "2026-09-08": [
+    {
+      "title": "La paradoja de impulsar el consumo de bebidas sin alcohol a través de marcas de alcohol - Marketers by Adlatina",
+      "summary": "Las marcas alcohólicas tradicionales están expandiendo sus portafolios hacia bebidas sin alcohol, creando una estrategia paradójica pero comercialmente viable. Este movimiento permite a grandes player",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Fuerza Productiva: el 30% de la industria del vino de Mendoza lo aportan las cooperativas vitivinícolas",
+      "summary": "Las cooperativas vitivinícolas de Mendoza generan $184.430 millones en valor agregado, representando el 30% de la industria vinícola regional. Este dato evidencia la importancia estratégica del modelo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Mientras Bodega Aurrera y Mamá Lucha dominan las tiendas físicas, Walmart gana la batalla del supermercado online en México",
+      "summary": "Walmart domina el e-commerce de alimentos en México mientras Bodega Aurrera mantiene liderazgo en canales físicos. Esta fragmentación de canales es relevante para estrategia de distribución de bebidas",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Con inversión de 1,200 millones de pesos, inauguran planta de Coca-Cola en Yucatán",
+      "summary": "Bepensa Bebidas, tercer embotellador de Coca-Cola en México, inauguró la Planta Centenario Valladolid en Yucatán con inversión de 1,200 millones de pesos. La nueva infraestructura incrementa en 30% la",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Resultado da PepsiCo frustra Wall Street com queda na demanda por bebidas nos EUA - Times Brasil | CNBC",
+      "summary": "PepsiCo reportó resultados que decepcionaron a Wall Street, con caída en la demanda de bebidas en Estados Unidos. Este desempeño del principal competidor global impacta directamente la industria de be",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "CEOs send a message to CMOs: marketing must sell more and gain market share",
+      "summary": "Los CEOs presionan a los CMOs para vincular estrategias de marketing directamente a resultados de negocio y ganancia de participación de mercado. Esta tendencia refleja un cambio en la industria hacia",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Hot Right Now: PepsiCo in Iraq, Kirin biotic drinks and Coke in China",
+      "summary": "PepsiCo expande agresivamente su producción regional en Irak a pesar de la inestabilidad geopolítica, identificando el mercado como estratégico por su demografía joven, ventajas logísticas y acceso a ",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo",
+        "Kirin Holdings"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Poppi & PepsiCo : The US Viral Brand Going Global with UK Launch - Food & Beverage Outlook",
+      "summary": "PepsiCo adquirió o se asoció con Poppi, marca viral estadounidense de bebidas funcionales, expandiendo su presencia en el segmento de bebidas de bienestar con lanzamiento en Reino Unido. Esta jugada e",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Benefits of the Coca-Cola System’s R17.6 Billion Investment in South Africa - Food & Beverage Outlook",
+      "summary": "El sistema de Coca-Cola realizará una inversión de R17.6 mil millones (aproximadamente USD 950 millones) en Sudáfrica, evidenciando la apuesta estratégica del grupo en mercados emergentes de la región",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg Expands PepsiCo Bottling Partnership Across Nordics and Baltics - Food & Beverage Outlook",
+      "summary": "Carlsberg amplió su alianza de embotellamiento con PepsiCo en mercados nórdicos y bálticos, reforzando su posición como distribuidor clave en la región. Esta expansión permite a Carlsberg monetizar su",
+      "companies": [
+        "PepsiCo",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Should You Avoid Monster Beverage Stock, Even With Revenue Growing at 20%? - The Motley Fool",
+      "summary": "Monster Beverage reporta crecimiento de ingresos del 20%, pero el análisis sugiere cautela en la valoración accionaria. Relevante para benchmark competitivo en el segmento de bebidas energéticas, dond",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Three Core Principles Behind Diageo’s New Climate Transition Plan - Food & Beverage Outlook",
+      "summary": "Diageo presentó un nuevo plan de transición climática basado en tres principios centrales, reflejando el compromiso del mayor productor global de bebidas alcohólicas con sustentabilidad. Esta iniciati",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Campari stock dips after recent earnings as investors assess growth outlook - AD HOC NEWS",
+      "summary": "Las acciones de Campari cayeron tras la publicación de resultados recientes, reflejando preocupaciones de inversores sobre las perspectivas de crecimiento de la empresa. Esta reacción del mercado es r",
+      "companies": [
+        "Campari Group"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sysco and Jetro Restaurant Depot Unite to Redefine Foodservice Distribution - Food & Beverage Outlook",
+      "summary": "Sysco adquiere Jetro Restaurant Depot, consolidando su posición en distribución de alimentos y bebidas para foodservice. Esta operación refuerza la cadena de suministro de bebidas destinadas al canal ",
+      "companies": [
+        "Sysco"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Installs Heat Pump System at Major Brewery as Part of Decarbonisation Investment - Food & Beverage Outlook",
+      "summary": "Molson Coors implementó un sistema de bomba de calor en una de sus cervecerías principales como parte de su estrategia de descarbonización. Esta inversión en tecnología de eficiencia energética reduce",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone Grows into Functional Nutrition with Huel Acquisition - Food & Beverage Outlook",
+      "summary": "Danone adquirió Huel, marca líder en nutrición funcional y bebidas de alto valor proteico, expandiendo su portafolio hacia el segmento de nutrición especializada. Esta operación posiciona a Danone en ",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone Marks 200 Years of Evian with Sustainability, Investment, and Innovation Push - Food & Beverage Outlook",
+      "summary": "Danone celebra el bicentenario de Evian con una estrategia enfocada en sostenibilidad, inversión e innovación. La marca líder en agua mineral embotellada refuerza su posicionamiento premium y su compr",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo revives limited-edition orange chocolate-flavoured Baileys - Global Drinks Intel",
+      "summary": "Diageo relanza una edición limitada de Baileys con sabor a naranja y chocolate, reposicionando su portafolio de licores de crema hacia innovación en sabores. Esta estrategia responde a la tendencia de",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo taps into Guinness nostalgia for global marketing campaign - Global Drinks Intel",
+      "summary": "Diageo lanza una campaña global de marketing que capitaliza la nostalgia asociada a Guinness, una de sus marcas más icónicas. La estrategia busca reactivar el vínculo emocional con consumidores en mer",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Food and beverage’s collaboration craze gains momentum",
+      "summary": "Las colaboraciones entre marcas de alimentos y bebidas se posicionan como tendencia estratégica en 2026, con ejemplos como Ritter Sport x Haribo lanzando productos conjuntos. Esta estrategia permite a",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg and WWF Denmark Expand Partnership to Strengthen Resilience in Asian Supply Chains - Food & Beverage Outlook",
+      "summary": "Carlsberg y WWF Dinamarca amplían su asociación para fortalecer la resiliencia de cadenas de suministro en Asia. Esta iniciativa es estratégica para la industria de bebidas porque aborda vulnerabilida",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors stock steadies as investors eye recent earnings and brand strategy - AD HOC NEWS",
+      "summary": "Molson Coors muestra estabilización accionaria tras la publicación de resultados recientes y anuncio de su estrategia de marcas. Los inversores evalúan el desempeño financiero y la dirección estratégi",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman stock holds steady after quarterly earnings meet estimates - AD HOC NEWS",
+      "summary": "Brown-Forman reportó resultados trimestrales que se alinearon con expectativas del mercado, manteniendo estabilidad en cotización. Como productor global de bebidas alcohólicas (Jack Daniel's, Woodford",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard picks four banks for potential US$1bn India IPO - The Drinks Business",
+      "summary": "Pernod Ricard ha seleccionado cuatro bancos para gestionar una potencial salida a bolsa de su operación en India valuada en USD 1.000 millones. Esta operación permitiría al grupo francés monetizar sus",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Las ventas de vino de Estados Unidos a Canadá se hunden cerca del 90%",
+      "summary": "Las exportaciones de vino estadounidense a Canadá cayeron ~90% tras la retirada de bebidas alcohólicas estadounidenses de estanterías públicas canadienses. El Wine Institute de California reporta que ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "0.5% Pale Ale becomes Cornish brewery’s best-seller – The Brewers Journal",
+      "summary": "Firebrand Brewing Co (Reino Unido) reporta que su cerveza sin alcohol/baja alcohol Shorebreak Hazy Pale Ale (0.5% ABV) se convirtió en su best-seller, representando 23.9% de ventas totales en los últi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Is Fevertree Drinks (LSE:FEVR) Still Extending Its Buyback Programme? - kalkinemedia.com",
+      "summary": "Fevertree Drinks amplía su programa de recompra de acciones, señalando confianza en su valoración y generación de flujo de caja. Este movimiento refleja estrategia de retorno accionista en una empresa",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev invests Rs 200 crore in Rajasthan brewery as beer demand surges beyond big cities - The Economic Times",
+      "summary": "AB InBev invertirá 200 crores de rupias en una cervecería en Rajasthan para capitalizar el crecimiento de demanda de cerveza en ciudades de segundo y tercer nivel. Esta expansión refleja una estrategi",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "La cerveza gana terreno en India por las subidas fiscales a los destilados",
+      "summary": "La cerveza experimenta crecimiento acelerado en India (+17% interanual en Q1 2026-27) impulsado por cambios fiscales que encarecieron destilados en grandes estados, mientras la cerveza mantiene precio",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El vino italiano afianza su avance en Brasil tras crecer un 13,7% hasta 14,1 millones de dólares",
+      "summary": "Las exportaciones de vino italiano a Brasil crecieron 13,7% en los primeros cuatro meses de 2026, alcanzando USD 14,1 millones. Este desempeño refleja la consolidación de Italia como competidor clave ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Las ventas de vino español a Brasil caen por el desplome del espumoso",
+      "summary": "Brasil incrementó importaciones de vino un 9,1% en volumen durante H1 2026, pero España experimentó una caída en sus ventas al mercado brasileño, siendo el espumoso el principal responsable del desplo",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Old Speckled Hen brand expands with 0.0% addition – The Brewers Journal",
+      "summary": "Damm UK lanzó una variante sin alcohol (0.0% ABV) de Old Speckled Hen, marca premium que adquirió recientemente. La expansión responde a cambios en comportamiento del consumidor, incluyendo la tendenc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage: An Exceptional Business At Full Price (NASDAQ:MNST) - Seeking Alpha",
+      "summary": "Análisis de valuación de Monster Beverage (NASDAQ:MNST) indicando que la empresa representa un negocio excepcional pero actualmente está negociando a precios elevados. Relevante para monitorear compet",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST): Is Its Brand Strength Enough for Growth? - kalkinemedia.com",
+      "summary": "Análisis de Monster Beverage sobre la sostenibilidad de su crecimiento más allá del reconocimiento de marca. Monster es un actor dominante en el segmento de bebidas energéticas, sector crítico para el",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks plc (FEVR) Executes Share Buyback from 1–4 September 2026, Plans Cancellation - kalkinemedia.com",
+      "summary": "Fevertree Drinks ejecutó un programa de recompra de acciones entre el 1 y 4 de septiembre de 2026, con planes de cancelación posterior. Esta maniobra de capital refleja la estrategia financiera del fa",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "German beer brand secures UK retail listing – The Brewers Journal",
+      "summary": "Hofmeister, marca cervecera alemana, aseguró su primer listado mayorista en Reino Unido con la cadena Booths (25 sucursales), capitalizando la demanda creciente de lagers continentales auténticas en g",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
     }
   ]
 }
