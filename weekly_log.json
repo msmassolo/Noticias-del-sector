@@ -1,407 +1,4 @@
 {
-  "2026-09-05": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una crisis con caída del consumo y presión sobre márgenes por ajuste de costos. Esto refleja cambios en hábitos de consumidor y dinámicas de competencia en el",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Más vino argentino en el mundo: crecieron las exportaciones, pero la ganancia se diluyó por la caída de precios - Reconquista Radios",
-      "summary": "Las exportaciones de vino argentino aumentaron en volumen, pero los ingresos se vieron afectados por la reducción de precios internacionales. Esta tendencia refleja presión competitiva en mercados cla",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Estrategia de Embotelladora Andina muestra resultados: Wainer analiza el éxito en el mercado - Diario Financiero",
-      "summary": "Embotelladora Andina, competidor regional relevante en bebidas de consumo masivo, reporta resultados positivos derivados de su estrategia comercial. El análisis de ejecutivos como Wainer sugiere avanc",
-      "companies": [
-        "Embotelladora Andina",
-        "Coca-Cola Andina"
-      ],
-      "segments": [
-        "distribution_execution",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Jóvenes redefinen consumo de bebidas: del alcohol a lo funcional y la apuesta de Aje detrás",
-      "summary": "Las nuevas generaciones están modificando sus patrones de consumo de bebidas, desplazándose desde bebidas alcohólicas tradicionales hacia opciones funcionales y alternativas. Aje, principal jugador de",
-      "companies": [
-        "AJE Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Exportaciones de vino embotellado resienten la disminución de envíos a EE.UU. - g5noticias.cl",
-      "summary": "Las exportaciones de vino embotellado enfrentan presiones por la caída de envíos hacia Estados Unidos, principal mercado de destino para productores regionales. Esta contracción impacta directamente l",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Brown-Forman says innovation remains key as Q1 sales decline by 1%",
-      "summary": "Brown-Forman reportó caída de ventas del 1% en Q1, impulsada por la terminación del acuerdo de distribución con Korbel Champagne, reducción en ventas de barriles usados y debilitamiento del portafolio",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Distribution: AriZona Takes Premium Mineral Water Ferrarelle into Cans; UPDATE Hits Circle K - BevNET.com",
-      "summary": "AriZona Beverages aseguró un acuerdo de distribución para comercializar Ferrarelle, marca italiana premium de agua mineral, en formato de lata en el mercado estadounidense, con presencia confirmada en",
-      "companies": [
-        "Arizona Beverages"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Asahi Beverages switches all Australian soft drink bottles to 100% recycled plastic",
-      "summary": "Asahi Beverages completó la conversión de todas sus botellas de bebidas blandas en Australia a plástico 100% reciclado, incluyendo marcas icónicas como Schweppes, Solo y Pepsi distribuidas bajo licenc",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "A Dynamic Duo: Marriott International Teams Up with The Coca-Cola Company in a Bold Beverage Partnership - Food & Beverage Outlook",
-      "summary": "Marriott International y The Coca-Cola Company formalizan una asociación estratégica de bebidas en el canal hotelero. Esta alianza amplía la distribución de Coca-Cola en propiedades Marriott a nivel g",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock slips after record Q2 2026 and planned stock split - AD HOC NEWS",
-      "summary": "Monster Beverage reportó un Q2 2026 récord, pero el precio de su acción cayó tras anunciar un split de acciones. Este movimiento refleja la volatilidad típica post-resultados positivos cuando se anunc",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brand New: PepsiCo in Iraq, Carlsberg alliance and Kirin’s catch-22",
-      "summary": "PepsiCo expande su presencia productiva en Oriente Medio con foco en Iraq, demostrando confianza estratégica en el mercado regional pese a la inestabilidad geopolítica. La compañía duplica su inversió",
-      "companies": [
-        "PepsiCo",
-        "Carlsberg Group",
-        "Kirin Holdings"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "UBL sees India as key growth engine for Heineken; focuses on premiumisation, margin expansion - retail.economictimes.indiatimes.com",
-      "summary": "United Breweries Limited (UBL), distribuidor de Heineken en India, identifica al mercado indio como motor clave de crecimiento para la marca holandesa. La estrategia se enfoca en premiumización y expa",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "New Beverages: Califia, Chobani Do Seasonal Flavors; BUM Energy x Ella Langley - BevNET.com",
-      "summary": "Califia y Chobani lanzan sabores estacionales en sus líneas de bebidas, mientras BUM Energy colabora con la influenciadora Ella Langley. Estos movimientos reflejan la estrategia de diferenciación medi",
-      "companies": [
-        "Oatly"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Heineken UK is Using Heat Pumps to Slash Brewery Gas Use by 45% - Food & Beverage Outlook",
-      "summary": "Heineken UK implementó sistemas de bombas de calor para reducir el consumo de gas en sus operaciones cerveceras en un 45%, un hito significativo en eficiencia energética. Esta iniciativa forma parte d",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britvic stock holds steady as investors look to recent earnings and sustainability moves - AD HOC NEWS",
-      "summary": "Britvic, productor líder de bebidas no alcohólicas en Reino Unido e Irlanda, mantiene estabilidad accionaria mientras el mercado evalúa sus resultados financieros recientes y compromisos de sostenibil",
-      "companies": [
-        "Britvic"
-      ],
-      "segments": [
-        "financial_results",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper (KDP) Stock Looks Strong On Returns While Earnings Look Stretched - simplywall.st",
-      "summary": "Keurig Dr Pepper, uno de los mayores productores de bebidas de América del Norte, muestra fortaleza en retornos accionarios pero presenta métricas de valuación elevadas. La empresa enfrenta presión en",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Los destilados de Jack Daniel's seguirán fuera de los estantes en la mayoría de las provincias de Canadá",
-      "summary": "Brown-Forman, fabricante de Jack Daniel's, confirma que sus destilados permanecerán fuera de la mayoría de las provincias canadienses durante el resto del ejercicio fiscal 2024, producto de disputas c",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Corient Private Wealth LP Makes New $1.77 Million Investment in National Beverage Corp. $FIZZ - MarketBeat",
-      "summary": "Corient Private Wealth LP realizó una inversión de $1.77 millones en National Beverage Corp. (FIZZ), fabricante de marcas como LaCroix y Fanta. Este movimiento de un gestor patrimonial relevante refle",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation (MNST) Appoints Matthew S. Burroughs as Chief Accounting Officer and Deputy CFO - GuruFocus",
-      "summary": "Monster Beverage Corporation designó a Matthew S. Burroughs como Chief Accounting Officer y Deputy CFO, reforzando su estructura financiera. El movimiento indica preparación para gestionar operaciones",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "La cerveza mantiene una fuerte caída en el comercio minorista de Estados Unidos",
-      "summary": "La cerveza experimenta una caída significativa en el retail estadounidense con retroceso de 4,5% en ventas (dólares) y 5,5% en volumen en las últimas cuatro semanas al 22 de agosto, según datos de NIQ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rise Wellness expands Protein Pop range with prebiotic sparkling protein beverage | FoodBev Media",
-      "summary": "Rise Wellness lanzó Protein Pop Balance, una bebida proteica espumante con proteína de suero, colágeno, prebióticos y fibra en formato tipo soda. El producto amplía el portafolio de Protein Pop en el ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "7 Brew Coffee and Energy beverages",
-      "summary": "7 Brew expande su portafolio de bebidas listas para consumir con lanzamiento de café en lata y cinco variantes de bebidas energizantes. Tras pruebas exitosas en Arkansas, la marca amplía distribución ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "SkyPop’s Rides 'Superior Taste' as Brand Hits 10,000 Doors in First Eight Months - BevNET.com",
-      "summary": "SkyPop, marca de soda proteica (rebrand de Don't Quit), alcanzó 10.000 puntos de venta en 8 meses de lanzamiento, posicionándose en el segmento de bebidas funcionales de alto crecimiento. La estrategi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Settesoli pone en marcha en Sicilia su producción de vino dealcoholizado",
-      "summary": "Cantine Settesoli inauguró en Sicilia una planta de producción de vino dealcoholizado utilizando tecnología de evaporación al vacío. El movimiento posiciona a la empresa en el segmento de bebidas de m",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "China compra menos vino importado a precios cada vez más altos",
-      "summary": "China redujo importaciones de vino un 11% en 2025 a USD 1.400M, pero el precio promedio por litro aumentó 22% a USD 6,86, indicando un cambio hacia vinos premium. Este shift del consumidor chino hacia",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "LWC acquires Wigan Beer Company, strengthening northwest and north Wales - Harpers Wine & Spirit Trade News",
-      "summary": "LWC adquirió Wigan Beer Company, distribuidor consolidado en el noroeste de Inglaterra y norte de Gales, completando la transacción el 1 de agosto de 2026. La operación incluye la adquisición de Keega",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "L’or launches limited-edition pumpkin spice coffee capsules in UK | FoodBev Media",
-      "summary": "L'or lanzó cápsulas de café con sabor a especias de otoño (pumpkin spice) en el mercado UK como edición limitada, combinando espresso con notas de canela, clavo y anís. La iniciativa responde a la ten",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Zamora Co hires from Stoli Group, Brown-Forman for North, Latin America leads - Global Drinks Intel",
-      "summary": "Zamora Co contrató ejecutivos de nivel senior provenientes de Stoli Group y Brown-Forman para liderar sus operaciones en América del Norte y América Latina. Este movimiento señala la expansión estraté",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage’s $130 Million Inflation Hit — Can Horizon 2030 Fight Back? - Smartkarma",
-      "summary": "Molson Coors reportó un impacto negativo de $130 millones por presiones inflacionarias, afectando su rentabilidad en el corto plazo. La compañía está buscando mitigar este efecto a través de su plan e",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Odyssean LLC Boosts Stock Position in The Boston Beer Company, Inc. $SAM - MarketBeat",
-      "summary": "Odyssean LLC aumentó su posición accionaria en The Boston Beer Company (cotizada como $SAM), productor de marcas icónicas como Samuel Adams. Este movimiento de un inversor institucional refleja confia",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Labeling equipment adapts to growing beverage portfolios, customer needs",
-      "summary": "Los fabricantes de equipos de etiquetado están adaptando su tecnología para responder al crecimiento de portafolios de SKUs en bebidas, reduciendo tiempos de cambio de formato en plantas. Sleeve Seal ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mane acquires Cvista to establish US citrus and beverage innovation centre | FoodBev Media",
-      "summary": "Mane, fabricante global de sabores y aromas, adquirió Cvista, especialista en ingredientes cítricos con base en EE.UU., para fortalecer sus capacidades de innovación en cítricos y acelerar el desarrol",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Appoints Matthew S. Burroughs as Chief Accounting Officer and Deputy CFO - Kalkine Media",
-      "summary": "Monster Beverage nombró a Matthew S. Burroughs como Chief Accounting Officer y Deputy CFO, reforzando su estructura financiera en un momento crítico para la compañía. Este movimiento refleja preparaci",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pabst Blue Ribbon, Horror Inc. collab on Jason Voorhees-themed packaging",
-      "summary": "Pabst Blue Ribbon lanzó una edición limitada colaborativa con Horror Inc. basada en Jason Voorhees (Friday the 13th), incluyendo packaging temático, merchandising premium y accesorios. La estrategia b",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "United Breweries Sees India as Key Growth Engine for Heineken, Targets Premium Beer Growth - brewer-world.com",
-      "summary": "United Breweries identifica India como motor clave de crecimiento para Heineken, con estrategia enfocada en segmento premium. La compañía apunta a expandir su portafolio de bebidas alcohólicas de mayo",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Alemania cambia las normas del vino para varias denominaciones clave del mercado",
-      "summary": "Alemania actualizó su Reglamento del Vino modificando denominaciones clave (Classic, Erstes Gewächs, Großes Gewächs y Crémant) e implementando nuevas reglas de etiquetado. Los cambios afectan directam",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Champagne eleva al 15% el tope de compra externa para aliviar la carga fiscal de viticultores",
-      "summary": "Champagne aumentó del 5% al 15% el límite de compra externa de uva, mosto y vino para la campaña 2026, aliviando la carga fiscal de viticultores locales. La medida, efectiva desde agosto de 2026, resp",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-09-06": [
     {
       "title": "Industria vitivinícola: \"El consumo de vino en Argentina es de 16 litros per cápita\" - REALPOLITIK",
@@ -2764,6 +2361,128 @@
         "ma_and_strategy"
       ],
       "region": "Mundial"
+    }
+  ],
+  "2026-09-13": [
+    {
+      "title": "Cervecería y Maltería Quilmes abrió una convocatoria nacional para sumar proveedores pymes",
+      "summary": "Quilmes lanzó una convocatoria nacional para incorporar proveedores pymes, con inscripción digital hasta el 21 de septiembre. La iniciativa abarca servicios comerciales, mantenimiento y logística, bus",
+      "companies": [
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una crisis con caída significativa del consumo, forzando ajustes de costos en las pequeñas y medianas productoras. Los cambios en los hábitos de consumo están",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Mendoza exporta 36% menos vino en 2026 y pierde mercado global - Mundo Empresarial AR",
+      "summary": "Mendoza redujo sus exportaciones de vino un 36% en 2026, señalando una pérdida significativa de participación en mercados globales. Esta contracción impacta directamente en la cadena de valor de bebid",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Dueña de Lay’s y Doritos prevé inversión millonaria para incrementar producción y nuevos lanzamientos",
+      "summary": "PepsiCo planea inversiones millonarias en Perú para expandir capacidad productiva de snacks (Lay's, Doritos) ante crecimiento de doble dígito en la categoría. La compañía evalúa ampliar líneas de prod",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Keurig Dr Pepper: Beverage Momentum And JDE Peet's Synergies Support A Buy (NASDAQ:KDP) - Seeking Alpha",
+      "summary": "Keurig Dr Pepper (KDP) presenta momentum positivo en su división de bebidas con sinergias significativas derivadas de su integración con JDE Peet's. El análisis recomienda compra de las acciones, indi",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Diageo is leaving Kenya after decades and what Asahi’s takeover means for beer drinkers - People Daily",
+      "summary": "Diageo se retira de Kenya después de décadas de operaciones, siendo adquirida por Asahi en ese mercado. Este movimiento refleja cambios estratégicos en la región africana y consolida a Asahi como acto",
+      "companies": [
+        "Asahi Group",
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "WINTON GROUP Ltd Cuts Stock Position in Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "Winton Group Ltd redujo su posición accionaria en Molson Coors Beverage Company (TAP), uno de los mayores fabricantes de bebidas alcohólicas de EE.UU. Este movimiento de un inversor institucional refl",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stand-Up Pouch Film Blanks Market To 2035: Growth Driven by Food and Beverage Packaging Demand - News and Statistics - IndexBox",
+      "summary": "El mercado de láminas en blanco para bolsas de pie (stand-up pouches) experimentará crecimiento significativo hasta 2035, impulsado por la demanda del sector de alimentos y bebidas. Esta tendencia ref",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The THC Beverage Market Is Booming — Is it Time to Make a Place for It On Your Menu? - totalfood.com",
+      "summary": "El mercado de bebidas con THC experimenta crecimiento acelerado en jurisdicciones donde está legalizado, presentando una nueva categoría de oportunidad para empresas de bebidas. La pregunta sobre incl",
+      "companies": [],
+      "segments": [
+        "alternative_ingredients",
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper wins Buy rating on US beverage growth, JDE Peet's deal - Dealroom",
+      "summary": "Keurig Dr Pepper recibió calificación de compra (Buy rating) por parte de analistas, respaldada por su potencial de crecimiento en el mercado de bebidas estadounidense y la operación estratégica con J",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cervecería y Maltería Quilmes abrió una convocatoria nacional para sumar proveedores pymes - mercado.com.ar",
+      "summary": "Quilmes, principal cervecería argentina, lanzó una convocatoria nacional para incorporar proveedores pymes a su cadena de suministro. Esta iniciativa refleja una estrategia de integración vertical y d",
+      "companies": [
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Local"
     }
   ]
 }
