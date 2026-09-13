@@ -2366,7 +2366,7 @@
   "2026-09-13": [
     {
       "title": "Cervecería y Maltería Quilmes abrió una convocatoria nacional para sumar proveedores pymes",
-      "summary": "Quilmes lanzó una convocatoria nacional para incorporar proveedores pymes, con inscripción digital hasta el 21 de septiembre. La iniciativa abarca servicios comerciales, mantenimiento y logística, bus",
+      "summary": "Cervecería y Maltería Quilmes lanzó una convocatoria nacional para incorporar nuevos proveedores pymes hasta el 21 de septiembre. La iniciativa, con inscripción digital, busca diversificar la base de ",
       "companies": [
         "AB InBev",
         "Cerveceria y Malteria Quilmes"
@@ -2378,7 +2378,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una crisis con caída significativa del consumo, forzando ajustes de costos en las pequeñas y medianas productoras. Los cambios en los hábitos de consumo están",
+      "summary": "La cerveza artesanal enfrenta una crisis estructural caracterizada por caída de consumo, presión en costos operativos y cambio en patrones de comportamiento del consumidor. Este segmento, que represen",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2387,7 +2387,7 @@
     },
     {
       "title": "Mendoza exporta 36% menos vino en 2026 y pierde mercado global - Mundo Empresarial AR",
-      "summary": "Mendoza redujo sus exportaciones de vino un 36% en 2026, señalando una pérdida significativa de participación en mercados globales. Esta contracción impacta directamente en la cadena de valor de bebid",
+      "summary": "Mendoza registra una caída de 36% en exportaciones de vino durante 2026, significando una pérdida de posicionamiento en mercados globales. Esta contracción impacta directamente la oferta de bebidas al",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2396,7 +2396,7 @@
     },
     {
       "title": "Dueña de Lay’s y Doritos prevé inversión millonaria para incrementar producción y nuevos lanzamientos",
-      "summary": "PepsiCo planea inversiones millonarias en Perú para expandir capacidad productiva de snacks (Lay's, Doritos) ante crecimiento de doble dígito en la categoría. La compañía evalúa ampliar líneas de prod",
+      "summary": "PepsiCo Alimentos planea inversiones millonarias en Perú para expandir capacidad productiva y lanzar nuevos productos, aprovechando crecimiento de doble dígito en el segmento de snacks. La multinacion",
       "companies": [
         "PepsiCo"
       ],
@@ -2406,8 +2406,19 @@
       "region": "Regional"
     },
     {
+      "title": "Pernod Ricard stock holds firm as investors weigh latest earnings and guidance - ad-hoc-news.de",
+      "summary": "Pernod Ricard, uno de los mayores grupos de bebidas alcohólicas a nivel mundial, reportó resultados que mantienen estable su cotización bursátil mientras el mercado evalúa su guía de desempeño futuro.",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Keurig Dr Pepper: Beverage Momentum And JDE Peet's Synergies Support A Buy (NASDAQ:KDP) - Seeking Alpha",
-      "summary": "Keurig Dr Pepper (KDP) presenta momentum positivo en su división de bebidas con sinergias significativas derivadas de su integración con JDE Peet's. El análisis recomienda compra de las acciones, indi",
+      "summary": "Análisis de Keurig Dr Pepper (KDP) que destaca el momentum en su negocio de bebidas y las sinergias derivadas de su participación en JDE Peet's, con recomendación de compra. La noticia es relevante pa",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2418,8 +2429,31 @@
       "region": "Mundial"
     },
     {
+      "title": "Is New CMO Hire Altering The Investment Case For Boston Beer Stock (SAM)? - simplywall.st",
+      "summary": "Boston Beer (SAM) realizó un cambio en su posición de Chief Marketing Officer, lo que podría señalar una reorientación estratégica en marketing y posicionamiento de marca. Este tipo de cambios ejecuti",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Red Bull generation: How energy drinks became the fuel for a fast-paced society - EL PAÍS English",
+      "summary": "Análisis sobre cómo las bebidas energéticas, lideradas por Red Bull, se convirtieron en un pilar de la cultura de consumo moderna. La noticia examina la evolución de este segmento como respuesta a est",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Why Diageo is leaving Kenya after decades and what Asahi’s takeover means for beer drinkers - People Daily",
-      "summary": "Diageo se retira de Kenya después de décadas de operaciones, siendo adquirida por Asahi en ese mercado. Este movimiento refleja cambios estratégicos en la región africana y consolida a Asahi como acto",
+      "summary": "Diageo se retira de Kenia después de décadas de operación, siendo adquirida por Asahi en ese mercado. Este movimiento refleja una reconfiguración de presencia de grandes corporaciones en mercados afri",
       "companies": [
         "Asahi Group",
         "Diageo"
@@ -2431,7 +2465,7 @@
     },
     {
       "title": "WINTON GROUP Ltd Cuts Stock Position in Molson Coors Beverage Company $TAP - MarketBeat",
-      "summary": "Winton Group Ltd redujo su posición accionaria en Molson Coors Beverage Company (TAP), uno de los mayores fabricantes de bebidas alcohólicas de EE.UU. Este movimiento de un inversor institucional refl",
+      "summary": "Winton Group Ltd redujo su posición accionaria en Molson Coors Beverage Company (TAP), uno de los mayores productores de cerveza en Norteamérica. Este movimiento de un inversor institucional relevante",
       "companies": [
         "Molson Coors"
       ],
@@ -2441,8 +2475,19 @@
       "region": "Mundial"
     },
     {
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Invests $1.16 Million in National Beverage Corp. $FIZZ - MarketBeat",
+      "summary": "Virginia Retirement Systems y otros inversores institucionales realizaron una inversión de $1.16 millones en National Beverage Corp. (FIZZ), fabricante de marcas como LaCroix y Fanta en EE.UU. El movi",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Stand-Up Pouch Film Blanks Market To 2035: Growth Driven by Food and Beverage Packaging Demand - News and Statistics - IndexBox",
-      "summary": "El mercado de láminas en blanco para bolsas de pie (stand-up pouches) experimentará crecimiento significativo hasta 2035, impulsado por la demanda del sector de alimentos y bebidas. Esta tendencia ref",
+      "summary": "El mercado de películas en blanco para bolsas de pie (stand-up pouches) experimentará crecimiento hasta 2035, impulsado por la demanda creciente de envases en alimentos y bebidas. Esta tendencia refle",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2451,18 +2496,8 @@
       "region": "Mundial"
     },
     {
-      "title": "The THC Beverage Market Is Booming — Is it Time to Make a Place for It On Your Menu? - totalfood.com",
-      "summary": "El mercado de bebidas con THC experimenta crecimiento acelerado en jurisdicciones donde está legalizado, presentando una nueva categoría de oportunidad para empresas de bebidas. La pregunta sobre incl",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Keurig Dr Pepper wins Buy rating on US beverage growth, JDE Peet's deal - Dealroom",
-      "summary": "Keurig Dr Pepper recibió calificación de compra (Buy rating) por parte de analistas, respaldada por su potencial de crecimiento en el mercado de bebidas estadounidense y la operación estratégica con J",
+      "summary": "Keurig Dr Pepper recibe recomendación de compra (Buy rating) por su posicionamiento en el crecimiento de bebidas en EE.UU. y su acuerdo con JDE Peet's. La compañía, con marcas como Dr Pepper y Snapple",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2471,18 +2506,6 @@
         "ma_and_strategy"
       ],
       "region": "Mundial"
-    },
-    {
-      "title": "Cervecería y Maltería Quilmes abrió una convocatoria nacional para sumar proveedores pymes - mercado.com.ar",
-      "summary": "Quilmes, principal cervecería argentina, lanzó una convocatoria nacional para incorporar proveedores pymes a su cadena de suministro. Esta iniciativa refleja una estrategia de integración vertical y d",
-      "companies": [
-        "AB InBev",
-        "Cerveceria y Malteria Quilmes"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Local"
     }
   ]
 }
