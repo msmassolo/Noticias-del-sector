@@ -1,81 +1,4 @@
 {
-  "2026-09-06": [
-    {
-      "title": "Industria vitivinícola: \"El consumo de vino en Argentina es de 16 litros per cápita\" - REALPOLITIK",
-      "summary": "El consumo de vino en Argentina alcanza 16 litros per cápita, indicador clave para evaluar la salud del mercado doméstico de bebidas alcohólicas. Este dato es relevante para entender la penetración y ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal argentina enfrenta una crisis con caída significativa en consumo, presión en márgenes por ajuste de costos y cambios en preferencias de consumidores. El segmento, importante en el",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "How Heineken UK is Using Heat Pumps to Slash Brewery Gas Use by 45% - Food & Beverage Outlook",
-      "summary": "Heineken UK implementó bombas de calor en sus operaciones de cervecería, reduciendo el consumo de gas natural en 45%. Esta iniciativa de eficiencia energética alinea con compromisos de sustentabilidad",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands (STZ) Appoints Alex Alvarez To Lead Beer Supply Chain - simplywall.st",
-      "summary": "Constellation Brands, segundo productor cervecero global con marcas como Corona y Modelo, designó a Alex Alvarez como líder de cadena de suministro cervecera. Este movimiento responde a la necesidad d",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "United Breweries Sees India as Key Growth Engine for Heineken, Targets Premium Beer Growth - brewer-world.com",
-      "summary": "Heineken, a través de United Breweries (su distribuidor en India), posiciona al mercado indio como motor de crecimiento estratégico. La compañía enfatiza su apuesta por el segmento premium de cerveza ",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Odyssean LLC Boosts Stock Position in The Boston Beer Company, Inc. $SAM - MarketBeat",
-      "summary": "Odyssean LLC incrementó su posición accionaria en The Boston Beer Company (SAM), productor de cervezas artesanales y bebidas alcohólicas con presencia global. Este movimiento de un inversor institucio",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boston Beer Company (SAM) Looks Undervalued As Growth Narrative Faces A Fresh Test - Yahoo Finance",
-      "summary": "Boston Beer Company (SAM) enfrenta un punto de inflexión en su narrativa de crecimiento, pero el mercado la valúa por debajo de su potencial según análisis de Yahoo Finance. La empresa, un jugador cla",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-09-07": [
     {
       "title": "Exportaciones de vino argentino: Mendoza vende menos y cae la cuota global - mercado.com.ar",
@@ -2504,6 +2427,320 @@
       "segments": [
         "consumer_market_trends",
         "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-09-14": [
+    {
+      "title": "Bodega Colón relanza Colón Selecto Dulce Fresco Frutales y suma Naranja",
+      "summary": "CCU Argentina relanza la línea Colón Selecto Dulce Fresco Frutales con nuevos sabores (Naranja se suma a Durazno y Frutos Rojos) orientada a primavera/verano. La bebida de vino dulce con 7% de alcohol",
+      "companies": [
+        "Grupo Cepas"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa en consumo y margen operativo, con productores implementando ajustes de costos. Esta tendencia refleja cambios en hábitos de con",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Dueña de Lay’s y Doritos prevé inversión millonaria para incrementar producción y nuevos lanzamientos",
+      "summary": "PepsiCo planifica inversiones millonarias en Perú para expandir capacidad productiva de snacks (Lay's, Doritos) y lanzar nuevos productos, aprovechando crecimiento de doble dígito en el mercado local.",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Sazerac acquires Au Vodka as founder backs brand’s next phase of growth",
+      "summary": "Sazerac completó la adquisición de Au Vodka, marca británica de vodka y bebidas listas para consumir fundada en 2015, como parte de su estrategia de expansión en el mercado UK. Au Vodka, con presencia",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Major food firms commit to healthy sales reporting",
+      "summary": "Cuatro grandes empresas de alimentos y bebidas (Carlsberg Britvic, Danone North Europe, KP Snacks y Nomad Foods) se comprometen a reportar voluntariamente la proporción de sus productos clasificados c",
+      "companies": [
+        "Danone",
+        "Britvic",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mahou San Miguel expands coffee business as it continues to diversify beyond beer",
+      "summary": "Mahou San Miguel, cervecero español, expande su negocio de café mediante una estrategia de diversificación más allá de la cerveza. Creó una unidad de negocios dedicada al café con la marca Café170 enf",
+      "companies": [
+        "Mahou San Miguel"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo adds mid-strength Gordon's, Smirnoff and Captain Morgan drinks",
+      "summary": "Diageo lanzó bebidas espirituosas de media concentración (20% ABV) bajo sus marcas Gordon's, Smirnoff y Captain Morgan en respuesta a tendencias de consumo moderado como 'zebra striping' y 'coasting'.",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands Refines Beer Playbook, Reaffirms Full-Year Outlook - Yahoo Finance",
+      "summary": "Constellation Brands, principal productor de cerveza importada en EE.UU. (Corona, Modelo), ajustó su estrategia cervecera mientras confirma el outlook financiero anual. La compañía, con presencia sign",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree lifts revenues and earnings as U.S. and U.K. growth gather pace - TipRanks",
+      "summary": "Fevertree reportó crecimiento en ingresos y ganancias, impulsado por expansión acelerada en mercados clave como EE.UU. y Reino Unido. Como productor líder de mixers premium para bebidas alcohólicas, s",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Insider Buying: Fevertree Drinks (LON:FEVR) Insider Buys 44,674 Shares - MarketBeat",
+      "summary": "Un insider de Fevertree Drinks adquirió 44,674 acciones de la compañía, señal típica de confianza en los fundamentales del negocio. Fevertree es un productor global de mixers premium para bebidas alco",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock holds firm as investors weigh latest earnings and guidance - ad-hoc-news.de",
+      "summary": "Pernod Ricard, uno de los mayores productores de bebidas alcohólicas del mundo, mantiene estabilidad accionaria mientras el mercado evalúa sus últimos resultados financieros y proyecciones. La solidez",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman stock holds steady as investors look to recent earnings and bourbon launch - ad-hoc-news.de",
+      "summary": "Brown-Forman mantiene estabilidad accionaria tras resultados financieros recientes y lanzamiento de nuevo bourbon. La compañía, líder global en destilados con marcas como Jack Daniel's y Woodford Rese",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Britvic stock edges lower as investors eye latest earnings momentum - ad-hoc-news.de",
+      "summary": "Britvic, productor británico de bebidas no alcohólicas y refrescos, experimenta presión en su cotización mientras el mercado evalúa su desempeño financiero reciente. Los inversores analizan el momentu",
+      "companies": [
+        "Britvic"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Is New CMO Hire Altering The Investment Case For Boston Beer Stock (SAM)? - simplywall.st",
+      "summary": "Boston Beer Company (SAM) designó un nuevo Chief Marketing Officer, lo que sugiere cambios estratégicos en su posicionamiento de marca y comunicación. Este movimiento es relevante para la industria ce",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper wins Buy rating on US beverage growth, JDE Peet's deal - Dealroom",
+      "summary": "Keurig Dr Pepper recibió una calificación de compra por analistas en base a su potencial de crecimiento en bebidas en EE.UU. y la operación con JDE Peet's. La empresa se posiciona como jugador consoli",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Is Fevertree Drinks (LSE:FEVR) In Focus After Its Half-Year Results This Week? - Kalkine Media",
+      "summary": "Fevertree Drinks, líder global en bebidas mezcladores premium, publicó resultados de primer semestre que generan atención en mercados. La empresa opera en un segmento de alto margen (bebidas premium p",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "WPP likely to retain Coca-Cola’s global media business after latest review - bestmediainfo.com",
+      "summary": "WPP ha ganado la revisión de su contrato con Coca-Cola para mantener la gestión de medios global de la compañía. Este es un movimiento estratégico clave que consolida la relación entre el gigante de b",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CLSA backs Varun Beverages with ₹654 target on Asahi-CALPIS India launch - scanx.trade",
+      "summary": "CLSA emitió un precio objetivo de ₹654 para Varun Beverages en India, respaldado por el lanzamiento de Asahi-CALPIS en el mercado indio. Este movimiento representa la expansión de un jugador global im",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Good Drinks Australia and Molson Coors launch Miller Dry 3.5 per cent - Inside FMCG",
+      "summary": "Good Drinks Australia y Molson Coors lanzaron Miller Dry 3.5%, una cerveza de menor contenido alcohólico posicionada en el segmento de bebidas más ligeras. Este movimiento refleja la tendencia global ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard stock gains as Trump announcement lifts spirits maker - ad-hoc-news.de",
+      "summary": "Las acciones de Pernod Ricard registraron ganancias tras un anuncio de Trump que benefició al sector de bebidas alcohólicas. La noticia refleja volatilidad en mercados financieros de actores clave de ",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The race to perfect gluten-free",
+      "summary": "El mercado de alimentos y bebidas sin gluten en Europa crece de $6,64 mil millones (2025) a una proyección de $10,38 mil millones (2031), con una CAGR significativa. Grandes marcas globales como Campb",
+      "companies": [],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BofA sees 'compelling' value in Keurig Dr Pepper after its business split - TradingView",
+      "summary": "Bank of America identifica oportunidades de valor en Keurig Dr Pepper tras su separación de operaciones. La escisión corporativa genera una reevaluación de activos por parte de inversores instituciona",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NielsenIQ: Inflation is Creating a ‘Barbell’ Food Market",
+      "summary": "NielsenIQ identifica una polarización del mercado de alimentos y bebidas hacia un modelo 'barbell': los consumidores optan por productos premium o por marcas de valor, abandonando el segmento medio. E",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Au Vodka founder: Sazerac sale was a ‘natural next step’",
+      "summary": "Sazerac adquirió Au Vodka, marca británica de vodka, en una operación que acelera su expansión en el mercado de espíritus del Reino Unido. La adquisición permite a Au Vodka acceder a la red de distrib",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo launches 20% abv Smirnoff, Captain Morgan, Gordon’s - Drinks International",
+      "summary": "Diageo lanzó versiones de 20% ABV de sus marcas líderes (Smirnoff, Captain Morgan, Gordon's) en el Reino Unido a £15 por 70cl, respondiendo a la tendencia de consumo moderado. La estrategia busca capt",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "IN BRIEF: Fevertree Drinks chair De Lorenzo buys GBP350,000 in shares - London South East",
+      "summary": "El presidente de Fevertree Drinks, De Lorenzo, realizó una compra de acciones por £350,000, señalando confianza en la compañía. Esta transacción refleja la solidez percibida del negocio de bebidas mix",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper: Beverage Momentum And JDE Peet's Synergies Support A Buy (NASDAQ:KDP) - Seeking Alpha",
+      "summary": "Keurig Dr Pepper (KDP) muestra momentum en su negocio de bebidas sustentado por sinergias con JDE Peet's, su división de café. El análisis de Seeking Alpha recomienda compra de la acción, sugiriendo q",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Limited Bourbon Launch Might Change The Case For Investing In Brown Forman (BF.B) - simplywall.st",
+      "summary": "Brown-Forman lanzó una edición limitada de bourbon que podría reposicionar el atractivo de inversión de la compañía. Este movimiento de innovación en portfolio de bebidas alcohólicas de premium permit",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "company_news"
       ],
       "region": "Mundial"
     }
