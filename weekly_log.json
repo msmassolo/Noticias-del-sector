@@ -2376,7 +2376,7 @@
   "2026-09-21": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una contracción significativa en consumo, impulsando a productores a ajustar costos operacionales. El segmento experimenta cambios en los patrones de comportamiento del c",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción de demanda con productores implementando ajustes de costos y reformulación de estrategias comerciales. La caída del consumo refleja cambios en",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2384,8 +2384,19 @@
       "region": "Local"
     },
     {
+      "title": "Concha y Toro apuesta por Don Melchor para crecer en el mercado de vinos premium en Perú",
+      "summary": "Concha y Toro, mayor productor de vinos de América Latina, intensifica su estrategia en Perú con Don Melchor, su marca premium insignia. La empresa planea aumentar volúmenes, lanzar nuevas cosechas de",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Walmart abre 21 nuevas tiendas en México y apuesta por crecer mientras los consumidores compran con mayor cautela",
-      "summary": "Walmart expande su presencia en México con 21 nuevas tiendas, diversificando formatos (Supercenter, Bodega Aurrera, Express, Sam's Club) en un contexto de consumidor más conservador. Esta expansión de",
+      "summary": "Walmart abre 21 nuevas tiendas en México, expandiendo su red de distribución mediante formatos variados (Supercenter, Bodega Aurrera, Express, Sam's Club). Esta expansión es estratégica para la indust",
       "companies": [
         "Walmart"
       ],
@@ -2396,7 +2407,7 @@
     },
     {
       "title": "Red Bull sales break £1bn milestone",
-      "summary": "Red Bull alcanzó por primera vez ventas de £1bn en el canal off-trade, con crecimiento de valor de 12.5% (£111m adicionales) y volumen de 12.4 millones de unidades en el último año. La marca consolida",
+      "summary": "Red Bull alcanzó ventas superiores a £1 billón en el canal retail por primera vez, con un crecimiento de 12,5% en valor (£111m) y 12,4 millones de unidades adicionales en el último año. La marca conso",
       "companies": [
         "Red Bull"
       ],
@@ -2408,7 +2419,7 @@
     },
     {
       "title": "Sazerac continues acquisition drive with takeover deal of Germany’s Berentzen Group",
-      "summary": "Sazerac continúa su estrategia agresiva de M&A con la adquisición de Berentzen Group de Alemania, en el marco de un período intenso de expansión que incluye la compra reciente de Au Vodka (marca britá",
+      "summary": "Sazerac adquirió Berentzen Group, empresa alemana de bebidas espirituosas, consolidando su estrategia agresiva de M&A. Esta operación se suma a la compra reciente de Au Vodka (marca UK) y refleja la e",
       "companies": [
         "Sazerac Company"
       ],
@@ -2419,8 +2430,31 @@
       "region": "Mundial"
     },
     {
+      "title": "Sazerac Pushes To Acquire Berentzen | Brewbound",
+      "summary": "Sazerac completó un acuerdo vinculante para adquirir Berentzen-Gruppe AG, productor alemán de schnapps, tras meses de negociaciones. La operación representa una estrategia alternativa de expansión int",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bubly expands mocktail-inspired range with Berry Sparkle Sangria and Paradise Paloma | FoodBev Media",
+      "summary": "PepsiCo expande su marca Bubly con dos nuevos sabores inspirados en mocktails: Berry Sparkle Sangria y Paradise Paloma, posicionándose en la creciente categoría de bebidas sin alcohol con perfil premi",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Walmart’s tech expansion a boon for startup CPGs",
-      "summary": "Walmart está expandiendo su infraestructura tecnológica y de fulfillment con herramientas IA que mejoran el descubrimiento y conversión de productos. El 70% de órdenes online se entregan same-day o má",
+      "summary": "Walmart expande su infraestructura tecnológica y red de fulfillment con capacidad de entrega same-day en 70% de órdenes online, creando oportunidades para marcas CPG mediante herramientas impulsadas p",
       "companies": [
         "Walmart"
       ],
@@ -2431,19 +2465,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Bubly expands mocktail-inspired range with Berry Sparkle Sangria and Paradise Paloma | FoodBev Media",
-      "summary": "PepsiCo amplía su portafolio de Bubly con dos nuevos sabores inspirados en cócteles mocktail: Berry Sparkle Sangria y Paradise Paloma, sin alcohol, calorías ni edulcorantes artificiales. La estrategia",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Monster Beverage stock edges higher after Q2 2026 growth and stock split - AD HOC NEWS",
-      "summary": "Monster Beverage reportó crecimiento en Q2 2026 y anunció un split de acciones, impulsando el precio de su valor en bolsa. Este movimiento refleja expansión sostenida en el segmento de bebidas energét",
+      "summary": "Monster Beverage reportó crecimiento en Q2 2026 y anunció un split de acciones, lo que impulsó el precio de sus títulos. La compañía es un competidor clave en la categoría de bebidas energéticas, merc",
       "companies": [
         "Monster Beverage"
       ],
@@ -2454,8 +2477,44 @@
       "region": "Mundial"
     },
     {
+      "title": "Rémy Cointreau appoints Alcobrands as exclusive distributor in Belgium & Luxembourg - Drinks International",
+      "summary": "Rémy Cointreau designó a Alcobrands como distribuidor exclusivo en Bélgica y Luxemburgo, consolidando su estrategia de distribución en Europa occidental. Esta decisión busca acelerar el crecimiento en",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Nestlé tops TIME’s food and drink company ranking",
+      "summary": "Nestlé encabeza el ranking de TIME y Statista de Mejores Empresas del Mundo 2026 en el sector alimenticio y bebidas. Nueve empresas de bebidas ocupan posiciones en el top 20 global, incluyendo cervece",
+      "companies": [
+        "PepsiCo",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Class Action Lawsuit At Celsius Holdings Stock Has Changed Its Investment Story - simplywall.st",
+      "summary": "Celsius Holdings enfrenta un litigio de clase que impacta su perfil de inversión. La compañía, líder en bebidas energéticas funcionales, ve afectada su reputación y potencial valuación en mercados de ",
+      "companies": [
+        "Celsius Holdings"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Monster Beverage and Coca-Cola Beat the S&P 500 Over the Last 5 Years. Here's Whether the Next 5 Years Will Look the Same. - Yahoo Finance",
-      "summary": "Monster Beverage y Coca-Cola han superado el desempeño del S&P 500 en los últimos 5 años, posicionándose como activos de alto rendimiento en el sector. El análisis evalúa la viabilidad de mantener est",
+      "summary": "Monster Beverage y Coca-Cola han superado el desempeño del S&P 500 en los últimos 5 años, posicionándose como valores de alto crecimiento en el sector de bebidas. El análisis examina si ambas compañía",
       "companies": [
         "The Coca-Cola Company",
         "Monster Beverage"
@@ -2467,7 +2526,7 @@
     },
     {
       "title": "Heineken in talks to buy 300 Stonegate pubs, reports claim",
-      "summary": "Heineken negocia la adquisición de 300 pubs de Stonegate a través de su división Star Pubs & Bars, según reportes del verano. La operación refuerza la presencia de Heineken en UK, aumentando su portaf",
+      "summary": "Heineken está en negociaciones avanzadas para adquirir 300 pubs de Stonegate en Reino Unido a través de su división Star Pubs & Bars, según reportes del verano. La operación expande el portafolio de e",
       "companies": [
         "Heineken"
       ],
@@ -2478,7 +2537,7 @@
     },
     {
       "title": "Pernod Ricard stock edges higher as investors weigh latest earnings and valuation - AD HOC NEWS",
-      "summary": "Pernod Ricard, uno de los mayores productores globales de bebidas alcohólicas, registra movimiento positivo en bolsa mientras el mercado evalúa sus resultados financieros recientes y múltiplos de valu",
+      "summary": "Pernod Ricard, uno de los mayores productores globales de bebidas alcohólicas, registró movimiento al alza en bolsa debido a la evaluación de inversores sobre sus últimos resultados financieros y valu",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2489,7 +2548,7 @@
     },
     {
       "title": "Brown-Forman stock holds steady as investors eye recent earnings and valuation - AD HOC NEWS",
-      "summary": "Brown-Forman, productor global de bebidas alcohólicas premium (Jack Daniel's, Woodford Reserve, entre otras), mantiene estabilidad accionaria mientras el mercado evalúa sus resultados recientes y múlt",
+      "summary": "Brown-Forman, productor global de bebidas alcohólicas (Jack Daniel's, Woodford Reserve), mantiene estabilidad accionaria mientras los inversores evalúan sus recientes resultados financieros y múltiplo",
       "companies": [
         "Brown-Forman"
       ],
@@ -2499,8 +2558,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Danone voluntarily reports UK average NPM score to spotlight health focus",
+      "summary": "Danone reportó voluntariamente su puntuación promedio de Nutrient Profiling Model (NPM) para el Reino Unido en 2025 (-0.09), demostrando su compromiso con métricas de salud consistentes en la industri",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Plenish expands into flavoured milk alternatives with new Dark Cocoa and Sea Salt Almond Drink | FoodBev Media",
-      "summary": "Plenish, marca propiedad de Carlsberg Britvic, lanzó dos nuevas bebidas de almendra con sabor (Dark Cocoa y Sea Salt Almond) en el canal premium británico Ocado a £2.50. Esta expansión hacia bebidas v",
+      "summary": "Plenish, marca propiedad de Carlsberg Britvic, lanza bebidas de almendra con sabor (Dark Cocoa y Sea Salt Almond) en el segmento de alternativas lácteas funcionales. El producto se distribuye a través",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2511,8 +2581,29 @@
       "region": "Mundial"
     },
     {
+      "title": "IWSR: Emerging spirits categories reshape global travel retail market",
+      "summary": "El mercado de viajes duty-free experimenta crecimiento superior al retail doméstico, con volúmenes combinados de spirits y vino aumentando 5% en 2025 y valores creciendo 7% y 5% respectivamente. Europ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (LSE:FEVR): What Stands Out in the Interim Results? - kalkinemedia.com",
+      "summary": "Fevertree Drinks, fabricante líder de mixers premium cotizado en LSE, publicó resultados intermedios. La compañía es relevante para el segmento de bebidas de lujo y mixers en expansión global, especia",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Walovi scales up SEA push as it targets global plant-based beverage growth",
-      "summary": "Walovi, empresa de bebidas plant-based, establece su hub global en Singapur para coordinar operaciones, promoción de marca y gestión de canales en el Sudeste Asiático. La estrategia incluye modelos lo",
+      "summary": "Walovi, empresa de bebidas plant-based, expande operaciones en Asia Sudoriental con hub en Singapur para gestionar marca, distribución e inversión transfronteriza. Implementa modelo de co-manufacturin",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2522,7 +2613,7 @@
     },
     {
       "title": "smartwater sparkling",
-      "summary": "Coca-Cola lanza smartwater sparkling, una línea carbonatada de agua destilada por vapor con electrolitos en formato lata y botellas PET, disponible exclusivamente en Walmart. La marca expande su porta",
+      "summary": "Coca-Cola lanza smartwater sparkling, una línea de agua destilada por vapor carbonatada con electrolitos, sin sabor, en envases de lata y PET. El producto amplía el portafolio de smartwater (categoría",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2531,19 +2622,18 @@
       "region": "Mundial"
     },
     {
-      "title": "The Boston Beer Company, Inc. (NYSE:SAM) Given Consensus Recommendation of \"Reduce\" by Analysts - MarketBeat",
-      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "companies": [
-        "Boston Beer Company"
-      ],
+      "title": "Cantine Riunite Introduces New 187ml Formats for Alcohol-Free Expressions, Bringing Italian Wine to More On-the-Go Occasions",
+      "summary": "Cantine Riunite lanza botellas de 187ml de sus líneas sin alcohol (Riunite Zero Red Semi-Sparkling y Maschio Zero White Sparkling) en EE.UU. a partir de octubre. La estrategia responde a la creciente ",
+      "companies": [],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
       ],
       "region": "Mundial"
     },
     {
       "title": "The Boston Beer Company, Inc.(NYSE: SAM) dropped from S&P 400 - marketscreener.com",
-      "summary": "Boston Beer Company fue excluida del índice S&P 400 (Mid Cap), señalando una contracción significativa en su capitalización de mercado. Este movimiento refleja debilidad en la valuación de uno de los ",
+      "summary": "Boston Beer Company fue excluida del índice S&P 400, señalando una caída significativa en su capitalización de mercado. Este movimiento refleja la presión competitiva en el segmento de cervezas craft ",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2553,18 +2643,53 @@
       "region": "Mundial"
     },
     {
-      "title": "Combination Rubber-Metal Closures Market To 2035: Food and Beverage Packaging Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "El mercado de cierres combinados de goma-metal está proyectado a crecer hasta 2035, impulsado por la demanda en packaging de alimentos y bebidas. Esta tendencia es relevante para la industria de bebid",
+      "title": "The Boston Beer Company, Inc. (NYSE:SAM) Given Consensus Recommendation of \"Reduce\" by Analysts - MarketBeat",
+      "summary": "The Boston Beer Company recibió una recomendación de consenso «Reduce» de los analistas, señalando preocupaciones sobre su desempeño futuro. Esta calificación negativa refleja presiones en el mercado ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Global Wine Closure Solutions Company Paves the Way for High-Quality Screw Cap Evolution Throughout Wine Industry",
+      "summary": "Crealis, líder global en soluciones de tapas para vinos desde 1957, avanza en la innovación de tapas de rosca para vinos tranquilos y espumosos. Esta evolución en tecnología de cierres es relevante pa",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "packaging_sustainability"
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac Confirms Bid For Berentzen - BevNET.com",
+      "summary": "Sazerac confirmó la adquisición de Berentzen-Gruppe AG, productor alemán de schnapps, mediante un acuerdo vinculante. Esta operación fortalece la presencia internacional de Sazerac en el segmento de l",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage and Coca-Cola Beat the S&P 500 Over the Last 5 Years. Here's Whether the Next 5 Years Will Look the Same. - The Motley Fool",
+      "summary": "Monster Beverage y Coca-Cola han superado el rendimiento del S&P 500 en los últimos 5 años, posicionándose como activos de valor para inversores. El análisis compara el desempeño histórico de ambas co",
+      "companies": [
+        "The Coca-Cola Company",
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Berentzen Group and Sazerac to create a leading spirits platform in Europe: Takeover offer for Berentzen-Gruppe Aktiengesellschaft announced - TradingView",
-      "summary": "Sazerac anuncia oferta de adquisición de Berentzen Group, operación que consolida una plataforma líder de spirits en Europa. La transacción fortalece la posición del gigante estadounidense de bebidas ",
+      "summary": "Sazerac anunció una oferta de adquisición de Berentzen Group, operación que crearía una plataforma líder en bebidas espirituosas en Europa. Este movimiento representa un consolidación estratégica sign",
       "companies": [
         "Sazerac Company"
       ],
@@ -2574,24 +2699,23 @@
       "region": "Mundial"
     },
     {
-      "title": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen - reuters.com",
-      "summary": "Sazerac, el mayor productor de destilados de EE.UU., lanzó una oferta de adquisición por Berentzen, empresa alemana líder en licores. La operación representa la estrategia de consolidación del grupo e",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Berentzen-Gruppe AG signs business combination agreement with Sazerac and supports voluntary public takeover offer to all shareholders at a price of EUR 5.55 per share - TradingView",
-      "summary": "Berentzen-Gruppe AG, productor alemán de bebidas alcohólicas y no alcohólicas, ha acordado una combinación empresarial con Sazerac Company (mayor productor de bebidas destiladas en EE.UU.), con una of",
+      "title": "Sazerac Launches Takeover Bid for Germany's Berentzen at €5.55/Share - globalbankingandfinance.com",
+      "summary": "Sazerac, destilería estadounidense, lanzó una oferta de compra por Berentzen, empresa alemana de bebidas alcohólicas, a €5,55 por acción. Se trata de una operación de M&A que expande la presencia de S",
       "companies": [
         "Sazerac Company"
       ],
       "segments": [
         "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Zhejiang's Hidden Industry Giant: Achieved 9.6 Billion Yuan Half-Year Revenue by Selling Beverage Bottles - eu.36kr.com",
+      "summary": "Un fabricante chino de botellas para bebidas en Zhejiang reportó ingresos de 9.6 mil millones de yuanes en el primer semestre, evidenciando la consolidación de proveedores clave en la cadena de valor ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     }
