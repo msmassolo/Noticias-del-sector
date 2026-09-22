@@ -1,392 +1,4 @@
 {
-  "2026-09-14": [
-    {
-      "title": "Bodega Colón relanza Colón Selecto Dulce Fresco Frutales y suma Naranja",
-      "summary": "CCU Argentina relanza la línea Colón Selecto Dulce Fresco Frutales con sabores Durazno, Frutos Rojos y nuevo Naranja, posicionándose en el segmento de bebidas de menor graduación alcohólica (7%) para ",
-      "companies": [
-        "Grupo Cepas"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal en Argentina enfrenta una contracción de demanda con presión en márgenes operativos y necesidad de ajustes de costos. Este movimiento refleja cambios en hábitos de con",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Dueña de Lay’s y Doritos prevé inversión millonaria para incrementar producción y nuevos lanzamientos",
-      "summary": "PepsiCo planifica inversiones millonarias en Perú para expandir capacidad productiva de snacks (Lay's, Doritos), impulsada por crecimiento de doble dígito en la región. La estrategia incluye nuevas lí",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "WPP se acerca a Coca-Cola en una de las grandes batallas por cuentas publicitarias",
-      "summary": "Coca-Cola trasladó su gestión de medios en EE.UU. y Canadá de WPP a Publicis Groupe en 2025, marcando un cambio estratégico en sus alianzas de marketing global. Este movimiento refleja la competencia ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Bebidas RTD mantienen crecimiento de 20% en el mercado peruano para el 2026 - diarioelpueblo.com.pe",
-      "summary": "El segmento de bebidas RTD (Ready-To-Drink) proyecta un crecimiento sostenido del 20% en Perú para 2026, indicando una tendencia regional de expansión en consumo de bebidas listas para consumir. Este ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Boston Beer’s Sun Cruiser on Track to Double Size in 2026 | Brewbound",
-      "summary": "Boston Beer proyecta que Sun Cruiser, su bebida alcohólica a base de vodka y té lanzada en 2024, duplicará sus ventas en 2026. El CEO Jim Koch presentó esta proyección en la conferencia de Barclays, p",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac acquires Au Vodka as founder backs brand’s next phase of growth",
-      "summary": "Sazerac completó la adquisición de Au Vodka, marca británica de vodka y bebidas listas para beber fundada en 2015, como parte de su estrategia de expansión en el mercado del Reino Unido. La operación ",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Major food firms commit to healthy sales reporting",
-      "summary": "Cuatro grandes empresas de alimentos y bebidas (Carlsberg Britvic, Danone North Europe, KP Snacks y Nomad Foods) se comprometen a reportar voluntariamente la proporción de sus productos clasificados c",
-      "companies": [
-        "Danone",
-        "Britvic",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mahou San Miguel expands coffee business as it continues to diversify beyond beer",
-      "summary": "Mahou San Miguel, importante cervecero español, expande su negocio de café mediante una nueva unidad estratégica con la marca Café170 enfocada en canal horeca, consolidando su diversificación más allá",
-      "companies": [
-        "Mahou San Miguel"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo launches 20% abv Smirnoff, Captain Morgan, Gordon’s - Drinks International",
-      "summary": "Diageo lanzó versiones de 20% ABV de tres marcas líderes (Smirnoff, Captain Morgan, Gordon's) en el Reino Unido, posicionadas a £15 por 70cl. La estrategia responde a la tendencia global de moderación",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands Refines Beer Playbook, Reaffirms Full-Year Outlook - Yahoo Finance",
-      "summary": "Constellation Brands, uno de los mayores productores de cerveza a nivel global, ajustó su estrategia de negocio cervecero mientras mantiene sus proyecciones de resultado anual. Este movimiento refleja",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree lifts revenues and earnings as U.S. and U.K. growth gather pace - TipRanks",
-      "summary": "Fevertree reportó un crecimiento en ingresos y ganancias, impulsado por expansión acelerada en mercados clave como EE.UU. y Reino Unido. La compañía, líder global en bebidas mixers premium, demuestra ",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo Brings Ready-to-Drink Dirty Soda to Grocery Stores - News and Statistics - IndexBox",
-      "summary": "PepsiCo lanzó una línea de bebidas ready-to-drink de 'Dirty Soda' en canales de retail tradicionales, expandiendo su portafolio de bebidas innovadoras más allá de canales especializados. Este movimien",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "IN BRIEF: Fevertree Drinks chair De Lorenzo buys GBP350,000 in shares - London South East",
-      "summary": "El presidente de Fevertree Drinks, De Lorenzo, realizó una compra de acciones por GBP 350,000, señal de confianza en la compañía. Fevertree es un productor líder de mixers premium para bebidas alcohól",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "UBS cuts National Beverage price target to $31 after Q1 earnings miss and margin pressure. - Pluang",
-      "summary": "UBS redujo el precio objetivo de National Beverage a $31 tras desempeño inferior en Q1 y presión en márgenes. National Beverage, productor de marcas como Faygo y Sparkling Ice, enfrenta compresión de ",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman stock holds steady as investors look to recent earnings and bourbon launch - ad-hoc-news.de",
-      "summary": "Brown-Forman mantiene estabilidad bursátil mientras el mercado evalúa sus resultados recientes y el lanzamiento de un nuevo bourbon. La noticia refleja la confianza de inversores en la estrategia de l",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britvic stock edges lower as investors eye latest earnings momentum - ad-hoc-news.de",
-      "summary": "Britvic, productor británico de bebidas no alcohólicas y zumos, experimenta presión en su cotización mientras el mercado evalúa su desempeño financiero reciente. La reacción del mercado de capitales r",
-      "companies": [
-        "Britvic"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is New CMO Hire Altering The Investment Case For Boston Beer Stock (SAM)? - simplywall.st",
-      "summary": "Boston Beer Company (SAM) designó un nuevo CMO, señalando cambios estratégicos en marketing y posicionamiento de marca. Este movimiento ejecutivo es relevante para monitorear la dirección de una cerve",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why Is Fevertree Drinks (LSE:FEVR) In Focus After Its Half-Year Results This Week? - Kalkine Media",
-      "summary": "Fevertree Drinks, productor británico cotizado de mixer premium, reportó resultados de medio año que generan interés en el mercado. La compañía es relevante para el segmento de bebidas mixers y aguas ",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rupee Beer Expands to Las Vegas with Southern Glazer’s Wine & Spirits, North America's Largest Distributor",
-      "summary": "Rupee Beer, marca india galardonada, logró acuerdo de distribución con Southern Glazer's Wine & Spirits (mayor distribuidor de Norteamérica) para expandir a Nevada y Las Vegas. Este movimiento acelera",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Handcrafted Wine & Spirits Opens Missouri Operations, Expands to Fifth State and Relocates Corporate Headquarters to Kansas City",
-      "summary": "Handcrafted Wine & Spirits, distribuidor independiente de familia, expande operaciones a Missouri como quinto estado, relocalizando su sede corporativa a Kansas City. El movimiento, realizado en su 30",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Good Drinks Australia and Molson Coors launch Miller Dry 3.5 per cent - Inside FMCG",
-      "summary": "Good Drinks Australia y Molson Coors lanzaron Miller Dry 3.5%, una cerveza de menor contenido alcohólico. El lanzamiento responde a la creciente demanda de bebidas alcohólicas con perfil de menor grad",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard stock gains as Trump announcement lifts spirits maker - ad-hoc-news.de",
-      "summary": "Las acciones de Pernod Ricard subieron tras un anuncio de Trump que benefició al sector de bebidas alcohólicas. La medida podría impactar positivamente la comercialización de destilados en EE.UU., mer",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The race to perfect gluten-free",
-      "summary": "El mercado europeo de alimentos y bebidas sin gluten crecerá de $6.64bn (2025) a $10.38bn (2031), representando una oportunidad estratégica de expansión. Marcas globales como Arnott's y Campbell's est",
-      "companies": [],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Biona adds functional drinks trio to tap health trends",
-      "summary": "Biona lanzó tres bebidas funcionales dirigidas a segmentos de hidratación, fibra y salud digestiva, capitalizando la tendencia de productos con claims funcionales que representan el 25% de nuevos lanz",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "BofA sees 'compelling' value in Keurig Dr Pepper after its business split - TradingView",
-      "summary": "Bank of America identifica oportunidades de valor en Keurig Dr Pepper tras la separación de sus negocios, señalando una posible revaluación del activo. La segmentación de la compañía permite un anális",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Limited Bourbon Launch Might Change The Case For Investing In Brown Forman (BF.B) - simplywall.st",
-      "summary": "Brown-Forman lanzó una edición limitada de bourbon que podría redefinir su propuesta de valor para inversionistas. La estrategia de productos premium y ediciones limitadas es crítica en el segmento de",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NielsenIQ: Inflation is Creating a ‘Barbell’ Food Market",
-      "summary": "NielsenIQ reporta una polarización del mercado de consumo masivo (efecto 'barbell') donde consumidores de todas las edades se dividen entre productos premium y opciones de valor, abandonando marcas de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Au Vodka founder: Sazerac sale was a ‘natural next step’",
-      "summary": "Sazerac adquirió Au Vodka, marca británica de vodka premium, en una operación estratégica para expandir su portafolio en el mercado de spirits del Reino Unido. El cofundador de Au Vodka destaca que la",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo adds mid-strength Gordon's, Smirnoff and Captain Morgan drinks",
-      "summary": "Diageo lanza bebidas espirituosas de media concentración (20% ABV) bajo las marcas Gordon's, Smirnoff y Captain Morgan, respondiendo a tendencias de consumo moderado como 'zebra striping' y 'coasting'",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Insider Buying: Fevertree Drinks (LON:FEVR) Insider Buys 44,674 Shares - MarketBeat",
-      "summary": "Un insider de Fevertree Drinks (empresa cotizada en Londres, fabricante de bebidas premium de mixers) adquirió 44,674 acciones, señal típica de confianza en el valor de la compañía. Este movimiento re",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo extends Captain Morgan, Gordon’s, Smirnoff into 20%-ABV spirit drinks - Global Drinks Intel",
-      "summary": "Diageo está expandiendo sus marcas globales de espíritus (Captain Morgan, Gordon's, Smirnoff) hacia bebidas espirituosas con 20% ABV, un segmento de crecimiento en el mercado de bebidas alcohólicas. E",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "WPP likely to retain Coca-Cola’s global media business after latest review - bestmediainfo.com",
-      "summary": "WPP mantendría su posición como agencia global de medios de Coca-Cola tras completar una revisión de cuentas. Este resultado refuerza la relación estratégica entre la multinacional de bebidas y uno de",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mahou San Miguel expands coffee business as it continues to diversify beyond beer - beveragedaily.com",
-      "summary": "Mahou San Miguel, líder cervecero español, expande su negocio de café como parte de su estrategia de diversificación más allá de bebidas alcohólicas. La empresa busca reducir dependencia del mercado c",
-      "companies": [
-        "Mahou San Miguel"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Spanish beer giant Mahou San Miguel snaps up two B2B coffee brands - World Coffee Portal",
-      "summary": "Mahou San Miguel, líder cervecero español, adquirió dos marcas de café B2B, expandiendo su portafolio hacia el segmento de bebidas calientes. Esta diversificación estratégica le permite acceder al can",
-      "companies": [
-        "Mahou San Miguel"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-09-15": [
     {
       "title": "Bodega Colón relanza Colón Selecto Dulce Fresco Frutales y suma Naranja",
@@ -2716,6 +2328,368 @@
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-09-22": [
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - degremiales.com",
+      "summary": "La cerveza artesanal enfrenta una crisis estructural con caída en el consumo, presión en márgenes por ajuste de costos y cambios en los hábitos de bebida del consumidor. Este segmento, que representa ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "PepsiCo fingió cambiar de nombre y expuso un problema de branding: sus marcas son más famosas que la empresa",
+      "summary": "PepsiCo ejecutó una campaña de branding que simula cambiar su nombre corporativo a marcas como Lay's-Co o Cheetos-Co, evidenciando que sus marcas de consumo tienen mayor reconocimiento que la corporac",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Concha y Toro apuesta por Don Melchor para crecer en el mercado de vinos premium en Perú",
+      "summary": "Concha y Toro, principal productor vitivinícola de Chile, acelera su estrategia de penetración en el mercado premium peruano mediante su marca insignia Don Melchor. La compañía proyecta crecimiento so",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Walmart abre 21 nuevas tiendas en México y apuesta por crecer mientras los consumidores compran con mayor cautela",
+      "summary": "Walmart México expande su presencia con 21 nuevas tiendas, reforzando su posición como principal canal de distribución en el mercado. Esta estrategia de crecimiento es crítica para fabricantes de bebi",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Mientras Bodega Aurrera y Walmart apuestan por cajas de autopago, en Sam’s los socios pueden comprar desde su celular, sin filas ni cajas, gracias a Scan & Go",
+      "summary": "Walmart y sus formatos (Bodega Aurrera y Sam's) implementan tecnologías de checkout innovadoras para mejorar la experiencia de compra: cajas de autopago tradicionales versus Scan & Go mobile en Sam's.",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Sazerac continues acquisition drive with takeover deal of Germany’s Berentzen Group",
+      "summary": "Sazerac adquiere Berentzen Group, productora alemana de bebidas alcohólicas, en el segundo movimiento M&A en una semana tras la compra de Au Vodka (marca británica). La estrategia de expansión agresiv",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac Pushes To Acquire Berentzen | Brewbound",
+      "summary": "Sazerac completó un acuerdo vinculante para adquirir Berentzen-Gruppe AG, productor alemán de schnapps, consolidando su estrategia de expansión internacional tras el fracaso en la adquisición de Brown",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Budweiser gana terreno a Beck’s en Alemania dentro de la nueva estrategia de AB InBev",
+      "summary": "AB InBev reposiciona su portafolio en Alemania, promoviendo Budweiser como marca principal en lugar de Beck's en canales clave (estadios, festivales, bares). La estrategia concentra recursos en la mar",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bubly expands mocktail-inspired range with Berry Sparkle Sangria and Paradise Paloma | FoodBev Media",
+      "summary": "PepsiCo expande su marca Bubly con dos nuevos sabores mocktail: Berry Sparkle Sangria y Paradise Paloma, posicionándose en la creciente tendencia de bebidas sin alcohol que replican perfiles de sabor ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Anheuser-Busch invierte 21 millones de dólares en California para ampliar la producción de Michelob ULTRA",
+      "summary": "Anheuser-Busch invierte USD 21 millones en California para expandir la producción de Michelob ULTRA, su marca premium de bajo contenido calórico. La inversión incluye modernización de líneas de envasa",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac Confirms Bid For Berentzen - BevNET.com",
+      "summary": "Sazerac confirmó una oferta vinculante para adquirir Berentzen-Gruppe AG, productor alemán de schnapps. La transacción representa una estrategia de crecimiento internacional alternativa tras el fracas",
+      "companies": [
+        "Brown-Forman",
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "El whisky escocés llega tarde al negocio que sostiene el avance de las bebidas alcohólicas",
+      "summary": "Los principales productores de bebidas alcohólicas (Diageo, Pernod y Suntory) están liderando el crecimiento en cócteles listos para beber, mientras que el whisky escocés tiene una presencia limitada ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken negocia la compra de 300 pubs en el Reino Unido",
+      "summary": "Heineken negocia la adquisición de 300 pubs en Reino Unido por aproximadamente £300 millones, lo que representaría una expansión del 12,8% en su red de establecimientos minoristas en ese mercado. Esta",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Rémy Cointreau appoints Alcobrands as exclusive distributor in Belgium & Luxembourg - Drinks International",
+      "summary": "Rémy Cointreau designó a Alcobrands como distribuidor exclusivo en Bélgica y Luxemburgo, mercados donde el grupo ve potencial de crecimiento acelerado. La decisión incluye marcas premium como Rémy Mar",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage and Coca-Cola Beat the S&P 500 Over the Last 5 Years. Here's Whether the Next 5 Years Will Look the Same. - Yahoo Finance",
+      "summary": "Monster Beverage y Coca-Cola han superado el desempeño del S&P 500 en los últimos 5 años, posicionándose como activos de alto rendimiento en el sector de bebidas. El análisis examina perspectivas de c",
+      "companies": [
+        "The Coca-Cola Company",
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Pepsi Never Beats Coca-Cola: Unveiling the Core Secrets Behind Coca-Cola’s Century-Long Market Dominance - eu.36kr.com",
+      "summary": "Análisis comparativo sobre la dominancia de Coca-Cola versus Pepsi en el mercado global de bebidas. El artículo examina los factores estratégicos que permiten a Coca-Cola mantener su liderazgo durante",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Plenish expands into flavoured milk alternatives with new Dark Cocoa and Sea Salt Almond Drink | FoodBev Media",
+      "summary": "Plenish, marca de bebidas de Carlsberg Britvic, lanza dos nuevas bebidas de almendras saborizadas (Dark Cocoa y Sea Salt Almond) a £2.50, disponibles en Ocado. La expansión hacia el segmento de altern",
+      "companies": [
+        "Britvic",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "IWSR: Emerging spirits categories reshape global travel retail market",
+      "summary": "El mercado de travel retail global (duty free) registró un crecimiento del 5% en volumen de spirits y vino en 2025, con un incremento de valor del 7% en spirits y 5% en vino. Europa y África/Medio Ori",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Reino Unido sopesa otra subida del impuesto al alcohol tras años de caída en las ventas",
+      "summary": "El Reino Unido evalúa incrementar impuestos al alcohol como respuesta a la caída en ventas y recaudación de accisas (down 1,4% anual). La industria de vino y destilados se opone, advirtiendo sobre imp",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (LSE:FEVR): What Stands Out in the Interim Results? - Kalkine Media",
+      "summary": "Fevertree Drinks publicó resultados intermedios como empresa cotizada en LSE, relevante para monitorear competencia en el segmento premium de bebidas mixers y aguas tónicas. Esta compañía es líder glo",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage stock edges lower as cash-rich balance sheet draws analyst interest - AD HOC NEWS",
+      "summary": "Monster Beverage experimenta presión en el precio de sus acciones a pesar de contar con un balance sheet sólido y rico en efectivo, lo que atrae el interés de analistas. La solidez financiera de la co",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks (LSE:FEVR) In Focus As Insider Buying Signals Confidence - Kalkine Media",
+      "summary": "Ejecutivos de Fevertree Drinks (cotizada en LSE) están comprando acciones de la compañía, señal tradicional de confianza en perspectivas futuras. Fevertree es productor de bebidas mixers premium, segm",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "ZenWTR launches premium water brand built around recycled ocean-bound plastic | FoodBev Media",
+      "summary": "Lance Collins, emprendedor con track record en marcas como BODYARMOR y CORE Hydration, lanzó ZenWTR, una marca premium de agua alcalina con packaging de plástico reciclado certificado de origen oceáni",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stateside, A-B Agree to Dismiss Surfside-Skimmers Lawsuit | Brewbound",
+      "summary": "Anheuser-Busch y Surfside Simmers resolvieron su litigio sobre bebidas alcohólicas duras (hard tea), cerrando una disputa legal entre el mayor fabricante de cerveza mundial y una de las marcas de bev-",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "smartwater sparkling",
+      "summary": "Coca-Cola lanza smartwater sparkling, una versión carbonatada de su línea de agua purificada con electrolitos añadidos, sin saborizantes. El producto estará disponible en latas y botellas PET, inicial",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cantine Riunite Introduces New 187ml Formats for Alcohol-Free Expressions, Bringing Italian Wine to More On-the-Go Occasions",
+      "summary": "Cantine Riunite lanza botellas de 187ml de sus líneas sin alcohol (Riunite Zero Red y Maschio Zero White) en EE.UU. a partir de octubre. La estrategia responde a la creciente demanda de bebidas no alc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Popsicle Hard Firecracker",
+      "summary": "Tilray Brands y The Magnum Ice Cream Co. elevaron Popsicle Hard Firecracker de sabor limitado a oferta permanente en su portfolio de bebidas alcohólicas congeladas. La decisión responde a la fuerte de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The VinePair Podcast: Are We Entering a New Era of Drinks Specials and Happy Hours?",
+      "summary": "La industria de bares y restaurantes está pivotando hacia promociones agresivas y happy hours como respuesta a indicadores recesivos e inflación. Las tendencias de consumo muestran que los clientes bu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Com água proteica e linha de cerveja sem glúten, Heineken Spin fatura R$ 560 milhões e amplia capilaridade no país em dois anos - Times Brasil | CNBC",
+      "summary": "Heineken Spin, la división de innovación de Heineken Brasil, alcanzó R$ 560 millones en facturación en dos años mediante lanzamientos estratégicos como agua proteica y cerveza sin glúten. La estrategi",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "The Boston Beer Company, Inc.(NYSE: SAM) dropped from S&P 400 - marketscreener.com",
+      "summary": "The Boston Beer Company fue excluida del índice S&P 400, indicador de cambios significativos en su capitalización de mercado y posición competitiva. Esta acción refleja presiones en el segmento de cer",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo quiere que conozcas las marcas que están detrás de Pepsi y lanza su primera campaña corporativa",
+      "summary": "PepsiCo lanza su primera campaña corporativa denominada 'House of Brands' para aumentar el reconocimiento de la empresa matriz y conectarla con su portafolio de más de 500 marcas. La iniciativa busca ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Heineken in talks to buy 300 Stonegate pubs, reports claim",
+      "summary": "Heineken negocia la adquisición de 300 pubs a Stonegate Group en el Reino Unido, consolidando su presencia en el canal on-premise. La operación expandiría el portafolio de Star Pubs & Bars de Heineken",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Berentzen Group and Sazerac to create a leading spirits platform in Europe: Takeover offer for Berentzen-Gruppe Aktiengesellschaft announced - TradingView",
+      "summary": "Sazerac realizó una oferta de adquisición sobre Berentzen Group, empresa alemana productora de bebidas espirituosas, para crear una plataforma líder de spirits en Europa. Esta operación M&A consolida ",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
