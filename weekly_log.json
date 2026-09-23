@@ -2280,8 +2280,20 @@
   ],
   "2026-09-23": [
     {
+      "title": "El nuevo lanzamiento de la bebida isotónica de Coca-Cola sin azúcar - fortuna.perfil.com",
+      "summary": "Coca-Cola lanzó una bebida isotónica sin azúcar, expandiendo su portafolio en el segmento de bebidas funcionales de bajo/cero azúcar. Este movimiento responde a la demanda creciente de consumidores po",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "product_innovation",
+        "supply_chain_commodities"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "El consumo masivo cayó 0,7% en agosto y mostró señales de retroceso en supermercados, autoservicios y mayoristas",
-      "summary": "El consumo masivo argentino registró una caída de 0,7% en agosto versus julio, con contracción interanual de 1,5% respecto a agosto de 2024. El deterioro afectó supermercados, autoservicios y mayorist",
+      "summary": "El consumo masivo en Argentina registró una caída de 0,7% en agosto respecto a julio, revirtiendo la recuperación de julio, con una contracción de 1,5% en comparación interanual. El retroceso afectó t",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2291,7 +2303,7 @@
     },
     {
       "title": "Industria: se anticipa \"menos producción sin sumar empleos\", mientras los supermercados esperan \"estabilidad\"",
-      "summary": "La Encuesta de Tendencia de Negocios del INDEC revela que la industria argentina anticipa reducción de producción y contracción de empleo para septiembre-noviembre 2026, mientras supermercados y mayor",
+      "summary": "La Encuesta de Tendencia de Negocios del INDEC revela que la industria argentina anticipa una contracción de producción para septiembre-noviembre 2026 sin generación de empleos, mientras que supermerc",
       "companies": [],
       "segments": [
         "distribution_execution"
@@ -2300,7 +2312,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída significativa del consumo, presionando márgenes de rentabilidad. Los productores implementan ajustes de costos operativos y reformulan est",
+      "summary": "La cerveza artesanal enfrenta una contracción de demanda con presión simultánea en costos de producción, generando ajustes operacionales en el segmento. Este movimiento refleja cambios en hábitos de c",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2309,7 +2321,7 @@
     },
     {
       "title": "Backus y el canal en el que busca duplicar su facturación al 2028: las cervezas que explora",
-      "summary": "Backus (AB InBev) opera en el canal Horeca peruano con 70% de participación de mercado, comercializando sobre 236.7 millones de litros anuales. La empresa busca duplicar su facturación en este segment",
+      "summary": "Backus, subsidiaria de AB InBev en Perú, planea duplicar su facturación en el canal Horeca (hoteles, restaurantes, bares) hacia 2028, donde ya domina con más del 70% de participación de mercado en un ",
       "companies": [
         "Backus"
       ],
@@ -2321,7 +2333,7 @@
     },
     {
       "title": "PepsiCo fingió cambiar de nombre y expuso un problema de branding: sus marcas son más famosas que la empresa",
-      "summary": "PepsiCo lanzó una campaña de branding que jugó con la idea de renombrar la corporación con sus marcas más fuertes (Lay's-Co, Cheetos-Co), exponiendo un desafío estratégico: sus marcas de snacks y bebi",
+      "summary": "PepsiCo lanzó una campaña de branding que simulaba renombrarse como Lay's-Co o Cheetos-Co, evidenciando que sus marcas de snacks tienen mayor reconocimiento que la empresa matriz. La iniciativa expone",
       "companies": [
         "PepsiCo"
       ],
@@ -2332,7 +2344,7 @@
     },
     {
       "title": "Mientras Bodega Aurrera y Walmart apuestan por cajas de autopago, en Sam’s los socios pueden comprar desde su celular, sin filas ni cajas, gracias a Scan & Go",
-      "summary": "Walmart y sus formatos (Bodega Aurrera y Sam's Club) implementan tecnologías de checkout innovador para transformar la experiencia de compra en tiendas físicas. Sam's Club despliega Scan & Go, permiti",
+      "summary": "Walmart, Bodega Aurrera y Sam's implementan tecnologías de pago automatizado para optimizar la experiencia de compra: cajas de autopago y Scan & Go (compra desde celular sin pasar por cajas). Esta tra",
       "companies": [
         "Walmart"
       ],
@@ -2342,19 +2354,19 @@
       "region": "Regional"
     },
     {
-      "title": "Concha y Toro apuesta por Don Melchor para crecer en el mercado de vinos premium en Perú",
-      "summary": "Concha y Toro, el mayor productor de vinos de Latinoamérica, intensifica su estrategia en el segmento premium peruano con su marca insignia Don Melchor. La estrategia incluye incremento de volúmenes, ",
+      "title": "Nubank Parque fecha parceria com Ambev para operação de bebidas e ativações de marcas",
+      "summary": "Ambev, a través de su unidad Beyond Beer, firmó una alianza exclusiva de patrocinio con Nubank Parque para operar la venta de bebidas (refrigerantes, energéticos, isotónicos, chás, agua y drinks listo",
       "companies": [
-        "Concha y Toro"
+        "Ambev"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends"
       ],
       "region": "Regional"
     },
     {
       "title": "Com água proteica e linha de cerveja sem glúten, Heineken Spin fatura R$ 560 milhões e amplia capilaridade no país em dois anos - Times Brasil | CNBC",
-      "summary": "Heineken Spin, marca subsidiaria de Heineken, alcanzó facturación de R$ 560 millones en dos años mediante estrategia de diversificación con agua proteica y cerveza sin glúten. La iniciativa demuestra ",
+      "summary": "Heineken Spin, subsidiary de Heineken en Brasil, alcanzó ingresos de R$ 560 millones en dos años mediante lanzamientos de productos innovadores como agua proteica y cerveza sin glúten, expandiendo sig",
       "companies": [
         "Heineken"
       ],
@@ -2364,8 +2376,20 @@
       "region": "Regional"
     },
     {
+      "title": "Recess Preps for Scale with Health-Ade, Poppi Vets Joining in Executive Roles - BevNET.com",
+      "summary": "Recess, fabricante de bebidas funcionales, refuerza su estructura ejecutiva con nuevos líderes en roles comerciales estratégicos: Matthew Sztab como Chief Commercial Officer y Graham Goeppert como SVP",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo names Joanne Wilson as CFO as drinks giant accelerates transformation plan",
-      "summary": "Diageo designa a Joanne Wilson como nueva CFO, ejecutiva con experiencia previa en Britvic (bebidas) y roles financieros en grandes corporaciones, quien se sumará al Board y Comité Ejecutivo en 2027. ",
+      "summary": "Diageo designó a Joanne Wilson como CFO, quien asumirá el cargo en 2027 y se unirá al Directorio y Comité Ejecutivo. Wilson proviene de WPP plc y trae experiencia previa en Britvic (empresa de bebidas",
       "companies": [
         "Diageo"
       ],
@@ -2376,7 +2400,7 @@
     },
     {
       "title": "Anheuser-Busch invierte 23 millones de dólares en Colorado para elevar la producción de Michelob ULTRA",
-      "summary": "Anheuser-Busch invierte $23M en su planta de Fort Collins (Colorado) para expandir la producción de Michelob ULTRA, añadiendo capacidad de enlatado de 25 oz e infraestructura logística. Esta inversión",
+      "summary": "Anheuser-Busch invierte $23M en su planta de Fort Collins, Colorado, para aumentar capacidad productiva de Michelob ULTRA con nuevas líneas de envasado en latas de 25 onzas e infraestructura ferroviar",
       "companies": [
         "AB InBev"
       ],
@@ -2388,7 +2412,7 @@
     },
     {
       "title": "Oatly delivers ‘robust performance’ despite operating model change",
-      "summary": "Oatly reportó resultados financieros del 2025 con ingresos de £103.2M (leve caída respecto a £104.8M en 2024), atribuida principalmente a cambios en su modelo operativo en Irlanda. A pesar de la contr",
+      "summary": "Oatly reportó resultados financieros para 2025 con ingresos de £103.2M (leve caída vs. £104.8M en 2024), pero describe su desempeño como 'robusto' impulsado por demanda estable y nuevo pipeline de pro",
       "companies": [
         "Oatly"
       ],
@@ -2399,7 +2423,7 @@
     },
     {
       "title": "Outlaw Beer Multipack Is a Five-Gallon Bucket",
-      "summary": "Tivoli Brewing lanzó un formato de multipack innovador para su marca Outlaw Light: 24 latas de 12 oz en un balde plástico de 5 galones reutilizable, reemplazando el cartón convencional. La iniciativa,",
+      "summary": "Tivoli Brewing lanzó un formato de multipack innovador: 24 latas de Outlaw Light en un balde reutilizable de 5 galones, desarrollado en colaboración con Sam's Club. Esta estrategia de packaging difere",
       "companies": [
         "Walmart"
       ],
@@ -2411,7 +2435,7 @@
     },
     {
       "title": "Mark Anthony Brands to Exit Coors Distributing Company for Reyes Subsidiary in Denver | Brewbound",
-      "summary": "Mark Anthony Brands trasladará la distribución de White Claw en Denver desde Coors Distributing Company (propiedad de Molson Coors) hacia RBG Spirits and Wine of Colorado, subsidiaria de Reyes Beverag",
+      "summary": "Mark Anthony Brands trasladará la distribución de White Claw en Denver desde Coors Distributing Company (propiedad de Molson Coors) hacia RBG Spirits and Wine of Colorado, filial de Reyes Beverage Gro",
       "companies": [
         "Molson Coors"
       ],
@@ -2422,7 +2446,7 @@
     },
     {
       "title": "Beverages, Alcohol, and Tobacco Stocks Q2 Recap: Benchmarking Celsius (NASDAQ:CELH) - TradingView",
-      "summary": "Análisis de desempeño de Celsius (CELH) en Q2 dentro del sector de bebidas, alcohol y tabaco. La nota proporciona benchmarking de la empresa frente a competidores clave, relevante para entender la pos",
+      "summary": "Recapitulación del desempeño de acciones del sector de bebidas, alcohol y tabaco en Q2, con análisis específico de Celsius Energy (CELH). Celsius continúa siendo referencia clave en el segmento de beb",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2434,7 +2458,7 @@
     },
     {
       "title": "Bev-Alc Bounces Back Better Than Expected Post-Labor Day, per Weekly Circana Report | Brewbound",
-      "summary": "Las ventas fuera de local de bebidas alcohólicas recuperaron territorio la semana del 13 de septiembre, superando las expectativas tras un débil fin de semana del Labor Day, según datos de Circana. Es",
+      "summary": "Las ventas de bebidas alcohólicas fuera del hogar (canal off-premise) rebotaron la semana del 13 de septiembre tras un débil fin de semana de Labor Day en EE.UU., según datos semanales de Circana. Est",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2444,7 +2468,7 @@
     },
     {
       "title": "Müller and Baileys team up for new premium indulgent dessert | FoodBev Media",
-      "summary": "Müller UK & Ireland lanzó Müller Bliss x Baileys, un nuevo postre premium que combina yogur tipo griego con salsa de sabor Baileys, mediante una asociación de licencia. La iniciativa expande el portaf",
+      "summary": "Müller UK & Ireland lanzó Müller Bliss x Baileys, un postre premium bajo licencia que combina yogur griego batido con salsa de sabor Baileys y chocolate negro, sin alcohol. La alianza estratégica ampl",
       "companies": [
         "Diageo"
       ],
@@ -2455,7 +2479,7 @@
     },
     {
       "title": "Hoplark Files for Chapter 7 Bankruptcy Liquidation; Signals Potential Lawsuit Against Brooklyn Brewery | Brewbound",
-      "summary": "Hoplark, marca de agua mineral con gas, té y bebidas sin alcohol, entró en liquidación por bancarrota Chapter 7. La empresa señala una potencial demanda contra Brooklyn Brewery por violación de acuerd",
+      "summary": "Hoplark, marca de agua gasificada, té y bebidas sin alcohol, entró en liquidación por Chapter 7 tras quiebra de su empresa madre. La firma señala una demanda potencial contra Brooklyn Brewery por pres",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2465,7 +2489,7 @@
     },
     {
       "title": "Straightaway Uses Portland Airport Bar to Test RTD Cocktails, Build Loyalty | Brewbound",
-      "summary": "Straightaway Cocktails abrió un bar en el aeropuerto de Portland para testear productos RTD y fortalecer lealtad de marca, en una estrategia alternativa al crecimiento tradicional en góndolas. Esta ex",
+      "summary": "Straightaway Cocktails está utilizando un bar en el aeropuerto internacional de Portland como laboratorio de innovación para productos RTD (listos para beber), en lugar de competir por espacio en esta",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2475,7 +2499,7 @@
     },
     {
       "title": "Heineken ya ha ejecutado el 71% del segundo tramo de su recompra de acciones",
-      "summary": "Heineken ha completado el 71% del segundo tramo de su programa de recompra de acciones, acumulando 7,5 millones de títulos por 533,4 millones de euros. Esta estrategia de retorno al accionista refleja",
+      "summary": "Heineken ha adquirido 7,5 millones de acciones propias por 533,4 millones de euros, completando el 71% del segundo tramo de su programa de recompra. Esta estrategia de retorno de capital refleja confi",
       "companies": [
         "Heineken"
       ],
@@ -2485,20 +2509,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Why Pepsi Never Beats Coca-Cola: Unveiling the Core Secrets Behind Coca-Cola’s Century-Long Market Dominance - eu.36kr.com",
-      "summary": "Análisis comparativo sobre por qué Coca-Cola mantiene su liderazgo global frente a Pepsi tras más de un siglo. El artículo revela los factores estratégicos clave que explican la dominancia persistente",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Constellation Brands' price target cut to $122 amid beer strategy shifts and supply-chain focus. - Pluang",
-      "summary": "Analistas redujeron el precio objetivo de Constellation Brands a $122 en respuesta a cambios estratégicos en su negocio cervecero y reorientación hacia optimización de cadena de suministro. Constellat",
+      "summary": "Constellation Brands enfrenta una reducción en su precio objetivo a $122 USD, reflejando cambios estratégicos en su negocio cervecero y reorganización de su cadena de suministro. La empresa, propietar",
       "companies": [
         "Constellation Brands"
       ],
@@ -2510,7 +2522,7 @@
     },
     {
       "title": "Fevertree Drinks (LSE:FEVR) In Focus As Insider Buying Signals Confidence - Kalkine Media",
-      "summary": "Ejecutivos de Fevertree Drinks (cotizada en LSE) han realizado compras de acciones propias, señal de confianza en la estrategia corporativa. Esta actividad de insiders refleja optimismo interno sobre ",
+      "summary": "Fevertree Drinks, productor británico de bebidas mixers premium, experimenta compras de insiders en sus acciones listadas en LSE, señal que ejecutivos confían en perspectivas de la compañía. Este movi",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2521,7 +2533,7 @@
     },
     {
       "title": "A Momofuku x OLIPOP food truck hits Boston this week, serving up 5 new chef-crafted sauces, exclusive caramel apple soda, and a custom charm bar - Boston Uncovered",
-      "summary": "OLIPOP, marca de bebidas funcionales, ejecuta una campaña de activación conjunta con Momofuku en Boston mediante food truck, introduciendo un soda exclusivo de manzana caramelo. Esta iniciativa de co-",
+      "summary": "OLIPOP, marca de bebidas funcionales de rápido crecimiento en EE.UU., lanza una experiencia de co-marketing con Momofuku (chef David Chang) mediante un food truck en Boston. La activación incluye un p",
       "companies": [
         "Olipop"
       ],
@@ -2531,8 +2543,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Smaller packs, more protein: AB InBev to adapt drinks to shifting tastes - reuters.com",
-      "summary": "AB InBev está reformulando su portafolio de bebidas hacia formatos más pequeños y bebidas enriquecidas con proteína, respondiendo a cambios en las preferencias del consumidor. Esta estrategia refleja ",
+      "title": "Smaller packs, more protein: AB InBev to adapt drinks to shifting tastes - Euronext Markets: Real-time Stock Market Data | live",
+      "summary": "AB InBev implementa una estrategia de reformulación de portafolio enfocada en packs más pequeños y mayor contenido proteico, respondiendo a cambios en preferencias del consumidor hacia productos más s",
       "companies": [
         "AB InBev"
       ],
@@ -2543,7 +2555,7 @@
     },
     {
       "title": "Endeavour Group and Quantium launch AI insights engine for drinks industry - Retail World Magazine",
-      "summary": "Endeavour Group (principal distribuidor de bebidas en Australia) y Quantium desarrollaron un motor de inteligencia artificial para analizar datos de la industria de bebidas. La herramienta procesa inf",
+      "summary": "Endeavour Group y Quantium lanzaron un motor de insights basado en IA específicamente diseñado para la industria de bebidas. Esta herramienta permite a las empresas del sector analizar datos de consum",
       "companies": [
         "Endeavour Group"
       ],
@@ -2555,7 +2567,7 @@
     },
     {
       "title": "Chile dispara un 188% sus ventas de vino a granel a España",
-      "summary": "Chile incrementó un 188% sus ventas de vino a granel hacia España, bucando estrategias de exportación de mayor volumen y menores márgenes. Este movimiento refleja una reconfiguración de la estrategia ",
+      "summary": "Chile incrementó 188% sus ventas de vino a granel hacia España, revirtiendo tendencias negativas en exportaciones totales que cayeron 13,3% en volumen. Este fenómeno refleja un cambio estratégico haci",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2565,7 +2577,7 @@
     },
     {
       "title": "ZenWTR launches premium water brand built around recycled ocean-bound plastic | FoodBev Media",
-      "summary": "Lance Collins, experimentado emprendedor de bebidas (FUZE, NOS, BODYARMOR, CORE Hydration), lanzó ZenWTR, una marca premium de agua embotellada con propuesta de hidratación alcalina y empaque de plást",
+      "summary": "Lance Collins, emprendedor con track record en marcas de bebidas (FUZE, NOS, BODYARMOR, CORE Hydration), lanzó ZenWTR, una marca premium de agua alcalina con packaging de plástico reciclado certificad",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2574,18 +2586,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Straightaway Turns Its Portland Airport Bar Into a Brand Lab - BevNET.com",
-      "summary": "Straightaway Cocktails abrió un bar en el aeropuerto internacional de Portland como espacio de innovación y prueba de productos, en lugar de competir por estantería en retail tradicional. Tras tres me",
+      "title": "La Colombe expands beyond coffee with new RTD Matcha Latte line | FoodBev Media",
+      "summary": "La Colombe lanza una línea de bebidas listas para beber (RTD) de Matcha Latte con tres variedades, expandiendo su portafolio más allá del café. La estrategia responde al crecimiento acelerado del segm",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "La Colombe expands beyond coffee with new RTD Matcha Latte line | FoodBev Media",
-      "summary": "La Colombe lanza una línea de bebidas RTD de Matcha Latte en tres variedades (clásica, fresa y vainilla), expandiendo su portafolio más allá del café hacia el segmento de matcha en rápido crecimiento.",
+      "title": "Aloha Medicinals launches FungiFuse",
+      "summary": "Aloha Medicinals lanzó FungiFuse, una línea de ingredientes funcionales dirigida al segmento de bebidas listas para consumir (RTD), shots funcionales, mezclas en polvo y suplementos. Este lanzamiento ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2595,7 +2607,7 @@
     },
     {
       "title": "FrieslandCampina and Ultrajaya strike strategic partnership as Frisian Flag Indonesia joins Indonesian beverage group | FoodBev Media",
-      "summary": "FrieslandCampina y PT Ultrajaya Milk Industry formalizaron una alianza estratégica mediante la cual Frisian Flag Indonesia se integra al Grupo Ultrajaya, consolidando una plataforma ampliada para láct",
+      "summary": "FrieslandCampina y PT Ultrajaya Milk Industry formalizaron una alianza estratégica en la que Frisian Flag Indonesia se integra al Grupo Ultrajaya, consolidando una plataforma ampliada en lácteos y beb",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2604,29 +2616,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Sapporo estudia trasladar a Estados Unidos su cerveza sin alcohol para ese mercado",
-      "summary": "Sapporo evalúa relocalizar la producción de cerveza sin alcohol a Estados Unidos ante los aranceles del 50% aplicados a importaciones desde Canadá. La medida refleja el impacto de la política comercia",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Joanne Wilson named next Diageo CFO - Drinks International",
-      "summary": "Diageo designa a Joanne Wilson como nueva CFO a partir de 2027, reemplazando a Nik Jhangiani. Wilson trae experiencia relevante de WPP y, crucialmente, de Britvic (empresa de bebidas), además de roles",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Diageo appoints another former Tesco executive as Joanne Wilson named CFO | FoodBev Media",
-      "summary": "Diageo designó a Joanne Wilson como nueva CFO, reemplazando a Nik Jhangiani. Wilson se unirá al directorio y comité ejecutivo en 2027. Este cambio en la cúpula financiera de uno de los mayores product",
+      "summary": "Diageo anuncia el nombramiento de Joanne Wilson como nueva Chief Financial Officer (CFO), reemplazando a Nik Jhangiani. Wilson, ejecutiva con experiencia en Tesco, se incorporará a la junta directiva ",
       "companies": [
         "Diageo"
       ],
@@ -2637,7 +2628,7 @@
     },
     {
       "title": "Diageo reveals new CFO to replace Nik Jhangiani in 2027",
-      "summary": "Diageo, principal grupo de bebidas alcohólicas a nivel mundial, anuncia el cambio de CFO: Joanne Wilson, actualmente en WPP, asumirá en 2027 reemplazando a Nik Jhangiani. El movimiento forma parte de ",
+      "summary": "Diageo anuncia el cambio de CFO: Joanne Wilson (actual CFO de WPP) reemplazará a Nik Jhangiani a partir de 2027. El movimiento responde al plan de turnaround del CEO Dave Lewis en el gigante de bebida",
       "companies": [
         "Diageo"
       ],
@@ -2647,16 +2638,56 @@
       "region": "Mundial"
     },
     {
-      "title": "Backus y el canal en el que busca duplicar su facturación al 2028: las cervezas que explora - Gestión",
-      "summary": "Backus, principal cervecero peruano, ha identificado un canal estratégico donde proyecta duplicar su facturación hacia 2028. La empresa está explorando nuevas líneas de cerveza para capturar este segm",
+      "title": "Smaller packs, more protein: AB InBev to adapt drinks to shifting tastes - Reuters",
+      "summary": "AB InBev ajusta su portafolio hacia packs más pequeños e incrementa el contenido proteico en sus bebidas, respondiendo a cambios en las preferencias del consumidor. Esta estrategia refleja dos tendenc",
       "companies": [
-        "Backus"
+        "AB InBev"
       ],
       "segments": [
-        "distribution_execution",
-        "financial_results"
+        "consumer_market_trends"
       ],
-      "region": "Regional"
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo names Joanne Wilson as CFO as drinks giant accelerates transformation plan - BeverageDaily.com",
+      "summary": "Diageo designó a Joanne Wilson como CFO en el contexto de la aceleración de su plan de transformación corporativa. Este cambio en la cúpula financiera de uno de los mayores fabricantes globales de beb",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Straightaway Turns Its Portland Airport Bar Into a Brand Lab - BevNET.com",
+      "summary": "Straightaway Cocktails implementó un bar experimental en el aeropuerto de Portland en lugar de expandir presencia en retail convencional. Esta estrategia permite testear nuevos productos de RTD (ready",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sapporo estudia trasladar a Estados Unidos su cerveza sin alcohol para ese mercado",
+      "summary": "Sapporo Holdings estudia relocalizar la producción de cerveza sin alcohol a Estados Unidos para eludir aranceles del 50% sobre importaciones desde Canadá. La decisión responde a la revisión estratégic",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marketing: Stiller’s Soda Goes Full New York with Katz’s Deli Deal - BevNET.com",
+      "summary": "Stiller's Soda, marca de bebidas posicionada como alternativa más saludable, expandió su distribución mediante una alianza con Katz's Delicatessen, icónico restaurante de Nueva York. Esta estrategia d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
     }
   ]
 }
