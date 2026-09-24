@@ -2252,7 +2252,7 @@
   "2026-09-24": [
     {
       "title": "Volvieron a caer las ventas de supermercados y autoservicios",
-      "summary": "Las ventas de supermercados y autoservicios cayeron 2,1% en julio respecto al mismo mes del año anterior, acumulando siete meses consecutivos de retracción (-2,7% acumulado en el año). El debilitamien",
+      "summary": "Las ventas de supermercados y autoservicios cayeron 2,1% en julio respecto a 2025, completando siete meses consecutivos de desempeño negativo y acumulando una caída de 2,7% en el año. Este deterioro d",
       "companies": [],
       "segments": [
         "distribution_execution",
@@ -2261,8 +2261,18 @@
       "region": "Local"
     },
     {
-      "title": "Bebidas sin alcohol bajo la lupa: el nuevo desafío de negocio para las marcas detrás del “0,0” - ecocuyo.com",
-      "summary": "El segmento de bebidas sin alcohol (0,0) emerge como desafío estratégico clave para las marcas, impulsado por cambios en comportamiento de consumo y regulación sobre alcohol. Este nicho representa una",
+      "title": "Señales mixtas: menos ventas en supermercados y más en shoppings",
+      "summary": "Las ventas minoristas en Argentina muestran divergencia según canal en julio: supermercados y autoservicios mayoristas continúan en contracción, mientras que shoppings registran crecimiento. Esta frag",
+      "companies": [],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Bebidas sin alcohol bajo la lupa: el nuevo desafío de negocio para las marcas detrás del “0,0” - Ecocuyo",
+      "summary": "El segmento de bebidas sin alcohol (0,0°) se posiciona como un nuevo desafío y oportunidad de negocio para las marcas de la industria. La categoría está ganando relevancia en el mercado argentino, imp",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2271,20 +2281,17 @@
       "region": "Local"
     },
     {
-      "title": "Backus y el canal en el que busca duplicar su facturación al 2028: las cervezas que explora",
-      "summary": "Backus, subsidiaria peruana de AB InBev, busca duplicar su facturación en el canal Horeca (hoteles, restaurantes, bares) para 2028. Con 236,7 millones de litros comercializados anualmente en Perú y má",
-      "companies": [
-        "Backus"
-      ],
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal en Argentina enfrenta una crisis de demanda con caída del consumo, obligando a productores a ajustar costos operativos. Los cambios en hábitos de consumo reflejan una ",
+      "companies": [],
       "segments": [
-        "distribution_execution",
-        "financial_results"
+        "consumer_market_trends"
       ],
-      "region": "Regional"
+      "region": "Local"
     },
     {
       "title": "La campaña de Coca-Cola con Luis Miguel llegó a Cofepris; ¿por qué la denunciaron y qué respondió la empresa?",
-      "summary": "Industria Mexicana de Coca-Cola enfrenta denuncia ante Cofepris por su campaña publicitaria de 100 años con Luis Miguel, presentada por la ONG El Poder del Consumidor. La organización argumenta que la",
+      "summary": "Coca-Cola enfrenta denuncia ante Cofepris por su campaña de centenario con Luis Miguel, presentada por la organización El Poder del Consumidor, que la acusa de violar regulaciones sanitarias sobre pub",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2295,8 +2302,33 @@
       "region": "Regional"
     },
     {
+      "title": "Esta es la carta en la que Coca-Cola Femsa en Colombia anuncia su retiro de la Cámara de la Industria de Bebidas de la Andi - Revista Semana",
+      "summary": "Coca-Cola FEMSA se retira de la Cámara de la Industria de Bebidas de la ANDI en Colombia, un movimiento estratégico que refleja tensiones entre actores clave de la industria. Este retiro de uno de los",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Backus y el canal en el que busca duplicar su facturación al 2028: las cervezas que explora - Gestión",
+      "summary": "Backus, principal cervecería peruana, planea duplicar su facturación hacia 2028 a través de la expansión estratégica en canales específicos y desarrollo de nuevas líneas de cerveza. Esta estrategia de",
+      "companies": [
+        "Backus"
+      ],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Era hijo del dueño de La Costeña y fundó Jumex con solo 20 empleados: hoy su empresa mueve 25,166 mdp",
-      "summary": "Jumex, empresa mexicana de bebidas fundada por hijo del dueño de La Costeña, alcanzó ingresos de 25,166 millones de pesos. La compañía creció desde 20 empleados iniciales hasta convertirse en una de l",
+      "summary": "Jumex, fundada por hijo del dueño de La Costeña, alcanzó ingresos de 25,166 millones de pesos. La empresa partió con solo 20 empleados y se convirtió en uno de los principales jugadores en bebidas de ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2306,7 +2338,7 @@
     },
     {
       "title": "De los residuos a la viña: así es el proyecto circular de Terras Gauda con la bodega chilena Concha y Toro - Tecnovino",
-      "summary": "Terras Gauda y Concha y Toro implementan un proyecto de economía circular que transforma residuos en insumos para viñedos, demostrando innovación en sustentabilidad dentro de la industria de bebidas a",
+      "summary": "Terras Gauda y Concha y Toro desarrollan un proyecto de economía circular que aprovecha residuos de producción para reinvertirlos en viñedos. La iniciativa representa una estrategia de sustentabilidad",
       "companies": [
         "Concha y Toro"
       ],
@@ -2316,19 +2348,8 @@
       "region": "Regional"
     },
     {
-      "title": "'Complejidad': Presidente de Postobón, propiedad de Ardila Lülle, se sincera sobre realidad en la histórica empresa de bebidas - redmas.com.co",
-      "summary": "El presidente de Postobón, empresa de bebidas propiedad del grupo Ardila Lülle, reconoce la complejidad operativa de la compañía, una de las mayores productoras de bebidas en América Latina. Aunque el",
-      "companies": [
-        "Postobon"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Press Clips: Diageo’s Next CFO, Sun Cruiser’s New York Sports Deal and Athletic’s Olive Oil Beer | Brewbound",
-      "summary": "Diageo anuncia cambio en la posición de CFO, posiblemente indicando movimientos estratégicos en la compañía alcohólica más grande del mundo. Boston Beer y Athletic Brewing Company ejecutan iniciativas",
+      "summary": "Diageo anuncia cambio en su posición de CFO, evento clave en la dirección financiera del mayor productor de bebidas alcohólicas global. Athletic Brewing lanza una cerveza innovadora con aceite de oliv",
       "companies": [
         "Boston Beer Company",
         "Diageo"
@@ -2341,7 +2362,7 @@
     },
     {
       "title": "Recess Preps for Scale with Health-Ade, Poppi Vets Joining in Executive Roles - BevNET.com",
-      "summary": "Recess, fabricante de bebidas funcionales, refuerza su estructura ejecutiva contratando a Matthew Sztab como Chief Commercial Officer y Graham Goeppert como SVP de Digital Commerce & Media, complement",
+      "summary": "Recess, fabricante de bebidas funcionales, refuerza su equipo ejecutivo contratando a Matthew Sztab como Chief Commercial Officer y Graham Goeppert como SVP de Digital Commerce & Media, consolidando u",
       "companies": [
         "Poppi"
       ],
@@ -2353,7 +2374,7 @@
     },
     {
       "title": "Diageo names Joanne Wilson as CFO as drinks giant accelerates transformation plan",
-      "summary": "Diageo nombra a Joanne Wilson como CFO, ejecutiva con experiencia en la industria de bebidas (ex CFO de Britvic) y trayectoria en retail y gestión financiera. Wilson se incorporará al Board y Executiv",
+      "summary": "Diageo designó a Joanne Wilson como nueva CFO, quien asumirá en 2027 y se unirá al Directorio y Comité Ejecutivo. Wilson proviene de WPP plc y posee experiencia previa en la industria de bebidas (Brit",
       "companies": [
         "Diageo"
       ],
@@ -2363,8 +2384,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade. - The Motley Fool",
-      "summary": "Análisis comparativo de desempeño bursátil entre Monster Beverage y Coca-Cola en la última década, con Monster mostrando retornos superiores. El artículo evalúa cuál es la mejor oportunidad de inversi",
+      "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade. - The Globe and Mail",
+      "summary": "Monster Beverage superó significativamente a Coca-Cola en retornos accionarios en la última década, evidenciando el desplazamiento de inversores hacia marcas de energéticos de mayor crecimiento. El an",
       "companies": [
         "The Coca-Cola Company",
         "Monster Beverage"
@@ -2376,20 +2397,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Beverages, Alcohol, and Tobacco Stocks Q2 Recap: Benchmarking Celsius (NASDAQ:CELH) - TradingView",
-      "summary": "Análisis de desempeño de Celsius (CELH) en Q2 comparado con pares del sector de bebidas, alcohol y tabaco. La noticia benchmarkea la performance bursátil de empresas de bebidas energéticas frente a co",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Müller and Baileys team up for new premium indulgent dessert | FoodBev Media",
-      "summary": "Müller UK & Ireland lanzó Müller Bliss x Baileys, una nueva línea premium de postres lácteos con sabor a Baileys en formato alcohol-free. La alianza estratégica combina el yogur griego de Müller Bliss",
+      "summary": "Müller UK & Ireland lanzó Müller Bliss x Baileys, un nuevo postre premium sin alcohol que combina yogur griego estilo Bliss con salsa de sabor Baileys y chocolate oscuro. Se trata de una asociación de",
       "companies": [
         "Diageo"
       ],
@@ -2400,7 +2409,7 @@
     },
     {
       "title": "Oatly taps fibre demand with launch of latest UK oat drink line | FoodBev Media",
-      "summary": "Oatly lanza dos nuevas bebidas de avena con alto contenido de fibra en el mercado UK, respondiendo a la creciente demanda de productos funcionales para salud digestiva. La iniciativa busca capitalizar",
+      "summary": "Oatly lanza dos nuevas bebidas de avena enriquecidas con fibra en el mercado UK, respondiendo a la creciente demanda de productos que aborden el déficit de fibra en la población. Esta iniciativa evide",
       "companies": [
         "Oatly"
       ],
@@ -2410,8 +2419,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Molson Coors' new lager report shows almost a fifth of off-trade sales come from core lines - conveniencestore.co.uk",
+      "summary": "Molson Coors reporta que casi el 20% de sus ventas en canal off-trade (minorista sin consumo en sitio) provienen de sus líneas de cerveza lager core. Este dato evidencia la concentración de volumen en",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Jack Daniel’s Debuts Tennessee Blackberry mixed with Lemonade as New Canned Cocktail",
-      "summary": "Jack Daniel's lanzó un nuevo cóctel listo para beber (RTD) en formato de lata: Tennessee Blackberry mezclado con limonada, de 100 calorías. Esta estrategia expande la presencia de la marca en el segme",
+      "summary": "Jack Daniel's lanza un nuevo cóctel listo para beber (RTD) en formato de lata: Tennessee Blackberry con limonada, de 100 calorías, en packs de cuatro unidades. La innovación responde a la tendencia cr",
       "companies": [
         "Brown-Forman"
       ],
@@ -2422,7 +2443,7 @@
     },
     {
       "title": "Las exportaciones españolas del sector del vino cierran la campaña con una caída del 13%",
-      "summary": "Las exportaciones de vino español cayeron 13% en volumen durante la última campaña, aunque la facturación se redujo solo 7,2% gracias al aumento del precio promedio a €3.27/litro. Este comportamiento ",
+      "summary": "Las exportaciones de vino españolas cerraron la campaña con una caída del 13% en volumen, mientras la facturación descendió 7,2% a pesar del aumento del precio medio unitario. Esta contracción refleja",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2431,8 +2452,29 @@
       "region": "Mundial"
     },
     {
+      "title": "Diageo appoints third finance chief in less than three years - The Drinks Business",
+      "summary": "Diageo ha designado su tercer director financiero en menos de tres años, señalando potencial inestabilidad en la gestión ejecutiva del mayor productor de bebidas espirituosas del mundo. Este cambio re",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Inside the Intoxicating Hemp Beverage Business as Federal Ban Nears",
+      "summary": "La industria de bebidas de cáñamo intoxicante enfrenta una prohibición federal potencial en diciembre en EE.UU., que fue pospuesta un mes. A pesar de esta amenaza existencial, el mercado continúa acti",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Why Coca-Cola is Investing $10bn in US Supply Chain - Supply Chain Digital Magazine",
-      "summary": "Coca-Cola anunció una inversión de $10 mil millones en su cadena de suministro estadounidense, reflejando una apuesta estratégica por fortalecer la infraestructura logística y de distribución en su pr",
+      "summary": "Coca-Cola invertirá $10 mil millones en modernizar su cadena de suministro en Estados Unidos, el principal mercado de la compañía. Esta inversión busca mejorar la eficiencia operativa, reducir costos ",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2442,8 +2484,28 @@
       "region": "Mundial"
     },
     {
+      "title": "Italian Wine Brands reduce sus ingresos un 5,3% por el frenazo de las exportaciones en Estados Unidos",
+      "summary": "Las marcas italianas de vino experimentaron caída de ingresos del 5,3% debido a la contracción de exportaciones hacia Estados Unidos, principal mercado para vino premium. A pesar de la caída de volume",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "El vino natural gana un 70% más de compradores españoles en la tienda online de Decántalo",
-      "summary": "Decántalo reporta un crecimiento del 70% en compradores de vino natural a través de su plataforma e-commerce en España, aunque el gasto medio por cliente disminuye debido a que la facturación crece me",
+      "summary": "Decántalo registra un crecimiento del 70% en compradores de vino natural a través de su canal online en España, aunque el gasto medio por cliente disminuye porque el número de pedidos crece más que la",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Estados Unidos recorta casi un 10% sus compras de vino francés",
+      "summary": "Estados Unidos redujo sus compras de vino francés en casi 10%, situando las ventas en 5.400 millones de euros, con espumosos como única categoría en expansión. Esta caída refleja cambios en preferenci",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2453,7 +2515,7 @@
     },
     {
       "title": "La Colombe expands beyond coffee with new RTD Matcha Latte line | FoodBev Media",
-      "summary": "La Colombe lanza una línea de bebidas RTD de Matcha Latte en tres variedades, expandiendo su portafolio más allá del café hacia el segmento de matcha en rápido crecimiento. Esta estrategia de diversif",
+      "summary": "La Colombe lanza línea de bebidas RTD de Matcha Latte en tres variedades (clásica, fresa y vainilla), diversificando su portafolio más allá del café hacia el segmento de rápido crecimiento del matcha.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2463,7 +2525,7 @@
     },
     {
       "title": "FrieslandCampina and Ultrajaya strike strategic partnership as Frisian Flag Indonesia joins Indonesian beverage group | FoodBev Media",
-      "summary": "FrieslandCampina y PT Ultrajaya Milk Industry formalizaron una alianza estratégica mediante la cual Frisian Flag Indonesia se integra al Grupo Ultrajaya. Esta operación consolida una plataforma amplia",
+      "summary": "FrieslandCampina y PT Ultrajaya Milk Industry formalizaron una alianza estratégica donde Frisian Flag Indonesia (FFI) se integra al Grupo Ultrajaya, consolidando una plataforma más amplia en lácteos y",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2472,8 +2534,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
+      "summary": "Chobani, líder global en yogur griego, ejecuta una estrategia de diversificación hacia categorías adyacentes (proteína, café, conveniencia) para capturar nuevos segmentos de consumidores. El lanzamien",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Aloha Medicinals launches FungiFuse",
-      "summary": "Aloha Medicinals lanzó FungiFuse, una línea de ingredientes funcionales dirigida al segmento de bebidas listas para consumir (RTD), shots funcionales, polvos para bebidas y suplementos. Esta expansión",
+      "summary": "Aloha Medicinals lanzó FungiFuse, una línea de productos funcionales dirigida al segmento de bebidas listas para consumir (RTD), shots funcionales, polvos para bebidas y suplementos. Este movimiento r",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2483,7 +2555,7 @@
     },
     {
       "title": "La patronal cervecera alemana lleva al Gobierno la caída del consumo de cerveza",
-      "summary": "La patronal cervecera alemana presenta ante el Gobierno la caída del consumo de cerveza, un mercado crítico para la industria global. El diálogo aborda tres ejes estratégicos: crecimiento de bebidas s",
+      "summary": "La industria cervecera alemana alertó a su gobierno sobre la caída del consumo de cerveza, marcando una tendencia preocupante en un mercado clave europeo. El diálogo sectorial incluye el crecimiento d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2492,19 +2564,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Moscow court bans South Ossetia-registered company from using Coca-Cola name - Latest news from Azerbaijan",
-      "summary": "Un tribunal de Moscú prohibió a una empresa registrada en Osetia del Sur utilizar la marca Coca-Cola. La decisión refuerza la protección de propiedad intelectual de The Coca-Cola Company en mercados p",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "BrewDog’s new owners distance themselves from former CEO James Watt",
-      "summary": "Tilray Brands UK adquirió BrewDog en marzo de 2024 y ha tomado distancia de su antiguo CEO James Watt, quien renunció en mayo de 2024. Tilray enfatiza que Watt no tiene rol ni conexión con BrewDog pos",
+      "summary": "Tilray Brands UK adquirió BrewDog en marzo de 2024 y ha distanciado públicamente a la cervecería de su exCEO James Watt, quien renunció en mayo del mismo año. Tilray enfatiza que Watt no mantiene ning",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2514,7 +2575,7 @@
     },
     {
       "title": "Recess Preps for Scale, Adds Health-Ade & Poppi Vets | Brewbound",
-      "summary": "Recess, marca de bebidas funcionales, incorpora ejecutivos veteranos de Health-Ade y Poppi para acelerar su expansión en canales convencionales. Este movimiento indica una estrategia agresiva de escal",
+      "summary": "Recess, marca de bebidas funcionales, incorpora ejecutivos veteranos de Health-Ade y Poppi para acelerar su expansión en canales mainstream. El movimiento refleja una estrategia de escalabilidad en el",
       "companies": [
         "Poppi"
       ],
@@ -2525,7 +2586,7 @@
     },
     {
       "title": "Diageo appoints another former Tesco executive as Joanne Wilson named CFO | FoodBev Media",
-      "summary": "Diageo nombró a Joanne Wilson como nueva CFO, reemplazando a Nik Jhangiani, con inicio previsto en 2027. Wilson se integrará al board y comité ejecutivo del gigante de bebidas alcohólicas (Guinness, J",
+      "summary": "Diageo, líder global en bebidas alcohólicas (propietario de Guinness y Johnnie Walker), anunció el nombramiento de Joanne Wilson como nueva CFO a partir de 2027, reemplazando a Nik Jhangiani. Wilson, ",
       "companies": [
         "Diageo"
       ],
@@ -2535,19 +2596,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo names WPP CFO Joanne Wilson as new financial chief - Foodservice Equipment Journal",
-      "summary": "Diageo, líder global en bebidas alcohólicas, designó a Joanne Wilson, ex CFO de WPP, como nueva directora financiera. Este cambio de liderazgo en una de las tres mayores compañías de bebidas del mundo",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Oatly launches fibre-boosted oat drink range",
-      "summary": "Oatly lanzó dos nuevas líneas de bebidas de avena con 5g de fibra por porción: Fibre Barista Edition y Fibre Low-Cal Edition. La innovación responde a la creciente demanda de bebidas funcionales enriq",
+      "summary": "Oatly lanza dos nuevas líneas de bebidas de avena con fibra agregada (5g por porción): Fibre Barista Edition y Fibre Low-Cal Edition. Esta innovación responde a la demanda creciente de bebidas funcion",
       "companies": [
         "Oatly"
       ],
@@ -2557,40 +2607,12 @@
       "region": "Mundial"
     },
     {
-      "title": "Estados Unidos recorta casi un 10% sus compras de vino francés",
-      "summary": "Estados Unidos redujo sus importaciones de vino francés casi 10%, con ventas totales cayendo a 5.400 millones de euros, reflejo de cambios en preferencias de consumo y presión competitiva en el mercad",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Italian Wine Brands reduce sus ingresos un 5,3% por el frenazo de las exportaciones en Estados Unidos",
-      "summary": "Las marcas italianas de vino experimentaron una contracción de ingresos del 5,3% debido a la desaceleración de exportaciones hacia Estados Unidos, principal mercado para vinos premium. Con ingresos se",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Asahi targets draught waste with new clean line quality scheme",
-      "summary": "Asahi lanzó un programa de calidad para cerveza de barril que utiliza telemetría para detectar fluctuaciones de temperatura, problemas de eficiencia y ciclos de mantenimiento, reduciendo desperdicios ",
+      "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade. - The Motley Fool",
+      "summary": "Monster Beverage ha superado significativamente el desempeño de Coca-Cola en rentabilidad accionaria durante la última década, reflejando el crecimiento del segmento de bebidas energéticas versus el m",
       "companies": [
-        "Asahi Group"
+        "The Coca-Cola Company",
+        "Monster Beverage"
       ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "C4 puts twist on energy with All Hopped Up",
-      "summary": "C4 Energy lanza All Hopped Up, una bebida energética con perfil de cerveza light con naranja, sin alcohol. La estrategia responde al movimiento sober-curious, expandiendo el portafolio de Nutrabolt ha",
-      "companies": [],
       "segments": [
         "consumer_market_trends",
         "ma_and_strategy"
@@ -2598,12 +2620,13 @@
       "region": "Mundial"
     },
     {
-      "title": "Kegstar and Drinkworks extend partnership",
-      "summary": "Heineken (a través de Drinkworks) amplía su acuerdo de multi-año con Kegstar para utilizar su red compartida de barriles en Australia y Nueva Zelanda. Esta extensión de la alianza de largo plazo forta",
-      "companies": [],
+      "title": "Asahi targets draught waste with new clean line quality scheme",
+      "summary": "Asahi lanzó un programa de calidad para cerveza de grifo que utiliza telemetría para monitorear temperatura, eficiencia de líneas y ciclos de mantenimiento, reduciendo desperdicios y mejorando la rent",
+      "companies": [
+        "Asahi Group"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
+        "company_news"
       ],
       "region": "Mundial"
     }
