@@ -2291,8 +2291,19 @@
   ],
   "2026-09-25": [
     {
+      "title": "Coca-Cola Argentina suma Powerade Zero, sin azúcar ni calorías, al sabor Mountain Blast",
+      "summary": "Coca-Cola Argentina lanza Powerade Zero, una bebida de hidratación deportiva sin azúcar ni calorías con electrolitos y vitamina B3, en sabor Mountain Blast. El lanzamiento responde a la tendencia glob",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "supply_chain_commodities"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Menos etiquetas, más tetra brik: cómo cambiaron los hábitos del consumidor de vino",
-      "summary": "El mercado argentino de vinos experimenta un cambio de preferencias de consumo: mientras el volumen total se mantiene estable, hay migración de vinos varietales (caída 21,2%) hacia vinos genéricos más",
+      "summary": "Los consumidores argentinos migran hacia vinos genéricos más económicos (-21,2% en varietales vs +11,4% en genéricos, enero-julio 2026) y abandonan el vidrio por empaques más accesibles como tetra bri",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2302,7 +2313,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta contracción de demanda, obligando a productores a ajustar estructuras de costos frente a cambios en patrones de consumo. Esta tendencia impacta directamente e",
+      "summary": "La cerveza artesanal enfrenta una crisis de demanda con caída significativa del consumo en Argentina, impulsando ajustes de costos en las pequeñas productoras. El segmento experimenta cambios estructu",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2310,20 +2321,8 @@
       "region": "Local"
     },
     {
-      "title": "Coca-Cola anunció su retiro dentro de la Cámara de la Industria de Bebidas de la Andi",
-      "summary": "Coca-Cola se retira voluntariamente de la Cámara de la Industria de Bebidas de la Andi en Colombia, aunque mantiene su afiliación a la asociación matriz. Esta decisión refleja cambios estratégicos en ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Confiança entra na jornada de compra de bebidas destiladas da Diageo - Consumidor Moderno",
-      "summary": "Diageo integra la marca Confiança en su estrategia de compra de bebidas destiladas, expandiendo su portafolio en el segmento de destilados. Esta incorporación refuerza la presencia de Diageo en el mer",
+      "title": "Diageo dobra verba para uísque White Horse e mira consumidor jovem",
+      "summary": "Diageo duplica inversión en marketing de White Horse en Brasil para 2026, apuntando a consumidores jóvenes urbanos. La campaña 'Criado na Escócia. Recriado no Rolê' posiciona el whisky hacia la cultur",
       "companies": [
         "Diageo"
       ],
@@ -2334,30 +2333,44 @@
       "region": "Regional"
     },
     {
-      "title": "Pepsi alista aumento de precios para finales de 2026: ¿Qué sabemos del incremento en refrescos y papas?",
-      "summary": "PepsiCo implementará aumentos de precios en bebidas y snacks (Pepsi, Doritos, Ruffles, SunChips) a finales de 2026 o principios de 2027, revirtiendo reducciones de precios realizadas a inicio de año. ",
+      "title": "Mientras Bodega Aurrera y Mamá Lucha impulsa una estrategia omnicanal y entregas rápidas, Tiendas 3B ya tiene 3,624 sucursales con una estrategia de expansión agresiva",
+      "summary": "Tiendas 3B amplía agresivamente su presencia con 3,624 sucursales, mientras Bodega Aurrera y Mamá Lucha responden con estrategia omnicanal y entregas rápidas. Este movimiento de consolidación y difere",
       "companies": [
-        "PepsiCo"
+        "Walmart"
       ],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Regional"
     },
     {
-      "title": "Selo da Diageo leva verificação de procedência de garrafas ao varejo - estadao.com.br",
-      "summary": "Diageo implementa un sistema de sellado que permite verificar la procedencia y autenticidad de botellas directamente en el punto de venta, combatiendo la falsificación. Esta innovación en anti-counter",
+      "title": "Coca-Cola anunció su retiro dentro de la Cámara de la Industria de Bebidas de la Andi",
+      "summary": "Coca-Cola se retiró voluntariamente de la Cámara de la Industria de Bebidas de la Andi (Colombia), aunque mantiene su membresía en la asociación general. Este movimiento refleja cambios en la estructu",
       "companies": [
-        "Diageo"
+        "The Coca-Cola Company"
       ],
       "segments": [
-        "distribution_execution"
+        "consumer_market_trends",
+        "marketing_innovation"
       ],
       "region": "Regional"
+    },
+    {
+      "title": "Booze News Weekly Roundup: Historic California Winery Files for Bankruptcy, AB InBev RTD Lawsuit Dismissed, and More",
+      "summary": "AB InBev logró la desestimación de una demanda legal contra su línea de bebidas RTD (Ready-To-Drink), eliminando un riesgo de litigio en su portafolio de productos de conveniencia. Simultáneamente, Gu",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
     },
     {
       "title": "Big Food warns growing scrutiny of ultra-processed foods could hit sales and costs",
-      "summary": "Las grandes empresas de alimentos procesados advierten en documentos de la SEC que el creciente escrutinio regulatorio sobre ultraprocesados (definiciones legales, legislación estatal, política federa",
+      "summary": "Grandes empresas de alimentos procesados advierten en presentaciones ante la SEC sobre riesgos regulatorios crecientes en torno a los ultra-procesados (UPFs). La presión por definiciones claras, nueva",
       "companies": [
         "PepsiCo"
       ],
@@ -2369,7 +2382,7 @@
     },
     {
       "title": "Growth by acquisition: 5 megadeals transforming food and drink",
-      "summary": "Análisis de cinco megadeales de M&A que están transformando la industria de alimentos y bebidas. El artículo examina cómo las grandes corporaciones utilizan adquisiciones como estrategia para penetrar",
+      "summary": "Análisis de cinco operaciones estratégicas de M&A en la industria de alimentos y bebidas que demuestran cómo grandes corporaciones utilizan adquisiciones para entrar en nuevas categorías de productos,",
       "companies": [
         "Keurig Dr Pepper",
         "Danone"
@@ -2381,19 +2394,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo nombra a Joanne Wilson directora financiera del grupo",
-      "summary": "Diageo, principal productor mundial de bebidas alcohólicas, designó a Joanne Wilson como nueva directora financiera, reemplazando a Nik Jhangiani. El cambio ocurre en medio de un programa de reestruct",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Marie Brizard gana menos lastrada por la debilidad del mercado de espirituosos",
-      "summary": "Marie Brizard reportó caída en EBITDA a 4,9 millones de euros, afectada por incremento de impuestos accisales sobre bebidas alcohólicas y repercusiones de la guerra de Ucrania en mercados externos. La",
+      "summary": "Marie Brizard reportó caída en EBITDA a 4,9 millones, afectada por incremento de impuestos accisales y presión de factores externos como la guerra de Ucrania. La debilidad del mercado de espirituosos ",
       "companies": [
         "Marie Brizard Wine & Spirits"
       ],
@@ -2403,8 +2405,30 @@
       "region": "Mundial"
     },
     {
-      "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade. - Yahoo Finance",
-      "summary": "Análisis comparativo de rendimiento bursátil entre Monster Beverage y Coca-Cola en la última década, con Monster superando significativamente a KO. El artículo evalúa cuál es la mejor oportunidad de i",
+      "title": "Diageo nombra a Joanne Wilson directora financiera del grupo",
+      "summary": "Diageo, el gigante global de destilados y bebidas alcohólicas, designó a Joanne Wilson como nueva directora financiera, reemplazando a Nik Jhangiani. El cambio ocurre mientras la compañía ejecuta un p",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Oatly expands oat drink range with fibre-boosted products as demand for healthier beverages grows",
+      "summary": "Oatly lanza nuevas líneas de bebida de avena enriquecidas con fibra (Fibre Barista Edition y Fibre Low-Cal Edition) en Reino Unido y Europa, respondiendo a la creciente demanda de bebidas más saludabl",
+      "companies": [
+        "Oatly"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade. - finance.yahoo.com",
+      "summary": "Análisis comparativo de desempeño bursátil entre Monster Beverage y Coca-Cola en la última década, mostrando que Monster superó significativamente los retornos de KO. La noticia evalúa el posicionamie",
       "companies": [
         "The Coca-Cola Company",
         "Monster Beverage"
@@ -2417,7 +2441,7 @@
     },
     {
       "title": "Coke: World Cup Packaging Wins, New Global Strategy",
-      "summary": "Coca-Cola ejecutó una estrategia global de packaging diferenciado para la Copa Mundial 2026, incluyendo ediciones especiales en oro para mercados clave como India y España, vinculadas a su FIFA World ",
+      "summary": "Coca-Cola implementa una estrategia global de packaging vinculada a la Copa Mundial FIFA 2026, incluyendo ediciones especiales de latas doradas en India y España y un nuevo lenguaje visual corporativo",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2427,8 +2451,52 @@
       "region": "Mundial"
     },
     {
+      "title": "Red Bull vs. Kroger Is Bigger Than Energy Drinks",
+      "summary": "Kroger está confrontando a grandes marcas de CPG como Red Bull y Boar's Head en torno a políticas de pricing, señalando un cambio estratégico hacia private label. Este conflicto refleja un reposiciona",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Distribution: oHy Makes Target Debut; Walmart’s ‘New & Noteworthy’ Set Takes Shape - BevNET.com",
+      "summary": "oHy, marca de agua mineral gasificada enriquecida con hidrógeno, debutó nacionalmente en Target con presencia en 800 locales estadounidenses. Este movimiento refleja la creciente adopción de formatos ",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer and RTDs Make Largest Improvement in Latest NIQ Weekly Scans | Brewbound",
+      "summary": "Beer y bebidas alcohólicas listas para consumir (RTDs) registraron la mayor mejora en escaneos semanales de NIQ durante el fin de semana del Día del Trabajo en EE.UU. Las ventas totales de bebidas alc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo’s push to stop innovation dying in the field",
+      "summary": "PepsiCo identifica un desafío crítico en la escalabilidad de innovaciones agrícolas: tecnologías que funcionan en laboratorio fallan en la implementación comercial debido a complejidades de integració",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola Vietnam expands packaging collection programme - Vietnam Investment Review - VIR",
-      "summary": "Coca-Cola Vietnam amplía su programa de recolección de envases, demostrando compromiso con la economía circular y reducción de residuos. Esta iniciativa responde a presiones regulatorias crecientes en",
+      "summary": "Coca-Cola Vietnam amplía su programa de recolección de envases, reforzando su estrategia de sustentabilidad y economía circular en el mercado vietnamita. Esta iniciativa impacta directamente en la ges",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2440,7 +2508,7 @@
     },
     {
       "title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
-      "summary": "Chobani, líder global en yogur griego, diversifica su portafolio más allá del yogur hacia proteína, café y categorías de conveniencia. La marca lanza iniciativas innovadoras como 'flavour drops' de ca",
+      "summary": "Chobani diversifica su portafolio más allá del yogurt griego mediante inversión en nuevas categorías y formatos, incluyendo un lanzamiento estratégico de gotas saborizadas para café destinadas a gener",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2449,31 +2517,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Oatly taps fibre demand with launch of latest oat drink line | FoodBev Media",
-      "summary": "Oatly lanza dos nuevas bebidas de avena con alto contenido de fibra, respondiendo a la demanda creciente de productos funcionales que cierren la brecha de fibra en la dieta. La iniciativa capitaliza l",
-      "companies": [
-        "Oatly"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors' new lager report shows almost a fifth of off-trade sales come from core lines - conveniencestore.co.uk",
-      "summary": "Molson Coors reporta que casi el 20% de sus ventas en canal off-trade (minorista) proviene de líneas core de cerveza lager. Este dato refleja la importancia estratégica de mantener marcas base sólidas",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "distribution_execution",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Campari Group Global Travel Retail and Norwegian Cruise Line unveil Beach Lounge by Aperol at Great Stirrup Cay - Global Travel Retail Magazine",
-      "summary": "Campari Group y Norwegian Cruise Line inauguraron Beach Lounge by Aperol en Great Stirrup Cay, demostrando la estrategia de expansión del grupo en canales de viajes y experiencias de consumo. Esta ini",
+      "summary": "Campari Group lanzó Beach Lounge by Aperol en Great Stirrup Cay, la isla privada de Norwegian Cruise Line, expandiendo su estrategia de experiencias de marca en viajes y turismo. Esta iniciativa posic",
       "companies": [
         "Campari Group"
       ],
@@ -2484,7 +2529,7 @@
     },
     {
       "title": "Las exportaciones españolas del sector del vino cierran la campaña con una caída del 13%",
-      "summary": "Las exportaciones de vino español cayeron 13% en volumen durante la campaña, aunque la facturación se contrajo solo 7,2% gracias al aumento del precio medio unitario a €3.274,3 millones. Este comporta",
+      "summary": "Las exportaciones de vino español cayeron 13% en volumen durante la última campaña, con facturación en baja del 7,2% a pesar del aumento del precio medio unitario a €3.27/litro. España es uno de los m",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2494,7 +2539,7 @@
     },
     {
       "title": "Milo’s Tea surpasses $1 billion in annual retail sales",
-      "summary": "Milo's Tea Co. alcanzó $1 billón en ventas minoristas anuales (52 semanas al 6 de septiembre), tres años antes de lo proyectado internamente. El crecimiento fue 100% orgánico sin adquisiciones, median",
+      "summary": "Milo's Tea Co. alcanzó USD 1.000 millones en ventas minoristas anuales (52 semanas hasta septiembre 2024), superando su proyección inicial de fin de 2027. El crecimiento fue 100% orgánico sin adquisic",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2504,7 +2549,7 @@
     },
     {
       "title": "Inside the Intoxicating Hemp Beverage Business as Federal Ban Nears",
-      "summary": "La industria de bebidas con cannabinoides intoxicantes enfrenta una prohibición federal estadounidense programada para mediados de diciembre, que podría eliminar esta categoría emergente del mercado. ",
+      "summary": "Bebidas de cáñamo intoxicantes enfrentan un potencial ban federal en EE.UU. programado para mediados de diciembre, lo que generaría un shock regulatorio significativo en un segmento emergente. La indu",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2513,19 +2558,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage (MNST) Stock at $44: Here's Why Investors Should Pause - The Globe and Mail",
-      "summary": "Monster Beverage enfrenta presión en su valuación con acciones cotizando a $44 USD. El análisis sugiere precaución para inversores, probablemente vinculado a desafíos competitivos en el mercado de beb",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "AB InBev to tackle beer affordability with broader format offerings - Global Drinks Intel",
-      "summary": "AB InBev implementará una estrategia de diversificación de formatos para mejorar la accesibilidad de precios en cerveza, buscando capturar segmentos de consumidores sensibles al costo. Esta iniciativa",
+      "summary": "AB InBev implementará una estrategia de diversificación de formatos para mejorar la asequibilidad de la cerveza, respondiendo a presiones inflacionarias y cambios en el comportamiento del consumidor. ",
       "companies": [
         "AB InBev"
       ],
@@ -2535,9 +2569,33 @@
       "region": "Mundial"
     },
     {
-      "title": "El mayor productor de vinos del Reino Unido eleva un 19% sus ventas netas con más inventario",
-      "summary": "El mayor productor de vinos del Reino Unido reporta crecimiento de 19% en ventas netas, impulsado principalmente por mercados internacionales, especialmente Estados Unidos con incremento de 66%. Este ",
-      "companies": [],
+      "title": "Pepsi alista aumento de precios para finales de 2026: ¿Qué sabemos del incremento en refrescos y papas?",
+      "summary": "PepsiCo planea incrementar precios de productos clave (Doritos, Ruffles, SunChips, refrescos y salsas) para finales de 2026 o principios de 2027, revirtiendo reducciones de precios implementadas a ini",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Oatly taps fibre demand with launch of latest oat drink line | FoodBev Media",
+      "summary": "Oatly lanzó dos nuevas líneas de bebidas de avena enriquecidas con fibra para responder a la demanda creciente de productos funcionales que cierren la brecha de consumo de fibra en adultos. Esta estra",
+      "companies": [
+        "Oatly"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Marie Brizard Wine & Spirits Holds Margin but Sees First-Half Profit Slip in Tough Spirits Market - TipRanks",
+      "summary": "Marie Brizard Wine & Spirits reportó una caída en ganancias del primer semestre en un mercado de licores desafiante, aunque mantuvo sus márgenes operativos. Este resultado refleja la presión competiti",
+      "companies": [
+        "Marie Brizard Wine & Spirits"
+      ],
       "segments": [
         "consumer_market_trends",
         "financial_results"
@@ -2545,88 +2603,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Flavor innovations, wellness benefits offer bottled water manufacturers opportunities",
-      "summary": "El agua embotellada consolidó su posición como bebida empaquetada más vendida en EE.UU. por décimo año consecutivo, representando 45.5% del volumen de bebidas refrescantes en 2025. La Asociación Inter",
-      "companies": [],
+      "title": "Marie Brizard reported lower first-half earnings as weak European demand hit sales. - Vinetur",
+      "summary": "Marie Brizard, productor francés de bebidas alcohólicas, reportó ganancias menores en el primer semestre debido a la débil demanda en Europa. La contracción de ventas en el mercado europeo impactó neg",
+      "companies": [
+        "Marie Brizard Wine & Spirits"
+      ],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Kegstar and Drinkworks extend partnership",
-      "summary": "Heineken Company (a través de Drinkworks) amplía su acuerdo multianual con Kegstar para utilizar su red de barriles compartidos en Australia y Nueva Zelanda. La alianza refuerza la cadena de suministr",
-      "companies": [],
+      "title": "Diageo names WPP CFO Joanne Wilson as new financial chief - Foodservice Equipment Journal",
+      "summary": "Diageo, el mayor productor global de bebidas alcohólicas, designó a Joanne Wilson (ex CFO de WPP) como su nuevo director financiero. Este cambio de liderazgo en la cúpula ejecutiva de uno de los compe",
+      "companies": [
+        "Diageo"
+      ],
       "segments": [
-        "consumer_market_trends",
         "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Heineken revisa estratégia de sustentabilidade e coloca consumo responsável no centro das metas para 2030 - Um só Planeta",
-      "summary": "Heineken reformuló su estrategia de sustentabilidad con foco en consumo responsable como eje central de sus metas 2030. Esta iniciativa posiciona a la cervecería holandesa en la tendencia global de em",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "De los residuos a la viña: así es el proyecto circular de Terras Gauda con la bodega chilena Concha y Toro - Tecnovino",
-      "summary": "Terras Gauda y Concha y Toro desarrollan un proyecto de economía circular que convierte residuos en insumos para la viña, mejorando la sostenibilidad operativa. La iniciativa representa una estrategia",
-      "companies": [
-        "Concha y Toro"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Esta es la carta en la que Coca-Cola Femsa en Colombia anuncia su retiro de la Cámara de la Industria de Bebidas de la Andi - Revista Semana",
-      "summary": "Coca-Cola FEMSA se retira de la Cámara de la Industria de Bebidas de la ANDI en Colombia, movimiento que señala tensiones o desalineamientos estratégicos dentro de la agremiación sectorial. Este retir",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Marie Brizard Wine & Spirits Holds Margin but Sees First-Half Profit Slip in Tough Spirits Market - TipRanks",
-      "summary": "Marie Brizard Wine & Spirits reportó una caída en ganancias del primer semestre en un mercado de bebidas espirituosas desafiante, aunque logró mantener márgenes operacionales. Este desempeño refleja p",
-      "companies": [
-        "Marie Brizard Wine & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marie Brizard reported lower first-half earnings as weak European demand hit sales. - vinetur.com",
-      "summary": "Marie Brizard reportó una caída en ganancias del primer semestre por debilitamiento de la demanda en Europa. El desempeño negativo impacta directamente en un jugador clave del segmento de bebidas espi",
-      "companies": [
-        "Marie Brizard Wine & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marie Brizard: Revenue Down 4.4% in First Half, France Shows Growth - Idéal Investisseur",
-      "summary": "Marie Brizard reportó una caída de ingresos del 4,4% en el primer semestre, aunque el mercado francés mostró crecimiento, indicando presión en otros mercados geográficos. Como actor relevante en bebid",
+      "title": "Marie Brizard: Revenue Down 4.4% in First Half, France Shows Growth - ideal-investisseur.fr",
+      "summary": "Marie Brizard reportó una caída de ingresos del 4,4% en el primer semestre, aunque el mercado francés mostró crecimiento. Este desempeño refleja presiones en mercados clave fuera de Francia, relevante",
       "companies": [
         "Marie Brizard Wine & Spirits"
       ],
@@ -2636,44 +2637,32 @@
       "region": "Mundial"
     },
     {
-      "title": "HEINEKEN Brasil avança em estratégia global de sustentabilidade e fortalece o consumo responsável - niddedigital.com",
-      "summary": "Heineken Brasil implementa avances en su estrategia global de sustentabilidad enfocada en consumo responsable. La iniciativa forma parte del compromiso corporativo de la cervecería con estándares ambi",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Heineken coloca consumo responsável no centro da estratégia de crescimento - Money Report",
-      "summary": "Heineken integra el consumo responsable como eje central de su estrategia de crecimiento corporativo. Esta postura refleja el posicionamiento diferenciado de la marca ante regulaciones crecientes sobr",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Oatly Adds Fibre to Its UK Barista Line With Two 5g-Per-Serving Oat Drinks - vegconomist",
-      "summary": "Oatly lanzó dos nuevas bebidas de avena para baristas en el Reino Unido con 5g de fibra por porción, respondiendo a la demanda creciente de bebidas funcionales con beneficios nutricionales. La estrate",
+      "title": "Why Oatly is going big on fibre",
+      "summary": "Oatly, líder sueco en bebidas de avena, está intensificando su estrategia de innovación nutricional enfocándose en fibra para responder a críticas sobre el valor nutritivo de sus productos versus lech",
       "companies": [
         "Oatly"
       ],
       "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock at $44: Here's Why Investors Should Pause - The Globe and Mail",
+      "summary": "Monster Beverage opera a valuación deprimida ($44 USD) con señales de caution para inversores. La noticia analiza factores de riesgo en la cotización de MNST, uno de los mayores players globales de be",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
         "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Oatly to tackle nation's ‘fibre gap’ with two new oat drinks - conveniencestore.co.uk",
-      "summary": "Oatly lanza dos nuevas bebidas de avena enfocadas en cerrar la brecha de fibra dietética en el mercado británico. La innovación responde a una tendencia de consumo hacia bebidas funcionales con benefi",
+      "title": "Investors Purchase Large Volume of Monster Beverage Put Options (NASDAQ:MNST) - MarketBeat",
+      "summary": "Inversores están comprando volúmenes significativos de opciones de venta (put options) sobre Monster Beverage, lo que sugiere expectativas bajistas sobre el desempeño de la empresa en el corto plazo. ",
       "companies": [
-        "Oatly"
+        "Monster Beverage"
       ],
       "segments": [
         "consumer_market_trends"
