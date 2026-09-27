@@ -1,298 +1,4 @@
 {
-  "2026-09-19": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una crisis con caída significativa del consumo, obligando a productores a ajustar estructuras de costos. Esta tendencia refleja un cambio en hábitos de consum",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Vino argentino: exportaciones crecen 6,8% pero caen dólares por botella - Mundo Empresarial AR",
-      "summary": "Las exportaciones de vino argentino crecieron 6,8% en volumen, pero los precios por botella experimentaron una caída, reduciendo los ingresos en dólares. Esta dinámica refleja presión competitiva en m",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Heineken sin alcohol crece más de 100% en Perú: ¿cuándo se producirá localmente?",
-      "summary": "Heineken reporta crecimiento de más del 100% en su línea sin alcohol en Perú, mercado donde opera desde 2020 con marcas como Tres Cruces y Amstel. La compañía evalúa producción local en su planta de H",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "distribution_execution",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Rússia diz que apreensão dos ativos de Nestlé e Auchan é retaliação a ações hostis da Europa",
-      "summary": "Rusia confiscó los activos de Nestlé y Auchan mediante decreto presidencial como represalia a sanciones occidentales, la acción más significativa contra empresas extranjeras desde la expropiación de D",
-      "companies": [
-        "Danone",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Quem é Howard, o eclético filho de Warren Buffett que assumiu a presidência do conselho da Berkshire Hathaway",
-      "summary": "Howard Buffett asume la presidencia del consejo de Berkshire Hathaway, reemplazando a su padre Warren Buffett (96 años) quien se retira tras seis décadas. Berkshire es el mayor accionista de Coca-Cola",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Apothic Collabs With Halloween Queen Heidi Klum for Seasonal Wine Bag Release",
-      "summary": "E&J Gallo lanzó Apothic Type 'A' Blood Bag, un empaque innovador de vino tinto con diseño temático de bolsa de transfusión de sangre, en colaboración con Heidi Klum para la temporada de Halloween. Est",
-      "companies": [
-        "E. & J. Gallo Winery"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac in talks to buy German schnapps maker Berentzen-Gruppe | FoodBev Media",
-      "summary": "Sazerac, gigante estadounidense de bebidas espirituosas, está en negociaciones para adquirir Berentzen-Gruppe, fabricante alemán de licores de frutas y schnapps. Berentzen-Gruppe produce marcas consol",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock holds near USD 44 as investors digest recent earnings and insider sale - AD HOC NEWS",
-      "summary": "Las acciones de Monster Beverage se mantienen en torno a USD 44 mientras el mercado procesa sus últimos resultados financieros y una venta de insiders. Este movimiento refleja la volatilidad típica po",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Yakult stock holds steady as investors eye latest earnings and probiotic expansion - AD HOC NEWS",
-      "summary": "Yakult mantiene estabilidad en bolsa mientras el mercado evalúa sus últimos resultados financieros y su estrategia de expansión en productos probióticos. La compañía continúa posicionando los probióti",
-      "companies": [
-        "Yakult Honsha"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Robbins LLP Urges CELH Stockholders Who Lost Money Investing in Celsius Holdings, Inc. to Contact the Firm for Information About Leading the Class Action - Business Wire",
-      "summary": "Robbins LLP promueve una demanda colectiva contra Celsius Holdings (CELH), empresa líder en bebidas energéticas funcionales, por pérdidas de accionistas. Esta acción legal implica riesgo reputacional ",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Francia solo vende 5.410 millones de euros en vino durante los primeros seis meses",
-      "summary": "Francia registró ventas de vino por 5.410 millones de euros en el primer semestre, con caída en volumen y precio medio de 8,74 euros/litro. La debilidad de la demanda global refleja presión competitiv",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brand Extensions Altering The Investment Case For Keurig Dr Pepper Stock? - simplywall.st",
-      "summary": "Keurig Dr Pepper evalúa extensiones de marca que podrían modificar su propuesta de inversión. La compañía, líder en bebidas de consumo masivo con presencia en café, refrescos y bebidas especializadas,",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El vino mantiene su caída en Estados Unidos pese al repunte puntual de Labor Day",
-      "summary": "Las ventas de vino en Estados Unidos registran caída de 3,7% en valor y 5,1% en volumen, evidenciando presión competitiva de otras categorías de bebidas. Aunque se observó un repunte puntual en Labor ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Online dairy sales accelerate as yogurt and cottage cheese drive growth",
-      "summary": "Las ventas de productos lácteos se desplazan significativamente hacia ecommerce, con yogur y queso cottage liderando el crecimiento tanto en canales físicos como virtuales según Circana. Este fenómeno",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nello Leaps From Functional Powders To RTD Energy With Exclusive Target Deal - BevNET.com",
-      "summary": "Nello, marca de polvos funcionales, entra al segmento de bebidas listas para beber (RTD) con una línea de bebidas energéticas clean label, distribuidas exclusivamente a través de Target. El movimiento",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Tetra Pak and Soy Excellence Center Asia Host Regional Soy Food and Beverage Programme in Thailand - PR Newswire",
-      "summary": "Tetra Pak y el Soy Excellence Center Asia desarrollan un programa regional de bebidas y alimentos de soja en Tailandia, enfocado en innovación y desarrollo de productos. La iniciativa posiciona a Tetr",
-      "companies": [
-        "Tetra Pak"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brown-Forman takes Jack Daniel’s Tennessee Blackberry into RTDs - Global Drinks Intel",
-      "summary": "Brown-Forman lanza Jack Daniel's Tennessee Blackberry en formato RTD (Ready-to-Drink), expandiendo su portfolio de bebidas listas para consumir. Este movimiento responde a la creciente demanda de RTDs",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Capri Sun goes big with Big Pouch",
-      "summary": "Capri Sun lanza Big Pouch, una versión de tamaño ampliado de su icónico envase de aluminio, en respuesta a demanda de consumidores expresada en redes sociales. El producto estará disponible de forma e",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "New Beverages: Recess 'Tinis, La Colombe Matcha, Plus Pharrell & Pusha T's New Coffee - BevNET.com",
-      "summary": "La industria de bebidas continúa innovando en categorías de alto valor con lanzamientos de productos premium y colaboraciones con figuras públicas. Pharrell y Pusha T incursionan en café, mientras La ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The power generation: What Gen Z really wants from F&B",
-      "summary": "Gen Z está redefiniendo las preferencias de consumo en alimentos y bebidas, generando tendencias que impactan en escasez de ingredientes y dinámicas de mercado. Este segmento demográfico posee poder d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "C4 Energy Launches NA Beer-Flavored Energy Drink 'All Hopped Up' - BevNET.com",
-      "summary": "C4 Energy (Nutrabolt) lanza 'All Hopped Up', una bebida energizante con sabor a cerveza que capitaliza la tendencia de alternativas sin alcohol. El producto posiciona energía como sustituto del 'buzz'",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cann beverages appeal to sober curious, cannabis curious consumers",
-      "summary": "Las bebidas de cannabis de bajo contenido de THC están ganando tracción como alternativa alcohólica, especialmente entre generaciones más jóvenes. Cann, marca fundada en 2019 y liderada por Jake Bullo",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Alcohol-free drinks ‘not a gateway to alcohol’",
-      "summary": "Club Soda, organización de defensa de bebidas sin alcohol y bajas en alcohol, publicó un informe que refuta la preocupación de que estos productos actúen como puerta de entrada al consumo de alcohol. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coffee tops beverage charts again, specialty coffee hits new high",
-      "summary": "El consumo de café en EE.UU. se mantiene estable al 66% de adultos diarios, con consumo fuera del hogar recuperándose a niveles prepandemia y café de especialidad alcanzando máximos históricos. Café s",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El consumo de vino en España cae a 9,1 millones de hectolitros, cerca del mínimo histórico",
-      "summary": "El consumo de vino en España cayó a 9,1 millones de hectolitros, aproximándose a mínimos históricos, confirmando una tendencia recesiva en un sector que representa el 1,9% del PIB español. Esta contra",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Estados Unidos exige a las cerveceras detallar cebada malteada y lúpulo en sus fórmulas",
-      "summary": "La Oficina de Impuestos y Comercio de Alcohol (TTB) de Estados Unidos endurece los requisitos regulatorios para las cerveceras, exigiendo mayor precisión en la divulgación de ingredientes clave como c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Tetra Pak and Soy Excellence Center Asia Host Regional Soy Food and Beverage Programme in Thailand - us.acrofan.com",
-      "summary": "Tetra Pak y el Soy Excellence Center Asia organizaron un programa regional de alimentos y bebidas de soja en Tailandia, reflejando la estrategia de la compañía de packaging de fortalecer su posición e",
-      "companies": [
-        "Tetra Pak"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El consumo de vino en España roza el mínimo histórico tras caer un 7,2%",
-      "summary": "El consumo de vino en España cayó 7,2%, alcanzando 9,1 millones de hectolitros, aproximándose a mínimos históricos por cambios en preferencias de consumo hacia otras bebidas. Este movimiento refleja u",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-09-20": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2696,6 +2402,115 @@
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-09-27": [
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - degremiales.com",
+      "summary": "El segmento de cerveza artesanal argentina experimenta una contracción significativa en volúmenes de consumo, forzando a productores a ajustar estructuras de costos. La crisis refleja cambios en patro",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Zé Delivery transforma grandes eventos em laboratório de consumo para a Ambev",
+      "summary": "Ambev utiliza Zé Delivery como plataforma de innovación en eventos masivos, testando nuevos formatos de distribución y experiencia de consumidor. En la Festa do Peão de Barretos lanzó el 'sacooler', u",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Industria de bebidas: ¿Por qué Coca-Cola se salió de la Cámara de bebidas de la Andi?",
+      "summary": "Coca-Cola se retiró de la Cámara de Bebidas de la ANDI (Asociación Nacional de Industriales de Colombia), marcando un movimiento significativo en la representación gremial del sector. Este retiro de u",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "La pelea por el multimillonario negocio de la cerveza en Colombia: Bavaria tiene 92% del mercado - Forbes Colombia",
+      "summary": "Bavaria controla el 92% del mercado cervecero colombiano, consolidando una posición dominante en uno de los mayores mercados de bebidas de la región. Esta concentración refleja la estructura competiti",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola poaches Monster Energy executive to lead U.S. and Canada operations as $2.6 billion African bottling deal moves closer to completion - Business Insider Africa",
+      "summary": "Coca-Cola contrató un ejecutivo senior de Monster Energy para liderar operaciones en EE.UU. y Canadá, coincidiendo con el avance de una operación de $2.6 mil millones en embotellamiento en África. El ",
+      "companies": [
+        "The Coca-Cola Company",
+        "Monster Beverage"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation (NASDAQ:MNST) Stock Has Consensus Target Price of $50.33 According to Brokerages - MarketBeat",
+      "summary": "Monster Beverage (MNST) cuenta con un precio objetivo de consenso de $50.33 según los analistas de Wall Street. Esta valuación es relevante para seguimiento competitivo dado el posicionamiento de Mons",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Should Root Beer Energy Launch Require Action From Keurig Dr Pepper (KDP) Investors? - simplywall.st",
+      "summary": "Keurig Dr Pepper (KDP) está evaluando el lanzamiento de una bebida de energía con sabor a root beer, lo que representa una estrategia de diversificación en el segmento de alto crecimiento de bebidas e",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage Company (NYSE:TAP) Stock Has Average Target Price of $44.06 - MarketBeat",
+      "summary": "Molson Coors (NYSE:TAP) tiene un precio objetivo promedio de $44.06 según análisis de MarketBeat. Esta métrica de valuación refleja la confianza del mercado en uno de los mayores productores de cervez",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beverage Carbonators Market To 2035: Growth Outlook Driven by Craft Beverage and Home Carbonation Trends - News and Statistics - indexbox.io",
+      "summary": "El mercado de carbonatadores de bebidas proyecta crecimiento hasta 2035 impulsado por dos tendencias clave: bebidas artesanales y carbonatación casera. Esto representa una oportunidad estratégica para",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beverage Concentrates Market To 2035: Functional Beverage Demand Accelerates Growth - News and Statistics - indexbox.io",
+      "summary": "El mercado global de concentrados para bebidas proyecta crecimiento acelerado hasta 2035, impulsado por la demanda de bebidas funcionales. Este segmento representa una oportunidad estratégica para fab",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
       ],
       "region": "Mundial"
     }
