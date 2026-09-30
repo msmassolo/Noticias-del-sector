@@ -1,394 +1,4 @@
 {
-  "2026-09-22": [
-    {
-      "title": "El nuevo lanzamiento de la bebida isotónica de Coca-Cola sin azúcar - fortuna.perfil.com",
-      "summary": "Coca-Cola lanza una nueva bebida isotónica sin azúcar, ampliando su portafolio en el segmento de bebidas funcionales. Esta jugada responde a la creciente demanda de consumidores por opciones saludable",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "product_innovation",
-        "supply_chain_commodities"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de consumo en el mercado, obligando a productores a implementar ajustes de costos y reposicionamiento. Esta tendencia refleja ca",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Backus y el canal en el que busca duplicar su facturación al 2028: las cervezas que explora",
-      "summary": "Backus, subsidiaria peruana de AB InBev, identifica el canal Horeca como oportunidad clave para duplicar facturación hacia 2028, actualmente dominando más del 70% de los 236,7 millones de litros comer",
-      "companies": [
-        "Backus"
-      ],
-      "segments": [
-        "distribution_execution",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PepsiCo quiere que conozcas las marcas que están detrás de Pepsi y lanza su primera campaña corporativa",
-      "summary": "PepsiCo lanza su primera campaña corporativa 'House of Brands' para aumentar el reconocimiento de la empresa como holding detrás de más de 500 marcas globales. La iniciativa busca cerrar la brecha ent",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Concha y Toro apuesta por Don Melchor para crecer en el mercado de vinos premium en Perú",
-      "summary": "Concha y Toro, mayor productor de vinos latinoamericano, intensifica su estrategia en Perú con Don Melchor, su marca premium insignia. La compañía planea incrementar volúmenes, lanzar nuevas cosechas ",
-      "companies": [
-        "Concha y Toro"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mientras Bodega Aurrera y Walmart apuestan por cajas de autopago, en Sam’s los socios pueden comprar desde su celular, sin filas ni cajas, gracias a Scan & Go",
-      "summary": "Sam's Club, Walmart y Bodega Aurrera implementan tecnologías de pago avanzadas para optimizar la experiencia de compra: autopago y Scan & Go permiten a consumidores sortear cajas tradicionales. Esta t",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mientras Sam’s regala café, leche, galletas, jamón, queso, atún, jabón, detergente y papel higiénico, Walmart y Bodega Aurrera ofrecen medicina gratis: promociones que puedes aprovechar",
-      "summary": "Sam's Club, Walmart y Bodega Aurrera compiten mediante estrategias diferenciadas de atracción: Sam's ancla su propuesta de valor en promociones de categorías core (alimentos, bebidas, artículos de con",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Sazerac continues acquisition drive with takeover deal of Germany’s Berentzen Group",
-      "summary": "Sazerac, gigante estadounidense de bebidas espirituosas, adquiere el grupo alemán Berentzen en su segundo movimiento M&A en una semana, tras completar la compra de la marca de vodka británica Au Vodka",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac Pushes To Acquire Berentzen | Brewbound",
-      "summary": "Sazerac completó un acuerdo vinculante para adquirir Berentzen-Gruppe AG, productor alemán de licores tradicionales, expandiendo su presencia en el mercado internacional de bebidas alcohólicas. La adq",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Budweiser gana terreno a Beck’s en Alemania dentro de la nueva estrategia de AB InBev",
-      "summary": "AB InBev está reposicionando su cartera de marcas en Alemania, promoviendo Budweiser sobre Beck's en espacios comerciales estratégicos como estadios, festivales y bares. Esta reconfiguración refleja u",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bubly expands mocktail-inspired range with Berry Sparkle Sangria and Paradise Paloma | FoodBev Media",
-      "summary": "PepsiCo expande su marca Bubly con dos nuevos sabores de agua con gas inspirados en cócteles: Berry Sparkle Sangria y Paradise Paloma, sin alcohol, calorías ni edulcorantes artificiales. La estrategia",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Anheuser-Busch invierte 21 millones de dólares en California para ampliar la producción de Michelob ULTRA",
-      "summary": "Anheuser-Busch invierte USD 21 millones en California para expandir la capacidad de producción de Michelob ULTRA, su marca insignia de cervezas light. La inversión abarca modernización de líneas de en",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken negocia la compra de 300 pubs en el Reino Unido",
-      "summary": "Heineken negocia la adquisición de 300 pubs en el Reino Unido por aproximadamente £300 millones, lo que representaría un crecimiento de 12,8% en su red de locales británica. Esta operación refuerza la",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El whisky escocés llega tarde al negocio que sostiene el avance de las bebidas alcohólicas",
-      "summary": "Los principales productores de bebidas alcohólicas (Diageo, Pernod y Suntory) están capitalizando el crecimiento del segmento de cócteles listos para beber (RTD), mientras que los productores de whisk",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rémy Cointreau appoints Alcobrands as exclusive distributor in Belgium & Luxembourg - Drinks International",
-      "summary": "Rémy Cointreau designó a Alcobrands como distribuidor exclusivo en Bélgica y Luxemburgo, mercados donde ve potencial de crecimiento acelerado. La estrategia busca fortalecer la presencia de sus marcas",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Can Zero Sugar Drinks Fuel PepsiCo's Next Growth Phase? - Zacks Investment Research",
-      "summary": "PepsiCo evalúa el potencial de bebidas sin azúcar como motor de crecimiento futuro. La estrategia se alinea con tendencias globales de consumo saludable y demanda creciente por opciones bajas/cero cal",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bev-Alc Bounces Back Better Than Expected Post-Labor Day, per Weekly Circana Report | Brewbound",
-      "summary": "Las ventas de bebidas alcohólicas fuera del hogar (off-premise) en EE.UU. rebotaron positivamente la semana del 13 de septiembre, después de un desempeño débil en el fin de semana del Día del Trabajo.",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage and Coca-Cola Beat the S&P 500 Over the Last 5 Years. Here's Whether the Next 5 Years Will Look the Same. - Yahoo Finance",
-      "summary": "Monster Beverage y Coca-Cola han superado el desempeño del S&P 500 en los últimos 5 años, posicionándose como activos de alto retorno en el sector de bebidas. El análisis evalúa las perspectivas de am",
-      "companies": [
-        "The Coca-Cola Company",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hoplark Files for Chapter 7 Bankruptcy Liquidation; Signals Potential Lawsuit Against Brooklyn Brewery | Brewbound",
-      "summary": "Hoplark, marca de bebidas sin alcohol y agua gasificada, entró en liquidación por Chapter 7 tras la insolvencia de su empresa matriz. La compañía anticipa demanda contra Brooklyn Brewery por presunto ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why Pepsi Never Beats Coca-Cola: Unveiling the Core Secrets Behind Coca-Cola’s Century-Long Market Dominance - eu.36kr.com",
-      "summary": "Análisis comparativo sobre las dinámicas competitivas entre Coca-Cola y Pepsi que explica la persistente ventaja de mercado de Coca-Cola. El artículo examina los factores estratégicos, posicionamiento",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cointreau lleva su barra de coctelería a los festivales de música para ganar terreno en España",
-      "summary": "Cointreau activa una estrategia de marketing experiencial en festivales musicales españoles con bares temáticos de coctelería en vivo, enfocada en ganar presencia en el segmento de bebidas premium y m",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Plenish expands into flavoured milk alternatives with new Dark Cocoa and Sea Salt Almond Drink | FoodBev Media",
-      "summary": "Plenish, marca de bebidas alternativas propiedad de Carlsberg Britvic, lanzó dos nuevas bebidas de almendra con sabor: Dark Cocoa y Sea Salt Almond Drink, posicionándose en el segmento de leches alter",
-      "companies": [
-        "Britvic",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands' price target cut to $122 amid beer strategy shifts and supply-chain focus. - Pluang",
-      "summary": "Analistas redujeron el precio objetivo de Constellation Brands a $122 USD en medio de cambios estratégicos en su negocio cervecero y reenfoque en optimización de cadena de suministro. Esta revisión re",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "IWSR: Emerging spirits categories reshape global travel retail market",
-      "summary": "IWSR reporta crecimiento del 5% en volúmenes de spirits y vino en travel retail global durante 2025, con valor en spirits creciendo 7% y vino 5%. Europa y Africa/Medio Oriente lideran con +11%, seguid",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (LSE:FEVR): What Stands Out in the Interim Results? - Kalkine Media",
-      "summary": "Fevertree Drinks reportó resultados intermedios como empresa cotizada en LSE, relevante para monitorear competencia en el segmento premium de bebidas mixers y aguas tónicas. La compañía es líder globa",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (LSE:FEVR) In Focus As Insider Buying Signals Confidence - Kalkine Media",
-      "summary": "Ejecutivos de Fevertree Drinks realizaron compras de acciones propias, señalizando confianza en la compañía. Este movimiento de insiders es significativo para la industria de bebidas premium, particul",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock edges lower as cash-rich balance sheet draws analyst interest - AD HOC NEWS",
-      "summary": "Monster Beverage mostró una posición financiera fortalecida con un balance sheet robusto en efectivo, lo que despertó interés analítico a pesar de una leve caída accionaria. Esta solidez financiera po",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "ZenWTR launches premium water brand built around recycled ocean-bound plastic | FoodBev Media",
-      "summary": "Lance Collins, experimentado emprendedor de bebidas (fundador de FUZE, NOS, BODYARMOR y CORE Hydration), lanzó ZenWTR, una marca premium de agua alcalina con packaging fabricado con plástico reciclado",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Walmart abre 21 nuevas tiendas en México y apuesta por crecer mientras los consumidores compran con mayor cautela",
-      "summary": "Walmart abre 21 nuevas tiendas en México con bandera de Bodega Aurrera, Walmart Supercenter, Walmart Express y Sam's Club, ampliando su red de distribución en un contexto de consumidor más cauteloso. ",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Stateside, A-B Agree to Dismiss Surfside-Skimmers Lawsuit | Brewbound",
-      "summary": "Anheuser-Busch y Surfside Sippers llegaron a un acuerdo para desestimar la demanda legal que enfrentaban por presuntos conflictos de marca en el segmento de bebidas alcohólicas duras (hard tea). La re",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cantine Riunite Introduces New 187ml Formats for Alcohol-Free Expressions, Bringing Italian Wine to More On-the-Go Occasions",
-      "summary": "Cantine Riunite lanza botellas de 187ml para sus líneas sin alcohol (Riunite Zero Red y Maschio Zero White), llegando a retailers estadounidenses en octubre. Este movimiento capitaliza la tendencia de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo fingió cambiar de nombre y expuso un problema de branding: sus marcas son más famosas que la empresa",
-      "summary": "PepsiCo lanzó una campaña de branding que juega con la idea de renombrar la empresa con sus marcas más icónicas (Lay's-Co, Cheetos-Co), evidenciando que sus productos tienen mayor reconocimiento que l",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Sazerac Confirms Bid For Berentzen - BevNET.com",
-      "summary": "Sazerac confirmó la adquisición de Berentzen-Gruppe AG, productor alemán de schnapps, mediante acuerdo vinculante. Esta operación representa una estrategia alternativa de expansión internacional tras ",
-      "companies": [
-        "Brown-Forman",
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken in talks to buy 300 Stonegate pubs, reports claim",
-      "summary": "Heineken negocia la adquisición de 300 pubs a través de su filial Star Pubs & Bars con Stonegate, el operador de bares más grande del Reino Unido. El acuerdo ampliría el portafolio de Heineken de 2,35",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Reino Unido sopesa otra subida del impuesto al alcohol tras años de caída en las ventas",
-      "summary": "El Reino Unido evalúa incrementar impuestos al alcohol frente a caída sostenida de ventas y recaudación de accisas (down 1,4%). La industria de bebidas alcohólicas advierte sobre el impacto de mayores",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-09-23": [
     {
       "title": "El nuevo lanzamiento de la bebida isotónica de Coca-Cola sin azúcar - fortuna.perfil.com",
@@ -2838,6 +2448,429 @@
       ],
       "segments": [
         "company_news"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-09-30": [
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "El segmento de cerveza artesanal enfrenta una crisis estructural con contracción del consumo, presión en costos operativos y cambios en los patrones de compra de consumidores. Este fenómeno afecta dir",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "¿Se acabó el boom del tequila? Ventas de Don Julio y Casamigos se desploman en Estados Unidos",
+      "summary": "Las ventas de tequila en Estados Unidos muestran desaceleración significativa, con marcas líderes como Don Julio y Casamigos (ambas de Diageo) registrando caídas importantes. Este reverso en la catego",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Grupo AJE ficha a exejecutivo de Coca-Cola como nuevo Country Manager en Perú",
+      "summary": "Grupo AJE nombró a Sebastián Pell Stephan Otto, ejecutivo con 17+ años en Coca-Cola FEMSA, como nuevo Country Manager en Perú. Este movimiento refleja el fortalecimiento estratégico de AJE en la regió",
+      "companies": [
+        "The Coca-Cola Company",
+        "AJE Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Corona Extra vuelve a ser la marca más valiosa de Latinoamérica: vale 13.9 mil millones de dólares",
+      "summary": "Corona Extra reafirma su posición como marca más valiosa de Latinoamérica por tercer año consecutivo, valuada en USD 13.9 mil millones, consolidando el liderazgo de AB InBev en la región. Modelo Espec",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "ApexBrasil destina R$ 210 milhões para conquistar novos mercados",
+      "summary": "ApexBrasil asignó R$ 210 millones para identificar nuevos mercados internacionales y compradores, abarcando 35 sectores estratégicos. La iniciativa busca reducir la dependencia de destinos específicos",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Ambev deve ter resultados mistos no terceiro trimestre, avalia banco - financenews.com.br",
+      "summary": "Ambev, mayor productor de bebidas de América Latina, enfrenta perspectivas mixtas para Q3 según analistas bancarios. La compañía, competidor directo en el mercado regional, probablemente mostrará pres",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "AG Barr strengthens position in functional and premium drinks through innovation and M&A",
+      "summary": "AG Barr, propietaria de marcas como IRN-BRU, Rubicon y Boost, fortalece su posición en bebidas funcionales y premium mediante innovación y M&A. El lanzamiento de Boost Water+, agua funcional sin azúca",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg Britvic launches first European water replenishment project in UK",
+      "summary": "Carlsberg Britvic lanzó el primer proyecto europeo de reposición de agua, asociándose con The Rivers Trust por 10 años para restaurar ríos y humedales cercanos a su planta de Rugby en UK. La iniciativ",
+      "companies": [
+        "Britvic",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Top Beer Suppliers’ Late Summer Losses Persist as New Belgium, Sazerac & Others Buck Trend | Brewbound",
+      "summary": "Los principales proveedores de cerveza en EE.UU. experimentaron pérdidas netas en agosto y septiembre, a pesar de ganancias en algunos segmentos, según datos de Circana. New Belgium y Sazerak contravi",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Good Drinks brings Coors Original to Australia",
+      "summary": "Molson Coors lanza Coors Original en Australia mediante acuerdo con Good Drinks Australia, marcando la primera entrada del icónico beer americano al mercado australiano. La cerveza, con receta origina",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coors Distributing Fights Constellation, Mark Anthony Exits, Sues in Civil Court | Brewbound",
+      "summary": "Coors Distributing Company (propiedad de Molson Coors) inició acciones legales para impedir la terminación de contratos con dos de sus mayores proveedores, incluyendo Constellation Brands y Mark Antho",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands (STZ) Set to Release Quarterly Earnings on Tuesday - MarketBeat",
+      "summary": "Constellation Brands reportará resultados trimestrales esta semana, evento crítico para monitorear el desempeño de uno de los mayores productores de bebidas en América (Corona, Modelo, Robert Mondavi)",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Red Bull Gets Delhi HC Relief Over 'Energy Drink' Label; FSSAI To Appeal - NDTV Profit",
+      "summary": "Red Bull obtuvo una sentencia favorable de la Corte Superior de Delhi respecto a la clasificación de su bebida como 'energy drink', en disputa con la autoridad regulatoria india (FSSAI). La resolución",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Post-Labor Day Momentum Dissipates for Bev-Alc; Beer Takes Largest Dive in Circana Weekly Scans | Brewbound",
+      "summary": "Las ventas de bebidas alcohólicas fuera del hogar (off-premise) muestran una caída post-Labor Day, con la cerveza registrando la mayor disminución según datos semanales de Circana. Se espera una tende",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo to invest $1bn into Colombia over next five years | FoodBev Media",
+      "summary": "PepsiCo anunció una inversión de $1.000 millones en Colombia durante los próximos cinco años, confirmada por el presidente Abelardo De La Espriella tras reunirse con ejecutivos de la compañía. Esta in",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Johnnie Walker Blue Label Welcomes India's Festive Season with a New Blend",
+      "summary": "Diageo lanza Johnnie Walker Blue Label Indian Festive Blend, una edición limitada diseñada específicamente para el mercado indio durante la temporada festiva. Se trata de la segunda iteración de una e",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Lucozade launches Sherbet Twist Zero Sugar energy drink | FoodBev Media",
+      "summary": "Suntory Beverage & Food lanza Lucozade Energy Sherbet Twist Zero Sugar, expandiendo su portafolio de bebidas energéticas con una nueva variante sin azúcar. La innovación responde a la creciente demand",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "South West drinks firm acquired by Irn-Bru maker proves its mettle with revenue boost - TheBusinessDesk.com",
+      "summary": "AG Barr, fabricante de Irn-Bru, adquirió una empresa de bebidas del suroeste británico que ha demostrado crecimiento de ingresos post-adquisición. Este movimiento refuerza la estrategia de consolidaci",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "📺From Intimidation to Invitation—Whiny Wines’ Jess Druey and Gallo CMO Stephanie Gallo on How to Win Gen Z",
+      "summary": "Whiny Wines, marca dirigida a Gen Z, colabora con Gallo (uno de los mayores productores de vino a nivel mundial) para transformar la percepción de las bebidas alcohólicas entre consumidores jóvenes. L",
+      "companies": [
+        "E. & J. Gallo Winery"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Irn-Bru maker AG Barr says supply chain issues lost firm £10m in sales - The Independent",
+      "summary": "AG Barr, fabricante de Irn-Bru, reportó pérdidas de £10 millones en ventas atribuidas a problemas en la cadena de suministro. Esta situación refleja vulnerabilidades operativas críticas que afectan a ",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "financial_results",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jack Daniel’s lanza en México una nueva gama con sabor a zarzamora",
+      "summary": "Brown-Forman expande su portafolio de Jack Daniel's en México con un lanzamiento de bebidas listas para consumir (RTD) con sabor a zarzamora. México representa un mercado estratégico clave para la com",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer exports to South Africa drop following the end of Heineken supply deal - Namibia Economist",
+      "summary": "Las exportaciones de cerveza hacia Sudáfrica cayeron tras la terminación del acuerdo de suministro con Heineken. La ruptura del contrato de distribución con el gigante holandés impacta la cadena de su",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How a premium soda brand is growing without a functional pitch",
+      "summary": "Something & Nothing, marca premium de gaseosas fundada en UK, aseguró $6.4M en financiamiento (total $15.7M desde 2020) para acelerar su expansión en EE.UU. La estrategia diferenciada combina sabores ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Is Monster Beverage (MNST) Changing Leadership In Its Americas Business? - simplywall.st",
+      "summary": "Monster Beverage realiza cambios en la estructura de liderazgo de su negocio en América, un movimiento estratégico en la región que representa aproximadamente 60% de sus ingresos globales. Este cambio",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Is Lagging the S&P 500 in 2026. Here's Where the Stock Could Trade by September 2027. - finance.yahoo.com",
+      "summary": "Monster Beverage experimenta un desempeño por debajo del S&P 500 en 2026, con proyecciones de volatilidad hacia septiembre de 2027. La noticia evalúa el posicionamiento competitivo de uno de los líder",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Keeps Growing In The Tech Millennium (NASDAQ:MNST) - Seeking Alpha",
+      "summary": "Monster Beverage continúa su trayectoria de crecimiento en mercados tecnológicos. La noticia destaca el desempeño de la empresa cotizada en NASDAQ, relevante para analizar dinámicas competitivas en el",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo and Live Nation Announce New Multi-Year Food and Beverage Partnership - ticketnews.com",
+      "summary": "PepsiCo expandió su portafolio de canales de distribución a través de una alianza multi-año con Live Nation, el principal promotor de eventos y conciertos a nivel mundial. Esta estrategia permite a Pe",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo vs. Keurig: Which Stock Stands Out in the Beverage Race? - The Globe and Mail",
+      "summary": "Análisis comparativo de PepsiCo y Keurig como opciones de inversión en el segmento de bebidas. PepsiCo mantiene su posición dominante con un portafolio diversificado (refrescos, jugos, agua, té) y már",
+      "companies": [
+        "PepsiCo",
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Transição energética passou a liderar as decisões de custo, suprimento e alocação de capital",
+      "summary": "La transición energética se convirtió en el factor principal de decisiones estratégicas de costo, suministro y asignación de capital en la industria brasileña. Un estudio de KPMG muestra que el 100% d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "William Grant & Sons details ‘challenging’ 2025 after 13% profit decline - Harpers Wine & Spirit Trade News",
+      "summary": "William Grant & Sons, productor global de Scotch whisky, reportó una caída del 13% en ganancias (£337m) para 2025, con ingresos de £1,758m. La empresa enfrenta presiones geopolíticas, comerciales y de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Liquid I.V. launches newest limited-edition flavor",
+      "summary": "Liquid I.V. lanzó una nueva edición limitada de sabor Naranja Sangre de su línea Hydration Multiplier, posicionándose como alternativa premium en el segmento de bebidas de hidratación. El producto ofr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr fixes supply chain as first-half sales surpass £247 million: full reaction - The Scotsman",
+      "summary": "AG Barr reportó ventas de primera mitad por £247 millones, superando expectativas, mientras implementa soluciones en su cadena de suministro. La compañía escocesa, productora de bebidas icónicas como ",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "financial_results",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Grupo AJE nombra a exejecutivo de Coca-Cola como nuevo Country Manager en Perú - Perú Retail",
+      "summary": "Grupo AJE, competidor directo en bebidas en la región andina, designó a un exejecutivo de Coca-Cola como Country Manager en Perú. Este movimiento refleja la búsqueda de talento experiencia en operacio",
+      "companies": [
+        "The Coca-Cola Company",
+        "AJE Group"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "AG Barr holds full-year outlook despite £10 million sales hit from supply issues - Yahoo Finance UK",
+      "summary": "AG Barr, fabricante británico de bebidas, mantuvo su guía de resultados anual a pesar de perder £10 millones en ventas por problemas de cadena de suministro. La empresa absorbe el impacto operativo si",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg Britvic launches 10-year water replenishment partnership | FoodBev Media",
+      "summary": "Carlsberg Britvic estableció una alianza de 10 años con The Rivers Trust para restaurar ríos, humedales y llanuras de inundación cerca de su planta de manufactura en Rugby, Reino Unido. Esta iniciativ",
+      "companies": [
+        "Britvic",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo alista US$1.000 millones para potenciar su operación en el mercado local",
+      "summary": "PepsiCo anunció una inversión de US$1.000 millones en Colombia durante los próximos cinco años, destinada a expandir capacidad productiva, modernizar operaciones y fortalecer distribución. Esta invers",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Delhi HC sets aside FSSAI order directing Red Bull India to drop ‘energy’ from drinks - The Economic Times",
+      "summary": "La Corte Superior de Delhi anuló una orden de la FSSAI (autoridad sanitaria india) que requería a Red Bull India eliminar el término 'energía' de sus bebidas. Esta sentencia tiene implicancia regulato",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Delhi high court stays FSSAI order asking Red Bull to remove ‘energy drinks’ tag - The Times of India",
+      "summary": "La Corte Superior de Delhi suspendió una orden de la FSSAI (autoridad de seguridad alimentaria india) que exigía a Red Bull remover la categoría 'energy drinks' de sus etiquetas. La disputa regulatori",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
