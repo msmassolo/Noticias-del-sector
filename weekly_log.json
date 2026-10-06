@@ -2420,7 +2420,7 @@
   "2026-10-06": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa de consumo junto con presiones en costos operativos, forzando a productores a ajustar estrategias comerciales. Esta tendencia re",
+      "summary": "El segmento de cerveza artesanal enfrenta una contracción significativa en volúmenes de consumo, obligando a productores a implementar ajustes de costos operativos. La crisis refleja cambios estructur",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2428,8 +2428,42 @@
       "region": "Local"
     },
     {
+      "title": "Retiran del mercado más de 120 mil unidades de Gatorade por efectos adversos generados por sus colorantes",
+      "summary": "PepsiCo retiró más de 122 mil cajas de Gatorade en 37 estados de EE.UU. por colorantes no declarados en el etiquetado de cuatro presentaciones. El incidente genera exposición regulatoria y de marca pa",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "regulation_tax_policy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola Zero Sin Cafeína llega a México y apuesta por el consumo nocturno",
+      "summary": "Coca-Cola lanza Coca-Cola Zero Sin Cafeína en México, ampliando su portafolio de bebidas sin azúcar hacia segmentos de consumo nocturno. La innovación responde a la demanda de consumidores que buscan ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Grupo AJE: Rafael Vega asume vicepresidencia comercial para Latinoamérica",
+      "summary": "Grupo AJE promueve a Rafael Vega a Vicepresidente Comercial de Canal Tradicional para Latinoamérica, dejando la dirección de AJE Perú tras 4 meses de gestión. La reconfiguración ejecutiva incluye el n",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Walmart comenzó automatizando sus centros de distribución; ahora la tecnología logística ya alcanza a 3,100 tiendas en Estados Unidos",
-      "summary": "Walmart ha expandido la automatización logística a 3,100 tiendas en EE.UU., optimizando su cadena de suministro y reduciendo tiempos de inventario. Esta capacidad operativa impacta directamente en la ",
+      "summary": "Walmart aceleró la automatización de sus centros de distribución, alcanzando ya 3,100 tiendas en EE.UU., mejorando el flujo de inventario y productividad operativa. Esta estrategia logística impacta d",
       "companies": [
         "Walmart"
       ],
@@ -2440,28 +2474,8 @@
       "region": "Regional"
     },
     {
-      "title": "Mientras Nescafé impulsa el crecimiento de Nestlé, el precio del café se convierte en un problema para las ganancias y márgenes de la compañía",
-      "summary": "Nescafé impulsa el crecimiento de Nestlé, pero la volatilidad de precios del café genera presión sobre márgenes y rentabilidad de la compañía. La categoría de café es estratégica para el grupo pero en",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Starbucks anuncia su menú de Navidad 2026, tiramisú en bebida y sándwich de queso con costilla de res braseada o pavo relleno",
-      "summary": "Starbucks lanza su menú navideño 2026 con nuevos productos incluyendo bebida Tiramisu Velvet y sándwiches estacionales. La estrategia de innovación en bebidas y alimentos complementarios responde a la",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "CELSIUS expands energy portfolio with Energy+ Hydration",
-      "summary": "Celsius lanza Energy+ Hydration, una bebida energizante sin gas que combina 200 mg de cafeína con 670 mg de electrolitos, diferenciándose por integrar hidratación en la categoría de energéticos. El pr",
+      "summary": "Celsius lanza Energy+ Hydration, un nuevo segmento de bebida energética sin gas que combina 200 mg de cafeína con 670 mg de electrolitos (sodio, potasio, magnesio), apuntando al segmento de hidratació",
       "companies": [
         "PepsiCo",
         "Celsius Holdings"
@@ -2474,7 +2488,7 @@
     },
     {
       "title": "Coca-Cola Co’s new Topo Chico Colección signals a new era for sparkling water",
-      "summary": "Coca-Cola lanza Topo Chico Colección, una línea premium de agua gasificada que amplía la categoría más allá de alternativas básicas zero-calorie hacia propuestas con sabores audaces y beneficios adici",
+      "summary": "Coca-Cola lanza Topo Chico Colección a partir del 5 de octubre, reposicionando el agua mineral con gas como categoría premium con sabores innovadores y potencial para ocasiones de consumo alcohol-free",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2485,32 +2499,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola Tests Prebiotic Twist on Its Biggest Brands - BevNET.com",
-      "summary": "Coca-Cola está desarrollando versiones prebióticas de sus marcas líderes (Coca-Cola Zero Sugar, Sprite Zero Sugar y Fresca) para capturar oportunidades en la categoría de sodas funcionales de rápido c",
+      "title": "Health Claims Pose Potential Regulatory Hurdle for Hard Sports Drink Makers | Brewbound",
+      "summary": "Los fabricantes de bebidas alcohólicas deportivas enfrentan restricciones regulatorias significativas en EE.UU.: no pueden hacer afirmaciones de salud ni llamarse bebidas deportivas, a diferencia de s",
       "companies": [
-        "The Coca-Cola Company"
+        "The Coca-Cola Company",
+        "PepsiCo"
       ],
       "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola unveils new beverage innovations across portfolio for 2027 | FoodBev Media",
-      "summary": "Coca-Cola presentó un portafolio de innovaciones para 2027 que incluye nuevos sabores, bebidas funcionales y productos con proteína, abarcando marcas clave como Coca-Cola, Powerade y Bodyarmor. El anu",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Celsius Reveals Energy+ Hydration Line, Rockstar Rebrand - BevNET.com",
-      "summary": "Celsius lanza una nueva línea de bebidas de hidratación sin gas (Energy+ Hydration) para comercialización en primeros meses de 2027, junto con una estrategia de rebranding de Rockstar. La expansión de",
+      "summary": "Celsius lanza Energy+ Hydration Line, una bebida sin gas dirigida al segmento de hidratación funcional, con distribución mayorista prevista para inicio de 2027. Simultáneamente, Rockstar anuncia un re",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2522,7 +2524,7 @@
     },
     {
       "title": "On The Rocks Launches its New Limited-Edition Chocolate Martini as a Decadent Twist on a Timeless Classic",
-      "summary": "On The Rocks lanza una edición limitada de Chocolate Martini para la temporada navideña, posicionándose en el segmento premium de cócteles listos para servir. La estrategia de innovación en sabores in",
+      "summary": "On The Rocks lanza una edición limitada de Chocolate Martini para la temporada navideña, posicionándose en el segmento premium de cócteles listos para servir. Esta línea de innovación de productos res",
       "companies": [
         "Bacardi"
       ],
@@ -2532,8 +2534,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Coca-Cola Scores a Fan Connection with Football Packaging",
+      "summary": "Coca-Cola lanzó una campaña de packaging limitado con 25 diseños de equipos de fútbol bajo el concepto 'Fan Work Is Thirsty Work', enfocada en fortalecer la conexión con aficionados. La iniciativa com",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "marketing_innovation",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo culls breakthrough innovation team in restructure",
-      "summary": "Diageo desmanteló su departamento de Breakthrough Innovation, creado en 2024, como parte de una reestructuración global. Aunque algunos proyectos clave como Everpour se mantienen, el equipo liderado p",
+      "summary": "Diageo disolvió su departamento de innovación disruptiva (Breakthrough Innovation) creado en 2024, como parte de una reestructuración global. Algunos proyectos como Everpour serán retenidos bajo otras",
       "companies": [
         "Diageo"
       ],
@@ -2544,7 +2558,7 @@
     },
     {
       "title": "Carlsberg expands PepsiCo bottling partnership into Georgia and Armenia | FoodBev Media",
-      "summary": "Carlsberg expande su asociación de embotellamiento con PepsiCo hacia Georgia y Armenia, sumándose a un acuerdo previo en Azerbaiyán. Carlsberg asumirá la producción, venta y distribución del portafoli",
+      "summary": "Carlsberg expande su asociación de embotellamiento con PepsiCo hacia Georgia y Armenia, tras acuerdo previo en Azerbaiyán. Carlsberg asumirá la producción, venta y distribución del portafolio de bebid",
       "companies": [
         "PepsiCo",
         "Carlsberg Group"
@@ -2555,20 +2569,29 @@
       "region": "Mundial"
     },
     {
-      "title": "Constellation Brands faces earnings test as beer demand wavers By Investing.com - Investing.com Canada",
-      "summary": "Constellation Brands, productor de las marcas Corona y Pacifico, enfrenta presión en resultados financieros debido a la debilidad en la demanda de cerveza. Este es un indicador crítico de cambios en e",
+      "title": "Smartwater Takes Fresh Swing at Sparkling with Latest Innovations - BevNET.com",
+      "summary": "Coca-Cola relanza Smartwater en el segmento de agua mineral gasificada con nuevos formatos en botellas y latas, ampliando su portafolio en la categoría premium. La compañía niega que sea una respuesta",
       "companies": [
-        "Constellation Brands"
+        "The Coca-Cola Company"
       ],
       "segments": [
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Accelerated Beer Losses & RTD Slowdown Drive Q3 Downturn in Circana Scans | Brewbound",
+      "summary": "Las pérdidas en la categoría cerveza y la desaceleración en las ventas de cócteles listos para beber (RTD) impulsaron una contracción acelerada en Q3 según datos de Circana. Esta tendencia refleja cam",
+      "companies": [],
+      "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
       "title": "Diageo cerrará la cervecería de Guinness en Baltimore por su ajuste de 1.000 millones de dólares",
-      "summary": "Diageo cierra su cervecería de Guinness en Baltimore como parte de un ajuste de USD 1.000 millones, mientras mantiene producción en Chicago. La decisión responde a una caída del 8,4% en ventas de Nort",
+      "summary": "Diageo cierra su cervecería de Guinness en Baltimore como parte de un ajuste de costos de 1.000 millones de dólares, manteniendo la producción en Chicago. La decisión responde a una caída del 8,4% en ",
       "companies": [
         "Diageo"
       ],
@@ -2579,7 +2602,7 @@
     },
     {
       "title": "'Born in Japan, Brewed in Wisconsin'",
-      "summary": "Asahi adquirió Octopi Brewing en Wisconsin para localizar la producción de su marca Super Dry en Estados Unidos, respondiendo al crecimiento acelerado del segmento de lager premium en el mercado norte",
+      "summary": "Asahi adquiere Octopi Brewing en Wisconsin para localizar la producción de su marca Super Dry en Estados Unidos, estrategia clave para reducir costos de importación y aumentar competitividad en el mer",
       "companies": [
         "Asahi Group"
       ],
@@ -2590,7 +2613,7 @@
     },
     {
       "title": "KDP Gets Dirty With Soda Innovation, Flavor-Forward Energy SKUs - BevNET.com",
-      "summary": "KDP shared an early look at its 2027 innovation pipeline highlighting dirty soda-aligned soft drink launches and creamy energy drink collabs.",
+      "summary": "Keurig Dr Pepper (KDP) presentó su pipeline de innovación para 2027 con dos ejes estratégicos: lanzamientos de bebidas gaseosas alineadas con la tendencia de 'dirty sodas' (refrescos con sabores compl",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2601,7 +2624,7 @@
     },
     {
       "title": "Court throws out class action over Diageo’s ‘100% agave’ claim - The Spirits Business",
-      "summary": "Un tribunal desestimó una demanda colectiva contra Diageo por alegaciones falsas sobre etiquetado de agave en bebidas destiladas. La resolución favorece a Diageo al validar sus prácticas de marketing ",
+      "summary": "Un tribunal desestimó una demanda colectiva contra Diageo por alegaciones falsas sobre tequila '100% agave'. La resolución judicial reduce el riesgo legal para la empresa y establece un precedente imp",
       "companies": [
         "Diageo"
       ],
@@ -2613,7 +2636,7 @@
     },
     {
       "title": "Keurig Dr Pepper names Russ Torres as CEO of future Global Coffee Co.",
-      "summary": "Keurig Dr Pepper anunció el nombramiento de Russ Torres como CEO de la futura Global Coffee Co., en el contexto de su separación en dos empresas independientes. Torres liderará la integración de opera",
+      "summary": "Keurig Dr Pepper anunció el nombramiento de Russ Torres como CEO de la futura Global Coffee Co., en el marco de su separación corporativa. Torres asumirá el 3 de noviembre como CEO de la Coffee Operat",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2623,8 +2646,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors Beverage Company to Webcast 2026 Third Quarter Earnings Conference Call - Business Wire",
-      "summary": "Molson Coors Beverage Company realizará una conferencia de resultados del tercer trimestre 2026, evento que permite acceder a información financiera clave sobre el desempeño del segundo mayor cervecer",
+      "title": "Molson Coors Beverage Reports Q2 2026 Results: Full Earnings Call Transcript - Benzinga",
+      "summary": "Molson Coors reportó resultados del segundo trimestre de 2026, proporcionando visibilidad sobre la performance financiera y operativa de uno de los mayores productores de bebidas alcohólicas del mundo",
       "companies": [
         "Molson Coors"
       ],
@@ -2635,8 +2658,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors Beverage Reports Q2 2026 Results: Full Earnings Call Transcript - Benzinga",
-      "summary": "Molson Coors reportó resultados del segundo trimestre de 2026, proporcionando visibilidad sobre desempeño financiero y estrategia de uno de los mayores productores de bebidas alcohólicas globales. Los",
+      "title": "Molson Coors Beverage Company to Webcast 2026 Third Quarter Earnings Conference Call - Business Wire",
+      "summary": "Molson Coors, uno de los principales productores de bebidas a nivel global, realizará una conferencia de resultados del tercer trimestre de 2026. Este tipo de eventos permite seguir la evolución finan",
       "companies": [
         "Molson Coors"
       ],
@@ -2648,7 +2671,7 @@
     },
     {
       "title": "Aqua Glow launches third flavour, Citrus Bliss, with WHSmith international airport exclusive",
-      "summary": "Aqua Glow lanzó Citrus Bliss, su tercer sabor en la línea de bebidas gasificadas con colágeno y bienestar. La distribución es exclusiva en 55 tiendas de aeropuertos internacionales (Bélgica, Países Ba",
+      "summary": "Aqua Glow lanzó Citrus Bliss, su tercer sabor en bebidas ligeramente gaseosas con colágeno y bienestar. La distribución se realiza mediante WHSmith en 55 tiendas de aeropuertos internacionales en Bélg",
       "companies": [
         "Danone"
       ],
@@ -2659,7 +2682,7 @@
     },
     {
       "title": "El Tequileño Welcomes Former Jackson Family Wines CEO Rick Tigner to Executive Leadership Team",
-      "summary": "Paradise Spirits, propietaria de la marca de tequila El Tequileño, incorporó a Rick Tigner, ex CEO de Jackson Family Wines, a su equipo ejecutivo para liderar la expansión internacional. Tigner aporta",
+      "summary": "Paradise Spirits incorporó a Rick Tigner, ex CEO de Jackson Family Wines, a su equipo ejecutivo para impulsar la expansión internacional de El Tequileño. Tigner aporta más de 30 años de experiencia en",
       "companies": [
         "Jackson Family Wines"
       ],
@@ -2669,8 +2692,29 @@
       "region": "Mundial"
     },
     {
+      "title": "Maker's Mark Goes Further for Flavor with Its First-Ever Whisky Finished with Japanese Mizunara Oak Staves",
+      "summary": "Maker's Mark lanza su World Wood Collection, una serie exclusiva para Global Travel Retail que debut en aeropuertos globales a finales de 2026. El primer release, Expedition 01, introduce acabado con ",
+      "companies": [
+        "Beam Suntory"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "How airports are driving trial for beverage brands",
-      "summary": "Los aeropuertos se consolidan como canales estratégicos de distribución y prueba de productos para marcas de bebidas, con particular énfasis en consumidores jóvenes receptivos a innovación y propuesta",
+      "summary": "Los aeropuertos se posicionan como canales estratégicos de prueba y distribución para marcas de bebidas, con creciente receptividad de viajeros hacia productos innovadores con propuesta de wellness. O",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Can functional beverage brands sell a feeling? The rise of social drinks",
+      "summary": "Las marcas de bebidas funcionales están pivoteando su propuesta de valor de beneficios tangibles (energía, hidratación, proteína) hacia beneficios emocionales y experienciales. Sentia, marca de spirit",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2680,7 +2724,7 @@
     },
     {
       "title": "Beverage Programs Are Under Pressure. These Pros Are Finding Ways to Adapt.",
-      "summary": "La industria de bebidas enfrenta presiones operacionales críticas: escalada de costos por aranceles, disrupciones de supply chain e inflación general. El colapso de Republic National Distributing Comp",
+      "summary": "La industria de bebidas enfrenta presiones operacionales críticas: escalada de costos por aranceles, problemas de cadena de suministro e inflación. El colapso de Republic National Distributing Company",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2689,8 +2733,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Target Cut by Wells Fargo & Company - MarketBeat",
-      "summary": "Wells Fargo redujo el precio objetivo de las acciones de Monster Beverage, señal de presión en valuaciones del líder global de bebidas energéticas. Esta acción refleja posibles preocupaciones sobre cr",
+      "title": "Monster Beverage stock gains 1.33 percent as Wells Fargo cuts target - AD HOC NEWS",
+      "summary": "Monster Beverage experimentó una ganancia accionaria del 1,33% tras el recorte de precio objetivo de Wells Fargo, señalando movimientos en la valoración de uno de los mayores competidores globales en ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2701,7 +2745,7 @@
     },
     {
       "title": "Is Monster Beverage (MNST) Cheap After Its Americas Leadership Shake Up? - Simply Wall Street",
-      "summary": "Monster Beverage experimentó cambios en su liderazgo ejecutivo en la región de América, lo que generó análisis sobre la valuación de la empresa. Monster es uno de los mayores competidores globales en ",
+      "summary": "Monster Beverage experimentó cambios en su liderazgo en la región de América, generando volatilidad en la valuación de las acciones. La reestructuración de la dirección ejecutiva en el mercado america",
       "companies": [
         "Monster Beverage"
       ],
@@ -2711,63 +2755,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Coffee and energy drinks add to high 2025 turnover at Coca-Cola HBC in Northern Ireland - Belfast Telegraph",
-      "summary": "Coca-Cola HBC reporta un desempeño sólido en 2025 en Irlanda del Norte, impulsado por crecimiento en categorías de café y bebidas energéticas. Este resultado refleja la tendencia global de diversifica",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Deutsche Bank Aktiengesellschaft Cuts Fevertree Drinks (LON:FEVR) Price Target to GBX 870 - MarketBeat",
-      "summary": "Deutsche Bank redujo el precio objetivo de Fevertree Drinks a 870 GBX, señalando presiones en la valuación del productor británico de bebidas mixers premium. Fevertree es un competidor relevante en el",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coke Bottlers Embrace Incoming Coke North America President Gehring - Beverage-Digest",
-      "summary": "James Gehring asume la presidencia de Coca-Cola North America, región que representa aproximadamente el 40% del EBITDA global de The Coca-Cola Company. Los embotelladoras independientes expresan respa",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands (STZ) Reports Earnings Tomorrow: What To Expect - TradingView",
-      "summary": "Constellation Brands reportará resultados financieros mañana, evento crítico para monitorear dado que es el mayor productor de cerveza en Estados Unidos (Corona, Modelo) y tiene operaciones significat",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "STZ Stock Ticks Higher Premarket: Constellation Brands Trades At Cheapest Valuation In Over A Decade Ahead Of Q2 Earnings - TradingView",
-      "summary": "Constellation Brands (STZ), gigante cervecero global con importante presencia en América Latina, cotiza a su valuación más baja en más de una década previo a resultados de Q2. La acción sube en operac",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Carlsberg, PepsiCo expand bottling arrangement to Armenia, Georgia - Global Drinks Intel",
-      "summary": "Carlsberg y PepsiCo expandieron su acuerdo de embotellado conjunto en Armenia y Georgia, fortaleciendo su presencia en mercados del Cáucaso. Esta alianza permite optimizar la cadena de distribución y ",
+      "summary": "Carlsberg y PepsiCo expandieron su acuerdo de embotellamiento conjunto en Armenia y Georgia, reforzando su presencia en mercados del Cáucaso. Esta alianza estratégica permite a ambas compañías optimiz",
       "companies": [
         "PepsiCo",
         "Carlsberg Group"
@@ -2779,11 +2768,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Carlsberg builds South Caucasus beverage platform with PepsiCo - Food and Drink Technology",
-      "summary": "Carlsberg ha establecido una plataforma de bebidas conjunta con PepsiCo en la región del Cáucaso Sur, ampliando su presencia en mercados emergentes estratégicos. Esta asociación combina la experiencia",
+      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Target Cut by Wells Fargo & Company - MarketBeat",
+      "summary": "Wells Fargo redujo su precio objetivo para Monster Beverage, señalando una revisión negativa de las perspectivas de la empresa. Este movimiento de un analista de Wall Street refleja preocupaciones sob",
       "companies": [
-        "PepsiCo",
-        "Carlsberg Group"
+        "Monster Beverage"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2792,12 +2780,36 @@
     },
     {
       "title": "Constellation Brands (NYSE:STZ) Tests the Strength of Its Beer Empire - Kalkine Media",
-      "summary": "Constellation Brands enfrenta pruebas en su negocio cervecero, principal fuente de ingresos. Como productor global líder con marcas como Corona y Modelo en mercados clave como EEUU y México, cualquier",
+      "summary": "Constellation Brands, mayor productor de cerveza importada en EE.UU. (Corona, Pacifico, Modelo), enfrenta presiones sobre su imperio cervecero en un contexto de cambios en preferencias de consumo. La ",
       "companies": [
         "Constellation Brands"
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Tests Prebiotic Twist on Its Biggest Brands - BevNET.com",
+      "summary": "Coca-Cola lanza versiones con ingredientes prebióticos en tres de sus marcas principales (Coca-Cola Zero Sugar, Sprite Zero Sugar y Fresca) para penetrar en la categoría de sodas funcionales, que está",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Coca-Cola Company Unveils New Flavors, Functional Drinks and More - www.coca-colacompany.com",
+      "summary": "Coca-Cola lanza nuevos sabores y bebidas funcionales, consolidando su estrategia de diversificación de portafolio hacia categorías de mayor valor percibido. Esta iniciativa responde a las tendencias d",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
       ],
       "region": "Mundial"
     }
