@@ -2277,8 +2277,19 @@
   ],
   "2026-10-10": [
     {
+      "title": "Athina Kanioura: “América Latina será el motor de crecimiento de PepsiCo”",
+      "summary": "Athina Kanioura, CEO de PepsiCo para América Latina, realizó su segunda visita a Argentina en nueve meses, reafirmando la región como prioridad estratégica para el crecimiento del grupo. Durante su es",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "San Juan aumentó las exportaciones de vino, pero cayó la facturación del mosto - Diario de Cuyo",
-      "summary": "San Juan registró crecimiento en exportaciones de vino pero contracción en la facturación de mosto, evidenciando una reconfiguración en la cadena de valor vitivinícola provincial. Este movimiento refl",
+      "summary": "San Juan registró un incremento en exportaciones de vino, pero simultáneamente experimentó una caída en la facturación del mosto, indicando un cambio en la estructura de valor de la cadena vitivinícol",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2288,7 +2299,7 @@
     },
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "El segmento de cerveza artesanal en Argentina enfrenta una contracción de consumo con presión en márgenes por ajuste de costos e inflación. Los cambios en hábitos de consumo post-pandemia impactan la ",
+      "summary": "La cerveza artesanal enfrenta una crisis de consumo en Argentina con caída de demanda, obligando a productores a ajustar costos operativos y revisar modelos de negocio. Este segmento, que representaba",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2297,7 +2308,7 @@
     },
     {
       "title": "De recetas en las paredes a la automatización: así cambió la producción de cerveza en la fábrica de Orizaba de Heineken",
-      "summary": "Heineken México moderniza su planta de Orizaba, Veracruz, implementando automatización industrial para enfrentar un mercado cervecero en transformación. La fábrica, que produce el 26% de la cerveza He",
+      "summary": "Heineken México moderniza su planta de Orizaba (responsable del 26% de la producción nacional) implementando automatización industrial para adaptarse a cambios en el mercado cervecero. La transformaci",
       "companies": [
         "Heineken"
       ],
@@ -2308,20 +2319,19 @@
       "region": "Regional"
     },
     {
-      "title": "AriZona cambia de cancha: de su famoso té a bebidas con 5% de alcohol para conquistar otro mercado",
-      "summary": "AriZona lanzó una nueva línea de bebidas alcohólicas (AriZona Hard) en México con 5% de alcohol, combinando sabores frutales con tequila en latas de 475ml. La marca reconocida por tés helados diversif",
+      "title": "Ele ajudou a Heineken a dar um salto no Brasil. Agora tem um plano para fazer o mesmo com uma IPA",
+      "summary": "Heineken potencia su portafolio de cervezas premium con Lagunitas, marca craft estadounidense que busca expandirse en Brasil bajo la dirección de Bernardo Spielmann. La estrategia replica el modelo de",
       "companies": [
-        "Arizona Beverages"
+        "Heineken"
       ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Regional"
     },
     {
       "title": "Fôlego das médias para renovação de portfólio aumenta durante 2026",
-      "summary": "Las empresas medianas de Brasil muestran crecimiento acelerado en diversificación de portafolio durante 2026, con tasas de expansión que pasaron de 3,7% en Q1 a 13,2-13,7% en Q2-Q3. Este movimiento es",
+      "summary": "Empresas medianas de Brasil aceleran diversificación de portafolio durante 2026, con tasa de crecimiento que pasó de 3.7% en Q1 a 13.2-13.7% en Q2-Q3. Esta tendencia refleja una estrategia deliberada ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2331,7 +2341,7 @@
     },
     {
       "title": "Efeitos do El Niño sobre alimentos pressionam inflação até o fim do ano, aponta FGV",
-      "summary": "El Niño está ejerciendo presión alcista sobre los precios de alimentos en Brasil, según la FGV, con inflación esperada hasta fin de año. El IPA (Índice de Preços ao Produtor) registró variaciones sign",
+      "summary": "El Niño está presionando al alza la inflación de alimentos en Brasil hasta fin de año, según análisis de la FGV. El fenómeno climático impacta directamente en costos de producción agrícola y materias ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2341,7 +2351,7 @@
     },
     {
       "title": "Is Coke The New… Poppi? And, Why Grocery Prices Might Get Personal.",
-      "summary": "Coca-Cola está desarrollando versiones prebióticas de sus marcas líderes, compitiendo directamente en el segmento de sodas funcionales dominado por Poppi y Olipop. Este movimiento refleja la reconfigu",
+      "summary": "Coca-Cola está desarrollando versiones prebióticas de sus marcas principales, compitiendo directamente en el segmento de bebidas funcionales donde líderes como Poppi y Olipop han ganado tracción. Este",
       "companies": [
         "The Coca-Cola Company",
         "Olipop",
@@ -2355,7 +2365,7 @@
     },
     {
       "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverage business?",
-      "summary": "PepsiCo enfrenta un desempeño divergente en su negocio norteamericano: su división de snacks muestra signos de recuperación, aunque por debajo de las expectativas iniciales, mientras que la división d",
+      "summary": "PepsiCo muestra resultados divergentes en su negocio norteamericano: la división de snacks inicia su recuperación esperada, aunque con menor impulso del previsto, mientras que la división de bebidas e",
       "companies": [
         "PepsiCo"
       ],
@@ -2367,7 +2377,7 @@
     },
     {
       "title": "Booze News Weekly Roundup: California Launches Investigation into Southern Glazer’s, Maker’s Mark Launches New Collection, and More",
-      "summary": "California inició una investigación contra Southern Glazer's por presunto soborno, lo que afecta al distribuidor más grande de bebidas alcohólicas en EE.UU. y genera riesgos reputacionales y regulator",
+      "summary": "California inicia investigación contra Southern Glazer's por presunto soborno, el mayor distribuidor de bebidas alcohólicas en EE.UU. Maker's Mark lanza nueva colección de productos en temporada de re",
       "companies": [
         "Beam Suntory"
       ],
@@ -2379,7 +2389,7 @@
     },
     {
       "title": "Constellation Brands acquires SpikedAde in deal worth up to $353m | FoodBev Media",
-      "summary": "Constellation Brands adquirió SpikedAde, marca estadounidense de bebidas listas para beber (RTD), en un acuerdo valuado hasta $353 millones ($75M iniciales más $278M contingentes en 5 años según desem",
+      "summary": "Constellation Brands adquirió SpikedAde, marca estadounidense de bebidas listas para beber (RTD), por USD 353 millones (USD 75 millones iniciales más USD 278 millones en pagos condicionados a performa",
       "companies": [
         "Constellation Brands"
       ],
@@ -2391,7 +2401,7 @@
     },
     {
       "title": "Olipop Planning Refrigerated Line Revamp, Shares New Seasonal LTO - BevNET.com",
-      "summary": "Olipop realinea su estrategia de distribución tras lanzar una línea estable en anaquel en 2024, retomando ahora el foco en la línea refrigerada de sus sodas prebióticas. Esta maniobra refleja la evalu",
+      "summary": "Olipop reorienta su estrategia de distribución priorizando nuevamente su línea refrigerada de bebidas prebióticas después de lanzar una versión de larga duración en 2024. La empresa planifica una revi",
       "companies": [
         "Olipop"
       ],
@@ -2402,7 +2412,7 @@
     },
     {
       "title": "ASEAN Focus: Nestle nutrition, Carlsberg Malaysia and Kinza expansion",
-      "summary": "Nestlé identifica una brecha creciente de seguridad nutricional en Asia, donde coexisten desnutrición, deficiencias de micronutrientes y obesidad simultáneamente en las mismas comunidades. La compañía",
+      "summary": "Nestlé alerta sobre una brecha creciente de seguridad nutricional en Asia, donde la desnutrición, deficiencias de micronutrientes y obesidad coexisten en las mismas comunidades. Este fenómeno de 'trip",
       "companies": [
         "Carlsberg Group"
       ],
@@ -2413,7 +2423,7 @@
     },
     {
       "title": "PepsiCo raises prices on snacks and sodas after recent cuts amid rising costs and weak beverage sales - Pluang",
-      "summary": "PepsiCo implementó aumentos de precios en snacks y bebidas gaseosas tras recortes previos, en respuesta a costos operativos crecientes y debilidad en las ventas de bebidas. Esta estrategia de pricing ",
+      "summary": "PepsiCo implementó aumentos de precios en snacks y bebidas tras recortes previos, respondiendo a costos operativos crecientes y débil desempeño en ventas de bebidas. Esta estrategia de pricing es crít",
       "companies": [
         "PepsiCo"
       ],
@@ -2424,20 +2434,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Snacks pricing, “urgency” on drinks – takeaways from PepsiCo’s Q3 results - Just Drinks",
-      "summary": "PepsiCo reportó resultados de Q3 con dinámicas diferenciadas entre snacks y bebidas. Mientras snacks mantienen poder de pricing, las bebidas enfrentan urgencia estratégica probablemente vinculada a pr",
+      "title": "Arkansas Supreme Court Requires One Wholesaler for Kirkland Signature Beverages",
+      "summary": "La Corte Suprema de Arkansas ordenó que la marca de bebidas Kirkland Signature de Costco sea distribuida por un único mayorista en el estado, tratándola como una marca única. Esta sentencia restringe ",
+      "companies": [
+        "Costco"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Your Doritos Got Cheaper. PepsiCo’s Snack Profit Paid the Bill - Business Model Analyst",
+      "summary": "PepsiCo utilizó la rentabilidad de su división de snacks para subsidiar reducciones de precio en Doritos, buscando mantener competitividad en categoría de alto valor. Esta estrategia refleja presiones",
       "companies": [
         "PepsiCo"
       ],
       "segments": [
-        "consumer_market_trends",
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "Red Bull’s Owners Cut Their Dividend to €1.1 Billion Despite Record Profit - Bloomberg.com",
-      "summary": "Los accionistas de Red Bull redujeron su dividendo a €1.1 mil millones pese a registrar ganancias récord, señalando una estrategia de reinversión en crecimiento. Esta decisión refleja un cambio en la ",
+      "summary": "Los dueños de Red Bull redujeron su dividendo a €1.1 mil millones pese a registrar ganancias récord, señalando una estrategia de reinversión en el negocio. Esta decisión refleja prioridades de crecimi",
       "companies": [
         "Red Bull"
       ],
@@ -2448,7 +2469,7 @@
     },
     {
       "title": "Tilray CEO on BrewDog Lifting Beverage Biz to Growth, Additional Craft Cuts & Another Hemp Ban Extension | Brewbound",
-      "summary": "Tilray Brands reportó que la adquisición de BrewDog impulsó el crecimiento de su negocio de bebidas en el primer trimestre del ejercicio fiscal 2027. La integración de la marca de cerveza artesanal re",
+      "summary": "Tilray Brands reporta que la adquisición de BrewDog impulsó el crecimiento del negocio de bebidas en Q1 FY2027. La cervecería británica de craft está contribuyendo significativamente a la estrategia d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2458,7 +2479,7 @@
     },
     {
       "title": "Carlsberg Britvic proposes closing Marston’s Brewery in Burton, risking 310 jobs",
-      "summary": "Carlsberg Britvic propone cerrar la cervecería Marston's en Burton (Reino Unido) en 2027, afectando 310 empleos, debido a la caída sostenida de demanda de cervezas de barril. La operación refleja un c",
+      "summary": "Carlsberg Britvic planea cerrar la cervecería Marston's en Burton (Reino Unido) hacia 2027, afectando 310 empleos. La decisión responde a la caída sostenida de la demanda de cerveza de barril, presion",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2470,10 +2491,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Asahi to close Green Beacon Brewing Co. brewpub",
-      "summary": "Asahi cierra Green Beacon Brewing Co., su brewpub en Brisbane, Australia, el 30 de octubre por un proyecto inmobiliario residencial de 8 pisos. La decisión refleja una estrategia de Asahi de desinvers",
+      "title": "Hennessy’s Brand Value Fell 29% to US$3.8 Billion, Brand Finance Says",
+      "summary": "El valor de marca de Hennessy cayó 29% a US$3.8 mil millones según Brand Finance, reflejando debilitamiento en la demanda premium y normalización de inventarios en mercados clave. La caída más pronunc",
       "companies": [
-        "Asahi Group"
+        "LVMH Wines & Spirits"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2482,7 +2503,7 @@
     },
     {
       "title": "Japan Opens Antitrust Inquiry Into Four Brewers Over Suspected Beer Price Cartel",
-      "summary": "La Comisión de Comercio Justo de Japón inició una investigación antimonopolio contra cuatro cerveceros (Asahi, Kirin, Sapporo y Suntory) por sospecha de cartel coordinado en aumentos de precios mayori",
+      "summary": "Japón inició investigación antimonopolio contra cuatro cerveceros (Asahi, Kirin, Sapporo y Suntory) por presunta coordinación en aumentos de precios mayoristas durante años. La Comisión de Competencia",
       "companies": [
         "Asahi Group",
         "Kirin Holdings"
@@ -2493,19 +2514,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Hennessy’s Brand Value Fell 29% to US$3.8 Billion, Brand Finance Says",
-      "summary": "La marca Hennessy registró una caída de valuación del 29% a US$3.8B según Brand Finance, reflejando debilitamiento en la demanda premium de cognac. La contracción se explica por disrupción comercial, ",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Coca-Cola adds new flavors to soda, sports drinks and protein shakes - Vending Market Watch",
-      "summary": "Coca-Cola lanzó nuevos sabores en sus categorías de bebidas gaseosas, bebidas deportivas y batidos proteicos. Esta estrategia de innovación de portafolio busca diversificar la oferta y capturar segmen",
+      "summary": "Coca-Cola lanzó nuevos sabores en sus líneas de gaseosas, bebidas deportivas y batidos proteicos, ampliando su portafolio de productos. Esta estrategia de innovación en sabores responde a la tendencia",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2516,29 +2526,7 @@
     },
     {
       "title": "Monster Beverage wins India court relief and Monster Beverage stock trades below EUR 38.93 - AD HOC NEWS",
-      "summary": "Monster Beverage obtuvo una resolución favorable en un tribunal indio, reduciendo barreras regulatorias en uno de los mercados de bebidas energéticas de mayor crecimiento global. La acción de Monster ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Target Lowered at Evercore - MarketBeat",
-      "summary": "Evercore redujo su precio objetivo para Monster Beverage (NASDAQ:MNST), lo que refleja cambios en las expectativas de valoración del líder global en bebidas energéticas. Este movimiento de un analista",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "41,195 Monster Beverage Corporation $MNST Shares Bought by GAMMA Investing LLC - MarketBeat",
-      "summary": "GAMMA Investing LLC adquirió 41,195 acciones de Monster Beverage Corporation, evidenciando movimiento de capital institucional en la compañía. Monster es competidor estratégico directo en el segmento ",
+      "summary": "Monster Beverage obtuvo una resolución favorable en un tribunal indio, lo que alivia presiones legales en un mercado asiático estratégico de alto crecimiento. La decisión reduce riesgos regulatorios e",
       "companies": [
         "Monster Beverage"
       ],
@@ -2549,7 +2537,7 @@
     },
     {
       "title": "Wine Industry Feels the Heat from Every Direction",
-      "summary": "La industria vitivinícola enfrenta presiones simultáneas: cambio climático, volatilidad económica y geopolítica, además de una menor demanda de vino entre consumidores jóvenes. Expertos interpretan es",
+      "summary": "La industria vinícola enfrenta presiones simultáneas: cambio climático, desafíos económicos y geopolíticos, y cambio de preferencias en consumidores jóvenes que reducen demanda de vino. Expertos señal",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2558,20 +2546,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Constellation Brands (STZ) Could Be 24% Undervalued After Earnings Beat And SpikedAde Deal - Simply Wall Street",
-      "summary": "Constellation Brands reportó resultados que superaron expectativas y cerró la adquisición de SpikedAde, posicionándose estratégicamente en el segmento de bebidas alcohólicas innovadoras. El análisis s",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Carlsberg to close Marston’s Brewery – The Brewers Journal",
-      "summary": "Carlsberg Britvic cierra la cervecería histórica Marston's en Burton Upon Trent en 2027, consolidando operaciones de producción y logística. La decisión afecta marcas premium como Hobgoblin, McEwan's ",
+      "summary": "Carlsberg cerrará la cervecería Marston's en Burton Upon Trent en verano de 2027, incluyendo operaciones logísticas. El cierre afectará marcas de cerveza de alto valor como Hobgoblin, McEwan's y Brook",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2584,7 +2560,7 @@
     },
     {
       "title": "Carlsberg reveals plans to close Marston’s Brewery, risking 310 jobs | FoodBev Media",
-      "summary": "Carlsberg Britvic anunció el cierre de la cervecería Marston's en Burton upon Trent (UK) para verano de 2027, afectando 310 empleos. La decisión responde a la caída sostenida de demanda en la categorí",
+      "summary": "Carlsberg Britvic anunció el cierre de la cervecería Marston's en Burton upon Trent (UK) para verano de 2027, afectando 310 empleos. La decisión responde a la caída de demanda en la categoría de cerve",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2596,7 +2572,7 @@
     },
     {
       "title": "Carlsberg Britvic Proposes to Close Marston’s Brewery, Jeopardizing 310 Jobs",
-      "summary": "Carlsberg Britvic propone cerrar la cervecería histórica de Marston's en Burton upon Trent, afectando 310 empleos. La medida responde a la caída de más del 50% en volúmenes de cervezas de barril en Re",
+      "summary": "Carlsberg Britvic propone cerrar la cervecería histórica de Marston's en Burton upon Trent, afectando 310 empleos, debido a la caída de más del 50% en volúmenes de cerveza de barril en Reino Unido. La",
       "companies": [
         "Britvic",
         "Carlsberg Group"
@@ -2608,7 +2584,7 @@
     },
     {
       "title": "Global wine exports fell 8.1% in volume in the first half of 2026",
-      "summary": "Las exportaciones globales de vino cayeron 8.1% en volumen durante el primer semestre de 2026, con una contracción del valor de exportación del 5.1% a €15.9 mil millones, impulsada por una caída del 6",
+      "summary": "Las exportaciones globales de vino cayeron 8.1% en volumen durante el primer semestre de 2026, con una contracción de valor de 5.1% hasta €15.9 mil millones, impulsada principalmente por una caída de ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2618,7 +2594,17 @@
     },
     {
       "title": "Kiki Milk introduces new Kiki Milk Protein drink based on sacha inchi seeds | FoodBev Media",
-      "summary": "Kiki Milk lanzó Kiki Milk Protein, una bebida de leche alternativa elaborada a partir de semillas de sacha inchi amazónico, posicionándose en el segmento de alt-milk con proteína vegetal completa. La ",
+      "summary": "Kiki Milk lanzó Kiki Milk Protein, una bebida plant-based innovadora basada en semillas de sacha inchi amazónico. El producto posiciona a la marca en el segmento de bebidas proteicas vegetales, aprove",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Doctor-Founded Functional Beverage Sly. Launches Nationwide at Sprouts Farmers Market",
+      "summary": "La marca de bebidas funcionales Sly., fundada por dos optometristas de Arizona, lanzó distribución nacional en cadena Sprouts Farmers Market con dos líneas: BOOST (enfoque diurno) y DREAM (descanso no",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2628,7 +2614,7 @@
     },
     {
       "title": "Coca-Cola, Molson Coors, Keurig Dr Pepper, Ocean Spray, Others Shake Up Executive Ranks to Accelerate Growth - Consumer Goods Technology",
-      "summary": "Coca-Cola, Molson Coors, Keurig Dr Pepper y Ocean Spray realizan cambios significativos en sus estructuras ejecutivas con el objetivo de acelerar el crecimiento. Estos movimientos en dirección estraté",
+      "summary": "Coca-Cola, Molson Coors, Keurig Dr Pepper y Ocean Spray realizaron cambios significativos en sus equipos ejecutivos para acelerar el crecimiento. Estos movimientos en la estructura de liderazgo de los",
       "companies": [
         "The Coca-Cola Company",
         "Keurig Dr Pepper",
@@ -2640,22 +2626,80 @@
       "region": "Mundial"
     },
     {
-      "title": "smartwater sparkling",
-      "summary": "Coca-Cola lanza smartwater sparkling, una variante carbonatada de su línea de agua destilada con vapor, disponible en latas y botellas PET. El producto mantiene el perfil unflavored de la marca pero a",
-      "companies": [],
+      "title": "Snacks pricing, “urgency” on drinks – takeaways from PepsiCo’s Q3 results - Just Drinks",
+      "summary": "PepsiCo reportó resultados del Q3 con dinámicas diferenciadas entre su portafolio de snacks y bebidas. La compañía implementó estrategias de pricing agresivas en snacks mientras identifica una situaci",
+      "companies": [
+        "PepsiCo"
+      ],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Doctor-Founded Functional Beverage Sly. Launches Nationwide at Sprouts Farmers Market",
-      "summary": "Sly., marca de bebidas funcionales fundada por dos optometristas de Arizona, logró distribución nacional en Sprouts Farmers Market con su línea BOOST (estimulante, sin cafeína) y DREAM (relajante). El",
-      "companies": [],
+      "title": "PepsiCo trying to solve its North America problem",
+      "summary": "PepsiCo implementará reducciones de costos adicionales para mejorar su desempeño en Norteamérica, su mercado más importante pero actualmente problemático. Esta estrategia es crítica para la compañía d",
+      "companies": [
+        "PepsiCo"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "product_innovation"
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo sees stronger snack volumes as North American beverage growth remains subdued - Food Ingredients First",
+      "summary": "PepsiCo reporta crecimiento más fuerte en su división de snacks mientras que el crecimiento de bebidas en América del Norte se mantiene débil. Este patrón refleja cambios en preferencias de consumo y ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverage business? - FoodNavigator.com",
+      "summary": "PepsiCo enfrenta desafíos en su división de bebidas mientras su negocio de snacks experimenta un turnaround exitoso. El análisis examina si las estrategias que revitalizaron la línea de snacks —incluy",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Target Lowered at Evercore - MarketBeat",
+      "summary": "Evercore redujo el precio objetivo de las acciones de Monster Beverage, señal de menor confianza en el desempeño esperado de la compañía. Monster es uno de los mayores jugadores globales en bebidas en",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation $MNST Stock: Wedmont Private Capital Grows Position - MarketBeat",
+      "summary": "Wedmont Private Capital incrementó su posición accionaria en Monster Beverage Corporation, reflejando confianza institucional en la compañía. Este movimiento señala optimismo sobre la trayectoria de M",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage stock ends week at EUR 39.06 with a planned CEO change - AD HOC NEWS",
+      "summary": "Monster Beverage anuncia cambio de liderazgo con transición planificada de CEO. La acción cerró la semana en EUR 39.06, reflejando la reacción del mercado a este movimiento estratégico. Este cambio en",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
