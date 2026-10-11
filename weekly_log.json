@@ -1,388 +1,4 @@
 {
-  "2026-10-03": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis estructural con caída significativa del consumo, ajuste de costos operativos y cambios en los patrones de consumo del mercado. Este movimiento refleja transfor",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "¿Por qué tu supermercado más cercano ahora prepara tus pedidos en línea? Walmart, Soriana, Chedraui y La Comer cambian sus tiendas",
-      "summary": "Las principales cadenas de supermercados mexicanas (Walmart, Soriana, Chedraui, La Comer) están transformando sus tiendas físicas en centros de fulfillment para e-commerce, integrando preparación de p",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Loja de conveniência digital: como o Zé Delivery deixou de ser só um app de cerveja para a Ambev - Estadão",
-      "summary": "Ambev transformó Zé Delivery de una plataforma enfocada en cerveza a un marketplace de conveniencia digital integral. Esta evolución estratégica diversifica el portafolio de canales de distribución de",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "HEINEKEN mira crescer 25% em bebidas de baixo e zero álcool e amplia metas de sustentabilidade até 2030 - revistabusiness.com.br",
-      "summary": "Heineken proyecta un crecimiento del 25% en su portafolio de bebidas bajas y sin alcohol, alineado con la expansión de sus compromisos de sustentabilidad hasta 2030. Este movimiento refleja la reorien",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Spirits-Based RTD Sales +21% in Latest NIQ Weekly Scans; Surfside, Super Lyte, Sun Cruiser, Cutwater & BuzzBallz Lead Growth | Brewbound",
-      "summary": "Las bebidas RTD (ready-to-drink) a base de spirits registraron un crecimiento del 21% en ventas según los últimos datos de escaneo semanal de NIQ, destacándose marcas como Surfside, Super Lyte, Sun Cr",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Booze News Weekly Roundup: Pop-Tarts Exits BuzzBallz Collab, Trump’s Canadian Alcohol Ban Takes Effect, and More",
-      "summary": "PopTarts discontinúa su colaboración con BuzzBallz, señalando un cambio en estrategia de co-branding en bebidas alcohólicas. La administración Trump implementó restricciones a importaciones de alcohol",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Energy expands Java Monster line-up with Dubai Chocolate flavour | FoodBev Media",
-      "summary": "Monster Energy lanza Java Monster Dubai Chocolate en octubre, expandiendo su portafolio de bebidas de café listas para beber con un sabor globalmente inspirado que combina café, crema, cacao, pistacho",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Un juez federal de Brooklyn tumba la demanda contra Diageo por el etiquetado 100% agave de sus tequilas",
-      "summary": "Un tribunal federal en Brooklyn desestimó una demanda colectiva contra Diageo por prácticas de etiquetado de tequila 100% agave, al considerar que los demandantes no demostraron perjuicio económico ni",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Press Clips: People Moves at A-B, BrewDog & Molson Coors, the Walmart-ification of Kroger and More | Brewbound",
-      "summary": "Cesar Vargas, VP Legal and Corporate Affairs de Anheuser-Busch InBev, se retirará en abril de 2027 tras casi una década en el cargo. Este movimiento de liderazgo en A-B, el mayor productor de bebidas ",
-      "companies": [
-        "AB InBev",
-        "Molson Coors",
-        "Walmart"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pimentae adds new Tequila Espresso Martini to premium RTD cocktail range | FoodBev Media",
-      "summary": "Pimentae, marca británica de cócteles premium listos para beber (RTD), lanzó un nuevo Tequila Espresso Martini disponible en cadenas de distribución mayorista (Waitrose, Ocado, Morrisons). El producto",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "OLIPOP debuts new seasonal flavor, chocolate collaboration",
-      "summary": "OLIPOP, marca líder en bebidas prebióticas, lanzó la variante estacional Pomegranate Sparkle y una colaboración exclusiva con Compartés Chocolatier para la temporada festiva. La estrategia combina inn",
-      "companies": [
-        "Olipop"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands Stock Forecast: Beer Demand Faces a Key Q2 Earnings Test - TradingKey",
-      "summary": "Constellation Brands enfrenta un test crítico en resultados Q2 sobre la demanda de cerveza. Como productor global de marcas relevantes (Corona, Modelo), su desempeño financiero es indicador clave de s",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo, Monster Beverage Sue Indian Regulator Over 'Energy Drink' Label Ban - marketscreener.com",
-      "summary": "PepsiCo y Monster Beverage demandaron al regulador indio por la prohibición de usar la etiqueta 'Energy Drink' en sus productos. India, mercado estratégico en crecimiento para bebidas energéticas, imp",
-      "companies": [
-        "PepsiCo",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "KDP names Russ Torres CEO of planned Global Coffee Co | FoodBev Media",
-      "summary": "Keurig Dr Pepper designó a Russ Torres (ejecutivo de Kimberly-Clark) como CEO de Global Coffee Co, la nueva empresa resultante de la separación de negocios de café y bebidas planificada por KDP. Torre",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors cerrará la cervecera Sharp’s en Cornualles con hasta 40 empleos en riesgo",
-      "summary": "Molson Coors anunció el cierre de la cervecería Sharp's en Cornualles, Reino Unido, con potencial pérdida de hasta 40 empleos. La decisión responde a la contracción de la demanda de cerveza tradiciona",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg Britvic and The Rivers Trust Announce Partnership - Food & Beverage Outlook",
-      "summary": "Carlsberg Britvic se asocia con The Rivers Trust en una iniciativa de sustentabilidad hídrica. Esta alianza refleja el compromiso estratégico del grupo con la gestión de recursos naturales críticos pa",
-      "companies": [
-        "Britvic",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Canada’s 533.94M CAD Cash Position Adds Liquidity Support as Beer Demand and Cost Pressures Test the Outlook - kalkine.ca",
-      "summary": "Molson Coors Canada mantiene una posición de liquidez de 533.94M CAD que refuerza su capacidad para hacer frente a presiones de costos en el mercado cervecero canadiense. La noticia refleja tensiones ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo responds to strike threat by 100-plus staff at Scottish distillery",
-      "summary": "Diageo enfrenta una escalada laboral en su destilería escocesa con más de 100 empleados del sindicato Unite realizando acciones de huelga programadas para octubre en respuesta a amenazas de despidos c",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Camo Packaging Launch At Boston Beer Company (SAM) Has Changed Its Investment Story - simplywall.st",
-      "summary": "Boston Beer Company (SAM) lanzó nuevas líneas de productos con packaging camuflado, redefiniendo su propuesta de valor y estrategia de posicionamiento en el mercado. Este movimiento en innovación de p",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Aevum rechaza la opa de Sazerac sobre Berentzen por considerar insuficiente el precio",
-      "summary": "Aevum rechazó la oferta pública de adquisición (OPA) de Sazerac por Berentzen, considerando insuficiente el precio de 5,55 euros por acción. El movimiento refleja una batalla de M&A en el sector de be",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Josien terminates Rémy Cointreau distribution partnership in Nigeria following strategic portfolio review - thecable.ng",
-      "summary": "Josien terminó su acuerdo de distribución con Rémy Cointreau en Nigeria tras revisar su cartera estratégica. Este cambio refleja una reconfiguración de canales de distribución en un mercado africano c",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NA Beverages ‘Broadly Stable’ Over the Back-to-School Period - BevNET.com",
-      "summary": "Las ventas de bebidas no alcohólicas en Norteamérica se mantuvieron estables y saludables durante el período de vuelta a clases (hasta 19 de septiembre de 2026), según análisis de datos Nielsen de Gol",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands revives Modelo Noche Especial ahead of ‘holiday season’ - Global Drinks Intel",
-      "summary": "Constellation Brands relanza Modelo Noche Especial para la temporada navideña. Esta es una estrategia de activación de portafolio dirigida a capitalizar la demanda estacional en bebidas alcohólicas. E",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "What Monster Beverage Stock Leadership Change Means For Shareholders - simplywall.st",
-      "summary": "Monster Beverage experimenta un cambio en su liderazgo ejecutivo, evento crítico que impacta la estrategia corporativa y valor accionario de uno de los principales competidores globales en bebidas ene",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage names interim leader. Monster Beverage stock costs EUR 38.07 versus EUR 38.06 - AD HOC NEWS",
-      "summary": "Monster Beverage designó un líder interino, señalando posibles cambios en su estructura de liderazgo ejecutivo. Este movimiento ocurre en un contexto donde la empresa cotiza cerca de EUR 38, reflejand",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "España bate su récord de importación de vino con 64,5 millones de litros",
-      "summary": "España registró un récord histórico de importaciones de vino con 64,5 millones de litros, liderado por proveedores como Chile que multiplicó por siete sus volúmenes. Este crecimiento refleja cambios e",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Wine Enthusiast Launches Dedicated No/Low Alcohol Tasting Program To Elevate Growing Beverage Category",
-      "summary": "Wine Enthusiast lanza un programa de cata dedicado a bebidas sin y bajo alcohol con sistema de rating de 5 estrellas para vinos, destilados y bebidas RTD. Esta iniciativa reconoce el crecimiento acele",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Paragraph Wine Introduces French Chardonnay as Second Release",
-      "summary": "PARAGRAPH, marca de vinos premium sin alcohol, lanza su segundo producto: un Chardonnay francés, complementando su oferta inicial con Tempranillo español. Esta expansión de rango responde a la crecien",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boba POPS Pop & Go",
-      "summary": "Unifying Spirits lanzó Pop & Go, su primera línea de cócteles listos para beber (RTD) en formato de 12 onzas con pajita colapsible. La innovación incorpora perlas de boba que permanecen estables en an",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El comercio internacional del vino y el mosto vuelve a caer por la debilidad de la demanda",
-      "summary": "Las exportaciones de vino y mosto registran caída de 8% en volumen y 5,1% en valor, reflejando debilidad en la demanda internacional. Este indicador es crítico para Argentina, que posiciona vinos como",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Una de cada cuatro bebidas alcohólicas sería ilegal: ¿cuántos millones le cuestan al Estado?",
-      "summary": "En Perú, el 26.2% de las bebidas alcohólicas comercializadas serían de procedencia ilegal (falsificadas, adulteradas o de contrabando), según la Sociedad Nacional de Industrias. Esto representa una co",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "“Mais valor, não necessariamente mais volume”: líder da Pernod Ricard Portugal traça futuro das bebidas espirituosas - Marketeer",
-      "summary": "El CEO de Pernod Ricard Portugal articula una estrategia de margen sobre volumen para bebidas espirituosas, priorizando valor agregado ante presiones inflacionarias y cambios de consumo. Esta estrateg",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "A non-alc wine that doesn’t taste like cordial? Treasury Wine Estates says it’s not a myth - delicious.com.au",
-      "summary": "Treasury Wine Estates, productor australiano de envergadura global, lanza vinos sin alcohol con perfil sensorial mejorado que se diferencia de bebidas de baja calidad. Esta iniciativa refleja la conso",
-      "companies": [
-        "Treasury Wine Estates"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "New Beverages: Liquid Death, Liquid I.V. Embrace Blood Orange; Mingle's Non-Alc Espresso Martini - BevNET.com",
-      "summary": "Múltiples marcas de bebidas lanzan nuevos productos con sabores innovadores: Liquid Death e Liquid I.V. introducen versiones de naranja sangre, mientras Mingle lanza un espresso martini sin alcohol. E",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-10-04": [
     {
       "title": "Por qué el supermercado del futuro ya no vende alimentos y bebidas sino tiempo",
@@ -2695,6 +2311,125 @@
     {
       "title": "Monster Beverage stock ends week at EUR 39.06 with a planned CEO change - AD HOC NEWS",
       "summary": "Monster Beverage anuncia cambio de liderazgo con transición planificada de CEO. La acción cerró la semana en EUR 39.06, reflejando la reacción del mercado a este movimiento estratégico. Este cambio en",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-10-11": [
+    {
+      "title": "Athina Kanioura: “América Latina será el motor de crecimiento de PepsiCo”",
+      "summary": "Athina Kanioura, CEO de PepsiCo América Latina, visitó Argentina reafirmando la región como eje estratégico de crecimiento para la compañía. La ejecutiva se reunió con clientes, socios y equipos local",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "La cerveza artesanal argentina enfrenta una contracción significativa de consumo con presión en márgenes operativos por ajuste de costos. El segmento registra cambios en patrones de demanda del consum",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Casi la mitad de consumidores RTD son nuevos, ¿categoría continuará en explosivo ascenso?",
+      "summary": "El mercado de bebidas RTD (ready to drink) experimenta crecimiento acelerado en el segmento alcohólico, con casi 50% de nuevos consumidores. Impulsado por la demanda de productos convenientes y de con",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Russia Temporarily Bans Georgian Drinks Including Coca-Cola",
+      "summary": "Rusia implementó una prohibición temporal de bebidas georgianas, incluyendo productos de Coca-Cola, tras fallar inspecciones de seguridad alimentaria. La medida afecta vinos, coñacs, cervezas, bebidas",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Softer Quarterly Results Could Be A Turning Point For Boston Beer Stock (SAM) - Simply Wall Street",
+      "summary": "Boston Beer Company reportó resultados trimestrales por debajo de expectativas, lo que podría marcar un punto de inflexión para las acciones de SAM. La compañía enfrenta presiones en márgenes y volume",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "BrewDog helped Tilray lift quarterly revenue 23%.",
+      "summary": "Tilray reportó un crecimiento de ingresos trimestrales del 23% impulsado por BrewDog, adquisición que consolidó el segmento de bebidas en 39.5% de los ingresos netos con $101.5 millones. Este movimien",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Karnataka beer sales jumped 49.69% under revised alcohol tax policy",
+      "summary": "Las ventas de cerveza en Karnataka (India) crecieron 49.69% bajo una nueva política de impuestos al alcohol, con bebidas de producción local representando el 82% del incremento en recaudación de impue",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Target Lowered at Evercore - MarketBeat",
+      "summary": "Evercore redujo el precio objetivo de Monster Beverage, señalando presiones en la valuación de la empresa. Este movimiento refleja preocupaciones del mercado sobre el crecimiento de Monster, competido",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation $MNST Stock: Wedmont Private Capital Grows Position - MarketBeat",
+      "summary": "Wedmont Private Capital aumentó su posición accionaria en Monster Beverage Corporation, señalando confianza de inversores institucionales en la compañía líder global de bebidas energéticas. Este movim",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer Price Raid Might Change The Case For Investing In Asahi Group Holdings (TSE:2502) - Simply Wall Street",
+      "summary": "Asahi Group Holdings enfrenta presiones regulatorias sobre precios de cerveza que podrían impactar su valuación y retorno de inversiones. La noticia aborda dinámicas de regulación de precios en el sec",
+      "companies": [
+        "Asahi Group"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Looks Reasonable As Cash Flow Supports The Price - Yahoo Finance",
+      "summary": "Monster Beverage presenta una valuación razonable respaldada por su generación de flujo de caja operativo, según análisis de Yahoo Finance. La posición financiera sólida del principal competidor globa",
       "companies": [
         "Monster Beverage"
       ],
