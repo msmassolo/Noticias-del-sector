@@ -1,121 +1,4 @@
 {
-  "2026-10-04": [
-    {
-      "title": "Por qué el supermercado del futuro ya no vende alimentos y bebidas sino tiempo",
-      "summary": "El supermercado está evolucionando hacia un modelo de venta de experiencia y gestión del tiempo, no solo de productos. Presentado en las 44 Jornadas de Supermercadismo en Argentina (Córdoba), el análi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis de demanda en Argentina con caída de consumo, obligando a productores a ajustar costos y revisar modelos de negocio. Este segmento, que creció exponencialmente",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Mercado global de extrato de folha de estévia acelera rumo a 2035 com a reformulação de bebidas de rótulo limpo - indexbox.io",
-      "summary": "El mercado global de extracto de hoja de stevia muestra aceleración hacia 2035, impulsado por la reformulación de bebidas con etiqueta limpia (clean label). Esta tendencia refleja la creciente demanda",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Constellation Brands Stock Forecast: Beer Demand Faces a Key Q2 Earnings Test - tradingkey.com",
-      "summary": "Constellation Brands enfrenta un test crítico en resultados Q2 que medirá la demanda de cerveza en mercados clave. El desempeño será indicador de tendencias de consumo y rentabilidad en un contexto de",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Americas head will join Coca-Cola: Monster Beverage stock costs EUR 38.07 flat - AD HOC NEWS",
-      "summary": "El head de Monster Beverage Americas se incorporará a Coca-Cola, señalando un movimiento estratégico de talento entre dos actores clave de la industria de bebidas energéticas. Esta salida representa u",
-      "companies": [
-        "The Coca-Cola Company",
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Camo Packaging Launch At Boston Beer Company (SAM) Has Changed Its Investment Story - Simply Wall Street",
-      "summary": "Boston Beer Company (SAM) lanzó un nuevo diseño de packaging con estética camo que reposiciona su narrativa de inversión. La innovación en packaging es estratégica para diferenciación competitiva y at",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage's Biggest Moat Isn't Its Energy Drink. It's Something Else. - The Motley Fool",
-      "summary": "Monster Beverage posee una ventaja competitiva que trasciende su portafolio de bebidas energéticas. El análisis de Motley Fool identifica fortalezas estratégicas no vinculadas únicamente al producto, ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "What Monster Beverage Stock Leadership Change Means For Shareholders - Simply Wall Street",
-      "summary": "Monster Beverage experimentó un cambio en su liderazgo corporativo con implicancias estratégicas para accionistas. Este tipo de transiciones ejecutivas en empresas de bebidas energéticas de escala glo",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fermented Foods and Beverages Market to Accelerate on Gut-Health Demand, Forecast Points Higher Toward 2035 - IndexBox",
-      "summary": "El mercado global de alimentos y bebidas fermentadas experimentará crecimiento acelerado hasta 2035 impulsado por la demanda de productos funcionales orientados a la salud intestinal. Esta tendencia r",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ascorbic Acid Market To 2035: Fortified Food and Beverage Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "El mercado de ácido ascórbico proyecta crecimiento hasta 2035, impulsado por la demanda de alimentos y bebidas fortificados. Esta tendencia es estratégica para la industria de bebidas, donde la vitami",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage names interim leader. Monster Beverage stock costs EUR 38.07 versus EUR 38.06 - AD HOC NEWS",
-      "summary": "Monster Beverage designó un líder interino, señalando cambios en la estructura de liderazgo de uno de los mayores productores de bebidas energéticas a nivel mundial. Este movimiento tiene implicancias",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-10-05": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2457,6 +2340,197 @@
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-10-12": [
+    {
+      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
+      "summary": "La cerveza artesanal enfrenta una crisis con contracción de demanda y transformación de hábitos de consumo en el mercado argentino. Los productores implementan ajustes de costos como respuesta a la ca",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Casi la mitad de consumidores RTD son nuevos, ¿categoría continuará en explosivo ascenso?",
+      "summary": "El mercado de bebidas RTD (ready to drink) experimenta crecimiento acelerado en la categoría de alcohólicas, impulsado por la demanda de productos de conveniencia y consumo inmediato. Casi la mitad de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Bavaria supera el 90% del mercado cervecero colombiano y Central Cervecera busca ganar espacio",
+      "summary": "Bavaria mantiene una posición dominante en Colombia con más del 90% del mercado cervecero, mientras Central Cervecera intenta ganar participación. Esta dinámica de mercado es relevante para analizar e",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Red Bull launches Frosted Raspberry Glacier Edition energy drink | FoodBev Media",
+      "summary": "Red Bull lanza Glacier Edition con sabor Frosted Raspberry, expandiendo su portafolio de bebidas energizantes. El producto estará disponible exclusivamente en Booker y Tesco desde octubre de 2026, con",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Big Food’s C-suite shake-up signals new era",
+      "summary": "La industria de alimentos y bebidas experimenta una transición masiva de liderazgo en los últimos 18 meses, con cambios significativos en posiciones C-suite de múltiples empresas. Según expertos en bú",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands: Q2 Revenue Rises 6% To $2.63 Billion As Beer And Wine And Spirits Sales Grow - Pulse 2.0",
+      "summary": "Constellation Brands reportó ingresos de Q2 de $2.63 mil millones, con crecimiento del 6% impulsado por aumentos en cerveza, vino y licores. Como uno de los mayores productores globales de bebidas alc",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "中東フォーカス：PepsiCo Iraq、エジプト通貨、エルニーニョ",
+      "summary": "PepsiCo está expandiendo operaciones en Irak como nuevo centro de manufactura, aprovechando la estabilidad relativa del país a pesar de la tensión regional. Paralelamente, la libra egipcia se recupera",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "New MD at Budweiser Budvar UK – The Brewers Journal",
+      "summary": "Budweiser Budvar UK designó a Rich Sanna como nuevo director ejecutivo, reemplazando a Jitka Vlčková tras seis años de liderazgo. La transición ocurre en el momento de máximo desempeño de la marca en ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer brand values rise amid alcohol-free growth",
+      "summary": "El valor combinado de las 50 marcas de cerveza más valiosas alcanzó $118.8bn en 2026, con crecimiento impulsado por tendencias de alcohol reducido/sin alcohol. Corona Extra mantiene liderazgo ($13.9bn",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Treasury Wine Estates continues portfolio consolidation, selling trio to AG Oatley Wines - Global Drinks Intel",
+      "summary": "Treasury Wine Estates (TWE) vende tres marcas de vino a AG Oatley Wines como parte de su estrategia de consolidación de portafolio. Esta desinversión refleja el reposicionamiento de TWE hacia sus marc",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Flavored Beer Defies Traditional Bev-Alc Slump, Led by Apple Lager and Cheladas | Brewbound",
+      "summary": "La cerveza con sabores está revirtiendo la caída del mercado tradicional de bebidas alcohólicas, impulsada por innovaciones como cervezas de manzana y cheladas. La tendencia de sabores, previamente co",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Looks Reasonable As Cash Flow Supports The Price - Yahoo Finance",
+      "summary": "Monster Beverage (MNST) cotiza en niveles razonables con un flujo de caja que respalda su valuación actual. El análisis señala que la generación de efectivo de la compañía fundamenta su precio de merc",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Could Coca-Cola (NYSE:KO) Reconsider Its Costa Coffee Strategy? - Kalkine Media",
+      "summary": "Coca-Cola podría revisar su estrategia con Costa Coffee, marca de café adquirida en 2019 por USD 5.1B. El análisis sugiere posibles cambios en la operación o inversión en la marca, considerando el des",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Natural color suppliers making moves",
+      "summary": "California Natural Color expande sus operaciones en Fresno con un incremento de capacidad del 300%, enfocándose en extracto de semilla de uva y soluciones de colorantes naturales. Este movimiento resp",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AG Barr (LSE:BAG) Interim Growth Outpaces Soft Drinks Market on Core Brands - Kalkine Media",
+      "summary": "AG Barr reportó un crecimiento en resultados intermedios que supera al mercado de bebidas sin alcohol, impulsado por sus marcas core. Este desempeño superior indica estrategia efectiva de concentració",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Malibu debuts high-abv Punch cocktail range",
+      "summary": "Malibu lanza una nueva línea de cócteles listos para beber (RTD) con 10% ABV bajo la marca Punch, duplicando la concentración alcohólica de su portafolio existente de 5% ABV. Los tres sabores (Sandía,",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "U.S. Blocks Imports of Some Canadian Wine, Beer and Spirits",
+      "summary": "Estados Unidos implementó bloqueos de importación sobre vinos, cervezas y destilados canadienses, aplicando aranceles del 50% que afectarán la estrategia de precios durante la temporada navideña. Esta",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage gets India label reprieve as Monster Beverage stock trades at EUR 39.05 - ad-hoc-news.de",
+      "summary": "Monster Beverage obtuvo una prórroga regulatoria en India respecto a etiquetado de productos, evitando sanciones inmediatas en uno de los mercados emergentes clave de la industria. Este alivio regulat",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
