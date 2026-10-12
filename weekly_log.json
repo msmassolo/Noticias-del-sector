@@ -2347,7 +2347,7 @@
   "2026-10-12": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una crisis con contracción de demanda y transformación de hábitos de consumo en el mercado argentino. Los productores implementan ajustes de costos como respuesta a la ca",
+      "summary": "El segmento de cerveza artesanal enfrenta una crisis con caída significativa de consumo, forzando a productores a ajustar costos y reformular estrategias comerciales. Esta tendencia refleja cambios es",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2356,7 +2356,7 @@
     },
     {
       "title": "Casi la mitad de consumidores RTD son nuevos, ¿categoría continuará en explosivo ascenso?",
-      "summary": "El mercado de bebidas RTD (ready to drink) experimenta crecimiento acelerado en la categoría de alcohólicas, impulsado por la demanda de productos de conveniencia y consumo inmediato. Casi la mitad de",
+      "summary": "El mercado de bebidas RTD (ready to drink) experimenta crecimiento acelerado en la categoría de alcohólicas, con casi 50% de consumidores siendo nuevos entrantes. El segmento se beneficia de la demand",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2365,8 +2365,8 @@
       "region": "Regional"
     },
     {
-      "title": "Bavaria supera el 90% del mercado cervecero colombiano y Central Cervecera busca ganar espacio",
-      "summary": "Bavaria mantiene una posición dominante en Colombia con más del 90% del mercado cervecero, mientras Central Cervecera intenta ganar participación. Esta dinámica de mercado es relevante para analizar e",
+      "title": "Cu4tro Soles cambia imagen, productos y estrategia: la marca de vino se reinventa para conectar con Gen Z y tener más momentos de consumo",
+      "summary": "Cu4tro Soles, marca de vino de Valle Redondo, completó un relanzamiento estratégico de dos años que incluye renovación de imagen, portafolio de productos y posicionamiento dirigido a Gen Z. La iniciat",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2374,30 +2374,17 @@
       "region": "Regional"
     },
     {
-      "title": "Red Bull launches Frosted Raspberry Glacier Edition energy drink | FoodBev Media",
-      "summary": "Red Bull lanza Glacier Edition con sabor Frosted Raspberry, expandiendo su portafolio de bebidas energizantes. El producto estará disponible exclusivamente en Booker y Tesco desde octubre de 2026, con",
-      "companies": [
-        "Red Bull"
-      ],
+      "title": "Bavaria supera el 90% del mercado cervecero colombiano y Central Cervecera busca ganar espacio",
+      "summary": "Bavaria domina el mercado cervecero colombiano con más del 90% de participación, mientras Central Cervecera intenta ganar terreno competitivo. Esta dinámica de mercado altamente concentrado es relevan",
+      "companies": [],
       "segments": [
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
-      "region": "Mundial"
+      "region": "Regional"
     },
     {
-      "title": "Big Food’s C-suite shake-up signals new era",
-      "summary": "La industria de alimentos y bebidas experimenta una transición masiva de liderazgo en los últimos 18 meses, con cambios significativos en posiciones C-suite de múltiples empresas. Según expertos en bú",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands: Q2 Revenue Rises 6% To $2.63 Billion As Beer And Wine And Spirits Sales Grow - Pulse 2.0",
-      "summary": "Constellation Brands reportó ingresos de Q2 de $2.63 mil millones, con crecimiento del 6% impulsado por aumentos en cerveza, vino y licores. Como uno de los mayores productores globales de bebidas alc",
+      "title": "Constellation Brands reports a 26% drop in first-half wine and spirits sales",
+      "summary": "Constellation Brands reportó una caída del 26% en ventas de vinos y destilados en el primer semestre, impulsada por desinversiones estratégicas de marcas en 2025. Sin embargo, las ventas orgánicas del",
       "companies": [
         "Constellation Brands"
       ],
@@ -2408,8 +2395,42 @@
       "region": "Mundial"
     },
     {
+      "title": "Big Food’s C-suite shake-up signals new era",
+      "summary": "La industria de alimentos y bebidas experimenta una transición de liderazgo masiva en los últimos 18 meses, con cambios significativos en posiciones de CEO y C-suite. Según especialistas en búsqueda e",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Red Bull launches Frosted Raspberry Glacier Edition energy drink | FoodBev Media",
+      "summary": "Red Bull lanza Glacier Edition, una variante de bebida energética con sabor Frosted Raspberry, exclusivamente en Booker y Tesco a partir de octubre de 2026, con expansión de distribución prevista para",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Investors Are Reacting To Monster Beverage Stock Free Cash Flow Outlook - Simply Wall Street",
+      "summary": "Monster Beverage enfrenta escrutinio de inversores sobre su generación de flujo de caja libre, indicador crítico de salud financiera y sostenibilidad. Los movimientos del precio de acción reflejan pre",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "中東フォーカス：PepsiCo Iraq、エジプト通貨、エルニーニョ",
-      "summary": "PepsiCo está expandiendo operaciones en Irak como nuevo centro de manufactura, aprovechando la estabilidad relativa del país a pesar de la tensión regional. Paralelamente, la libra egipcia se recupera",
+      "summary": "PepsiCo está explorando Iraq como nueva plataforma de manufactura en el Medio Oriente, aprovechando la estabilidad relativa del país pese a la proximidad a conflictos regionales. Simultáneamente, la l",
       "companies": [
         "PepsiCo"
       ],
@@ -2419,19 +2440,8 @@
       "region": "Mundial"
     },
     {
-      "title": "New MD at Budweiser Budvar UK – The Brewers Journal",
-      "summary": "Budweiser Budvar UK designó a Rich Sanna como nuevo director ejecutivo, reemplazando a Jitka Vlčková tras seis años de liderazgo. La transición ocurre en el momento de máximo desempeño de la marca en ",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Beer brand values rise amid alcohol-free growth",
-      "summary": "El valor combinado de las 50 marcas de cerveza más valiosas alcanzó $118.8bn en 2026, con crecimiento impulsado por tendencias de alcohol reducido/sin alcohol. Corona Extra mantiene liderazgo ($13.9bn",
+      "summary": "El valor combinado de las 50 marcas de cerveza más valiosas alcanzó $118,8 mil millones en 2026, con crecimiento impulsado por tendencias de alcohol libre. Corona Extra mantiene liderazgo global ($13,",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2440,8 +2450,29 @@
       "region": "Mundial"
     },
     {
+      "title": "Clarification & Collaboration Needed Amid Bev-Alc’s Never-Ending ‘Freaky Friday,’ per NBWA CEO Craig Purser | Brewbound",
+      "summary": "El CEO de la National Beer Wholesalers Association (NBWA), Craig Purser, advierte sobre la creciente convergencia de categorías en la industria de bebidas alcohólicas, denominándola un 'Freaky Friday'",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Molson Coors (TAP) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "summary": "Molson Coors (TAP) se prepara para reportar resultados financieros, con historial reciente de superar estimaciones de mercado. Este es un competidor cervecero global relevante que impacta dinámicas de",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Treasury Wine Estates continues portfolio consolidation, selling trio to AG Oatley Wines - Global Drinks Intel",
-      "summary": "Treasury Wine Estates (TWE) vende tres marcas de vino a AG Oatley Wines como parte de su estrategia de consolidación de portafolio. Esta desinversión refleja el reposicionamiento de TWE hacia sus marc",
+      "summary": "Treasury Wine Estates vende tres marcas de vinos a AG Oatley Wines, continuando su estrategia de consolidación de portafolio. Esta operación refleja la tendencia de reorganización patrimonial en el se",
       "companies": [
         "Treasury Wine Estates"
       ],
@@ -2453,7 +2484,7 @@
     },
     {
       "title": "Flavored Beer Defies Traditional Bev-Alc Slump, Led by Apple Lager and Cheladas | Brewbound",
-      "summary": "La cerveza con sabores está revirtiendo la caída del mercado tradicional de bebidas alcohólicas, impulsada por innovaciones como cervezas de manzana y cheladas. La tendencia de sabores, previamente co",
+      "summary": "El mercado de cervezas saborizadas experimenta un crecimiento contracíclico frente a la caída de bebidas alcohólicas tradicionales, impulsado por innovaciones como las cervezas de manzana y cheladas. ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2462,8 +2493,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage (MNST) Stock Looks Reasonable As Cash Flow Supports The Price - Yahoo Finance",
-      "summary": "Monster Beverage (MNST) cotiza en niveles razonables con un flujo de caja que respalda su valuación actual. El análisis señala que la generación de efectivo de la compañía fundamenta su precio de merc",
+      "title": "Energy, Nutrition Shakes Standout as Food Sales Drop in Convenience Channel - BevNET.com",
+      "summary": "Las ventas de alimentos caen en canales de conveniencia por presión de precios de combustibles, pero bebidas energéticas y shakes nutricionales mantienen resiliencia. Según Jefferies, el tráfico de cl",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage gets India label reprieve as Monster Beverage stock trades at EUR 39.05 - ad-hoc-news.de",
+      "summary": "Monster Beverage obtuvo una prórroga regulatoria en India respecto a requisitos de etiquetado, evitando sanciones inmediatas en un mercado estratégico de alto crecimiento. La acción cotiza en EUR 39.0",
       "companies": [
         "Monster Beverage"
       ],
@@ -2474,7 +2515,7 @@
     },
     {
       "title": "Why Could Coca-Cola (NYSE:KO) Reconsider Its Costa Coffee Strategy? - Kalkine Media",
-      "summary": "Coca-Cola podría revisar su estrategia con Costa Coffee, marca de café adquirida en 2019 por USD 5.1B. El análisis sugiere posibles cambios en la operación o inversión en la marca, considerando el des",
+      "summary": "Coca-Cola podría replantear su estrategia con Costa Coffee, su marca de café premium adquirida en 2019 por $5.1 mil millones. El análisis sugiere que presiones de rentabilidad y cambios en el mercado ",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2484,8 +2525,28 @@
       "region": "Mundial"
     },
     {
+      "title": "Argentina’s Wine Exports Jumped 24.2% in September After Two Months of Sharp Declines",
+      "summary": "Las exportaciones de vino argentino crecieron 24.2% en septiembre tras dos meses de caída pronunciada, recuperando ambos canales de venta. Sin embargo, el resultado acumulado de los primeros nueve mes",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NACS: Bloom Introduces ‘Iconic Treats’ Energy Flavors as C-Store Expansion Accelerates - BevNET.com",
+      "summary": "Bloom Nutrition expande su portafolio de bebidas energéticas con la línea 'Iconic Treats' dirigida específicamente al canal de convenience stores, priorizando este segmento como pilar estratégico de c",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Natural color suppliers making moves",
-      "summary": "California Natural Color expande sus operaciones en Fresno con un incremento de capacidad del 300%, enfocándose en extracto de semilla de uva y soluciones de colorantes naturales. Este movimiento resp",
+      "summary": "California Natural Color expandió su sede y planta principal en Fresno con un aumento de capacidad del 300%, enfocándose en extracto de semilla de uva y soluciones de color natural. La inversión respo",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2494,8 +2555,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Great Lakes Wine & Spirits Agrees to Buy RNDC Michigan’s Spirits Distribution Business",
+      "summary": "Great Lakes Wine & Spirits adquiere el negocio de distribución de spirits de RNDC Michigan en una venta por insolvencia. Adicionalmente, las operaciones de vino de RNDC serán transferidas a Imperial B",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "AG Barr (LSE:BAG) Interim Growth Outpaces Soft Drinks Market on Core Brands - Kalkine Media",
-      "summary": "AG Barr reportó un crecimiento en resultados intermedios que supera al mercado de bebidas sin alcohol, impulsado por sus marcas core. Este desempeño superior indica estrategia efectiva de concentració",
+      "summary": "AG Barr reportó crecimiento en resultados intermedios que supera el desempeño del mercado general de bebidas sin alcohol, impulsado por el fortalecimiento de sus marcas core. Este desempeño en un cont",
       "companies": [
         "AG Barr"
       ],
@@ -2505,8 +2576,49 @@
       "region": "Mundial"
     },
     {
+      "title": "Pernod Ricard extends Absolut, Malibu with higher-strength RTDs - Global Drinks Intel",
+      "summary": "Pernod Ricard lanza extensiones de sus marcas Absolut y Malibu en formato RTD (ready-to-drink) con mayor contenido alcohólico. Esta estrategia responde a la creciente demanda de bebidas premiumizadas ",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "German beverage groups urge the government to scrap a sugar tax that would add €5 to a crate of cola",
+      "summary": "Seis asociaciones de bebidas alemanas se oponen a un impuesto al azúcar que elevaría €5 por caja de cola, argumentando que aumentaría precios al consumidor e impondría costos de cumplimiento de €89 mi",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "New Beverages: Liquid I.V., Organic Valley Drop Seasonal LTOs; Louie Louie Goes 'POP' - BevNET.com",
+      "summary": "Tres lanzamientos de productos relevantes en el mercado estadounidense: Liquid I.V. amplía su portafolio de bebidas funcionales, Louie Louie introduce un nuevo formato 'POP' y Organic Valley lanza una",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Asian Brands Eastroc, Syncron Ramp Up U.S. Ambitions At NACS - BevNET.com",
+      "summary": "Eastroc (marca energética china) y Kowa (conglomerado japonés) están expandiendo agresivamente su presencia en el mercado estadounidense de bebidas funcionales, presentando estrategias diferenciadas e",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Malibu debuts high-abv Punch cocktail range",
-      "summary": "Malibu lanza una nueva línea de cócteles listos para beber (RTD) con 10% ABV bajo la marca Punch, duplicando la concentración alcohólica de su portafolio existente de 5% ABV. Los tres sabores (Sandía,",
+      "summary": "Malibu lanza línea de cócteles listos para beber (RTD) con 10% ABV bajo la marca Punch, en tres sabores (Watermelon, Peach Tea, Piña Colada). El producto segmenta el portafolio hacia ocasiones de mayo",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2516,7 +2628,7 @@
     },
     {
       "title": "U.S. Blocks Imports of Some Canadian Wine, Beer and Spirits",
-      "summary": "Estados Unidos implementó bloqueos de importación sobre vinos, cervezas y destilados canadienses, aplicando aranceles del 50% que afectarán la estrategia de precios durante la temporada navideña. Esta",
+      "summary": "Estados Unidos implementó bloqueos a importaciones de vino, cerveza y destilados canadienses, aumentando aranceles al 50% sobre productos ya gravados. La medida obliga a importadores a reevaluar estra",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2524,8 +2636,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage gets India label reprieve as Monster Beverage stock trades at EUR 39.05 - ad-hoc-news.de",
-      "summary": "Monster Beverage obtuvo una prórroga regulatoria en India respecto a etiquetado de productos, evitando sanciones inmediatas en uno de los mercados emergentes clave de la industria. Este alivio regulat",
+      "title": "Constellation Brands: Q2 Revenue Rises 6% To $2.63 Billion As Beer And Wine And Spirits Sales Grow - Pulse 2.0",
+      "summary": "Constellation Brands reportó ingresos de Q2 de $2.63 mil millones, con crecimiento del 6% impulsado por incrementos en categorías de cerveza, vino y spirits. Este desempeño de un jugador global clave ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Stock Looks Reasonable As Cash Flow Supports The Price - Yahoo Finance",
+      "summary": "Monster Beverage presenta valuación sostenible respaldada por generación de flujo de caja operacional sólido, según análisis de Yahoo Finance. La posición financiera del líder global en bebidas energé",
       "companies": [
         "Monster Beverage"
       ],
