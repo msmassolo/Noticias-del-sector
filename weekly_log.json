@@ -1,288 +1,4 @@
 {
-  "2026-10-05": [
-    {
-      "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
-      "summary": "La cerveza artesanal enfrenta una contracción significativa del consumo en Argentina, impulsando a productores a ajustar costos operacionales y reformular estrategias comerciales. Los cambios en hábit",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Carlsberg compra engarrafadoras da PepsiCo na Geórgia e Armênia",
-      "summary": "Carlsberg adquirió las embotelladoras de PepsiCo en Georgia y Armenia, asumiendo la producción, venta y distribución completa del portafolio de refrescos de PepsiCo en ambos países. Esta operación de ",
-      "companies": [
-        "PepsiCo",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mientras Nescafé impulsa el crecimiento de Nestlé, el precio del café se convierte en un problema para las ganancias y márgenes de la compañía",
-      "summary": "Nescafé impulsa el crecimiento de Nestlé en la categoría café, pero el alza de precios de materia prima genera presión significativa sobre márgenes y rentabilidad. Este fenómeno afecta directamente la",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Fábricas Nacionales de Cerveza: cómo siguen las negociaciones luego del cierre de la planta de Minas",
-      "summary": "Fábricas Nacionales de Cerveza (FNC) cerró su planta en Minas, Uruguay, consolidando la producción en Montevideo tras negociaciones de dos meses con el sindicato. Esta semana hay una reunión crítica p",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mercado de Embalagens Flexíveis de Alumínio para Bebidas: Previsão até 2035 - Notícias e Estatísticas - IndexBox",
-      "summary": "El mercado de empaques flexibles de aluminio para bebidas proyecta crecimiento hasta 2035, según análisis de IndexBox. Esta tecnología de packaging representa una innovación estratégica en la industri",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mercado de Alimentos e Bebidas Fermentados Acelera com Demanda por Saúde Intestinal e Projeções Apontam Alta até 2035 - IndexBox",
-      "summary": "El mercado global de bebidas fermentadas experimenta crecimiento acelerado impulsado por la demanda de productos para salud intestinal, con proyecciones de expansión hasta 2035. Este segmento represen",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mercado de Revestimentos Internos de Tampa de Bebida sem BPA até 2035: Pressão Regulatória e Bebidas Premium Impulsionam a Expansão - Notícias e Estatísticas - IndexBox",
-      "summary": "El mercado de recubrimientos internos sin BPA para tapas de bebidas proyecta crecimiento hasta 2035, impulsado por presión regulatoria y demanda de productos premium. La eliminación de BPA responde a ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Celsius Reveals Energy+ Hydration Line, Rockstar Rebrand - BevNET.com",
-      "summary": "Celsius lanza Energy+ Hydration Line, una bebida sin carbonatación que llegará a retail en Q1 2027, mientras Rockstar ejecuta una renovación de marca. Celsius diversifica su portafolio más allá de beb",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "distribution_execution",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands (STZ) Reports Earnings Tomorrow: What To Expect - TradingView",
-      "summary": "Constellation Brands reportará resultados financieros mañana. Como segundo mayor productor de cerveza en EE.UU. con marcas clave como Corona y Modelo, sus números impactan directamente en tendencias d",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "'Born in Japan, Brewed in Wisconsin'",
-      "summary": "Asahi adquirió Octopi Brewing en Wisconsin para localizar la producción de su marca Super Dry en Estados Unidos, respondiendo al crecimiento acelerado de esta cerveza en el mercado norteamericano. Est",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "KDP Gets Dirty With Soda Innovation, Flavor-Forward Energy SKUs - BevNET.com",
-      "summary": "Keurig Dr Pepper (KDP) revelô su pipeline de innovación para 2027 enfocado en bebidas tipo dirty soda y colaboraciones en bebidas energéticas cremosas. La estrategia responde a la tendencia de sabores",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Court throws out class action over Diageo’s ‘100% agave’ claim - The Spirits Business",
-      "summary": "Un tribunal desestimó una demanda colectiva contra Diageo por publicidad engañosa respecto a etiquetas de '100% agave' en sus productos de tequila. La decisión reduce riesgo de litigio masivo para el ",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Aqua Glow launches third flavour, Citrus Bliss, with WHSmith international airport exclusive",
-      "summary": "Aqua Glow lanzó Citrus Bliss, su tercer sabor en bebidas sparkling con colágeno y wellness, apenas un año después de su debut. La distribución es exclusiva en 55 aeropuertos internacionales (Bélgica, ",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage's Biggest Moat Isn't Its Energy Drink. It's Something Else. - The Motley Fool",
-      "summary": "Monster Beverage posee una ventaja competitiva que trasciende su portafolio de bebidas energizantes, según análisis de The Motley Fool. La noticia analiza cuál es el diferenciador estratégico clave de",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (NASDAQ:MNST) Stock Price Target Cut by Wells Fargo & Company - MarketBeat",
-      "summary": "Wells Fargo redujo el precio objetivo para Monster Beverage (MNST), señalando presiones en la valoración de la compañía. Este movimiento de un banco de inversión importante refleja preocupaciones sobr",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola reveals new flavors coming to your favorite drinks in 2027 - usatoday.com",
-      "summary": "Coca-Cola anuncia lanzamiento de nuevos sabores para 2027 en su cartera de bebidas. La estrategia de innovación en sabores es un movimiento típico para rejuvenecer marcas y capturar nuevos segmentos d",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fairtrade sales soar as foundation warns of pay challenges",
-      "summary": "Las ventas de productos Fairtrade en minoristas británicos crecieron significativamente en 2025, con incrementos de 35% en té y 7% en café. Sin embargo, la Fairtrade Foundation advierte que el crecimi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Wells Fargo & Company Issues Pessimistic Forecast for Constellation Brands (NYSE:STZ) Stock Price - MarketBeat",
-      "summary": "Wells Fargo emitió una proyección negativa para las acciones de Constellation Brands (STZ), principal productor de cerveza Corona y bebidas alcohólicas en América Latina. Este análisis de un banco de ",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "French government proposes extension of beverage sugar tax to cover processed foods | FoodBev Media",
-      "summary": "El gobierno francés propone extender su impuesto a bebidas azucaradas hacia alimentos ultraprocesados con alto contenido de azúcar en el presupuesto 2027. Esta medida amplía significativamente el alca",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Yakult Honsha Advances Share Buyback, Repurchasing 528,400 Shares in September - TipRanks",
-      "summary": "Yakult Honsha ejecutó un programa de recompra de acciones, adquiriendo 528,400 títulos en septiembre. Esta acción refleja confianza de la gestión en el valor de la empresa y señala una estrategia de o",
-      "companies": [
-        "Yakult Honsha"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kerry opens Pennsylvania coffee extraction facility as demand for premium coffee grows | FoodBev Media",
-      "summary": "Kerry inauguró una planta de extracción de café en Pensilvania (EE.UU.), su primera manufactura en ese estado, para expandir la capacidad de producción de ingredientes de café destinados a bebidas, lá",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cómo la inteligencia artificial está transformando la forma de descubrir vino",
-      "summary": "La IA está revolucionando el descubrimiento y selección de vino mediante recomendaciones personalizadas y experiencias de compra simplificadas. Este cambio impacta directamente la estrategia digital d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ascorbic Acid Market To 2035: Fortified Food and Beverage Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "El mercado global de ácido ascórbico (vitamina C) experimentará crecimiento hasta 2035 impulsado por la demanda de alimentos y bebidas fortificados. Esta tendencia es estratégica para empresas de bebi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mercado de bebidas: previsão até 2035 com saúde e funcionalidade no centro do crescimento - Notícias e Estatísticas - IndexBox",
-      "summary": "IndexBox proyecta el mercado de bebidas hasta 2035 con salud y funcionalidad como ejes de crecimiento central. El informe identifica la evolución de preferencias del consumidor hacia bebidas con benef",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Carlsberg expands PepsiCo bottling partnership into Georgia and Armenia | FoodBev Media",
-      "summary": "Carlsberg expande su asociación de embotellamiento con PepsiCo a Georgia y Armenia, sumándose a un acuerdo previo en Azerbaiyán. Carlsberg asumirá la producción, venta y distribución del portafolio de",
-      "companies": [
-        "PepsiCo",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper Reveals 2027 Beverage Innovation Ahead of NACS Show - Yahoo Finance UK",
-      "summary": "Keurig Dr Pepper anunció adelantos de su estrategia de innovación en bebidas para 2027, presentados previo a la NACS Show. La compañía, uno de los mayores productores de bebidas en EE.UU., está adelan",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fermented Foods and Beverages Market to Accelerate on Gut-Health Demand, Forecast Points Higher Toward 2035 - IndexBox",
-      "summary": "El mercado de alimentos y bebidas fermentadas experimentará aceleración hasta 2035 impulsado por la demanda creciente de productos orientados a la salud intestinal. Esta tendencia refleja una reorient",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-10-06": [
     {
       "title": "Crisis en la cerveza artesanal: caída del consumo, ajuste de costos y cambio de hábitos - DeGremiales.com",
@@ -2655,6 +2371,356 @@
       ],
       "segments": [
         "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-10-13": [
+    {
+      "title": "Cerveza y fruta: la combinación que suma nuevos sabores al mercado de bebidas",
+      "summary": "CCU Argentina lanza Stones, una nueva línea de bebidas que combina cerveza con frutas (limón y maracuyá), capturando la tendencia creciente de bebidas refrescantes con menor contenido alcohólico. Esta",
+      "companies": [
+        "CCU",
+        "CCU"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Cu4tro Soles cambia imagen, productos y estrategia: la marca de vino se reinventa para conectar con Gen Z y tener más momentos de consumo",
+      "summary": "Cu4tro Soles (Valle Redondo) completó un relanzamiento estratégico de dos años que incluye cambios en imagen, portafolio y posicionamiento dirigido a Gen Z. La marca busca expandir ocasiones de consum",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Constellation Brands reports a 26% drop in first-half wine and spirits sales",
+      "summary": "Constellation Brands reportó una caída del 26% en ventas de vinos y licores en el primer semestre, impulsada por desinversiones estratégicas de marcas en 2025; sin embargo, las ventas orgánicas del ne",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Afternoon Brief, October 12",
+      "summary": "Treasury Wine Estates (TWE) vendió las marcas Rosemount, Ingoldby y Secret Stone a A.G. Oatley Wines, retornando Rosemount a la familia Oatley después de 25 años. Esta desinversión es parte de la estr",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Big Food’s C-suite shake-up signals new era",
+      "summary": "La industria de alimentos y bebidas experimenta una transición ejecutiva masiva en los últimos 18 meses, con cambios significativos en posiciones de CEO y C-suite. Según analistas especializados, esto",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Red Bull launches Frosted Raspberry Glacier Edition energy drink | FoodBev Media",
+      "summary": "Red Bull lanza Glacier Edition, un nuevo sabor de bebida energética (Frambuesa Escarchada) con disponibilidad exclusiva inicial en retailers británicos Booker y Tesco desde octubre de 2026, seguida de",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo cuts Poppi payout estimate to $12M amid U.S. soda sales slump (PEP:NASDAQ) - Seeking Alpha",
+      "summary": "PepsiCo redujo su estimación de pago por Poppi a $12M en contexto de caída en ventas de bebidas gaseosas en EE.UU. La reducción refleja un desempeño inferior al esperado de la marca de bebidas funcion",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Investors Are Reacting To Monster Beverage Stock Free Cash Flow Outlook - Simply Wall Street",
+      "summary": "Monster Beverage enfrenta análisis de inversores sobre su proyección de flujo de caja libre, indicador crítico de salud financiera y capacidad de retorno a accionistas. Monster es competidor directo e",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "New MD at Budweiser Budvar UK – The Brewers Journal",
+      "summary": "Budweiser Budvar UK nombró a Rich Sanna como nuevo director general, sucediendo a Jitka Vlčková tras seis años de liderazgo. La transición ocurre en un momento de fortaleza histórica para la marca en ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "中東フォーカス：PepsiCo Iraq、エジプト通貨、エルニーニョ",
+      "summary": "PepsiCo está enfocando operaciones en Iraq como nuevo polo de manufactura en Medio Oriente, aprovechando estabilidad relativa a pesar del conflicto regional. La devaluación de la libra egipcia (82% en",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer brand values rise amid alcohol-free growth",
+      "summary": "Las 50 marcas de cerveza más valiosas del mundo alcanzaron un valor combinado de $118.8bn en 2026, con crecimiento impulsado por el segmento de bebidas sin alcohol. Corona Extra mantiene su liderazgo ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Clarification & Collaboration Needed Amid Bev-Alc’s Never-Ending ‘Freaky Friday,’ per NBWA CEO Craig Purser | Brewbound",
+      "summary": "El CEO de la National Beer Wholesalers Association (NBWA), Craig Purser, caracteriza el actual estado de la industria de bebidas alcohólicas como un 'Freaky Friday', reflejando la confusión regulatori",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper reveals 2027 innovations at NACS Show",
+      "summary": "Keurig Dr Pepper presentó en la NACS Show 2026 su cartera de innovaciones para 2027, enfocándose en variedades de bebidas energéticas y sabores culturalmente relevantes para el canal conveniencia. KDP",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Suntory Beverage & Food grows revenue: what it means for Suntory Beverage & Food stock - ad-hoc-news.de",
+      "summary": "Suntory Beverage & Food reportó crecimiento de ingresos, indicando expansión en su portafolio global de bebidas. Como jugador relevante en mercados asiáticos y emergentes, estos resultados señalan est",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Champagne in a can: Can RTD attract new consumers?",
+      "summary": "Tavern lanza Cannes Royale, línea de cócteles de Champagne en latas de 222ml, aprovechando la tendencia de bebidas listas para beber (RTD). El formato single-serve en aluminio busca capturar nuevas oc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "White Claw Maker Enters Hard Sports Drinks with RefreshAde as More Players Join the Field | Brewbound",
+      "summary": "Mark Anthony Brands, fabricante de White Claw (líder indiscutido en hard seltzers), ingresa al segmento de bebidas deportivas alcohólicas con la marca RefreshAde. Este movimiento refleja la estrategia",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Molson Coors (TAP) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "summary": "Molson Coors (TAP) es evaluada para su próximo reporte de ganancias, con antecedentes de superar estimaciones. La noticia anticipa resultados financieros clave de uno de los principales productores gl",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Flavored Beer Defies Traditional Bev-Alc Slump, Led by Apple Lager and Cheladas | Brewbound",
+      "summary": "Las cervezas saborizadas están revirtiendo la caída del mercado de bebidas alcohólicas tradicionales, lideradas por innovaciones como cervezas de manzana y cheladas. La tendencia de sabores se ha expa",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Energy, Nutrition Shakes Standout as Food Sales Drop in Convenience Channel - BevNET.com",
+      "summary": "Energy drinks y nutrition shakes muestran resiliencia en canales de conveniencia mientras las ventas de alimentos generales caen debido a presión inflacionaria (combustibles) y reducción de tráfico de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Could Coca-Cola (NYSE:KO) Reconsider Its Costa Coffee Strategy? - Kalkine Media",
+      "summary": "Coca-Cola podría revisar su estrategia con Costa Coffee, su marca de café premium adquirida en 2019 por USD 5.1 mil millones. El análisis sugiere que la compañía enfrenta desafíos en la rentabilidad y",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage gets India label reprieve as Monster Beverage stock trades at EUR 39.05 - ad-hoc-news.de",
+      "summary": "Monster Beverage obtuvo una prórroga regulatoria en India respecto a requisitos de etiquetado, evitando sanciones inmediatas en ese mercado. La noticia refleja presiones regulatorias crecientes sobre ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Is Fevertree Drinks (LSE:FEVR) Topping Up Its Buyback After A Solid Start To The Year? - Kalkine Media",
+      "summary": "Fevertree Drinks, cotizada en LSE, incrementó su programa de recompra de acciones tras un desempeño sólido en el inicio del año. Esta decisión refleja confianza en la recuperación post-pandemia del fa",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Olipop launched a new holiday soda flavor with a luxury chocolier - The Clarion-Ledger",
+      "summary": "Olipop lanzó un nuevo sabor de soda navideño en colaboración con un chocolatería de lujo, estrategia de innovación de producto que refuerza su posicionamiento premium en el segmento de bebidas funcion",
+      "companies": [
+        "Olipop"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Argentina’s Wine Exports Jumped 24.2% in September After Two Months of Sharp Declines",
+      "summary": "Las exportaciones de vino argentino crecieron 24.2% en septiembre tras dos meses de caídas pronunciadas, recuperando ambos canales de venta. Sin embargo, el acumulado de los primeros nueve meses del a",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NACS: Bloom Introduces ‘Iconic Treats’ Energy Flavors as C-Store Expansion Accelerates - BevNET.com",
+      "summary": "Bloom Nutrition expande agresivamente su línea de bebidas energéticas con sabores 'Iconic Treats' hacia canales de conveniencia (c-stores), posicionando esta distribución como pilar estratégico de cre",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Natural color suppliers making moves",
+      "summary": "California Natural Color expandió su planta de Fresno con inversión en infraestructura que aumentará la capacidad de producción un 300%, enfocándose en extracto de semilla de uva y colorantes naturale",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Great Lakes Wine & Spirits Agrees to Buy RNDC Michigan’s Spirits Distribution Business",
+      "summary": "Great Lakes Wine & Spirits adquiere el negocio de distribución de spirits de RNDC Michigan en una transacción de quiebra, mientras Imperial Beverage y Vintage Wine asumen las operaciones de vino, suje",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RTD and Spirits Producers Improve Flavor and Margins with Steric Systems",
+      "summary": "Steric Systems ofrece soluciones tecnológicas para productores de bebidas RTD y destilerías que mejoran la calidad sensorial del alcohol base y eliminan defectos de sabor en lotes terminados. La tecno",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Evolution Fresh Leans Into Functional With New Probiotic Line; Generous Names New CMO - BevNET.com",
+      "summary": "Evolution Fresh, marca de Generous Brands, lanza Thrive, una línea de bebidas funcionales con probióticos, posicionándose en el segmento de crecimiento acelerado de bebidas saludables. Simultáneamente",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands reports a 26% drop in first-half wine and spirits sales - Vinetur",
+      "summary": "Constellation Brands, uno de los mayores productores globales de bebidas alcohólicas, reportó una caída del 26% en ventas de vino y destilados en el primer semestre. Esta contracción significativa en ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Rosemount returns to founding family as TWE sells three wine brands - The Drinks Business",
+      "summary": "Treasury Wine Estates (TWE) vendió tres marcas de vino, incluyendo Rosemount, a la familia fundadora. Esta desinversión es parte de la estrategia de TWE de enfocarse en marcas premium de mayor rentabi",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Treasury Wine Estates continues portfolio consolidation, selling trio to AG Oatley Wines - Global Drinks Intel",
+      "summary": "Treasury Wine Estates vende tres marcas de su portafolio a AG Oatley Wines, continuando su estrategia de consolidación y optimización de activos. Esta operación refleja tendencias de M&A en el sector ",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
