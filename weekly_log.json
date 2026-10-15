@@ -1,266 +1,4 @@
 {
-  "2026-10-07": [
-    {
-      "title": "La estrategia Costco aprieta al retail: más tiendas, membresías y ventas digitales",
-      "summary": "Costco acelera su expansión con 28 nuevos almacenes en 2026, sumando 25 unidades netas. Esta estrategia de crecimiento impacta directamente la distribución de bebidas en canales mayoristas: aumenta pu",
-      "companies": [
-        "Costco"
-      ],
-      "segments": [
-        "distribution_execution",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mientras Coca-Cola lanza refresco Zero Sin Cafeína, Starbucks apuesta por refreshers y matcha en una estrategia que busca aumentar los momentos de consumo",
-      "summary": "Coca-Cola lanza Refresco Zero Sin Cafeína mientras Starbucks expande su portafolio con refreshers y matcha, ambas buscando capturar más ocasiones de consumo diario. La estrategia refleja una tendencia",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "¿Por qué los bares de despecho se volvieron tendencia y ahora llegan a los conciertos con estrategia de Tecate?",
-      "summary": "Los bares de despecho en México emergieron como categoría de ocio nocturno con crecimiento en múltiples ciudades, generando una oportunidad de activación para marcas de bebidas. Tecate ha identificado",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Constellation Acquires SpikedAde for $75 Million as Boozy Sports Drink Segment Booms",
-      "summary": "Constellation Brands adquirió SpikedAde por USD 75 millones más incentivos de desempeño de hasta USD 278 millones en cinco años, marcando su entrada al segmento de bebidas deportivas alcohólicas (hard",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca‑Cola teases new flavors, functional drinks at NACS",
-      "summary": "Coca-Cola presentará innovaciones de portfolio en la NACS Show 2026 (Las Vegas, octubre) enfocadas en refrescar, hidratar y revitalizar consumidores a lo largo del día. La estrategia refleja la divers",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sierra Nevada Terminates Coors Distributing Co.; Will Move to Reyes in Denver Area | Brewbound",
-      "summary": "Sierra Nevada rescindió su contrato con Coors Distributing Company (propiedad de Molson Coors) en el área de Denver, trasladando su distribución a Reyes Holdings. Este movimiento se suma a una tendenc",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands beats earnings and revenue estimates with strong beer and spirits sales. - Pluang",
-      "summary": "Constellation Brands superó estimaciones de ganancias e ingresos impulsado por ventas sólidas en cerveza y destilados. El desempeño refleja demanda sostenida en categorías alcohólicas, particularmente",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "818 Tequila Shows Strong Growth Following Sazerac Partnership",
-      "summary": "818 Tequila reporta crecimiento acelerado tras establecer una asociación estratégica con Sazerac, el mayor distribuidor de bebidas alcohólicas de EE.UU. La alianza integra la red de distribución y exp",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "[Constellation Brands Q2 2027 Earnings Call] Beer Acceleration Fuels Beat; CEO Sees High-End EPS If September Trends Hold - BigGo Finance",
-      "summary": "Constellation Brands reportó resultados de Q2 2027 que superaron expectativas, impulsados por aceleración en ventas de cerveza. El CEO proyecta EPS en el rango alto si las tendencias de septiembre se ",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola (NYSE:KO) Steadies as Defensive Demand Rebounds Before Earnings - Kalkine Media",
-      "summary": "Coca-Cola muestra estabilidad en cotización impulsada por demanda defensiva de inversores previo a la publicación de resultados. El rebote refleja confianza en el modelo defensivo de la compañía en co",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FlavCity Launches Nationwide at Walmart with New Retail-Exclusive Blueberry Muffin Flavor",
-      "summary": "FlavCity, marca de bebidas proteicas posicionada en el segmento better-for-you, logró distribución nacional en Walmart con un lanzamiento exclusivo de sabor Blueberry Muffin. Esta expansión de FlavCit",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Coca-Cola System and Water Sector Leaders Announce the South Africa Non-Revenue Water Mechanism to Support National Water Security Priorities - Africa.com",
-      "summary": "Coca-Cola System se asocia con líderes del sector hídrico en Sudáfrica para lanzar un mecanismo destinado a reducir pérdidas de agua no facturada (non-revenue water), alineándose con prioridades nacio",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "California wine glut sends premium bottles to Costco, Aldi and Kroger at bargain prices",
-      "summary": "Un excedente de producción de vino californiano está forzando a productores premium a vender stock a través de canales de descuento como Costco, Aldi y Kroger. Esta dinámica refleja desequilibrio seve",
-      "companies": [
-        "Costco"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg To Become PepsiCo Bottling Partner In Georgia And Armenia - ESM Magazine",
-      "summary": "Carlsberg asume operaciones de embotellamiento para PepsiCo en Georgia y Armenia, expandiendo su rol como socio estratégico en la región del Cáucaso. Este acuerdo refuerza la posición de Carlsberg en ",
-      "companies": [
-        "PepsiCo",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Nestlé signs biggest-ever global brand deal with NBA",
-      "summary": "Nestlé cerró su mayor acuerdo de marketing global al convertir a Milo, Nescau y Nesquik en Socios Oficiales de la NBA en un deal multianual que abarca 21 mercados en cuatro continentes. La alianza bus",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Outside the FTSE 100, is Fevertree Drinks (LSE:FEVR) proving mixers can grow beyond tonic after its latest interim results? - Kalkine Media",
-      "summary": "Fevertree Drinks, fabricante británico de mezcladores premium, publicó resultados intermedios que demuestran crecimiento más allá de su línea de tónicas. La compañía diversifica su portafolio en categ",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands Acquires SpikedAde in $75M Deal - BevNET.com",
-      "summary": "Constellation Brands adquirió SpikedAde por USD 75 millones, según informó en su reporte de resultados Q2. SpikedAde es la segunda marca más grande en la categoría de bebidas RTD de vodka + ade/sports",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands claims 'World Cup occasion' win as sales climb in latest quarter - results data - Global Drinks Intel",
-      "summary": "Constellation Brands reportó crecimiento en ventas en el último trimestre, atribuyendo parte del incremento al efecto 'ocasión World Cup'. Este desempeño es estratégico para el portfolio de cervezas d",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg to Brew and Distribute Sapporo Premium Beer in UK Off-Trade from August 1 - Aabkari Times",
-      "summary": "Carlsberg asume la producción y distribución de cerveza premium Sapporo en el canal off-trade (botellerías, supermercados) del Reino Unido a partir del 1 de agosto. Este acuerdo expande el portafolio ",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "El alcohol pierde terreno en seis grandes mercados europeos por el empuje de bebidas sin alcohol",
-      "summary": "Las bebidas sin alcohol crecen al 7,3% en seis grandes mercados europeos mientras el consumo tradicional de alcohol retrocede, con un 43% de consumidores reduciendo activamente su ingesta. Esta tenden",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "ProWein relanza Zero+ como su gran espacio para las bebidas sin alcohol",
-      "summary": "ProWein relanza su espacio Zero+ dedicado exclusivamente a bebidas sin alcohol, consolidando la categoría con catas, formación y análisis de mercado. La iniciativa refleja el crecimiento comercial de ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Varma lleva Kick The Rules a Alemania para reforzar su expansión europea",
-      "summary": "Varma, marca española de bebidas alcohólicas (cremas con tequila), expande su operación en Alemania a través de Marussia Beverages como distribuidor. La estrategia multicanal incluye hostelería, retai",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "International Business: Reprieve for PepsiCo in ‘energy drink’ label case - GDNOnline",
-      "summary": "PepsiCo obtuvo un respiro en un caso regulatorio sobre etiquetado de bebidas energéticas, evitando potencialmente sanciones o cambios obligatorios en sus productos. Esta resolución es estratégica para",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-10-08": [
     {
       "title": "Las exportaciones de vino crecieron un 24,2% en volumen en septiembre",
@@ -2726,6 +2464,319 @@
       ],
       "segments": [
         "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-10-15": [
+    {
+      "title": "Pernod Ricard avalia abrir capital na Índia após resultados no 1º trimestre fiscal superarem expectativas",
+      "summary": "Pernod Ricard evalúa abrir el capital de su subsidiaria india tras resultados sólidos en Q1, aprovechando el crecimiento acelerado del consumo de bebidas alcohólicas en India frente a contracciones en",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Johnnie Walker lanza Vault, su nuevo whisky de lujo, y apuesta por una estrategia premium para fortalecer la marca en 2026",
+      "summary": "Diageo lanza Johnnie Walker Vault, un nuevo whisky de lujo, reposicionando su marca insignia en el segmento premium para 2026. La estrategia apunta a capturar mayor margen en la categoría de destilado",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "product_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Las empresas y marcas que cambian de dueño en Latinoamérica: Argentina crece y México retrocede",
+      "summary": "Se registran movimientos significativos de M&A en Latinoamérica con la adquisición de La Serenísima en Argentina, la operación de AT&T en México y una compra de CCU en Chile. El contexto indica un año",
+      "companies": [
+        "CCU",
+        "CCU"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola FEMSA investe R$ 360 milhões em Jundiaí e amplia produção de bebidas - Tribuna de Jundiaí",
+      "summary": "Coca-Cola FEMSA anuncia inversión de R$ 360 millones en su planta de Jundiaí, Brasil, para expandir capacidad de producción. La inversión representa una apuesta estratégica en infraestructura de manuf",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola FEMSA"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo Is Proving the Market Right",
+      "summary": "Elliott Management adquirió una posición de $4 mil millones en PepsiCo hace poco más de un año, señalando un cambio estratégico significativo en cómo el mercado percibe a la compañía. El interés de un",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cervepar says Michelob Ultra sales in Paraguay rose 312% in 2026",
+      "summary": "Cervepar reportó un crecimiento de 312% en ventas de Michelob Ultra durante 2026, posicionando la marca como líder en su segmento en Paraguay. El crecimiento refleja la estrategia exitosa de AB InBev ",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Leans into Functional Hydration, Nostalgia at NACS - BevNET.com",
+      "summary": "Coca-Cola está expandiendo su portafolio de bebidas funcionales e hidratación en canales convenience, con énfasis en nuevos sabores e innovación para incrementar el ticket promedio por compra. Esta es",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Buy BUD Stock. AB InBev’s Shares Can Rise Even as Gen Z Cuts Back on Beer. - Barron's",
+      "summary": "Barron's recomienda compra de acciones de AB InBev (BUD) anticipando potencial de revalorización bursátil a pesar de la reducción de consumo de cerveza en la Gen Z. La recomendación sugiere que la com",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Beer Needs an Early Holiday Boost to Meet 2026 Projection, per Latest Circana Weekly Scans | Brewbound",
+      "summary": "Según datos semanales de Circana, la categoría de cerveza requiere un impulso temprano en las festividades para alcanzar las proyecciones de 2026. El análisis sugiere que el desempeño actual del segme",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo warns India could run out of its energy drinks in two months as Red Bull keeps selling - Mezha.net",
+      "summary": "PepsiCo advierte sobre posible desabastecimiento de bebidas energizantes en India en dos meses mientras Red Bull mantiene sus ventas operativas. La situación refleja desafíos regulatorios o de cadena ",
+      "companies": [
+        "PepsiCo",
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) What Does the Latest Update Mean for Retail Assortment And Beverage Demand? - Kalkine Media",
+      "summary": "Monster Beverage reportó actualizaciones estratégicas que impactan la disponibilidad en retail y la demanda de bebidas energéticas. Como líder global del segmento, los movimientos de Monster en surtid",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage (TAP) Nears Earnings With Optimism, Is It Still A Bargain? - Simply Wall Street",
+      "summary": "Molson Coors se aproxima a la divulgación de resultados financieros con perspectivas positivas del mercado. El análisis de valuación sugiere que la cervecera podría mantener atractivo valor para inver",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer (SAM) Projected to Release Quarterly Earnings on Thursday - MarketBeat",
+      "summary": "Boston Beer anunciará resultados trimestrales mañana, ofreciendo visibilidad sobre el desempeño de la cervecería estadounidense en un mercado competitivo. Los números permitirán evaluar dinámicas de p",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sales weakness seeps into new financial year for Pernod Ricard – results data - Global Drinks Intel",
+      "summary": "Pernod Ricard reporta debilidad en ventas que se extiende al nuevo ejercicio fiscal, evidenciando presión en su desempeño comercial. Como uno de los mayores productores globales de bebidas alcohólicas",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard first quarter sales fall less-than-expected, cautious optimism on China - Reuters",
+      "summary": "Pernod Ricard reportó caída de ventas en el primer trimestre inferior a lo esperado, mostrando resiliencia en un mercado desafiante. El grupo expresó optimismo cauteloso sobre China, su mercado estrat",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo strike action suspended as Cameronbridge talks begin",
+      "summary": "Diageo suspendió acciones de huelga en su destilería Cameronbridge (Escocia) tras iniciar negociaciones con el sindicato Unite sobre recortes de empleos. Más de 100 trabajadores habían acordado medida",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cheribundi Debuts Recovery Pouch 12-Pack at More Than 300 Sam’s Club Locations Nationwide",
+      "summary": "Cheribundi, marca de bebidas de recuperación a base de cereza ácida con presencia en más de 2.000 equipos deportivos profesionales y universitarios, lanzó un formato de 12 unidades en más de 300 local",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard invests in ecoSPIRITS’ ‘circular’ distribution system for premium wine and spirits - Packaging Europe",
+      "summary": "Pernod Ricard, uno de los mayores grupos de bebidas alcohólicas del mundo, invierte en ecoSPIRITS, una plataforma de distribución circular para vinos y spirits premium. La estrategia busca reducir res",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Italian wineries delay bottling to keep unsold wine off shelves",
+      "summary": "Bodegas italianas están postergando el embotellado de vinos tintos para mantener producto fuera de estantes ante caída de ventas, aumento de costos de envasado e incertidumbre tarifaria. La estrategia",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Did Functional Drink Growth Just Shift Keurig Dr Pepper Stock's Investment Narrative? - Simply Wall Street",
+      "summary": "Keurig Dr Pepper (KDP) podría estar reposicionando su narrativa de inversión impulsada por el crecimiento de bebidas funcionales. El cambio estratégico hacia este segmento de alto crecimiento refleja ",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Europacific Partners (CCEP) vs. COKE and PEP: Can New Products and Pricing Power Drive Stronger Returns? - Yahoo Finance",
+      "summary": "Análisis comparativo de Coca-Cola Europacific Partners (CCEP) frente a The Coca-Cola Company (COKE) y PepsiCo (PEP), evaluando estrategias de nuevos productos y poder de fijación de precios como drive",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Treasury Wine Estates reinforces luxury wine focus at TFWA World Exhibition & Conference in Cannes - Global Travel Retail Magazine",
+      "summary": "Treasury Wine Estates reafirma su estrategia de enfoque en vinos premium durante la conferencia TFWA en Cannes, el evento global de retail de viajes. La empresa australiana refuerza su posicionamiento",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard readies India IPO as US and China woes continue",
+      "summary": "Pernod Ricard prepara un IPO en India ante debilitamiento de ventas en mercados clave como EE.UU. y China. La empresa de espirituosos (Jameson, Absolut, Martell) registró un crecimiento del 19% en Ind",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo launches Johnnie Walker, its new luxury whisky, and commits to a premium strategy",
+      "summary": "Diageo, líder global de bebidas alcohólicas, lanza Johnnie Walker Vault, un whisky de ultra-lujo que refuerza su posicionamiento en el segmento premium de mayor rentabilidad. Esta iniciativa responde ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo warns Sting energy drinks could run out in India in two months - BusinessLine",
+      "summary": "PepsiCo advierte sobre posibles desabastecimientos de su marca Sting en el mercado indio en los próximos dos meses. Esta situación refleja desafíos críticos en la cadena de suministro de bebidas energ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "LVMH’s wines and spirits division grew 5% in the first nine months of 2026.",
+      "summary": "La división de vinos y destilados de LVMH creció 5% en los primeros nueve meses de 2026, alcanzando €4 mil millones en ventas y revirtiendo la caída del año anterior. Europa lidera la recuperación aun",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Citi raises Monster Beverage target from USD 56.50 to USD 57.00 for Monster Beverage stock - ad-hoc-news.de",
+      "summary": "Citigroup elevó el precio objetivo de Monster Beverage de USD 56.50 a USD 57.00, reflejando una perspectiva alcista sobre el líder global de bebidas energéticas. Este movimiento de analista de primer ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
