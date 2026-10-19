@@ -2301,8 +2301,17 @@
   ],
   "2026-10-19": [
     {
+      "title": "Mendoza fortalece el enoturismo con un convenio entre Bodegas de Argentina y el Emetur |",
+      "summary": "Mendoza formalizó un acuerdo entre Bodegas de Argentina y el Emetur para sistematizar datos de enoturismo mediante un Observatorio de Turismo Sostenible. La iniciativa busca mejorar la inteligencia de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Bebidas RTD con más clientes en el mercado, pero ¿seguirá su crecimiento en estos meses?",
-      "summary": "El segmento de bebidas RTD (ready to drink) está ganando cuota dentro de las bebidas alcohólicas, impulsado por la demanda de productos de consumo inmediato y praticidad. Según Impronta Research, la c",
+      "summary": "El segmento de bebidas RTD (ready to drink) alcohólicas experimenta crecimiento sostenido en captación de nuevos consumidores, impulsado por la demanda de productos de conveniencia e consumo inmediato",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2312,7 +2321,7 @@
     },
     {
       "title": "Colombia aumenta su consumo de vino y el mercado apunta a crecer",
-      "summary": "El mercado de vino en Colombia experimenta crecimiento acelerado, proyectando una tasa anual compuesta de 4,2% hasta 2035, alcanzando US$310 millones (vs. US$205 millones en 2025). D1 gana participaci",
+      "summary": "Colombia presenta oportunidades de crecimiento en el mercado de vino con proyección de expansión anual de 4,2% hasta 2035, alcanzando US$310 millones. El mercado actual de US$205,48 millones muestra d",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2320,17 +2329,34 @@
       "region": "Regional"
     },
     {
-      "title": "Denuncia ante Fiscalía contra dos ejecutivos de Bavaria destapa multimillonaria pelea por el mercado de la cerveza en Colombia - El Tiempo",
-      "summary": "Dos ejecutivos de Bavaria (Grupo SABMiller/AB InBev) enfrentan denuncia fiscal en Colombia, revelando conflictividad operativa en la compañía dominante del mercado cervecero colombiano. El caso expone",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
+      "title": "AB InBev says barriers still block beer sales in Chile’s bars despite the 2024 antitrust settlement",
+      "summary": "AB InBev denuncia que persisten barreras de acceso en bares chilenos controlados por CCU a pesar del acuerdo antimonopolio de 2024. Aunque es una queja formal sin hallazgos regulatorios nuevos, reflej",
+      "companies": [
+        "AB InBev",
+        "CCU",
+        "CCU"
       ],
-      "region": "Regional"
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Treasury Wine Estates upbeat on outlook, rules out fire sale of brands",
+      "summary": "Treasury Wine Estates, productor global de bebidas alcohólicas, descarta una venta de activos a precios deprimidos y mantiene una perspectiva positiva sobre su desempeño futuro. El comentario del pres",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
     },
     {
       "title": "Celsius brings back Spritz Vibe Winter Edition with Sparkling Shirley Temple flavour | FoodBev Media",
-      "summary": "Celsius lanza edición limitada de Spritz Vibe Winter con sabor Sparkling Shirley Temple, combinando cereza, cítricos espumantes y lima. Esta estrategia de lanzamientos estacionales y sabores innovador",
+      "summary": "Celsius lanza una edición limitada de invierno de su línea Spritz Vibe con sabor Sparkling Shirley Temple, combinando cereza, cítricos y lima. Esta estrategia de innovación de sabores estacionales ref",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2340,32 +2366,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola, Britvic claim sugar tax 'flies in the face of evidence' on obesity - Campaign UK",
-      "summary": "Coca-Cola y Britvic cuestionan públicamente la efectividad del impuesto al azúcar como herramienta contra la obesidad, argumentando que contradice evidencia científica. Esta posición regulatoria es cr",
-      "companies": [
-        "The Coca-Cola Company",
-        "Britvic"
-      ],
-      "segments": [
-        "marketing_innovation",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pepsi Unwraps a New Indulgent Holiday Treat with Vanilla & Cream",
-      "summary": "PepsiCo lanza Pepsi Vanilla & Cream, una variante limitada de tiempo con sabores a vainilla y crema, disponible desde el 19 de octubre en presentaciones Original y Zero Sugar (12-pack de latas y botel",
+      "title": "Pepsi releases new seasonal ahead of holiday season",
+      "summary": "PepsiCo lanza Pepsi Vanilla & Cream y Pepsi Zero Sugar Vanilla & Cream a nivel nacional para la temporada navideña, capitalizing en que 75% de consumidores está dispuesto a probar nuevas bebidas duran",
       "companies": [
         "PepsiCo"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "supply_chain_commodities"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Moët & Chandon remains the world’s most valuable Champagne and wine brand",
-      "summary": "Moët & Chandon consolidó su posición como marca de champagne más valiosa a nivel global con valuación de $2.3 mil millones, representando un crecimiento del 12% interanual. Este resultado refuerza el ",
+      "title": "Champagne Brands Outperform Still Wines as Moët & Chandon Retains Top Spot for Value and Barefoot Becomes Strongest",
+      "summary": "Las marcas de champagne superan en valor a los vinos tranquilos, con un valor combinado de $8.2 mil millones según Brand Finance. Moët & Chandon mantiene el liderazgo en posicionamiento de valor, mien",
       "companies": [
         "LVMH Wines & Spirits"
       ],
@@ -2376,7 +2390,7 @@
     },
     {
       "title": "Beverages, Alcohol, and Tobacco Stocks Q1 In Review: Brown-Forman (NYSE:BF.B) Vs Peers - TradingView",
-      "summary": "Análisis comparativo de desempeño de Brown-Forman y pares en el sector de bebidas alcohólicas durante Q1. Proporciona contexto sobre la evolución del mercado de bebidas alcohólicas y posicionamiento c",
+      "summary": "Análisis comparativo de desempeño bursátil en Q1 de Brown-Forman y competidores del sector bebidas y alcohol. Permite benchmarking de valuaciones y tendencias de mercado de jugadores alcohólicos relev",
       "companies": [
         "Brown-Forman"
       ],
@@ -2388,7 +2402,7 @@
     },
     {
       "title": "Pernod Ricard beats Q1 FY27 sales expectations as 19% India surge offsets US and China slumps - Adgully",
-      "summary": "Pernod Ricard superó expectativas de ventas en Q1 FY27 impulsado por un crecimiento del 19% en India, compensando caídas en mercados clave como EE.UU. y China. El desempeño de India refleja oportunida",
+      "summary": "Pernod Ricard superó expectativas de ventas en Q1 FY27 impulsado por un crecimiento de 19% en India, compensando caídas en mercados clave como EE.UU. y China. Este desempeño refleja un reposicionamien",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2398,8 +2412,31 @@
       "region": "Mundial"
     },
     {
+      "title": "KFC Is Swapping Pepsi for Coke. Baja Blast Isn’t Going Anywhere - Business Model Analyst",
+      "summary": "KFC termina su alianza de bebidas con PepsiCo y migra a Coca-Cola como su proveedor principal de refrescos. La transición mantiene a Baja Blast, bebida exclusiva de Taco Bell (propiedad de Yum! Brands",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Danone funding supports farmers with regenerative adoption",
+      "summary": "Danone se asoció con Landscape Enterprise Networks (LENs) para financiar la adopción de prácticas regenerativas en más de 2,500 hectáreas de cultivo en Reino Unido, incluyendo regiones clave de sumini",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Beatbox RTDs ‘could appeal to under-18s’, Portman Group rules",
-      "summary": "AB InBev's Beatbox RTD brand fue obligada por el Portman Group (regulador de la industria alcohólica) a modificar su packaging tras determinar que cuatro productos tenían particular atractivo para men",
+      "summary": "AB InBev's Beatbox RTD brand fue sancionado por el Portman Group (regulador de la industria alcohólica del Reino Unido) por packaging con potencial atractivo para menores de 18 años. La empresa debe m",
       "companies": [
         "Tetra Pak"
       ],
@@ -2410,7 +2447,7 @@
     },
     {
       "title": "Beyond Meat launches energy drink",
-      "summary": "Beyond Meat expande su portafolio hacia la categoría de bebidas energéticas con proteína, lanzando Beyond Immerse Protein + Energy. El producto combina 20g de proteína vegetal, 5g de fibra, electrolit",
+      "summary": "Beyond Meat expande su portafolio hacia bebidas funcionales con el lanzamiento de Beyond Immerse Protein + Energy, una bebida que combina proteína vegetal (20g), fibra (5g), electrolitos y cafeína de ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2419,8 +2456,39 @@
       "region": "Mundial"
     },
     {
+      "title": "Distributors: Beyond Beer Saves Their Hides But Returning Beer to Growth is the Priority | Brewbound",
+      "summary": "Distribuidores de bebidas discutieron en la convención anual de NBWA cómo diversificar sus portafolios más allá de cerveza para proteger sus negocios, aunque el retorno al crecimiento en cerveza sigue",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RNDC asks a bankruptcy judge to clear joint venture sales worth about $50 million",
+      "summary": "RNDC, distribuidor de vinos y licores, solicita autorización judicial para vender joint ventures valuadas en ~$50M en Kentucky y Michigan como parte de su plan de reestructuración en Chapter 11. Esta ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation $MNST Stock: Vontobel Holding Ltd. Boosts Holdings - MarketBeat",
+      "summary": "Vontobel Holding Ltd., fondo de inversión institucional, incrementó su participación accionaria en Monster Beverage Corporation, líder global en bebidas energéticas. Este movimiento de inversores rele",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Holiday Variety Soda Packs: Olipop Brings Back Its 15-Can Costco Holiday Pack With A New… - Trend Hunter",
-      "summary": "Olipop relanza su pack de variedad de 15 latas para las festividades en Costco con nuevas propuestas. Esta estrategia de SKU limitado en canal retail masivo refuerza la posición de Olipop en el segmen",
+      "summary": "Olipop relanza su pack navideño de 15 latas en Costco con nuevas variantes, reforzando su estrategia de distribución en canales mayoristas de alto volumen. La iniciativa capitaliza la demanda estacion",
       "companies": [
         "Olipop",
         "Costco"
@@ -2431,8 +2499,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Piper Sandler reiterates Monster Beverage stock rating on category growth By Investing.com - Investing.com India",
-      "summary": "Piper Sandler mantiene su calificación de compra en Monster Beverage con base en el crecimiento sostenido de la categoría de bebidas energéticas. El análisis refuerza la posición competitiva de Monste",
+      "title": "Monster Beverage stock: Citi sets USD 57.00 target for Monster Beverage stock - ad-hoc-news.de",
+      "summary": "Citigroup estableció un precio objetivo de USD 57 para las acciones de Monster Beverage, señalizando las expectativas del banco sobre la valuación del líder global en bebidas energéticas. Este movimie",
       "companies": [
         "Monster Beverage"
       ],
@@ -2442,8 +2510,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Orora celebrates five decades of can manufacturing",
-      "summary": "Orora celebra 50 años de operación en su planta de manufactura de latas en Sydney, consolidando su posición como proveedor clave de envases de aluminio reciclable para la industria de bebidas australi",
+      "title": "Piper Sandler reiterates Monster Beverage stock rating on category growth - Investing.com",
+      "summary": "Piper Sandler mantiene su calificación de Monster Beverage sustentada en el crecimiento esperado de la categoría de bebidas energéticas. Monster, líder global en este segmento, se beneficiará de la ex",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Consignaction plans to raise ecofees on Quebec’s reusable beer bottles by up to 8 Canadian cents",
+      "summary": "Consignaction planea aumentar las ecocontribuciones en botellas reutilizables de cerveza en Quebec hasta 8 centavos canadienses para financiar una planta de procesamiento de vidrio en Sorel. El increm",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2452,30 +2531,71 @@
       "region": "Mundial"
     },
     {
-      "title": "Philippines beverage industry warns proposed sugar-sweetened beverages tax could hurt MSME margins - ChiniMandi",
-      "summary": "La industria de bebidas filipina advierte que un impuesto propuesto sobre bebidas azucaradas amenazaría los márgenes de las pequeñas y medianas empresas (PYME). Esta regulación fiscal representa un ri",
+      "title": "Beer Business Daily questions whether hard ades add new demand",
+      "summary": "Los hard ades están ganando espacio en góndola a costa de otros productos, obligando a distribuidores a replantear métricas de desempeño enfocándose en ganancia de cartera total en lugar de depletione",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "regulation_tax_policy"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Is AF beer more vulnerable to contamination on draught?",
-      "summary": "La cerveza sin alcohol (AF) en sistemas de barril presenta desafíos operacionales en higiene de dispensación y calidad de producto que la industria debe considerar. Con la expansión de ofertas low & n",
+      "title": "Orora celebrates five decades of can manufacturing",
+      "summary": "Orora celebra 50 años de operaciones en su planta de manufactura de latas en Sydney, Australia. La instalación de Revesby es un productor clave de latas de aluminio reciclables para cerveza y bebidas ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "risk_crisis_reputation"
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation $MNST Stock: Vontobel Holding Ltd. Boosts Holdings - MarketBeat",
-      "summary": "Vontobel Holding Ltd. aumentó su posición accionaria en Monster Beverage Corporation, reflejando confianza institucional en el líder global de bebidas energéticas. Este movimiento de un importante inv",
+      "title": "GRIZZLY Energy, Bear ‘n Beaver offer consumers nostalgic flavors",
+      "summary": "GRIZZLY Energy y Bear 'n Beaver lanzan bebidas con sabores nostálgicos que combinan indulgencia con propuestas saludables (bajo/cero azúcar). El CEO de DD Beverage & Nutrition señala que el mercado de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Amber Beverage UK collapses as sale efforts fail",
+      "summary": "Amber Beverage UK, distribuidor de bebidas espirituosas, ha cesado operaciones tras fracasar los intentos de venta de la empresa. El colapso de un distribuidor de este tamaño en el mercado británico i",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Adnams studies outsourcing bottled beer production to cut a £300,000 logistics bill",
+      "summary": "Adnams, cervecería británica de 150 años, evalúa externalizar la producción y envasado de sus cervezas embotelladas (Ghost Ship y Broadside) para reducir costos logísticos en £300,000 anuales. La deci",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pepsi Unwraps a New Indulgent Holiday Treat with Vanilla & Cream",
+      "summary": "PepsiCo lanza Pepsi Vanilla & Cream, un nuevo sabor de cola de tiempo limitado disponible desde el 19 de octubre en versiones Original y Zero Sugar en formatos de 12-pack y botellas de 20 oz. La estra",
       "companies": [
-        "Monster Beverage"
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Moët & Chandon remains the world’s most valuable Champagne and wine brand",
+      "summary": "Moët & Chandon se posiciona como la marca de champagne y vino más valiosa del mundo con valuación de US$2.3 mil millones, tras un crecimiento anual del 12%. Este desempeño refuerza la fortaleza del se",
+      "companies": [
+        "LVMH Wines & Spirits"
       ],
       "segments": [
         "consumer_market_trends"
