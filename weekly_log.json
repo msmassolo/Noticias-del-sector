@@ -2289,8 +2289,18 @@
   ],
   "2026-10-21": [
     {
+      "title": "El \"boom\" del café: se pide más por delivery, crece la demanda por variedades premium y una empresa concentra el 67% de las ventas",
+      "summary": "El mercado de café en Argentina crece 33% interanual en canales de delivery (PedidosYa) durante 2026, impulsado por demanda de bebidas preparadas y productos para preparar en casa. Un actor concentra ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "\"Debilidad del consumo\", un 66% de los supermercados coinciden en el diagnóstico",
-      "summary": "El 66,3% de supermercados y autoservicios mayoristas argentinos identifican la debilidad de demanda como principal limitante de su actividad (INDEC, septiembre 2026). La caída del consumo afecta direc",
+      "summary": "Según INDEC, el 66,3% de supermercados y autoservicios mayoristas en Argentina identifica la debilidad de demanda como principal limitante para expandir actividad (Encuesta de Tendencia de Negocios, s",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2300,7 +2310,7 @@
     },
     {
       "title": "Sigue baja la confianza empresarial en industria y supermercados para lo que queda del año",
-      "summary": "La confianza empresarial en la industria manufacturera y supermercados se mantiene en territorio negativo según datos del Indec de septiembre, con la confianza fabril en -18,9%. La falta de demanda es",
+      "summary": "La confianza empresarial en la industria manufacturera y supermercados se mantiene en territorio negativo según datos del Indec de septiembre, con índices de -18,9% en el sector fabril. La débil deman",
       "companies": [],
       "segments": [
         "distribution_execution"
@@ -2309,7 +2319,7 @@
     },
     {
       "title": "PepsiCo transforma Sabritas en México: prepara una renovación de imagen y apuesta por ingredientes más sencillos para impulsar sus botanas",
-      "summary": "PepsiCo anuncia renovación de marca para Sabritas en México, incluyendo rediseño de imagen y simplificación de ingredientes. La estrategia busca captar consumidores con mayor conciencia sobre composic",
+      "summary": "PepsiCo realiza una renovación estratégica de Sabritas en México, enfocándose en simplificación de ingredientes y actualización de imagen de marca. La iniciativa busca capturar la demanda creciente de",
       "companies": [
         "PepsiCo"
       ],
@@ -2320,7 +2330,7 @@
     },
     {
       "title": "Nueva ruta y cero alcohol para Viña Vieja: ¿qué mercados y consumidores busca ahora?",
-      "summary": "Bodegas Viña Vieja expande su estrategia comercial con crecimiento de 19% en volumen y 11% en facturación a septiembre. La bodega incursiona en nuevas categorías incluyendo vinos sin alcohol y busca p",
+      "summary": "Bodegas Viña Vieja expande su estrategia de distribución y portafolio con crecimiento de 19% en volumen y 11% en facturación a septiembre. La bodega diversifica canales de venta, explora mercados secu",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2330,7 +2340,7 @@
     },
     {
       "title": "4 strategies Coca-Cola, PepsiCo, Spindrift and others are using to revitalize RTD tea",
-      "summary": "Coca-Cola, PepsiCo, Spindrift y otros líderes están reformulando sus ofertas de té listo para beber (RTD) con enfoque en reducción de azúcar, funcionalidad y sabores innovadores para reactivar el crec",
+      "summary": "Coca-Cola, PepsiCo, Spindrift y otros jugadores están reformulando sus portafolios de té RTD (listo para beber) con énfasis en reducción de azúcar, funcionalidad y sabores innovadores para capturar el",
       "companies": [
         "The Coca-Cola Company",
         "PepsiCo"
@@ -2343,7 +2353,7 @@
     },
     {
       "title": "UK Ruling Flags BeatBox Packaging as RTD Players Test Nostalgia Marketing Limits | Brewbound",
-      "summary": "Una autoridad regulatoria del Reino Unido ordenó a AB InBev modificar el empaque de BeatBox por apelar potencialmente a menores de edad, reflejando un endurecimiento de regulaciones sobre marketing y ",
+      "summary": "La autoridad regulatoria de bebidas alcohólicas del Reino Unido ordenó a AB InBev modificar el packaging de BeatBox por riesgo de atracción a menores de edad. La decisión establece un precedente restr",
       "companies": [
         "AB InBev"
       ],
@@ -2355,7 +2365,7 @@
     },
     {
       "title": "Pepsi launches limited-edition vanilla and cream flavours for holiday season | FoodBev Media",
-      "summary": "Pepsi lanzó dos variantes limitadas de temporada en EE.UU.: Pepsi Vanilla & Cream y Pepsi Zero Sugar Vanilla & Cream, combinando su fórmula de cola con notas de vainilla y crema. La estrategia amplía ",
+      "summary": "Pepsi lanzó dos variantes limitadas para la temporada navideña en EE.UU.: Pepsi Vanilla & Cream y Pepsi Zero Sugar Vanilla & Cream. Estas nuevas opciones de sabor combinan la fórmula tradicional de Pe",
       "companies": [
         "PepsiCo"
       ],
@@ -2366,8 +2376,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Why drinks brands need to rethink the rules of drinking",
+      "summary": "Expertos en branding y packaging de bebidas alertan sobre la necesidad de reformular estrategias ante cambios en el consumo de alcohol. Hamish Campbell, director creativo de Denomination, trabaja con ",
+      "companies": [
+        "Fevertree Drinks",
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "PepsiCo’s Good Warrior expands protein snacks portfolio with three new bars | FoodBev Media",
-      "summary": "PepsiCo lanza tres nuevas barras proteicas bajo su marca Good Warrior en EE.UU., ampliando su portafolio de snacks proteicos. Cada barra contiene 15g de proteína, máximo 7g de azúcar y es fuente de fi",
+      "summary": "PepsiCo expande su portafolio de snacks proteicos a través de Good Warrior con tres nuevas barras en el mercado estadounidense. Cada barra aporta 15g de proteína, máximo 7g de azúcar y fibra, sin cons",
       "companies": [
         "PepsiCo"
       ],
@@ -2377,33 +2399,66 @@
       "region": "Mundial"
     },
     {
-      "title": "India Investigates Pernod Ricard and Diageo Over Bulk Scotch Import Classifications",
-      "summary": "India investiga a Pernod Ricard y Diageo por clasificaciones incorrectas en importaciones de concentrados de whisky escocés, aprovechando la reducción de aranceles del 150% al 75%. Los reguladores sos",
+      "title": "Federal Judge Dismisses Suit Against Costco Over 100% Agave Claims",
+      "summary": "Un juez federal desestimó la demanda colectiva contra Costco por alegaciones de fraude en las etiquetas de tequila Kirkland Signature que afirmaban ser «100% agave». El fallo elimina riesgos de litigi",
+      "companies": [
+        "Costco"
+      ],
+      "segments": [
+        "risk_crisis_reputation",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors’ U.K. gross profit fell 7.8% in 2025",
+      "summary": "Molson Coors registró una caída de 7.8% en su ganancia bruta en Reino Unido durante 2025, atribuida a la debilitación del consumo en pubs y la migración hacia canales de supermercado con márgenes más ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India Investigates Diageo and Pernod Ricard Over Scotch Import Classifications",
+      "summary": "India investiga a Diageo y Pernod Ricard por posibles clasificaciones incorrectas en importaciones de whisky escocés para acceder ilegalmente a aranceles reducidos (75% vs 150%). Este caso impacta dir",
       "companies": [
         "Diageo",
         "Pernod Ricard"
       ],
       "segments": [
-        "consumer_market_trends",
         "regulation_tax_policy"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage stock: Piper Sandler keeps Buy rating at USD 50.50 target - AD HOC NEWS",
-      "summary": "Piper Sandler mantiene calificación de compra (Buy) para Monster Beverage con precio objetivo de USD 50,50. Esta validación de un analista de referencia refleja confianza en la trayectoria estratégica",
+      "title": "RTDs Serve as Craft’s ‘Trojan Horse’ to Win Drinkers – Boston Beer Leaders on Leveraging Innovation | Brewbound",
+      "summary": "Líderes de Boston Beer Company discuten la estrategia de RTDs (bebidas listas para beber) como herramienta para recuperar cuota de mercado en el segmento de cerveza artesanal, que atraviesa una contra",
       "companies": [
-        "Monster Beverage"
+        "Boston Beer Company"
       ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Distribution: Jocko Fuel Heads to Target with Shakes and Powders - BevNET.com",
+      "summary": "Jocko Fuel, marca de bebidas proteicas co-fundada por Jocko Willink (ex oficial Navy SEAL), expande su distribución nacional ingresando a Target, uno de los principales retailers de EE.UU. La marca ya",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
       "title": "Craft Shows Positive Momentum Entering Q4; A-B’s Golden Road Mango Cart Cracks Top 30 with Price Adjustment | Brewbound",
-      "summary": "El segmento de cerveza artesanal muestra momentum positivo hacia Q4 a pesar de declives interanuales persistentes, según Circana. La marca Golden Road Mango Cart de Anheuser-Busch ingresó al top 30 tr",
+      "summary": "El segmento craft beer muestra momentum positivo hacia Q4 2024, revirtiendo tendencias de debilidad estival, según datos de Circana. Anheuser-Busch logró posicionar Golden Road Mango Cart entre los to",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2412,8 +2467,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Heineken ordered to pay MTB €111m in competition case | FoodBev Media",
+      "summary": "Heineken y su subsidiaria griega Athenian Brewery fueron condenadas a pagar €111 millones a Macedonian Thrace Brewery (MTB) en un caso de competencia desleal en Grecia. La sentencia, tras años de liti",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Moët & Chandon remained the world’s most valuable wine brand in 2026",
-      "summary": "Moët & Chandon mantiene su posición como la marca de vino más valiosa globalmente en 2026, mientras Veuve Clicquot registra el crecimiento más acelerado del segmento. El dato es significativo porque r",
+      "summary": "Moët & Chandon se mantiene como la marca de vino más valiosa del mundo en 2026, mientras que Veuve Clicquot registra el crecimiento más acelerado, demostrando la resiliencia del segmento de champagne ",
       "companies": [
         "LVMH Wines & Spirits"
       ],
@@ -2424,7 +2490,7 @@
     },
     {
       "title": "Boston Beer's Stock Underperformance Unlikely to Change on Q3 Results, RBC Says - marketscreener.com",
-      "summary": "Boston Beer enfrenta un desempeño accionario débil que no se espera mejore con sus resultados de Q3, según análisis de RBC Capital Markets. La empresa, productor clave de bebidas alcohólicas en EE.UU.",
+      "summary": "Boston Beer enfrenta una perspectiva desfavorable según RBC Capital Markets, con expectativas de que los resultados Q3 no reviertan el underperformance de su acción. La empresa, productor de cervezas ",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2435,31 +2501,28 @@
       "region": "Mundial"
     },
     {
-      "title": "The Boston Beer Company, Inc. expected to post earnings of $4.20 a share - Earnings Preview - TradingView",
-      "summary": "Boston Beer Company reportará ganancias de $4.20 por acción en su próximo resultado. Esta cifra es relevante para monitorear el desempeño de uno de los mayores productores de bebidas alcohólicas de EE",
-      "companies": [
-        "Boston Beer Company"
-      ],
+      "title": "Crux Fermentation Project Unveils a Bold New Look for NØMØ Non-Alcoholic Beer",
+      "summary": "Crux Fermentation Project rediseña la identidad visual de su marca NØMØ de cerveza sin alcohol, enfocándose en posicionarse como referente de calidad en el segmento de bebidas sin alcohol del Pacífico",
+      "companies": [],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "non_alcoholic_beverages"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Danone’s AI commerce goal: ‘Trusted by machines and desired by humans’",
-      "summary": "Danone implementa una estrategia de comercio digital impulsada por IA bajo el lema 'Trusted by machines and desired by humans' para mantener relevancia competitiva de sus marcas líderes (Oikos, Activi",
-      "companies": [
-        "Danone"
-      ],
+      "title": "FTC Settlement With Southern Glazer’s A 'Narrow' Fix For Price Discrimination | Brewbound",
+      "summary": "Southern Glazer's, el distribuidor más grande de vinos y spirits en EE.UU., llegó a un acuerdo con la FTC por prácticas de discriminación de precios, pero el settlement es limitado y no prohibiría com",
+      "companies": [],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
       "title": "Molson Coors flags pub-to-retail shift as risk to profitability",
-      "summary": "Molson Coors reportó caída de ingresos del 4,2% a £1.56bn y declive de ganancia bruta del 7,8% en 2025, atribuyendo el deterioro al desplazamiento de consumo desde bares hacia canales retail. El fenóm",
+      "summary": "Molson Coors reporta caída de 4.2% en ventas (£1.56bn) y reducción de 7.8% en ganancia bruta en 2025, alertando sobre riesgos de rentabilidad derivados del cambio estructural de consumo desde bares ha",
       "companies": [
         "Molson Coors"
       ],
@@ -2469,8 +2532,29 @@
       "region": "Mundial"
     },
     {
+      "title": "Danone’s AI commerce goal: ‘Trusted by machines and desired by humans’",
+      "summary": "Danone implementa estrategia de comercio digital impulsada por IA para mantener relevancia competitiva de sus marcas globales (Activia, Oikos, Silk). La compañía multinacional de miles de millones de ",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Herb Light urges Americans to buy their congressperson a round of Herberts in support of reasonable THC beverage legislation",
+      "summary": "Herb Light, marca de bebidas con THC de ultra baja dosis, lanza campaña de advocacy «Cheers Against Prohibition» ante amenaza de prohibición federal en EE.UU. (límite potencial: 0,4 mg THC). La indust",
+      "companies": [],
+      "segments": [
+        "alternative_ingredients",
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Q3 CPG Financing Deals - Northhall Report, October 2026",
-      "summary": "En Q3 2026, la financiación en sectores de alimentos, bebidas y CPG alcanzó $445 millones, con crecimiento del 79% trimestral y 29% interanual. Sin embargo, el incremento fue impulsado por una inversi",
+      "summary": "La financiación en el sector de bebidas y CPG rebotó en Q3 2026, alcanzando $445 millones en capital de riesgo (79% trimestral, 29% interanual). Sin embargo, el crecimiento se concentra en pocas opera",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2479,28 +2563,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Vodka + Ade Segment Could Yield Up To $500M in 2027, Per Circana - BevNET.com",
-      "summary": "El segmento de vodka + bebidas deportivas (hard sports drinks) alcanzará hasta USD 500M en ventas para 2027, según proyecciones de Circana. Este es un crecimiento significativo en una categoría de beb",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Italy's wine industry lost its export cushion after foreign sales fell 6% in early 2026",
-      "summary": "Las exportaciones de vino italiano cayeron 6% en el primer semestre de 2026, erosionando un pilar histórico de la industria. El consumo doméstico se contrajo significativamente: solo 39% de italianos ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "BeatBox Packaging Draws UK Watchdog Rebuke as RTD Brands Test Nostalgia Marketing Limits - BevNET.com",
-      "summary": "AB InBev fue requerido por el regulador británico de bebidas alcohólicas a modificar el packaging de BeatBox tras una queja que argumentaba que su diseño podría resultar atractivo para menores de edad",
+      "summary": "AB InBev deberá modificar el empaque de BeatBox tras sanción del regulador británico por apelar potencialmente a menores de edad. La decisión marca un precedente sobre límites regulatorios en marketin",
       "companies": [
         "AB InBev"
       ],
@@ -2511,74 +2575,51 @@
       "region": "Mundial"
     },
     {
-      "title": "India Investigates Diageo and Pernod Ricard Over Scotch Import Classifications",
-      "summary": "India investiga a Diageo y Pernod Ricard por posibles clasificaciones incorrectas en importaciones de Scotch que habrían accedido indebidamente a aranceles reducidos (75% vs 150%) bajo acuerdos comerc",
+      "title": "Diageo, Pernod Ricard hit by Revenue Intelligence searches in India - Global Drinks Intel",
+      "summary": "Diageo y Pernod Ricard enfrentan inspecciones de la autoridad de inteligencia fiscal india, lo que representa un riesgo regulatorio significativo para dos de los mayores productores de bebidas alcohól",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Boston Beer Company, Inc. expected to post earnings of $4.20 a share - Earnings Preview - TradingView",
+      "summary": "Boston Beer Company proyecta ganancias de $4.20 por acción en próximo período de resultados. Este dato es relevante para monitorear el desempeño de un competidor global en la industria de bebidas alco",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer (SAM) Reports Q3: Everything You Need To Know Ahead Of Earnings - Yahoo Finance",
+      "summary": "Boston Beer reportó resultados del Q3, empresa con presencia significativa en el mercado de bebidas alcohólicas de EE.UU. Los resultados de este fabricante de cervezas craft (marcas como Sam Adams) so",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "​Tax Officials Investigate Pernod Ricard and Diageo Over UK Trade Pact Rates - The420.in",
+      "summary": "Las autoridades fiscales del Reino Unido investigan a Pernod Ricard y Diageo por posibles irregularidades en las tasas aplicadas bajo los acuerdos comerciales post-Brexit. Esta investigación impacta d",
       "companies": [
         "Diageo",
         "Pernod Ricard"
       ],
       "segments": [
         "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "German wineries bet on alcohol-free wines after traditional demand weakens",
-      "summary": "Productores alemanes de vino están pivoteando hacia vinos sin alcohol ante la debilidad persistente de la demanda tradicional. Las bebidas sin alcohol representan apenas el 2% del mercado vitivinícola",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Belu CEO criticises EPR as “too simplistic”",
-      "summary": "El CEO de Belu critica el esquema de Responsabilidad Extendida del Productor (EPR) por ser excesivamente simplista. El EPR, implementado el año pasado, responsabiliza financieramente a productores de ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Canned Wine Group: Acquisition boosts draught wine offer - Harpers Wine & Spirit Trade News",
-      "summary": "Canned Wine Group adquirió New Theory, marca de vino natural sudafricana, para fortalecer su oferta de vino de barril en formatos alternativos. La operación responde a la creciente demanda de solucion",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Via Carota Sparkling Cosmo",
-      "summary": "Via Carota Craft Cocktails lanza Sparkling Cosmo, un cóctel premium listo para beber (RTD) con vodka triple destilado, arándano, limón fresco y espuma de vino espumante. El lanzamiento se alinea con l",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "La Colombe Matcha Lattes",
-      "summary": "La Colombe lanza una línea de bebidas listas para consumir (RTD) de Matcha Lattes en tres variantes (clásico, fresa y vainilla), replicando la estrategia que utilizó exitosamente con su Draft Latte en",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Argentina’s wine exports rose 24% in September on stronger overseas demand",
-      "summary": "Las exportaciones de vino argentino crecieron 24% en septiembre impulsadas por mayor demanda internacional, con incrementos en todos los segmentos: embarques envasados +26%, exportaciones a granel +18",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
       ],
       "region": "Mundial"
     }
