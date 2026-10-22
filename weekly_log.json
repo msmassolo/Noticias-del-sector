@@ -2252,7 +2252,7 @@
   "2026-10-22": [
     {
       "title": "Cervezas “dulces”, sin alcohol, sin gluten y nuevos tamaños: las innovaciones de “moderación” de Quilmes",
-      "summary": "Quilmes invierte USD 6 millones (USD 3 millones en 2024 y 2025) en innovación de portafolio con lanzamientos de cervezas dulces, sin alcohol y sin gluten, además de nuevos tamaños, buscando expandir o",
+      "summary": "Quilmes invirtió USD 6 millones en los últimos dos años (USD 3M en 2024 y USD 3M en 2025) para lanzar innovaciones en su portafolio: cervezas dulces, sin alcohol, sin gluten y nuevos tamaños. La estra",
       "companies": [
         "AB InBev",
         "Cerveceria y Malteria Quilmes"
@@ -2265,7 +2265,7 @@
     },
     {
       "title": "Gigante de la cerveza se la juega por la sin alcohol: ya es un 3% del mercado y ahora va por la dulce",
-      "summary": "Cervecería y Maltería Quilmes invierte USD 3 millones en su planta de Zárate para expandir la línea de cervezas sin alcohol, segmento que ya representa el 3% del mercado nacional y crece aceleradament",
+      "summary": "Cervecería y Maltería Quilmes invierte USD 3 millones en su planta de Zárate para expandir su línea de cervezas sin alcohol, que ya representa el 3% del mercado nacional. Corona sin alcohol ya alcanza",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2274,18 +2274,21 @@
       "region": "Local"
     },
     {
-      "title": "El \"boom\" del café: se pide más por delivery, crece la demanda por variedades premium y una empresa concentra el 67% de las ventas",
-      "summary": "El mercado de café en Argentina experimenta un crecimiento acelerado con incremento de 33% en pedidos por delivery durante 2026, impulsado por demanda de café preparado y productos premium para consum",
-      "companies": [],
+      "title": "Mientras KFC elige a Coca-Cola como proveedor de bebidas, PepsiCo y Taco Bell renuevan su histórica alianza en Estados Unidos por 11 años",
+      "summary": "KFC cambió su proveedor de bebidas a Coca-Cola, mientras que PepsiCo renovó su alianza estratégica con Taco Bell por 11 años adicionales en Estados Unidos. Estos movimientos reflejan la competencia in",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "marketing_innovation"
       ],
-      "region": "Local"
+      "region": "Regional"
     },
     {
       "title": "Coca-Cola entra a la competencia de Poppi y Olipop con refrescos de fibra prebiótica",
-      "summary": "Coca-Cola incursiona en la categoría de refrescos funcionales con fibra prebiótica, compitiendo directamente contra marcas emergentes como Poppi y Olipop. La estrategia consiste en integrar esta innov",
+      "summary": "Coca-Cola lanza refrescos con fibra prebiótica, entrando directamente en competencia con marcas emergentes como Poppi y Olipop que lideran el segmento de bebidas funcionales. La estrategia de Coca-Col",
       "companies": [
         "The Coca-Cola Company",
         "Olipop",
@@ -2298,7 +2301,7 @@
     },
     {
       "title": "Bacardí mezcla jamaica y arándano en su nueva bebida inspirada en México",
-      "summary": "Bacardí lanza nueva bebida RTD que combina jamaica y arándano con identidad visual mexicana, posicionándose en el segmento de bebidas frutales premium para ocasiones sociales. El producto apunta al me",
+      "summary": "Bacardí lanza una nueva bebida que combina jamaica y arándano, dirigida al mercado mexicano con posicionamiento en experiencias de consumo compartido. La estrategia incluye identidad visual inspirada ",
       "companies": [
         "Bacardi"
       ],
@@ -2308,8 +2311,19 @@
       "region": "Regional"
     },
     {
+      "title": "Gerson Añaños de Grupo AJE: “Nuestro desafío es crecer sin perder agilidad”",
+      "summary": "Gerson Añaños, ejecutivo de segunda generación de Grupo AJE, aborda la estrategia de crecimiento global de la empresa peruana mientras mantiene agilidad operativa. AJE, con presencia en cuatro contine",
+      "companies": [
+        "AJE Group"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Starbucks recupera clientes en México tras el Mundial 2026, Peanuts, Unicorn Frappuccino y las bebidas de temporada impulsan sus ventas",
-      "summary": "Starbucks México experimentó recuperación de clientes impulsada por bebidas de temporada innovadoras (Peanuts, Unicorn Frappuccino) y activación por Mundial 2026, contribuyendo a que Alsea (operador p",
+      "summary": "Starbucks registró recuperación de clientes en México impulsada por lanzamientos de bebidas de temporada (Peanuts, Unicorn Frappuccino) y eventos como el Mundial 2026. Alsea, operador de la cadena en ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2318,8 +2332,32 @@
       "region": "Regional"
     },
     {
+      "title": "Mark Anthony & Diageo Accelerate Growth Amid Top Vendors’ Mixed Start to Q4 | Brewbound",
+      "summary": "Mark Anthony Brewing y Diageo muestran aceleración en crecimiento mientras otros grandes proveedores de bebidas enfrentan un Q4 2026 mixto. Aunque la mayoría de segmentos de cerveza registran tendenci",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo shuts Tennessee bottling plant amid sliding soft drink volumes",
+      "summary": "PepsiCo cerró su planta embotelladora en Knoxville, Tennessee, como parte de una reestructuración para mejorar la rentabilidad del negocio de bebidas sin alcohol en América del Norte ante caída de vol",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Why drinks brands need to rethink the rules of drinking",
-      "summary": "Expertos en branding y diseño de bebidas advierten sobre la necesidad de repensar las estrategias de packaging y posicionamiento frente al cambio en el comportamiento del consumidor respecto al alcoho",
+      "summary": "Los consumidores están replanteando su relación con el alcohol, impulsando a las marcas de bebidas a innovar en branding y packaging. Agencias como Denomination trabajan con portfolios clave (19 Crime",
       "companies": [
         "Fevertree Drinks",
         "Treasury Wine Estates"
@@ -2330,8 +2368,8 @@
       "region": "Mundial"
     },
     {
-      "title": "PepsiCo’s Good Warrior expands protein snacks portfolio with three new bars | FoodBev Media",
-      "summary": "PepsiCo expande su portafolio de snacks proteicos a través de su marca Good Warrior con tres nuevas barras en EE.UU., cada una con 15g de proteína, ≤7g de azúcar y fibra, sin preservantes ni saborizan",
+      "title": "PepsiCo’s Good Warrior expands protein snacks portfolio with three new bars",
+      "summary": "PepsiCo amplía su portafolio de snacks proteicos a través de su marca Good Warrior con el lanzamiento de tres nuevas barras proteicas en EE.UU. Esta estrategia responde a la creciente demanda de produ",
       "companies": [
         "PepsiCo"
       ],
@@ -2342,7 +2380,7 @@
     },
     {
       "title": "Federal Judge Dismisses Suit Against Costco Over 100% Agave Claims",
-      "summary": "Un juez federal desestimó una demanda colectiva contra Costco por alegaciones fraudulentas sobre etiquetado de tequila 100% agave de su marca privada Kirkland Signature. La resolución favorece a Costc",
+      "summary": "Un juez federal desestimó una demanda colectiva contra Costco por alegaciones de fraude en las etiquetas de tequila Kirkland Signature que promocionaban '100% agave'. La firma de derechos del consumid",
       "companies": [
         "Costco"
       ],
@@ -2354,7 +2392,7 @@
     },
     {
       "title": "Molson Coors’ U.K. gross profit fell 7.8% in 2025",
-      "summary": "Molson Coors reportó caída del 7.8% en ganancia bruta en Reino Unido durante 2025, atribuida a debilitamiento del consumo en pubs y migración hacia supermercados con márgenes más bajos. Esta tendencia",
+      "summary": "Molson Coors reportó caída de 7.8% en ganancia bruta en Reino Unido durante 2025, atribuida a debilitamiento del consumo en bares y migración hacia canal supermercadista con márgenes inferiores. La te",
       "companies": [
         "Molson Coors"
       ],
@@ -2365,8 +2403,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Constellation Brands lifted beer shipments 3.7% by refilling distributor inventories",
+      "summary": "Constellation Brands incrementó envíos de cerveza 3.7% en el período, impulsado por reabastecimiento de inventarios en distribuidoras, aunque las depleciones (ventas reales) cayeron 0.5% en la primera",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "RTDs Serve as Craft’s ‘Trojan Horse’ to Win Drinkers – Boston Beer Leaders on Leveraging Innovation | Brewbound",
-      "summary": "Boston Beer Company y la Brewers Association discuten la estrategia de ready-to-drink (RTDs) como mecanismo para revitalizar el segmento de cerveza artesanal en contexto de desaceleración. Los RTDs fu",
+      "summary": "Boston Beer Company y líderes de la industria cervecera discuten la estrategia de RTDs (ready-to-drink) como herramienta para recuperar participación de mercado en un segmento craft que enfrenta contr",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2376,8 +2426,8 @@
       "region": "Mundial"
     },
     {
-      "title": "PepsiCo closes Knoxville, Tennessee beverage plant | FoodBev Media",
-      "summary": "PepsiCo cerró inmediatamente su planta de manufactura de bebidas en Knoxville, Tennessee. Aunque la compañía no detalló los motivos específicos, este movimiento responde a la consolidación de capacida",
+      "title": "Simone Biles partners with Sodastream to introduce new fountain",
+      "summary": "SodaStream lanza Sodastream Fountain, un sistema de bebidas de mostrador que permite personalizar sabor, nivel de carbonatación y tamaño de porción. La compañía designó a Simone Biles como embajadora ",
       "companies": [
         "PepsiCo"
       ],
@@ -2387,21 +2437,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo, Pernod Ricard hit by Revenue Intelligence searches in India - Global Drinks Intel",
-      "summary": "Diageo y Pernod Ricard, dos de los mayores productores globales de bebidas alcohólicas, fueron objeto de inspecciones por parte de las autoridades de Inteligencia de Ingresos (Revenue Intelligence) en",
+      "title": "Coca-Cola Shows Mixed Trends Pre-Q3 Earnings: To Buy or Not to Buy? - The Globe and Mail",
+      "summary": "Coca-Cola presenta resultados mixtos previos a la publicación de ganancias del Q3, generando incertidumbre en el mercado sobre su desempeño. La noticia es crítica para monitorear la estrategia y salud",
       "companies": [
-        "Diageo",
-        "Pernod Ricard"
+        "The Coca-Cola Company"
       ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "financial_results",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Distribution: Jocko Fuel Heads to Target with Shakes and Powders - BevNET.com",
-      "summary": "Jocko Fuel, marca de proteínas y shakes co-fundada por Jocko Willink, expande su distribución nacional ingresando a Target. Esta adición se suma a su presencia existente en Walmart, Wawa, Wegmans, Pub",
+      "summary": "Jocko Fuel, marca de bebidas proteicas y polvos co-fundada por el ex oficial de la Armada Jocko Willink, expande su distribución nacional agregando Target a su red de retailers que ya incluye Walmart,",
       "companies": [
         "Walmart"
       ],
@@ -2411,8 +2460,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Poppi Founders ‘Jet’ To Next Act, Packaged Food’s Big Payday",
+      "summary": "Los cofundadores de Poppi, Allison y Stephen Ellsworth, están lanzando Jetty, una nueva marca de bebidas. El movimiento refleja la estrategia de escalado de emprendedores exitosos en el segmento de be",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Heineken ordered to pay MTB €111m in competition case | FoodBev Media",
-      "summary": "Heineken y su filial griega Athenian Brewery fueron condenadas a pagar €111 millones a Macedonian Thrace Brewery (MTB) en un caso de competencia desleal tras años de litigio. La sentencia tiene implic",
+      "summary": "Heineken y su filial griega Athenian Brewery fueron condenadas a pagar €111 millones a Macedonian Thrace Brewery (MTB) en un caso de competencia desleal de larga data. Esta sentencia de octubre 2026 r",
       "companies": [
         "Heineken"
       ],
@@ -2423,7 +2483,7 @@
     },
     {
       "title": "Pernod Ricard launches a €4.7 billion bond tender tied to a new subordinated debt sale",
-      "summary": "Pernod Ricard lanzó una oferta de canje de bonos por €4.7 mil millones combinada con una nueva emisión de deuda subordinada sin vencimiento definido. La operación busca reestructurar el perfil de venc",
+      "summary": "Pernod Ricard lanzó una oferta de bonos por €4.7 mil millones vinculada a una nueva emisión de deuda subordinada, buscando reestructurar su perfil de vencimientos. La operación refleja movimientos fin",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2433,8 +2493,42 @@
       "region": "Mundial"
     },
     {
+      "title": "Investors brace for Boston Beer earnings on volume concerns By Investing.com - Investing.com Nigeria",
+      "summary": "Boston Beer enfrenta escrutinio de inversores en sus resultados por preocupaciones en volumen de ventas, indicando presión competitiva en el segmento de cerveza craft en EE.UU. La noticia refleja diná",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer (SAM) Reports Q3: Everything You Need To Know Ahead Of Earnings - Yahoo Finance",
+      "summary": "Boston Beer reportó resultados del Q3, compañía líder en cerveza artesanal con presencia global. Este movimiento es relevante para monitorear tendencias en el segmento premium de bebidas alcohólicas, ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fermented food and drink: Europe has a clear favourite",
+      "summary": "Un estudio en el British Journal of Nutrition mapea la prevalencia y consumo de alimentos y bebidas fermentadas en regiones europeas, incluyendo categorías de lácteos, alternativas de carne y producto",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "​Tax Officials Investigate Pernod Ricard and Diageo Over UK Trade Pact Rates - The420.in",
-      "summary": "Las autoridades fiscales del Reino Unido investigan a Pernod Ricard y Diageo por posibles incumplimientos en tasas arancelarias relacionadas con acuerdos comerciales post-Brexit. Esta investigación af",
+      "summary": "Las autoridades fiscales británicas investigan a Pernod Ricard y Diageo por posibles irregularidades en las tasas aplicadas bajo acuerdos comerciales del Reino Unido. Ambas son líderes globales en beb",
       "companies": [
         "Diageo",
         "Pernod Ricard"
@@ -2446,7 +2540,7 @@
     },
     {
       "title": "FTC Settlement With Southern Glazer’s A 'Narrow' Fix For Price Discrimination | Brewbound",
-      "summary": "Southern Glazer's, el distribuidor más grande de vinos y destilados de EE.UU., llegó a un acuerdo con la FTC por prácticas de discriminación de precios, pero el arreglo podría no prohibir completament",
+      "summary": "Southern Glazer's, el mayor distribuidor de vinos y destilados de EE.UU., llegó a un acuerdo con la FTC por prácticas de discriminación de precios, aunque el settlement limitado podría no prohibir com",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2455,8 +2549,50 @@
       "region": "Mundial"
     },
     {
+      "title": "IQBAR Expands Protein Bites Line with Three New Indulgent Flavors Exclusively at Costco",
+      "summary": "IQBAR expande su línea de Protein Bites con tres nuevos sabores (Cinnamon Roll, Cookies 'N' Creme, Cookie Dough Chip) distribuidos exclusivamente en Costco a partir de octubre 2026. Este lanzamiento s",
+      "companies": [
+        "Costco"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken launches “streaming service” for pubs – The Brewers Journal",
+      "summary": "Heineken lanzó Pubscription, una plataforma de streaming integrada a Fire TV que permite a consumidores descubrir y elegir bares y pubs participantes por categorías, similar a un servicio de streaming",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Herb Light urges Americans to buy their congressperson a round of Herberts in support of reasonable THC beverage legislation",
+      "summary": "Herb Light lanza campaña de lobby 'Cheers Against Prohibition' frente a potencial prohibición federal de bebidas con THC derivado del cáñamo a partir del 11 de diciembre de 2026. La marca, respaldada ",
+      "companies": [],
+      "segments": [
+        "alternative_ingredients",
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "A Very Energized Cross-Over Product",
+      "summary": "C4, marca de bebidas energéticas de Nutrabolt, lanzó 'All Hopped Up', una bebida energética de edición limitada con sabor a cerveza sin alcohol. El producto responde a la tendencia de convergencia ent",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Skylands Capital LLC Acquires 9,116 Shares of The Boston Beer Company, Inc. $SAM - MarketBeat",
-      "summary": "Skylands Capital LLC adquirió 9,116 acciones de The Boston Beer Company (NYSE: SAM), productor de marcas líderes como Samuel Adams y Twisted Tea. Este movimiento de inversión refleja actividad de fond",
+      "summary": "Skylands Capital LLC aumentó su posición accionaria en The Boston Beer Company adquiriendo 9,116 acciones. Esta operación refleja movimiento de capital en uno de los principales productores de cerveza",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2467,91 +2603,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Herb Light urges Americans to buy their congressperson a round of Herberts in support of reasonable THC beverage legislation",
-      "summary": "Herb Light, marca de bebidas con THC de ultra-baja dosis, lanza campaña de advocacy política \"Cheers Against Prohibition\" ante el riesgo de prohibición federal en EE.UU. a partir del 11 de diciembre d",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. craft beer sales fell 3.3% in early October, but demand looked firmer",
-      "summary": "Las ventas de cerveza artesanal en EE.UU. cayeron 3,3% a principios de octubre, aunque con signos de estabilización. El volumen de casos descendió 4,3% en canales mayoristas principales según Circana.",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sabeco’s Quang Ngai brewery nearly tripled first-half profit to VND62.8 billion",
-      "summary": "Sabeco, la segunda cervecería de Vietnam, triplicó ganancias en la primera mitad del año a 62.8 mil millones VND, impulsada por reducción de costos y aumento de márgenes brutos. La planta de Quang Nga",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Q3 CPG Financing Deals - Northhall Report, October 2026",
-      "summary": "La inversión de venture capital en sectores de alimentos, bebidas y CPG alcanzó $445 millones en Q3 2026, creciendo 79% trimestral y 29% interanual, según el reporte Northhall. Sin embargo, el crecimi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category - The Motley Fool",
-      "summary": "Monster Beverage está ganando participación de mercado en la categoría de bebidas energéticas, consolidándose como líder en un segmento de alto crecimiento. Este movimiento refleja la capacidad compet",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Can Snacks and Drinks Keep PepsiCo (NASDAQ:PEP) Steady as a Staples Name? - Kalkine Media",
-      "summary": "Análisis sobre la posición de PepsiCo como empresa defensiva en mercados volátiles, evaluando el desempeño de su portafolio de snacks y bebidas. La noticia examina la capacidad de PepsiCo para mantene",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "What Monster Beverage Stock's Energy Drink Growth Means For Shareholders - Yahoo Finance",
-      "summary": "Monster Beverage reporta crecimiento significativo en su segmento de bebidas energéticas, lo que impacta directamente el desempeño de su acción. El crecimiento de este categoría de alto margen es estr",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Italy's wine industry lost its export cushion after foreign sales fell 6% in early 2026",
-      "summary": "Las exportaciones de vino italiano cayeron 6% en el primer trimestre de 2026, perdiendo un amortiguador comercial clave. El consumo habitual de vino en Italia se desplomó de 57% a 39%, con las tintas ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Amsterdam court orders Heineken to pay a Greek rival 111.2 million euros for anticompetitive conduct",
-      "summary": "Un tribunal holandés ordenó a Heineken pagar €111.2 millones a Athenian Brewery por conducta anticompetitiva en Grecia durante 16 años. La sentencia reconoce abuso de posición dominante que causó pérd",
+      "summary": "Un tribunal holandés ordenó a Heineken pagar €111.2 millones a Athenian Brewery por conducta anticompetitiva en Grecia durante 16 años. La sentencia documenta abuso de posición dominante que causó pér",
       "companies": [
         "Heineken"
       ],
@@ -2561,12 +2614,52 @@
       "region": "Mundial"
     },
     {
-      "title": "La Colombe Matcha Lattes",
-      "summary": "La Colombe lanza una línea de bebidas listas para tomar (RTD) de Matcha Lattes, expandiendo su portafolio más allá del café. La estrategia replica el modelo exitoso de Draft Latte enlatado, democratiz",
+      "title": "Sabeco’s Quang Ngai brewery nearly tripled first-half profit to VND62.8 billion",
+      "summary": "La cervecería Quang Ngai de Sabeco (Vietnam) triplicó su ganancia en el primer semestre a VND 62.8 mil millones, impulsada por reducción de costos que duplicó el margen bruto. La planta planifica expa",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "U.S. craft beer sales fell 3.3% in early October, but demand looked firmer",
+      "summary": "Las ventas de cerveza artesanal en EE.UU. cayeron 3.3% a principios de octubre, aunque con signos de estabilización. El volumen en casos bajó 4.3% en canales mayoristas principales, según Circana. Est",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Virgin Wines returned to sales growth with revenue rising 3.4%",
+      "summary": "Virgin Wines reportó crecimiento de ventas del 3.4% en un mercado de bebidas online en contracción, aunque registró pérdidas pre-impuestos de £1.5 millones por inversión agresiva en adquisición de cli",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Q3 CPG Financing Deals - Northhall Report, October 2026",
+      "summary": "El financiamiento de venture capital en el sector de bebidas y CPG alcanzó $445 millones en Q3 2026, mostrando un crecimiento del 79% trimestral y 29% interanual. Sin embargo, el crecimiento está conc",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Washington beer and wine producers confront weaker demand after alcohol use hit a record low",
+      "summary": "Productores de cerveza y vino en Washington enfrentan demanda débil tras alcanzar un mínimo histórico en consumo de alcohol en EE.UU. El segmento de vinos de menor precio ha sido el más afectado, mien",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
       ],
       "region": "Mundial"
     }
