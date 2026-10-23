@@ -1,197 +1,4 @@
 {
-  "2026-10-15": [
-    {
-      "title": "While Coca-Cola grows with Zero Sugar, PepsiCo is transforming Doritos, Cheetos, and Lay’s by incorporating less sugar, simpler ingredients, and new portion sizes",
-      "summary": "Coca-Cola y PepsiCo implementan estrategias complementarias de reformulación: Coca-Cola impulsa su línea Zero Sugar mientras PepsiCo reformula marcas de snacks (Doritos, Cheetos, Lay's) con menor cont",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "supply_chain_commodities"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Atlas Distributing Adds Constellation Brands’ Beer Portfolio in 2 Western MA Counties | Brewbound",
-      "summary": "Atlas Distributing, distribuidor independiente de Massachusetts, incorporó el portafolio de cerveza de Constellation Brands en los condados de Berkshire y Franklin tras la adquisición de Girardi por p",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why brands like PepsiCo are betting big on Halloween",
-      "summary": "PepsiCo y competidores están intensificando estrategias de marketing estacional alrededor de Halloween, aprovechando la expansión de festividades como 'Summerween' para extender períodos de venta. Est",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Distribution: Neutonic, WellWithAll Bring BFY Energy to Walmart - BevNET.com",
-      "summary": "Neutonic, marca de bebidas funcionales de suplemento energético, logró distribución en casi 1.000 tiendas Walmart a nivel nacional en EE.UU., integrándose a la nueva categoría 'Mood & Mind' del retail",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Walmart’s promise on ‘surveillance pricing’ sets the tone for retail",
-      "summary": "Walmart se comprometió públicamente a no implementar 'surveillance pricing' (precios dinámicos basados en datos individuales), posicionándose como líder en confianza del consumidor. Esta decisión impa",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Red Bull gets the edge as PepsiCo warns energy drinks could run out in India over labeling ban - Bilyonaryo Business",
-      "summary": "PepsiCo advierte sobre posibles desabastecimientos de bebidas energéticas en India debido a nuevas restricciones regulatorias de etiquetado, lo que favorece a Red Bull en el mercado. La regulación afe",
-      "companies": [
-        "PepsiCo",
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Rémy Martin Unveils a New Limited-Edition XO in Honor of Diwali",
-      "summary": "Rémy Martin lanza una edición limitada de su cognac XO para Diwali, posicionándose estratégicamente en mercados con alta celebración de esta festividad (India, comunidades diaspora). La iniciativa com",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Boston Beer's Q3 Earnings on Horizon: What Surprise Awaits Investors? - Yahoo Finance",
-      "summary": "Boston Beer se aproxima a la publicación de resultados Q3, generando expectativas de mercado sobre su desempeño financiero. Como productora de cerveza artesanal y bebidas no alcohólicas (Samuel Adams,",
-      "companies": [
-        "Boston Beer Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard India sales grow 19% in Sept qtr; IPO plan awaits board approval - The Economic Times",
-      "summary": "Pernod Ricard India reportó crecimiento de ventas del 19% en el trimestre de septiembre, demostrando desempeño sólido en el mercado indio de bebidas alcohólicas. La compañía avanza con planes de salid",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Coca-Cola’s Mr. Pibb became the fastest-growing brand of 2026 - Marketing Dive",
-      "summary": "Mr. Pibb, marca de Coca-Cola, se posicionó como la bebida de más rápido crecimiento en 2026, reflejando una estrategia exitosa de revitalización de marcas heredadas. Este desempeño sugiere oportunidad",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard Q1 sales fall less than expected as India offsets U.S., China slump - Yahoo Finance",
-      "summary": "Pernod Ricard registró caídas de ventas en Q1 menores a lo anticipado, con India compensando debilidades en EE.UU. y China. Este desempeño regional refleja la volatilidad del mercado global de bebidas",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Old Forester Debuts Tribute Series, A 12-Year-Old Bourbon and New Decanter Honoring the Brand's Legacy of Firsts",
-      "summary": "Old Forester lanza la Tribute Series, una línea anual de bourbon de 12 años a 115 proof en botellas coleccionables inspiradas en su archivo histórico. El lanzamiento inicial (octubre 2026) busca capit",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Germany approves draft sugar tax on soft drinks – what this means for manufacturers",
-      "summary": "Alemania aprobó un proyecto de ley para implementar un impuesto a bebidas azucaradas a partir del 1 de julio de 2027, con una tasa de €0.26 por litro para bebidas con al menos 5g de azúcar por 100ml. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Why Stadium Partnerships can be the ‘Ultimate Sampling Weapon’ with Two Robbers’ Vivek and Vikram Nayar",
-      "summary": "Two Robbers Spirits Co., empresa de destilados con 7 años de operación, aprovecha partnership con Philadelphia Eagles para impulsar su perfil local y velocidad de venta en canales off-premise. Los fun",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Argentina’s wine exports fell 14.9% in the third quarter.",
-      "summary": "Las exportaciones de vino argentino cayeron 14.9% en volumen durante Q3, con ingresos contrayendo 16.4% a USD 155.7M. La caída se explica por demanda global debilitada, presión de precios y disrupcion",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "TailGate Brewery bought Yazoo’s Madison complex to support a projected 40% distribution increase in 2026.",
-      "summary": "TailGate Brewery adquirió el complejo de Madison de Yazoo para establecer su principal planta de producción y noveno taproom. La inversión respalda un crecimiento proyectado del 40% en distribución pa",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo Brings Smirnoff ICE to India With New Flavours and Refreshed Identity - Indian Retailer",
-      "summary": "Diageo lanza Smirnoff ICE en India con nuevos sabores e identidad renovada, expandiendo su portafolio de bebidas alcohólicas en uno de los mercados de más rápido crecimiento a nivel mundial. La estrat",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-10-16": [
     {
       "title": "While Coca-Cola grows with Zero Sugar, PepsiCo is transforming Doritos, Cheetos, and Lay’s by incorporating less sugar, simpler ingredients, and new portion sizes",
@@ -2660,6 +2467,428 @@
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-10-23": [
+    {
+      "title": "Cayó el consumo en súper y mayoristas y subió en shoppings",
+      "summary": "Las ventas de bebidas en supermercados y mayoristas cayeron ~1% en agosto versus julio, mientras que en shoppings crecieron >3%. Este cambio de patrón de consumo por canal refleja una migración hacia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Inovação sustentável morre entre o piloto e a escala, diz autor de livro sobre transformação",
+      "summary": "Ejecutivo con experiencia en Diageo, L'Oréal, Dow y P&G señala que las iniciativas de sustentabilidad en grandes empresas de consumo masivo fracasan en la transición de pilotos a escala comercial. El ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Taco Bell Chooses PepsiCo for 11 More Years as Both Companies Prepare a New Wave of Beverage Innovation",
+      "summary": "PepsiCo renovó su acuerdo de distribución exclusiva con Taco Bell (propiedad de Yum! Brands) por 11 años adicionales hasta 2036. Esta extensión de contrato asegura a PepsiCo acceso garantizado a uno d",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Walmart began by automating its distribution centers, and now its logistics technology reaches 3,100 stores in the United States",
+      "summary": "Walmart expandió su tecnología logística automatizada desde centros de distribución a 3,100 tiendas en EE.UU., mejorando la gestión de inventarios y productividad operacional. Esta transformación digi",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "distribution_execution",
+        "supply_chain_commodities"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coors Distributing Co. Is Fighting for Its Life — and the Future of the Middle Tier",
+      "summary": "Constellation Brands (tercer cervecero macro de EE.UU.) y Mark Anthony Group terminaron sus acuerdos de distribución con Coors Distributing Company en Denver, amenazando la viabilidad del distribuidor",
+      "companies": [
+        "Molson Coors",
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Lowers FY26 Shipments & Depletions Guidance in Q3 Results | Brewbound",
+      "summary": "Boston Beer Company redujo su guidance de embarques y depletions para FY26 tras resultados débiles en Q3, indicando contracción sostenida en su volumen de ventas. Esta revisión a la baja refleja desaf",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Quilmes invests $3 million in Zárate brewery to expand alcohol-free beer",
+      "summary": "Quilmes invierte $3 millones en la destilería de Zárate para expandir su portafolio de cervezas sin alcohol, segmento que representa el 3% del mercado argentino y se ha triplicado desde 2024. Esta inv",
+      "companies": [
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg proposes a $65 million investment in its biggest Asian brewery in Vietnam",
+      "summary": "Carlsberg invertirá USD 65 millones en su cervecería más grande en Asia ubicada en Hue, Vietnam, durante 2026-2031. La inversión se enfoca en modernización de infraestructura, digitalización, optimiza",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How Constellation Brands Stock Is Winning Beer Share Despite Margin Pressure - Yahoo Finance",
+      "summary": "Constellation Brands, principal productor de cerveza en América del Norte (propietaria de Corona, Modelo y Pacifico), logra capturar cuota de mercado cervecero a pesar de presiones sobre márgenes oper",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola, Keurig Dr Pepper and PepsiCo debut beverage innovations - CSP Daily News",
+      "summary": "Los tres gigantes globales de bebidas (Coca-Cola, Keurig Dr Pepper y PepsiCo) han lanzado innovaciones de productos simultáneamente. Este movimiento refleja la intensificación de la competencia por ca",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo",
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig faces jury trial in long-running coffee pod antitrust case | FoodBev Media",
+      "summary": "Keurig enfrenta juicio ante jurado por presuntas prácticas anticompetitivas y publicidad engañosa, en un caso iniciado por Rogers Family Coffee hace más de una década. El tribunal federal estadouniden",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Amsterdam court orders Heineken to pay 111.2 million euros in Greek antitrust case",
+      "summary": "Un tribunal de Amsterdam ordenó a Heineken pagar €111,2 millones a la cervecería griega Macedonian Thrace Brewery por violaciones antimonopolio, incluyendo €43 millones en daños y €68 millones en inte",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Investors brace for Boston Beer earnings on volume concerns By Investing.com - Investing.com",
+      "summary": "Boston Beer reportará resultados con focos en preocupaciones de volumen, indicando presión en demanda. La compañía enfrenta desafíos de contracción en ventas, relevante para entender dinámicas de merc",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands lifted beer shipments 3.7% by refilling distributor inventories - Vinetur",
+      "summary": "Constellation Brands incrementó sus envíos de cerveza un 3.7% mediante la reposición de inventarios en distribuidoras. Este movimiento refleja una estrategia de volumen que impacta directamente en los",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer’s (NYSE:SAM) Q3 2026 earnings results: revenue in line with expectations - Yahoo Finance",
+      "summary": "Boston Beer reportó resultados de Q3 2026 con ingresos alineados con expectativas de mercado. Como uno de los principales productores de bebidas alcohólicas en EE.UU., su desempeño refleja tendencias ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Earnings call transcript: Boston Beer beats on Q3 2026 profit, stock jumps - Investing.com Nigeria",
+      "summary": "Boston Beer superó las expectativas de ganancia en Q3 2026, generando un salto en el precio de sus acciones. Este desempeño positivo de uno de los mayores productores de bebidas alcohólicas de EE.UU. ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Boston Beer Company, Inc. reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+      "summary": "The Boston Beer Company reportó resultados del Q3 (trimestre terminado 30 de septiembre). Esta información es crítica para monitorear el desempeño de uno de los mayores productores de bebidas alcohóli",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales - Reuters",
+      "summary": "Heineken ha expresado preocupaciones internas sobre el impacto de los medicamentos para pérdida de peso (como GLP-1) en las ventas de cerveza, según documentos internos revelados por Reuters. Esta ten",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Coca-Cola Company Selects Agency Partners to Accelerate the Future of Marketing - Business Wire",
+      "summary": "Coca-Cola anunció la selección de nuevos socios de agencias para acelerar su estrategia de marketing. Este cambio refleja la transformación digital de la compañía y su enfoque en innovación en comunic",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "New beverage launches: Festive flavours meet premiumisation",
+      "summary": "La industria de bebidas está implementando estrategias de premiumización, conveniencia e innovación orientada a ocasiones específicas para diferenciarse en un mercado saturado. Los lanzamientos limita",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo shuts Tennessee bottling plant amid sliding soft drink volumes - BeverageDaily.com",
+      "summary": "PepsiCo cerró una planta embotelladora en Tennessee debido a la caída sostenida en volúmenes de bebidas gaseosas. El cierre refleja la presión estructural sobre el segmento de refrescos tradicionales ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Hard Sports Drinks Entrants Grow as Southern Glazer's Adds VDKLYTE | Brewbound",
+      "summary": "Southern Glazer's, el mayor distribuidor de bebidas alcohólicas en EE.UU., incorpora a VDKLYTE, un vodka RTD con componentes energizantes, desarrollado por Mac Beverage Brands. Este movimiento refleja",
+      "companies": [],
+      "segments": [
+        "alternative_ingredients",
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bero Heads Courtside As The Proud Non-Alcoholic Beer Of The Miami Heat",
+      "summary": "Bero, marca premium de cerveza sin alcohol fundada por Tom Holland, cerró un acuerdo de tres años como cervecero oficial no alcohólico del Miami Heat. La asociación amplía la presencia de la marca en ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo Renews Taco Bell Beverage Deal Through 2036 After Losing KFC to Coca-Cola - Yahoo Finance",
+      "summary": "PepsiCo renovó su acuerdo de bebidas con Taco Bell hasta 2036, asegurando continuidad en una cadena clave de distribución, después de perder recientemente el contrato de KFC con Coca-Cola. Este movimi",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo extends its beverage deal with Taco Bell for another 11 years - TradingView",
+      "summary": "PepsiCo renovó su contrato de exclusividad de bebidas con Taco Bell por 11 años adicionales, asegurando distribución en toda la cadena de restaurantes. Esta extensión consolida la posición de PepsiCo ",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs - The Guardian",
+      "summary": "Heineken advierte a bares del Reino Unido sobre el impacto potencial de los medicamentos para pérdida de peso (como GLP-1) en la demanda de cerveza. La popularidad creciente de estas drogas podría red",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Weight-loss drugs threaten beer sales as Heineken warns pubs of changing drinking habits - Ynetnews",
+      "summary": "Heineken advierte a bares sobre el impacto de drogas para pérdida de peso en los hábitos de consumo de bebidas alcohólicas, representando una amenaza para las ventas de cerveza. El fenómeno de medicam",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken document reveals worries over weight-loss drugs and beer sales - TradingView",
+      "summary": "Heineken expresó preocupación interna sobre el impacto de medicamentos para pérdida de peso (como GLP-1) en la demanda de cerveza. Estos fármacos reducen el apetito y afectan patrones de consumo de be",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Jack Daniel’s Introduces Coy Hill Rye as Latest in its Single Barrel Special Release Series",
+      "summary": "Jack Daniel's lanzó Coy Hill Rye, una whiskey de edición limitada y barrel proof como parte de su serie anual Single Barrel Special Release. Esta estrategia de lanzamientos limitados permite capturar ",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Urban Remedy Now Available at Select Costco Warehouses in the LA Area",
+      "summary": "Urban Remedy expande su distribución al ingresar en Costco con su Chocolate Protein Collagen Shake en tiendas seleccionadas del área de Los Angeles. La bebida mantiene su posicionamiento premium en in",
+      "companies": [
+        "Costco"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Shipments fell 4.9%, while Boston Beer raised the low end of its adjusted earnings range. - Stock Titan",
+      "summary": "Boston Beer reportó caída de envíos del 4,9% pero mejoró sus perspectivas de ganancias ajustadas al elevar el piso del rango orientado. Este movimiento es significativo porque indica que la compañía e",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Boston Beer Company, Inc. Revises Earnings Guidance for the Full Year 2026 - www.marketscreener.com",
+      "summary": "Boston Beer Company revisó a la baja su guidance de ganancias para el año fiscal 2026, señalando desafíos operacionales o de demanda en su portafolio de cervezas y bebidas alcohólicas. Este movimiento",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Q3 revenue falls 3.2% amid shipment declines; raises gross margin guidance - Pluang",
+      "summary": "Boston Beer reportó una caída de ingresos del 3,2% en Q3 por disminución de envíos, pero elevó su guidance de margen bruto. Este movimiento refleja presión de demanda en el mercado cervecero estadouni",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer (NYSE:SAM) Posts Quarterly Earnings Results, Hits Expectations - MarketBeat",
+      "summary": "Boston Beer reportó resultados trimestrales que cumplieron con las expectativas del mercado. La noticia es relevante porque Boston Beer es un competidor significativo en el segmento premium de cerveza",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Earnings Flash (SAM) The Boston Beer Company, Inc. Reports Q3 Revenue $520.1M, vs. FactSet Est of $522.9M - marketscreener.com",
+      "summary": "The Boston Beer Company reportó ingresos Q3 de $520.1M, por debajo de las estimaciones de FactSet ($522.9M). Este desempeño de SAM es relevante para analizar presiones en el mercado de bebidas alcohól",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Will Energy Drink Growth Change Monster Beverage's (MNST) Narrative - Simply Wall Street",
+      "summary": "Monster Beverage enfrenta un análisis sobre cómo el crecimiento del segmento de bebidas energéticas podría transformar su narrativa de inversión. El artículo examina si el momentum del mercado de ener",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
