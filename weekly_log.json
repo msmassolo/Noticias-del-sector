@@ -1,308 +1,4 @@
 {
-  "2026-10-19": [
-    {
-      "title": "Mendoza fortalece el enoturismo con un convenio entre Bodegas de Argentina y el Emetur |",
-      "summary": "Mendoza formalizó un acuerdo entre Bodegas de Argentina y el Emetur para sistematizar datos de enoturismo mediante un Observatorio de Turismo Sostenible. La iniciativa busca mejorar la inteligencia de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Bebidas RTD con más clientes en el mercado, pero ¿seguirá su crecimiento en estos meses?",
-      "summary": "El segmento de bebidas RTD (ready to drink) alcohólicas experimenta crecimiento sostenido en captación de nuevos consumidores, impulsado por la demanda de productos de conveniencia e consumo inmediato",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Colombia aumenta su consumo de vino y el mercado apunta a crecer",
-      "summary": "Colombia presenta oportunidades de crecimiento en el mercado de vino con proyección de expansión anual de 4,2% hasta 2035, alcanzando US$310 millones. El mercado actual de US$205,48 millones muestra d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "AB InBev says barriers still block beer sales in Chile’s bars despite the 2024 antitrust settlement",
-      "summary": "AB InBev denuncia que persisten barreras de acceso en bares chilenos controlados por CCU a pesar del acuerdo antimonopolio de 2024. Aunque es una queja formal sin hallazgos regulatorios nuevos, reflej",
-      "companies": [
-        "AB InBev",
-        "CCU",
-        "CCU"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Treasury Wine Estates upbeat on outlook, rules out fire sale of brands",
-      "summary": "Treasury Wine Estates, productor global de bebidas alcohólicas, descarta una venta de activos a precios deprimidos y mantiene una perspectiva positiva sobre su desempeño futuro. El comentario del pres",
-      "companies": [
-        "Treasury Wine Estates"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Celsius brings back Spritz Vibe Winter Edition with Sparkling Shirley Temple flavour | FoodBev Media",
-      "summary": "Celsius lanza una edición limitada de invierno de su línea Spritz Vibe con sabor Sparkling Shirley Temple, combinando cereza, cítricos y lima. Esta estrategia de innovación de sabores estacionales ref",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pepsi releases new seasonal ahead of holiday season",
-      "summary": "PepsiCo lanza Pepsi Vanilla & Cream y Pepsi Zero Sugar Vanilla & Cream a nivel nacional para la temporada navideña, capitalizing en que 75% de consumidores está dispuesto a probar nuevas bebidas duran",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Champagne Brands Outperform Still Wines as Moët & Chandon Retains Top Spot for Value and Barefoot Becomes Strongest",
-      "summary": "Las marcas de champagne superan en valor a los vinos tranquilos, con un valor combinado de $8.2 mil millones según Brand Finance. Moët & Chandon mantiene el liderazgo en posicionamiento de valor, mien",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beverages, Alcohol, and Tobacco Stocks Q1 In Review: Brown-Forman (NYSE:BF.B) Vs Peers - TradingView",
-      "summary": "Análisis comparativo de desempeño bursátil en Q1 de Brown-Forman y competidores del sector bebidas y alcohol. Permite benchmarking de valuaciones y tendencias de mercado de jugadores alcohólicos relev",
-      "companies": [
-        "Brown-Forman"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pernod Ricard beats Q1 FY27 sales expectations as 19% India surge offsets US and China slumps - Adgully",
-      "summary": "Pernod Ricard superó expectativas de ventas en Q1 FY27 impulsado por un crecimiento de 19% en India, compensando caídas en mercados clave como EE.UU. y China. Este desempeño refleja un reposicionamien",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "KFC Is Swapping Pepsi for Coke. Baja Blast Isn’t Going Anywhere - Business Model Analyst",
-      "summary": "KFC termina su alianza de bebidas con PepsiCo y migra a Coca-Cola como su proveedor principal de refrescos. La transición mantiene a Baja Blast, bebida exclusiva de Taco Bell (propiedad de Yum! Brands",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Danone funding supports farmers with regenerative adoption",
-      "summary": "Danone se asoció con Landscape Enterprise Networks (LENs) para financiar la adopción de prácticas regenerativas en más de 2,500 hectáreas de cultivo en Reino Unido, incluyendo regiones clave de sumini",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beatbox RTDs ‘could appeal to under-18s’, Portman Group rules",
-      "summary": "AB InBev's Beatbox RTD brand fue sancionado por el Portman Group (regulador de la industria alcohólica del Reino Unido) por packaging con potencial atractivo para menores de 18 años. La empresa debe m",
-      "companies": [
-        "Tetra Pak"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beyond Meat launches energy drink",
-      "summary": "Beyond Meat expande su portafolio hacia bebidas funcionales con el lanzamiento de Beyond Immerse Protein + Energy, una bebida que combina proteína vegetal (20g), fibra (5g), electrolitos y cafeína de ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Distributors: Beyond Beer Saves Their Hides But Returning Beer to Growth is the Priority | Brewbound",
-      "summary": "Distribuidores de bebidas discutieron en la convención anual de NBWA cómo diversificar sus portafolios más allá de cerveza para proteger sus negocios, aunque el retorno al crecimiento en cerveza sigue",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "RNDC asks a bankruptcy judge to clear joint venture sales worth about $50 million",
-      "summary": "RNDC, distribuidor de vinos y licores, solicita autorización judicial para vender joint ventures valuadas en ~$50M en Kentucky y Michigan como parte de su plan de reestructuración en Chapter 11. Esta ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation $MNST Stock: Vontobel Holding Ltd. Boosts Holdings - MarketBeat",
-      "summary": "Vontobel Holding Ltd., fondo de inversión institucional, incrementó su participación accionaria en Monster Beverage Corporation, líder global en bebidas energéticas. Este movimiento de inversores rele",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Holiday Variety Soda Packs: Olipop Brings Back Its 15-Can Costco Holiday Pack With A New… - Trend Hunter",
-      "summary": "Olipop relanza su pack navideño de 15 latas en Costco con nuevas variantes, reforzando su estrategia de distribución en canales mayoristas de alto volumen. La iniciativa capitaliza la demanda estacion",
-      "companies": [
-        "Olipop",
-        "Costco"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock: Citi sets USD 57.00 target for Monster Beverage stock - ad-hoc-news.de",
-      "summary": "Citigroup estableció un precio objetivo de USD 57 para las acciones de Monster Beverage, señalizando las expectativas del banco sobre la valuación del líder global en bebidas energéticas. Este movimie",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Piper Sandler reiterates Monster Beverage stock rating on category growth - Investing.com",
-      "summary": "Piper Sandler mantiene su calificación de Monster Beverage sustentada en el crecimiento esperado de la categoría de bebidas energéticas. Monster, líder global en este segmento, se beneficiará de la ex",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Consignaction plans to raise ecofees on Quebec’s reusable beer bottles by up to 8 Canadian cents",
-      "summary": "Consignaction planea aumentar las ecocontribuciones en botellas reutilizables de cerveza en Quebec hasta 8 centavos canadienses para financiar una planta de procesamiento de vidrio en Sorel. El increm",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beer Business Daily questions whether hard ades add new demand",
-      "summary": "Los hard ades están ganando espacio en góndola a costa de otros productos, obligando a distribuidores a replantear métricas de desempeño enfocándose en ganancia de cartera total en lugar de depletione",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Orora celebrates five decades of can manufacturing",
-      "summary": "Orora celebra 50 años de operaciones en su planta de manufactura de latas en Sydney, Australia. La instalación de Revesby es un productor clave de latas de aluminio reciclables para cerveza y bebidas ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "GRIZZLY Energy, Bear ‘n Beaver offer consumers nostalgic flavors",
-      "summary": "GRIZZLY Energy y Bear 'n Beaver lanzan bebidas con sabores nostálgicos que combinan indulgencia con propuestas saludables (bajo/cero azúcar). El CEO de DD Beverage & Nutrition señala que el mercado de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Amber Beverage UK collapses as sale efforts fail",
-      "summary": "Amber Beverage UK, distribuidor de bebidas espirituosas, ha cesado operaciones tras fracasar los intentos de venta de la empresa. El colapso de un distribuidor de este tamaño en el mercado británico i",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Adnams studies outsourcing bottled beer production to cut a £300,000 logistics bill",
-      "summary": "Adnams, cervecería británica de 150 años, evalúa externalizar la producción y envasado de sus cervezas embotelladas (Ghost Ship y Broadside) para reducir costos logísticos en £300,000 anuales. La deci",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Pepsi Unwraps a New Indulgent Holiday Treat with Vanilla & Cream",
-      "summary": "PepsiCo lanza Pepsi Vanilla & Cream, un nuevo sabor de cola de tiempo limitado disponible desde el 19 de octubre en versiones Original y Zero Sugar en formatos de 12-pack y botellas de 20 oz. La estra",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Moët & Chandon remains the world’s most valuable Champagne and wine brand",
-      "summary": "Moët & Chandon se posiciona como la marca de champagne y vino más valiosa del mundo con valuación de US$2.3 mil millones, tras un crecimiento anual del 12%. Este desempeño refuerza la fortaleza del se",
-      "companies": [
-        "LVMH Wines & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-10-20": [
     {
       "title": "Stella Artois lanza Pure Gold en México, su nueva cerveza sin gluten y con 17% menos calorías",
@@ -2776,6 +2472,453 @@
       "segments": [
         "consumer_market_trends",
         "product_innovation"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-10-27": [
+    {
+      "title": "Cervezas “dulces”, sin alcohol, sin gluten y nuevos tamaños: las innovaciones de “moderación” de Quilmes",
+      "summary": "Quilmes invierte USD 6 millones en dos años (USD 3 millones en 2024 más USD 3 millones en 2025) para expandir su portafolio con innovaciones de moderación: cervezas dulces, sin alcohol y sin gluten, m",
+      "companies": [
+        "AB InBev",
+        "Cerveceria y Malteria Quilmes"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Coca-Cola tem lucro de US$ 4 bi no 3º trimestre, alta de 8% na comparação anual",
+      "summary": "Coca-Cola reportó ganancias de US$4.000 millones en Q3 con crecimiento interanual del 8%, y facturación de US$13.300 millones (+7% anual). El desempeño operacional positivo refuerza la confianza en al",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Carrefour tem alta de 9,4% nas vendas no Brasil no 3º tri; soma é de R$ 32 bilhões",
+      "summary": "Carrefour registró crecimiento de ventas del 9,4% en Brasil durante Q3 2026, alcanzando €5,14 mil millones (R$ 32,2 mil millones). El desempeño fue impulsado principalmente por Atacadão y Sam's Club, ",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Tetra Pak apuesta por la innovación que transforma el mercado de la proteína",
+      "summary": "Tetra Pak anuncia una estrategia integrada de innovación que combina desarrollo de producto, procesamiento y envasado para impulsar soluciones en el mercado de proteínas. Esta iniciativa es estratégic",
+      "companies": [
+        "Tetra Pak"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Tienditas ganan terreno y cambia el consumo de Coca-Cola en México | El Cronista - El Cronista",
+      "summary": "Las tiendas de proximidad (tienditas) están ganando participación en México, alterando los patrones de consumo de Coca-Cola y reshapeando la distribución tradicional. Este cambio de canal impacta dire",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Jovens gaúchos criam Fernet-Cola em lata para disputar com gigantes das bebidas",
+      "summary": "Startup gaúcha Fernandito lanza Fernet-Cola en lata, un ready-to-drink que combina licor y refrigerante, compitiendo directamente con bebidas premium y conveniencia. Los fundadores proyectan invertir ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Boston Beer’s 2027 Outlook: Commit to Truly, Neutralize Twisted Tea Losses & Continue Sun Cruiser Growth | Brewbound",
+      "summary": "Boston Beer proyecta su portafolio 2027 con enfoque en innovaciones, priorizando el crecimiento de Truly Hard Seltzer y Sun Cruiser mientras mitiga pérdidas en Twisted Tea. Las marcas de cuarta catego",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carling rebrands in bid to arrest sales slide",
+      "summary": "Carling lanza su mayor rediseño de marca en 30 años para revertir caída de ventas y atraer nuevas generaciones de consumidores. La estrategia alinea su lager principal con el relanzamiento de Carling ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Cutwater Spirits expands RTD cocktail range with two new flavours",
+      "summary": "Cutwater Spirits lanzó dos nuevos cócteles listos para beber (RTD): una edición limitada de Gingerbread White Russian y un Passion Fruit Martini. Esta expansión refleja la consolidación del segmento R",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How they fumbled the cola wars: Pepsi generates twice the revenue of Coca-Cola, yet its market cap is only half as big - Fortune",
+      "summary": "PepsiCo genera el doble de ingresos que Coca-Cola, pero su capitalización de mercado es la mitad. Esta paradoja refleja diferencias estratégicas fundamentales: Coca-Cola concentra su portafolio en beb",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Budweiser Budvar UK launches 0.0% lager – The Brewers Journal",
+      "summary": "Budweiser Budvar lanzó una cerveza sin alcohol (0.0%) en el mercado británico, capitalizando el crecimiento del segmento de bebidas sin alcohol y aprovechando la temporada festiva y la campaña Dry Jan",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brown-Forman Aims to Make India a Top 10 Scotch Market Within Five Years",
+      "summary": "Brown-Forman se propone posicionar a India entre los 10 principales mercados de whisky escocés en cinco años, aprovechando la reducción de aranceles de importación. La estrategia incluye expansión de ",
+      "companies": [
+        "Brown-Forman"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Red Bull Winter Edition Pistachio & Berries hits the market",
+      "summary": "Red Bull lanzó Red Bull Winter Edition Pistachio & Berries, una bebida energética de edición limitada disponible en versiones con y sin azúcar en retail nacional. La innovación incorpora perfiles de s",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Kraft Heinz, PepsiCo, P&G Join FPA’s New Brand Owner Council",
+      "summary": "Kraft Heinz, PepsiCo y P&G se unieron al nuevo Brand Owner Council de la Flexible Packaging Association (FPA), reforzando la colaboración entre fabricantes de películas, convertidores y marcas líderes",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Wells Fargo raises Monster Beverage stock price target on strong Q3 - Investing.com",
+      "summary": "Wells Fargo elevó el precio objetivo de las acciones de Monster Beverage tras resultados sólidos en Q3, lo que refleja confianza del mercado financiero en el desempeño de este competidor clave. Monste",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola Raises Profit Forecast on Strong Demand for Premium Drinks - Global Banking & Finance Review",
+      "summary": "Coca-Cola elevó su proyección de ganancias impulsada por la demanda sostenida de bebidas premium, señalando un cambio estratégico exitoso hacia productos de mayor margen. Esta tendencia refleja la cap",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "RBC Capital maintains Constellation Brands stock rating on beer outlook By Investing.com - Investing.com India",
+      "summary": "RBC Capital mantuvo su calificación sobre Constellation Brands, enfocándose en el outlook de la cerveza. Constellation Brands es un jugador clave en bebidas alcohólicas con presencia significativa en ",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Treasury Wine Estates' key U.S. brands above $10 posted a 5.4% retail volume decline",
+      "summary": "Treasury Wine Estates reportó una caída de volumen minorista del 5.4% en sus marcas premium estadounidenses de más de $10 USD, según datos de Circana en canales medidos. Aunque marcas como Daou y Matu",
+      "companies": [
+        "Treasury Wine Estates"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "WSTA calls for alcohol duty cut as UK wine and spirits sales fall",
+      "summary": "Las ventas de vino y spirits en el Reino Unido cayeron significativamente desde 2023, con volúmenes de vino bajando 8% y spirits 15% en el período de 52 semanas a marzo 2026. La Wine and Spirit Trade ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "AB InBev positions beer as ‘drink for moderation’ in worldwide, multi-brand campaign – video - Global Drinks Intel",
+      "summary": "AB InBev lanzó una campaña global multi-marca posicionando la cerveza como una bebida de consumo moderado. Esta estrategia de comunicación corporativa refleja la respuesta de la mayor cervecera del mu",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Robeco Institutional Asset Management B.V. Makes New Investment in Constellation Brands Inc $STZ - MarketBeat",
+      "summary": "Robeco Institutional Asset Management realizó una nueva inversión en Constellation Brands (STZ), el segundo mayor productor de bebidas alcohólicas en EE.UU. con presencia importante en cerveza, vino y",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors ‘The Pour Report’: Core Lager Drives Beer Sales and Shopper Trade Up - EME Outlook Magazine",
+      "summary": "Molson Coors reporta en 'The Pour Report' que las cervezas lager core están impulsando el crecimiento de ventas y generando trading up de consumidores hacia marcas premium. Este análisis evidencia la ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Morgan Stanley raises Boston Beer stock price target on margin gains - Investing.com Nigeria",
+      "summary": "Morgan Stanley elevó el precio objetivo de Boston Beer Co., citando mejoras en márgenes operacionales. La revisión al alza refleja optimismo sobre la recuperación de rentabilidad en uno de los mayores",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mark Anthony’s Strategy for Gaining Ground in Hard Sports Drinks | Brewbound",
+      "summary": "Mark Anthony Brands, líder en hard seltzer con White Claw, está expandiendo su portafolio hacia bebidas deportivas alcohólicas (vodka + bebidas deportivas). El segmento de hard sports drinks es de ráp",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Former Danone Russia Business Milk Logic Acquires Barista Plant Drinks Brand 5Yes! - vegconomist.com",
+      "summary": "Milk Logic, empresa derivada del negocio de Danone en Rusia, adquirió la marca de bebidas vegetales para baristas 5Yes!. La operación refleja la consolidación en el segmento de plant-based drinks, don",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper (NASDAQ:KDP) Advances Split After Coffee Acquisition - Kalkine Media",
+      "summary": "Keurig Dr Pepper avanza en un proceso de separación corporativa posterior a su adquisición en el segmento de café. Este movimiento estratégico de desinversión afecta a un jugador global importante en ",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The FMB Brands Still Finding Growth Thru Mid-October, per Circana Weekly Scans | Brewbound",
+      "summary": "Los flavored malt beverages (FMB) enfrentan caídas año a año en canal off-premise, perdiendo espacio de góndola a bebidas de spirits y nuevos entrantes. Sin embargo, algunas marcas de FMB logran contr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "On-trade beer sales up during October – The Brewers Journal",
+      "summary": "Las ventas de cerveza en canales on-trade (bares, pubs, restaurantes) crecieron 1.5% a 5.6% durante octubre en Reino Unido, según CGA Intelligence. La sidra también mostró incrementos de 1.6% a 7.6%. ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage stock trades at EUR 41.45 ahead of October 29 results - ad-hoc-news.de",
+      "summary": "Monster Beverage cotiza a EUR 41,45 en anticipación de resultados trimestrales del 29 de octubre. La empresa es un competidor global clave en el segmento de bebidas energéticas, uno de los más dinámic",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Is Fevertree Drinks (AIM:FEVR) Stock Fizzing Today After a Strong Start and Chairman Purchase? - Kalkine Media",
+      "summary": "Fevertree Drinks, productor británico de bebidas premium (mixers y agua tónica), registra movimiento positivo en bolsa tras desempeño fuerte e inversión del chairman. Esta adquisición de acciones por ",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Collaborative Fast-Food Beverages: PepsiCo and Taco Bell Expand Their Partnership for New… - Trend Hunter",
+      "summary": "PepsiCo amplía su alianza estratégica con Taco Bell para desarrollar nuevas bebidas colaborativas. Esta asociación refuerza la penetración de PepsiCo en el canal foodservice de quick-service restauran",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer: Margin Expansion Could Drive A Major Rebound In 2027 (NYSE:SAM) - Seeking Alpha",
+      "summary": "Boston Beer (SAM) proyecta una expansión de márgenes que podría impulsar una recuperación significativa en 2027. La compañía, líder en cervezas artesanales en EE.UU., enfrenta presiones de margen actu",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company (SAM) Faces A 1% Fair Value Gap After Q3 Earnings Beat - Simply Wall Street",
+      "summary": "Boston Beer Company reportó resultados de Q3 que superaron expectativas, pero la acción presenta una brecha de valuación del 1% respecto a su valor justo según análisis. La empresa, fabricante de bebi",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carling unveils biggest brand refresh in 30 years – The Brewers Journal",
+      "summary": "Carling, marca cervecera global, ejecutó su mayor rediseño de marca en 30 años con enfoque en modernización y atracción de nuevas generaciones. La estrategia de reposicionamiento incluye nuevo logo qu",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "JPMorgan Adjusts Price Target on Monster Beverage to $49 From $99 - marketscreener.com",
+      "summary": "JPMorgan redujo el precio objetivo de Monster Beverage de $99 a $49 por acción, reflejando una reevaluación significativa de la valuación del mayor productor de bebidas energéticas. Esta bajada del 51",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (NASDAQ:MNST) Price Target Cut to $49.00 by Analysts at JPMorgan Chase & Co. - MarketBeat",
+      "summary": "JPMorgan Chase redujo el precio objetivo de Monster Beverage a $49.00, señalando una revisión a la baja en las expectativas de Wall Street sobre el desempeño de la compañía. Esta corrección de analist",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Fevertree Drinks PLC (FEVR) Repurchases 172,569 Shares at Prices Ranging from 918.5p to 946.5p for Cancellation - Kalkine Media",
+      "summary": "Fevertree Drinks PLC ejecutó una recompra de 172,569 acciones propias a precios entre 918.5p y 946.5p para cancelación. Esta acción de capital refleja confianza en valuación y reduce cantidad de accio",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Wells Fargo raises target for Monster Beverage stock to USD 50.00 from USD 48.00 - ad-hoc-news.de",
+      "summary": "Wells Fargo elevó su precio objetivo para Monster Beverage de USD 48 a USD 50 por acción, reflejando una posición alcista del banco sobre la compañía. Este movimiento de analistas de un banco de inver",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "McDonald’s Is Launching 5 New Holiday Drinks, Including a Red Bull Cranberry Energizer - Parade Magazine",
+      "summary": "McDonald's lanzará 5 nuevas bebidas para la temporada navideña, incluyendo un energizante Red Bull Cranberry, bajo una asociación con Red Bull. Esta estrategia de innovación de portafolio en bebidas d",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
