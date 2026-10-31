@@ -2561,7 +2561,7 @@
   "2026-10-31": [
     {
       "title": "Coca-Cola Femsa amplía su planta en Barranquilla y concentrará allí más del 20% de su producción nacional",
-      "summary": "Coca-Cola Femsa amplía su planta en Barranquilla (Colombia) y concentrará más del 20% de su producción nacional en esa ubicación. La inversión fortalece la capacidad productiva regional y representa u",
+      "summary": "Coca-Cola Femsa amplía su planta en Barranquilla (Colombia) y concentrará más del 20% de su producción nacional en este sitio. La inversión refuerza la capacidad productiva regional y refleja una estr",
       "companies": [
         "The Coca-Cola Company",
         "Coca-Cola FEMSA"
@@ -2572,8 +2572,20 @@
       "region": "Regional"
     },
     {
+      "title": "Mientras Sam’s rebaja sus membresías Plus a mitad de precio, Walmart lanza una membresía por 89 pesos en una estrategia que busca aumentar la frecuencia de compra",
+      "summary": "Walmart y Sam's Club implementan estrategias agresivas de membresía a bajo costo (Walmart+ a $89 y Sam's Plus rebajada) para capturar nuevos segmentos de consumidores e incrementar frecuencia de compr",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "product_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Creativity as Growth, cómo Heineken y LePub buscan convertir la creatividad en crecimiento de negocio",
-      "summary": "Heineken y la agencia LePub presentan una estrategia que integra creatividad en la ejecución comercial, no solo en comunicación. Desde México, sus líderes de marketing y agencia argumentan que las ide",
+      "summary": "Heineken y la agencia LePub comparten estrategia sobre integración de creatividad en el crecimiento comercial, más allá de comunicación tradicional. Según ejecutivos de ambas organizaciones, la innova",
       "companies": [
         "Heineken"
       ],
@@ -2584,7 +2596,7 @@
     },
     {
       "title": "¿OXXO y una nueva apuesta para hacerle frente a Tambo?: esto prepara la tienda de conveniencia",
-      "summary": "OXXO, la cadena de conveniencia mexicana controlada por FEMSA, intensifica su estrategia competitiva en el mercado peruano frente a rivales como Tambo. La noticia señala movimientos de diferenciación ",
+      "summary": "OXXO, cadena de conveniencia propiedad de FEMSA, intensifica competencia en Perú contra jugadores como Tambo mediante nuevas iniciativas comerciales. La noticia refleja estrategia de expansión regiona",
       "companies": [
         "PepsiCo",
         "Backus"
@@ -2595,42 +2607,19 @@
       "region": "Regional"
     },
     {
-      "title": "Arca Continental eleva 5.9% sus ventas y 6.2% su EBITDA en el tercer trimestre de 2026 - 24-horas",
-      "summary": "Arca Continental, uno de los mayores embotelladores de Latinoamérica, reportó crecimientos en Q3 2026: ventas +5.9% y EBITDA +6.2%, demostrando expansión operativa y mejora en márgenes. Este desempeño",
+      "title": "Arca Continental eleva 5.9% sus ventas y 6.2% su EBITDA en el tercer trimestre de 2026 - El Sol de México",
+      "summary": "Arca Continental, principal embotellador de Coca-Cola en Latinoamérica, reportó crecimiento de 5.9% en ventas y 6.2% en EBITDA durante Q3 2026. Este desempeño superior del EBITDA versus ventas indica ",
       "companies": [
         "Arca Continental"
       ],
       "segments": [
         "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Arca Continental aumenta sus ventas en 2026, pero reduce 7.5% su utilidad neta - Eje Central",
-      "summary": "Arca Continental, uno de los principales embotelladoras de Coca-Cola en Latinoamérica, reportó crecimiento en ventas durante 2026 pero enfrentó contracción de rentabilidad con caída de 7.5% en utilida",
-      "companies": [
-        "Arca Continental"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Grupo HEINEKEN intensifica trade marketing com ativações de Fórmula 1 e foco na cerveja sem álcool - Brasil Inovador",
-      "summary": "Heineken intensifica su estrategia de trade marketing en Brasil mediante activaciones asociadas a Fórmula 1 y potencia el segmento de cerveza sin alcohol. La estrategia combina marketing experiencial ",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
       ],
       "region": "Regional"
     },
     {
       "title": "The Zero Proof Adds Sales, Finance VPs | Brewbound",
-      "summary": "The Zero Proof, empresa de bebidas sin alcohol, fortaleció su estructura ejecutiva con dos nombramientos clave: Jill Sites como VP de Ventas y Montaser Aboshady (ex director de finanzas en Coca-Cola) ",
+      "summary": "The Zero Proof, empresa de bebidas sin alcohol, designó a Jill Sites como VP de Ventas y a Montaser Aboshady (ex director de finanzas en Coca-Cola) como VP de Finanzas. Los movimientos reflejan expans",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2642,7 +2631,7 @@
     },
     {
       "title": "Judge Orders Constellation Brands and Coors Distributing Company to Arbitration | Brewbound",
-      "summary": "Un juez ordenó a Constellation Brands ir a arbitraje con Coors Distributing Company (CDC, propiedad de Molson Coors) antes de completar su salida del portafolio de distribución. La medida cautelar fre",
+      "summary": "Un juez ordenó a Constellation Brands y Coors Distributing Company (CDC) ir a arbitraje, bloqueando el anunciado retiro de Constellation de la cartera de distribución de CDC hasta que se resuelva la d",
       "companies": [
         "Molson Coors",
         "Constellation Brands"
@@ -2653,8 +2642,20 @@
       "region": "Mundial"
     },
     {
+      "title": "The Zero Proof Adds Sales and Finance Leads - BevNET.com",
+      "summary": "The Zero Proof, empresa de bebidas sin alcohol, fortaleció su estructura ejecutiva con nombramientos estratégicos: Jill Sites como VP de Ventas y Montaser Aboshady (ex director de finanzas de Coca-Col",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "AB InBev says non-alcohol beer revenue rose 35% in the third quarter",
-      "summary": "AB InBev reportó un crecimiento del 35% en ingresos de cerveza sin alcohol durante el Q3, compensando el estancamiento en volúmenes de cerveza tradicional. Este resultado evidencia el giro estratégico",
+      "summary": "AB InBev reportó un crecimiento del 35% en ingresos de cervezas sin alcohol en Q3, compensando el volumen plano en su cartera de cervezas tradicionales. Este desempeño refleja un cambio estratégico cr",
       "companies": [
         "AB InBev"
       ],
@@ -2666,7 +2667,7 @@
     },
     {
       "title": "Tilray Streamlines Brewery Network to 6 Facilities & Cuts Workforce; Targets 1M Cases of Carlsberg in 2027 | Brewbound",
-      "summary": "Tilray Brands consolidó su red de manufactura de bebidas en 6 instalaciones como parte de su estrategia post-adquisición de BrewDog, optimizando costos operativos. La compañía se enfoca en bebidas alc",
+      "summary": "Tilray Brands reestructuró su red de manufactura de bebidas a 6 instalaciones y redujo su plantilla como parte de su estrategia post-adquisición de BrewDog. La compañía busca producir 1 millón de caso",
       "companies": [
         "Carlsberg Group"
       ],
@@ -2678,7 +2679,7 @@
     },
     {
       "title": "Booze News Weekly Roundup: Judge Approves RNDC Chapter 11, Class Suit Brews Against Celsius, and More",
-      "summary": "RNDC, major distributor in the beverage alcohol industry, has obtained court approval for Chapter 11 liquidation, impacting supply chains and market consolidation. Heineken emitió un memo sobre efecto",
+      "summary": "Un juez aprobó el capítulo 11 de liquidación de RNDC, el mayor distribuidor de bebidas alcohólicas en EE.UU., con implicancias significativas para la cadena de suministro de la industria. Simultáneame",
       "companies": [
         "Celsius Holdings",
         "Heineken"
@@ -2690,7 +2691,7 @@
     },
     {
       "title": "Has Liquid Death Lost Its Edge? And, Is Jetty Real?",
-      "summary": "Liquid Death, valuada en mil millones de dólares, enfrenta cuestionamientos sobre su estrategia mientras expande colaboraciones y diversifica su portafolio más allá del agua. Simultáneamente, surge Je",
+      "summary": "Liquid Death, marca de agua que alcanzó valuación de mil millones de dólares mediante posicionamiento disruptivo, enfrenta cuestionamientos sobre su estrategia mientras expande sus colaboraciones y po",
       "companies": [
         "Poppi"
       ],
@@ -2701,7 +2702,7 @@
     },
     {
       "title": "Carlsberg says third-quarter beer volume fell 3.5% after weaker demand hit China",
-      "summary": "Carlsberg reportó una caída de 3.5% en volumen de cerveza en Q3, alcanzando 26.7 millones de hectolitros, afectada por debilitamiento de demanda en China y retracción general en Asia y Europa Occident",
+      "summary": "Carlsberg reportó una caída de 3.5% en volumen de cerveza en Q3, con ventas de 26.7 millones de hectolitros, afectada por debilidad en China y Europa Occidental a pesar de crecimientos en Europa Centr",
       "companies": [
         "Carlsberg Group"
       ],
@@ -2712,20 +2713,44 @@
       "region": "Mundial"
     },
     {
-      "title": "Heineken puts all South African wine labels under strategic review",
-      "summary": "Heineken inicia una revisión estratégica de su cartera de marcas de vino en Sudáfrica, incluyendo Nederburg, tras la adquisición regional de €2.2 mil millones. La decisión responde a pérdidas de cuota",
+      "title": "Kweichow Moutai returned to quarterly growth with third-quarter revenue up 3.08%",
+      "summary": "Kweichow Moutai, el mayor productor de baijiu chino, reportó crecimiento en Q3 con ingresos up 3.08% y ganancia neta up 3.78%, superando expectativas del mercado. Este resultado marca un punto de infl",
       "companies": [
-        "Heineken"
+        "Kweichow Moutai"
       ],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Alcohol lobbyists urged state attorneys general to preserve the federal hemp THC ban timetable",
+      "summary": "Cabilderos de las principales cerveceras (Anheuser-Busch, Molson Coors) y destilería (Diageo) presionaron a fiscales estatales estadounidenses para mantener el cronograma federal de prohibición de THC",
+      "companies": [
+        "Molson Coors",
+        "Diageo"
+      ],
+      "segments": [
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India will meet distillers over bulk Scotch tariff dispute on Nov. 2",
+      "summary": "India convocó a destilerías para el 2 de noviembre a negociar una disputa arancelaria sobre whisky escocés a granel. Diageo y Pernod Ricard advierten que excluir importaciones a granel de aranceles re",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "regulation_tax_policy"
       ],
       "region": "Mundial"
     },
     {
       "title": "New Beverages: Vita Coco Kids, Red Bull Winter Edition, Owen's x MGK - BevNET.com",
-      "summary": "Red Bull lanza edición estacional (Winter Edition) mientras Vita Coco expande hacia el segmento kids con Vita Coco Kids. Owen's colabora con MGK, uno de sus inversores celebridad. Estos movimientos de",
+      "summary": "Red Bull lanza edición Winter como LTO (Limited Time Offer), estrategia común en la industria para impulsar ventas estacionales. Owen's colabora con MGK, uno de sus inversores celebridad, aprovechando",
       "companies": [
         "Red Bull"
       ],
@@ -2736,7 +2761,7 @@
     },
     {
       "title": "Monster Beverage (MNST) Could Be 8% Below Fair Value On November 5 Earnings - Simply Wall St",
-      "summary": "Monster Beverage reportará resultados el 5 de noviembre con una posible subvaluación del 8% según análisis de Simply Wall St. La noticia es relevante para entender la valoración y desempeño de uno de ",
+      "summary": "Monster Beverage reportará resultados el 5 de noviembre con potencial de revaluación de hasta 8% según análisis de valuación. La noticia es relevante para monitorear el desempeño de un competidor clav",
       "companies": [
         "Monster Beverage"
       ],
@@ -2747,8 +2772,19 @@
       "region": "Mundial"
     },
     {
+      "title": "AB InBev (ENXTBR:ABI) Stock Slips As Q3 Earnings Highlight China Weakness - Simply Wall St",
+      "summary": "AB InBev reportó resultados de Q3 con caída accionaria debido a debilidad significativa en el mercado chino. China es crítico para la estrategia global de la cervecera, representando uno de los mayore",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Espolòn’s volume rose 16.2% in U.S. control markets through August",
-      "summary": "Espolòn, marca de tequila de Campari, registró un crecimiento de volumen del 16.2% en mercados controlados de EE.UU. hasta agosto, superando el desempeño del período equivalente de 2025. Este resultad",
+      "summary": "Espolòn, la marca de tequila de Campari, registró un crecimiento de volumen del 16.2% en mercados controlados por el gobierno estadounidense hasta agosto, superando el desempeño del período comparativ",
       "companies": [
         "Campari Group"
       ],
@@ -2759,19 +2795,7 @@
     },
     {
       "title": "36,465 Monster Beverage Corporation $MNST Shares Acquired by China Universal Asset Management Co. Ltd. - MarketBeat",
-      "summary": "China Universal Asset Management adquirió 36,465 acciones de Monster Beverage Corporation, evidenciando interés institucional chino en la compañía líder de bebidas energéticas. Este movimiento refleja",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation $MNST Shares Acquired by United Asset Strategies Inc. - MarketBeat",
-      "summary": "United Asset Strategies Inc. adquirió acciones de Monster Beverage Corporation, movimiento que refleja cambios en la estructura accionaria de uno de los líderes globales en bebidas energéticas. Monste",
+      "summary": "China Universal Asset Management Co. Ltd. adquirió 36,465 acciones de Monster Beverage Corporation, reflejando creciente interés de inversores asiáticos en la empresa de bebidas energéticas más grande",
       "companies": [
         "Monster Beverage"
       ],
@@ -2783,7 +2807,7 @@
     },
     {
       "title": "Poppi Expands Range With Limited-Edition Cranberry Soda For Festive Season - KamCity",
-      "summary": "Poppi lanza una bebida de temporada limitada de soda de arándano para la época festiva. Esta estrategia de lanzamiento estacional es típica en la industria de bebidas para capturar demanda incremental",
+      "summary": "Poppi lanza una edición limitada de soda de arándano para la temporada festiva, expandiendo su portafolio de productos. La iniciativa refleja la estrategia de marcas de bebidas funcionales de capitali",
       "companies": [
         "Poppi"
       ],
@@ -2794,44 +2818,31 @@
       "region": "Mundial"
     },
     {
-      "title": "China's beer output falls 6%, but Tsingtao Brewery ekes out profit growth as premium products anchor results - BigGo Finance",
-      "summary": "La producción cervecera china cayó 6% mientras Tsingtao Brewery logró crecer en ganancias impulsada por productos premium. Este patrón refleja una tendencia global de consolidación y premiumización qu",
+      "title": "Tilray will shrink its U.S. brewery network to six facilities",
+      "summary": "Tilray anuncia la reducción de su red de cervecerías estadounidenses de múltiples plantas a solo seis instalaciones, con ajustes de personal asociados. La estrategia apunta a mejorar rentabilidad haci",
       "companies": [
-        "Tsingtao Brewery"
+        "Carlsberg Group"
       ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Endeavour Group sales rise 2.8%, but warns of subdued summer trading - Drinks Trade",
-      "summary": "Endeavour Group reportó un crecimiento de ventas del 2.8%, pero advierte sobre un comercio débil en la temporada estival. Esta señal de desaceleración es relevante para entender la dinámica de demanda",
+      "title": "France offsets international decline at Marie Brizard in Q3 - The Spirits Business",
+      "summary": "Marie Brizard experimentó una caída en mercados internacionales durante Q3, pero fue compensada por el desempeño positivo en Francia. Este patrón refleja desafíos en la distribución global de bebidas ",
       "companies": [
-        "Endeavour Group"
+        "Marie Brizard Wine & Spirits"
       ],
       "segments": [
         "consumer_market_trends",
         "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo's India unit searched as state tax officials review Scotch imports - ET Retail",
-      "summary": "Diageo, el mayor productor global de bebidas alcohólicas, fue inspeccionado por autoridades fiscales de India en relación con importaciones de whisky escocés. La acción regulatoria implica revisión de",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "distribution_execution",
-        "regulation_tax_policy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Whisky’s next opportunity: From Highballs to RTDs",
-      "summary": "Las marcas de whisky están diversificando su portafolio hacia formatos RTD (ready-to-drink) premium y cócteles contemporáneos para captar nuevos consumidores sin abandonar el posicionamiento tradicion",
+      "summary": "Las marcas de whisky están diversificando sus formatos hacia bebidas listas para beber (RTD) premium y cócteles contemporáneos para captar nuevos consumidores sin abandonar su posicionamiento de lujo.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2840,8 +2851,18 @@
       "region": "Mundial"
     },
     {
+      "title": "New beverage launches: From functional fizz to flavoured whiskey",
+      "summary": "La industria de bebidas responde a demanda de moderación y conveniencia con lanzamientos de alternativas sin alcohol, bebidas funcionales y formatos listos para beber. Las marcas buscan ampliar ocasio",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Should Lowered Earnings Estimates Require Action From Molson Coors Stock Investors? - Simply Wall St",
-      "summary": "Molson Coors enfrenta revisiones a la baja en proyecciones de ganancias, generando interrogantes sobre el desempeño accionario. Este movimiento refleja presiones en la industria cervecera global, incl",
+      "summary": "Molson Coors enfrenta revisiones a la baja en estimaciones de ganancias, lo que requiere evaluación por inversores. Este movimiento refleja presiones en la cervecería global, potencialmente vinculadas",
       "companies": [
         "Molson Coors"
       ],
@@ -2851,18 +2872,31 @@
       "region": "Mundial"
     },
     {
-      "title": "New beverage launches: From functional fizz to flavoured whiskey",
-      "summary": "La industria de bebidas experimenta un giro hacia innovación impulsada por demanda de moderación, conveniencia y experiencias premium. Se acelera el lanzamiento de alternativas sin alcohol, bebidas fu",
-      "companies": [],
+      "title": "[TAP] Q2 2026 Earnings: Molson Coors Beats EPS Consensus by 3.75% as Shares Gain 2.32% - Earnings Forecast Report - www.dars.gov.et",
+      "summary": "Molson Coors superó las expectativas de EPS en Q2 2026 con un desempeño 3.75% por encima del consenso, impulsando una revalorización accionaria del 2.32%. Este resultado financiero positivo refleja fo",
+      "companies": [
+        "Molson Coors"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
+      "title": "Grupo HEINEKEN intensifica trade marketing com ativações de Fórmula 1 e foco na cerveja sem álcool - Brasil Inovador",
+      "summary": "Heineken acelera su estrategia de marketing comercial en Brasil mediante activaciones vinculadas a Fórmula 1 y expansión del portfolio de cervezas sin alcohol. La estrategia dual refleja dos tendencia",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Ambev (ABEV3): Apresenta resultados do 3T26 e 9M26 com crescimento consistente - Acionista.com.br",
-      "summary": "Ambev reportó resultados del tercer trimestre y nueve meses de 2026 mostrando crecimiento consistente. Como principal competidor regional y productor de bebidas alcohólicas y no alcohólicas en América",
+      "summary": "Ambev reportó resultados del tercer trimestre y nueve meses de 2026 con crecimiento consistente. Como principal competidor regional y empresa con fuerte presencia en Argentina a través de sus operacio",
       "companies": [
         "Ambev"
       ],
@@ -2872,8 +2906,19 @@
       "region": "Regional"
     },
     {
+      "title": "Diageo's India unit searched as state tax officials review Scotch imports - The Economic Times",
+      "summary": "Las autoridades fiscales de India iniciaron inspecciones en la unidad local de Diageo para revisar importaciones de whisky escocés, lo que refleja un control regulatorio más estricto sobre bebidas alc",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Brown-Forman Launches el Jimador New Mix Pikosito Flavor in U.S.",
-      "summary": "Brown-Forman lanza el sabor Pikosito de El Jimador New Mix en EE.UU., expandiendo su portafolio de bebidas listas para beber (RTD) en el mercado estadounidense. El producto combina licor de tamarindo ",
+      "summary": "Brown-Forman lanza el Jimador New Mix sabor Pikosito en EE.UU., expandiendo su portafolio de bebidas RTD con una oferta de tamarindo picante originaria de México. La jugada capitaliza el crecimiento a",
       "companies": [
         "Brown-Forman"
       ],
@@ -2883,42 +2928,10 @@
       "region": "Mundial"
     },
     {
-      "title": "The Competition Between The Coca-Cola Company and PepsiCo: The Gap Widens - Opportimes",
-      "summary": "Análisis comparativo de la brecha competitiva entre Coca-Cola y PepsiCo, los dos mayores jugadores globales de bebidas. La noticia examina cómo la distancia entre ambas compañías se está ampliando en ",
+      "title": "AB InBev Q3 Earnings Beat Estimates on Revenue Growth & Premiumization - TradingView",
+      "summary": "AB InBev superó estimaciones en resultados del Q3, impulsado por crecimiento de ingresos y estrategia de premiumización. Este desempeño del principal jugador global de bebidas alcohólicas refleja la e",
       "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Afternoon Brief, October 30",
-      "summary": "NielsenIQ revela que el corcho natural mantiene su dominio en los cierres de botellas de vino en EE.UU., generando márgenes de precio progresivamente más altos y capturando la mayor parte de los ingre",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Cork Retains Closure Dominance as Primary Driver of U.S. Off-Premise Wine Revenue",
-      "summary": "NielsenIQ reporta que el corcho natural mantiene dominio en el mercado de vinos off-premise en EE.UU., con crecientes premios de precio y captura de segmento luxury. Los datos indican que el corcho es",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Zero Proof Adds Sales and Finance Leads - BevNET.com",
-      "summary": "The Zero Proof, empresa de bebidas sin alcohol, refuerza su estructura directiva incorporando a Jill Sites como VP de Ventas y Montaser Aboshady (ex director financiero de Coca-Cola) como VP de Finanz",
-      "companies": [
-        "The Coca-Cola Company"
+        "AB InBev"
       ],
       "segments": [
         "consumer_market_trends",
@@ -2927,8 +2940,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Crecen ventas y flujo operativo de Arca Continental en el tercer trimestre de 2026 - Tecnoempresa",
-      "summary": "Arca Continental, uno de los mayores embotelladoras de Latinoamérica, reportó crecimiento en ventas y flujo operativo en Q3 2026. Este desempeño es crítico para Argentina dado que Arca Continental ope",
+      "title": "Arca Continental eleva 5.9% sus ventas y 6.2% su EBITDA en el tercer trimestre de 2026 - 24-horas",
+      "summary": "Arca Continental registró crecimiento de 5.9% en ventas y 6.2% en EBITDA durante el Q3 2026, demostrando expansión rentable superior al crecimiento de ingresos. Como uno de los mayores embotelladores ",
       "companies": [
         "Arca Continental"
       ],
@@ -2938,19 +2951,42 @@
       "region": "Regional"
     },
     {
-      "title": "AB InBev (ENXTBR:ABI) Stock Slips As Q3 Earnings Highlight China Weakness - Simply Wall St",
-      "summary": "AB InBev reportó resultados del Q3 con debilidad significativa en China, mercado estratégico clave para el gigante cervecero global. La caída del precio de la acción refleja preocupaciones sobre desem",
+      "title": "Arca Continental aumenta sus ventas en 2026, pero reduce 7.5% su utilidad neta - Eje Central",
+      "summary": "Arca Continental reportó crecimiento en ventas durante 2026, pero su utilidad neta se contrajo 7.5% en el período. Este movimiento refleja presiones en márgenes operativos típicas del sector, posiblem",
       "companies": [
-        "AB InBev"
+        "Arca Continental"
       ],
       "segments": [
         "financial_results"
       ],
-      "region": "Mundial"
+      "region": "Regional"
+    },
+    {
+      "title": "Crecen ventas y flujo operativo de Arca Continental en el tercer trimestre de 2026 - Tecnoempresa",
+      "summary": "Arca Continental reportó crecimiento en ventas y flujo operativo en Q3 2026. Arca Continental es uno de los mayores embotelladores de América Latina con operaciones en México, Argentina y otros mercad",
+      "companies": [
+        "Arca Continental"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola quiere construir una nueva planta en el sureste de México: transportar sus bebidas desde Toluca ya es demasiado caro - Xataka México",
+      "summary": "Coca-Cola planea construir una nueva planta de producción en el sureste de México para reducir costos logísticos, reemplazando el transporte desde su actual instalación en Toluca. Esta inversión en in",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
     },
     {
       "title": "Sales flat again for Marie Brizard Wine & Spirits as international offsets France bounceback - results data - Global Drinks Intel",
-      "summary": "Marie Brizard Wine & Spirits reportó ventas planas en su último período, con desempeño mixto entre mercados: recuperación en Francia contrastada por debilidad internacional. Este patrón refleja dinámi",
+      "summary": "Marie Brizard Wine & Spirits reportó ventas planas en su último período, con la recuperación del mercado francés compensada por debilidad en mercados internacionales. Este resultado refleja dinámicas ",
       "companies": [
         "Marie Brizard Wine & Spirits"
       ],
@@ -2962,7 +2998,7 @@
     },
     {
       "title": "Grupo HEINEKEN aposta no trade marketing imersivo da Fórmula 1 para expandir mercado de cervejas sem álcool em São Paulo - Brasil Inovador",
-      "summary": "Heineken impulsa la expansión de cervezas sin alcohol en São Paulo mediante activaciones de trade marketing inmersivo en la Fórmula 1. La estrategia busca posicionar el segmento de bebidas sin alcohol",
+      "summary": "HEINEKEN utiliza el trade marketing inmersivo de la Fórmula 1 como palanca estratégica para expandir su portafolio de cervezas sin alcohol en São Paulo, Brasil. Esta iniciativa conecta con una tendenc",
       "companies": [
         "Heineken"
       ],
@@ -2973,19 +3009,8 @@
       "region": "Regional"
     },
     {
-      "title": "Diageo's India unit searched as state tax officials review Scotch imports - The Economic Times",
-      "summary": "Diageo, el mayor productor de bebidas alcohólicas del mundo, enfrenta una auditoría fiscal en India por parte de autoridades estatales respecto a importaciones de whisky escocés. La acción afecta dire",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Maharashtra Tax Officials Search Diageo’s India Unit In Scotch Import Probe - The 420.in",
-      "summary": "Autoridades fiscales de Maharashtra realizaron un operativo en la unidad india de Diageo en relación con una investigación sobre importaciones de whisky escocés. El incidente afecta a uno de los mayor",
+      "summary": "Autoridades fiscales de Maharashtra realizaron operativos de inspección en la unidad india de Diageo en investigación sobre importación de whisky escocés. Diageo es uno de los mayores productores de b",
       "companies": [
         "Diageo"
       ],
@@ -2995,26 +3020,14 @@
       "region": "Mundial"
     },
     {
-      "title": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
-      "summary": "Ambev reportó un crecimiento extraordinario de Michelob Ultra del 478% en Brasil, con el segmento premium avanzando 19%. Este desempeño refleja un desplazamiento estratégico exitoso hacia categorías d",
+      "title": "The Competition Between The Coca-Cola Company and PepsiCo: The Gap Widens - Opportimes",
+      "summary": "Análisis comparativo de desempeño entre Coca-Cola y PepsiCo que identifica un crecimiento diferencial en favor de uno de los competidores. Este tipo de dinámicas entre los dos mayores players globales",
       "companies": [
-        "AB InBev",
-        "Ambev"
+        "The Coca-Cola Company",
+        "PepsiCo"
       ],
       "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Is Monster Beverage (MNST) Fully Valued Ahead Of Its November 5 Earnings? - Yahoo Finance",
-      "summary": "Monster Beverage se acerca a la divulgación de resultados del 5 de noviembre con análisis de mercado cuestionando si la valuación actual refleja completamente el desempeño esperado. Como líder global ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "company_news"
       ],
       "region": "Mundial"
     }
