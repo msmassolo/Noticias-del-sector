@@ -2575,7 +2575,7 @@
   "2026-11-01": [
     {
       "title": "Crisis mundial del vino: el consumo cayó 2,7% y las exportaciones retrocedieron en 2025 - Sitio Andino",
-      "summary": "El consumo global de vino contrajo 2,7% en 2025 mientras las exportaciones retrocedieron, señalando una crisis estructural en el mercado internacional. Esta contracción afecta directamente a productor",
+      "summary": "El consumo global de vino cayó 2,7% en 2025 y las exportaciones registraron retracción, señalando una contracción significativa en el mercado internacional. Esta crisis afecta directamente a Argentina",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2583,20 +2583,8 @@
       "region": "Local"
     },
     {
-      "title": "Coca-Cola Femsa amplía su planta en Barranquilla y concentrará allí más del 20% de su producción nacional",
-      "summary": "Coca-Cola Femsa amplía su planta en Barranquilla (Colombia) y concentrará allí más del 20% de su producción nacional. La inversión refuerza la capacidad productiva regional y representa una decisión e",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola FEMSA"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Coca-Cola quiere construir una nueva planta en el sureste de México: transportar sus bebidas desde Toluca ya es demasiado caro - Xataka México",
-      "summary": "Coca-Cola planea construir una nueva planta de producción en el sureste de México para reducir costos logísticos actualmente elevados desde su operación en Toluca. Esta inversión en infraestructura re",
+      "summary": "Coca-Cola planea construir una nueva planta de producción en el sureste de México para reducir costos logísticos que se han vuelto prohibitivos desde su actual ubicación en Toluca. Esta inversión en i",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2608,7 +2596,7 @@
     },
     {
       "title": "Informe de resultados de Ambev: BPA supera previsiones en el 3T 2026, pero los ingresos decepcionan - Investing.com España",
-      "summary": "Ambev reportó resultados del tercer trimestre 2026 con ganancias por acción (BPA) por encima de las previsiones, pero los ingresos totales decepcionaron las expectativas del mercado. Este desempeño mi",
+      "summary": "Ambev (AmBev SA), mayor productor de bebidas de América Latina, reportó resultados del tercer trimestre 2026 con ganancias por acción (BPA) superiores a las previsiones, pero ingresos por debajo de la",
       "companies": [
         "Ambev"
       ],
@@ -2618,8 +2606,19 @@
       "region": "Regional"
     },
     {
+      "title": "THE CPG INSIDER WEEKLY | Nosh.com",
+      "summary": "Resumen de reportes de ganancias de Hershey y Coca-Cola esta semana, incluyendo análisis de desempeño financiero de actores clave en CPG. Se investiga estrategia de Curd para revitalizar el segmento d",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Kweichow Moutai returned to quarterly growth with third-quarter revenue up 3.08%",
-      "summary": "Kweichow Moutai, líder global en spirits de alta gama, registró crecimiento en Q3 con ingresos up 3.08% y ganancia neta up 3.78%, superando expectativas del mercado. Este resultado es significativo da",
+      "summary": "Kweichow Moutai, el principal produtor de baijiu (licor destilado chino), reportó crecimiento en Q3 con ingresos up 3.08% y ganancia neta +3.78%, superando proyecciones en un sector bajo presión por d",
       "companies": [
         "Kweichow Moutai"
       ],
@@ -2630,20 +2629,8 @@
       "region": "Mundial"
     },
     {
-      "title": "India will meet distillers over bulk Scotch tariff dispute on Nov. 2",
-      "summary": "India convocó a destiladores para el 2 de noviembre a discutir aranceles sobre whisky escocés a granel. Diageo y Pernod Ricard advierten que excluir importaciones a granel de aranceles reducidos podrí",
-      "companies": [
-        "Diageo",
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Alcohol lobbyists urged state attorneys general to preserve the federal hemp THC ban timetable",
-      "summary": "Cabilderos de grandes productores de bebidas alcohólicas (Anheuser-Busch, Molson Coors y Diageo) presionaron a fiscales estatales estadounidenses para mantener el cronograma federal de prohibición del",
+      "summary": "Cabilderos de las principales compañías de bebidas alcohólicas (Anheuser-Busch, Molson Coors y Diageo) presionaron a fiscales estatales estadounidenses para mantener el cronograma federal de prohibici",
       "companies": [
         "Molson Coors",
         "Diageo"
@@ -2654,8 +2641,20 @@
       "region": "Mundial"
     },
     {
+      "title": "India will meet distillers over bulk Scotch tariff dispute on Nov. 2",
+      "summary": "India planea reunirse con productores de whisky escocés el 2 de noviembre para resolver una disputa arancelaria sobre importaciones a granel. Diageo y Pernod Ricard advierten que excluir importaciones",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Should Upcoming Earnings Require Action From Monster Beverage Stock Investors? - Simply Wall St",
-      "summary": "Monster Beverage enfrenta próximos resultados financieros que podrían demandar decisiones de inversores. Como líder global en bebidas energéticas, los resultados de Monster impactan directamente la es",
+      "summary": "Monster Beverage enfrenta próximos resultados que podrían generar volatilidad accionaria relevante para inversores. La noticia señala la importancia de monitorear el desempeño financiero de uno de los",
       "companies": [
         "Monster Beverage"
       ],
@@ -2667,7 +2666,7 @@
     },
     {
       "title": "Tilray will shrink its U.S. brewery network to six facilities",
-      "summary": "Tilray anuncia la reducción de su red de cervecerías en EE.UU. de múltiples plantas a solo seis instalaciones, con recortes de personal asociados. La estrategia busca mejorar rentabilidad hacia 2027 m",
+      "summary": "Tilray anuncia la reducción de su red de cervecerías estadounidenses de múltiples plantas a solo seis instalaciones, con recortes de personal asociados. La estrategia busca mejorar rentabilidad hacia ",
       "companies": [
         "Carlsberg Group"
       ],
@@ -2677,20 +2676,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo's India unit searched as state tax officials review Scotch imports - ET Retail",
-      "summary": "Autoridades fiscales de India realizaron inspecciones en la unidad local de Diageo para revisar importaciones de whisky escocés. Este operativo refleja el escrutinio regulatorio sobre bebidas alcohóli",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "distribution_execution",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Marie Brizard Wine & Spirits Q3 2026 Sales Edge Up as France Rebounds, International Markets Lag - TipRanks",
-      "summary": "Marie Brizard Wine & Spirits reportó un incremento moderado en ventas Q3 2026 impulsado por la recuperación del mercado francés, aunque los mercados internacionales muestran desempeño rezagado. Esta t",
+      "summary": "Marie Brizard Wine & Spirits reportó un crecimiento leve en ventas Q3 2026 impulsado por la recuperación del mercado francés, aunque los mercados internacionales permanecen rezagados. La noticia es es",
       "companies": [
         "Marie Brizard Wine & Spirits"
       ],
@@ -2702,7 +2689,7 @@
     },
     {
       "title": "Should Lowered Earnings Estimates Require Action From Molson Coors Stock Investors? - Simply Wall St",
-      "summary": "Molson Coors enfrenta una revisión a la baja en estimaciones de ganancias, lo que genera señales de alerta para inversores. La compañía, uno de los principales productores de cerveza a nivel global, e",
+      "summary": "Molson Coors enfrenta revisiones a la baja en sus estimaciones de ganancias, lo que señala posibles presiones en su desempeño financiero. Este es un indicador crítico para monitorear la salud de un co",
       "companies": [
         "Molson Coors"
       ],
@@ -2713,7 +2700,7 @@
     },
     {
       "title": "Small and mid-sized Argentine wineries raised online case sales by 19.49% in 2025",
-      "summary": "Las bodegas pequeñas y medianas argentinas incrementaron sus ventas online en 19.49% durante 2025, mientras que el volumen total de e-commerce en la industria vitivinícola cayó 3.21% debido a una cont",
+      "summary": "Las bodegas pequeñas y medianas argentinas incrementaron sus ventas online un 19.49% en 2025, mientras que el volumen total del e-commerce vinícola cayó 3.21% impulsado por una contracción del 10.49% ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2722,30 +2709,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation $MNST Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Boosts Stake - MarketBeat",
-      "summary": "Virginia Retirement Systems incrementó su participación accionaria en Monster Beverage Corporation, principal jugador global en bebidas energéticas. Este movimiento de un inversor institucional de lar",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation $MNST Stock: Left Brain Wealth Management LLC Raises Stake - MarketBeat",
-      "summary": "Left Brain Wealth Management LLC incrementó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía líder global de bebidas energéticas. Este movi",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "From Carlsberg to Coca-Cola: Global beverage giants gear up for India IPOs - Moneycontrol.com",
-      "summary": "Gigantes globales de bebidas como Carlsberg y Coca-Cola están preparando ofertas públicas iniciales (IPO) en India, reflejando una estrategia de crecimiento en el mercado asiático de mayor expansión. ",
+      "summary": "Gigantes globales de bebidas como Carlsberg y Coca-Cola se preparan para ofertas públicas iniciales en India, señalando una apuesta estratégica por uno de los mercados de consumo más dinámicos del mun",
       "companies": [
         "The Coca-Cola Company",
         "Carlsberg Group"
@@ -2757,7 +2722,7 @@
     },
     {
       "title": "Colombia proposes steep new taxes on alcohol, cigarettes and vaping products",
-      "summary": "Colombia propone aumentar significativamente los impuestos a bebidas alcohólicas (hasta 19%), implementar gravámenes sobre bebidas azucaradas a partir de 2028, y gravar productos de vapeo. Los ingreso",
+      "summary": "Colombia propone aumentar significativamente los impuestos a bebidas alcohólicas hasta 19% y crear nuevos gravámenes sobre bebidas azucaradas a partir de 2028, con recaudos destinados a cobertura sani",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2766,19 +2731,8 @@
       "region": "Mundial"
     },
     {
-      "title": "​United Spirits and Pernod Ricard Under Scrutiny Over Scotch Whisky Misclassification - The 420.in",
-      "summary": "United Spirits y Pernod Ricard enfrentan investigación regulatoria por presunta clasificación incorrecta de whisky escocés, afectando la integridad de denominación de origen protegida. El incidente im",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Keurig Dr Pepper (KDP) Unveils Alta Brewer With Compostable Coffee Pods - Yahoo Finance",
-      "summary": "Keurig Dr Pepper lanzó la máquina Alta con cápsulas de café compostables, abordando la creciente presión regulatoria y demanda de consumidores por sostenibilidad en packaging. Esta innovación posicion",
+      "summary": "Keurig Dr Pepper lanzó la máquina Alta con cápsulas de café compostables, abordando un pain point crítico de sustentabilidad en la industria de bebidas. Esta innovación en packaging responde a presión",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2788,8 +2742,30 @@
       "region": "Mundial"
     },
     {
+      "title": "​United Spirits and Pernod Ricard Under Scrutiny Over Scotch Whisky Misclassification - The 420.in",
+      "summary": "United Spirits y Pernod Ricard enfrentan escrutinio regulatorio por clasificación incorrecta de whisky escocés, lo que afecta directamente su cumplimiento normativo en una categoría premium estratégic",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper (KDP) Could Be 1% Below Fair Value As Alta Launch Draws Focus - Simply Wall St",
+      "summary": "Keurig Dr Pepper evalúa su valuación con una potencial subvaluación del 1% según análisis de Simply Wall St, con foco en el lanzamiento de Alta, su nueva línea de bebidas de mayor valor. Este movimien",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "How festive demand is shaping pricing strategies across the FMCG and beverage industry - Indian Retailer",
-      "summary": "La demanda estacional festiva está redefiniendo las estrategias de precios en la industria de bebidas y FMCG, particularmente en el mercado indio. Los fabricantes ajustan márgenes y volúmenes durante ",
+      "summary": "Las estrategias de pricing en la industria de bebidas y FMCG se están reajustando según la demanda estacional festiva en India, un mercado clave para las multinacionales. Los retailers adaptan márgene",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2798,7 +2774,7 @@
     },
     {
       "title": "“Desserts shine, alcoholic beverages dim” ... Food industry sees widening divide ahead of year-end peak season - 파이낸셜뉴스",
-      "summary": "La industria alimentaria experimenta una divergencia clara antes de la temporada de fin de año: postres y bebidas sin alcohol ganan tracción mientras que bebidas alcohólicas enfrentan debilidad. Esta ",
+      "summary": "La industria alimentaria enfrenta una divergencia creciente con postres en alza y bebidas alcohólicas en caída previo a la temporada pico de fin de año. Esta tendencia de consumidor sugiere cambios en",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2806,8 +2782,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation $MNST Stock: Profund Advisors LLC Grows Position - MarketBeat",
-      "summary": "Profund Advisors LLC incrementó su posición accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía. El movimiento refleja perspectivas positivas sobre el desempeñ",
+      "title": "Monster Beverage Corporation $MNST Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Boosts Stake - MarketBeat",
+      "summary": "Virginia Retirement Systems aumentó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía líder de bebidas energéticas. Este movimiento refleja ",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation $MNST Stock: Left Brain Wealth Management LLC Raises Stake - MarketBeat",
+      "summary": "Left Brain Wealth Management LLC incrementó su participación accionaria en Monster Beverage Corporation (MNST), uno de los principales jugadores globales en bebidas energéticas. Este movimiento reflej",
       "companies": [
         "Monster Beverage"
       ],
