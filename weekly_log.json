@@ -2638,7 +2638,7 @@
   "2026-11-02": [
     {
       "title": "FEMSA factura 235,609 millones de pesos en tres meses mientras OXXO y Coca-Cola impulsan sus resultados",
-      "summary": "FEMSA registró ventas de 235,609 millones de pesos en el trimestre, con OXXO y su negocio de bebidas (Coca-Cola) como motores de crecimiento. El desempeño refleja la fortaleza de la distribución de be",
+      "summary": "FEMSA registró ingresos de 235,609 millones de pesos en el trimestre, con impulso de OXXO y Coca-Cola (su principal operación de bebidas). La noticia refleja el desempeño financiero del principal dist",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2648,8 +2648,19 @@
       "region": "Regional"
     },
     {
-      "title": "Arca Continental prevé que los aumentos de precios de Coca-Cola superen la inflación en México",
-      "summary": "Arca Continental, principal embotellador de Coca-Cola en México, anticipa incrementos de precios por encima de la inflación mediante ajustes estratégicos en sus productos. La compañía planea combinar ",
+      "title": "Hace 25 años comenzó trabajando en una fábrica de papas fritas, ahora su invento tiene una patente y transforma la producción de PepsiCo, Sabritas y Lay’s",
+      "summary": "Felix Stan, operador de línea en PepsiCo, desarrolló una innovación patentada que reduce desperdicios significativos en la producción de papas fritas para las marcas Sabritas y Lay's. La invención imp",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Arca Continental anticipa aumentos en precios de Coca-Cola por encima de la inflación - Mi Punto de Vista",
+      "summary": "Arca Continental, embotellador clave de Coca-Cola en América Latina, anticipa incrementos de precios superiores a la inflación para productos de la marca. Esta estrategia de pricing refleja presiones ",
       "companies": [
         "The Coca-Cola Company",
         "Arca Continental"
@@ -2661,7 +2672,7 @@
     },
     {
       "title": "Informe de resultados de Ambev: BPA supera previsiones en el 3T 2026, pero los ingresos decepcionan - Investing.com España",
-      "summary": "Ambev, principal productor de bebidas de América Latina, reportó resultados mixtos en Q3 2026: las ganancias por acción (BPA) superaron expectativas del mercado, pero los ingresos quedaron por debajo ",
+      "summary": "Ambev reportó resultados del tercer trimestre 2026 con BPA por encima de expectativas, pero ingresos por debajo de proyecciones. Este desempeño mixto de la mayor empresa cervecera de América Latina es",
       "companies": [
         "Ambev"
       ],
@@ -2671,8 +2682,26 @@
       "region": "Regional"
     },
     {
+      "title": "¡Ya es mayor de edad! La cervecera 3 Cordilleras cumple 18 años con el 48% de cuota del mercado artesanal",
+      "summary": "3 Cordilleras, cervecería artesanal, celebra 18 años con 48% de cuota del mercado artesanal en Colombia. El segmento artesanal representa 0,5% del mercado cervecero total, pero la marca ha consolidado",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Previsão do mercado de xarope de milho com alto teor de frutose até 2035, impulsionada pela demanda de bebidas e pela vantagem de custo - IndexBox",
+      "summary": "El mercado global de jarabe de maíz de alta fructosa proyecta crecimiento hasta 2035, impulsado principalmente por la demanda del sector de bebidas y sus ventajas de costo comparativo. Esta tendencia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "THE CPG INSIDER WEEKLY | Nosh.com",
-      "summary": "Coca-Cola y Hershey reportaron resultados de ganancias esta semana, junto con otros actores del sector CPG. Se destaca la investigación sobre la marca Curd y su potencial para revitalizar el segmento ",
+      "summary": "Coca-Cola publicó resultados financieros esta semana junto con otros jugadores CPG como Hershey. El fragmento indica análisis de earnings reports de competidores clave en la industria de bebidas y ali",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2682,8 +2711,32 @@
       "region": "Mundial"
     },
     {
+      "title": "Anheuser-Busch CEO Brendan Whitworth to Exit; Search for New North American Leader On | Brewbound",
+      "summary": "Brendan Whitworth, CEO de Anheuser-Busch para Norteamérica, dejará el cargo a fin de noviembre para unirse a Equinox. AB InBev, el mayor fabricante de cerveza del mundo, busca reemplazo para la región",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Zero-sugar drinks hit the sweet spot as sales double for PepsiCo and Coca-Cola in Sept qtr - The Economic Times",
+      "summary": "PepsiCo y Coca-Cola duplicaron las ventas de bebidas sin azúcar en el trimestre de septiembre, reflejando un cambio estructural en la demanda del consumidor hacia opciones más saludables. Este crecimi",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola, Pepsi lose brand value as Nongfu Spring surges",
-      "summary": "Coca-Cola mantiene el liderazgo global en valor de marca ($46.1bn) seguida por Pepsi ($16.8bn), pero Nongfu Spring de China crece significativamente ($15.3bn), acortando distancias. El ranking de Bran",
+      "summary": "Coca-Cola mantiene el liderazgo global de valor de marca (US$46.1bn) seguida por Pepsi (US$16.8bn), pero ambas experimentan pérdida de valor año contra año según Brand Finance 2026. Nongfu Spring de C",
       "companies": [
         "The Coca-Cola Company",
         "PepsiCo"
@@ -2694,20 +2747,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Jefferies raises Constellation Brands stock price target on beer margin outlook - Investing.com UK",
-      "summary": "Jefferies elevó el precio objetivo de las acciones de Constellation Brands en base a perspectivas positivas de márgenes en su negocio cervecero. Constellation Brands, con presencia significativa en el",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Q3 2026 Earnings Preview — November 5, Street Expects $0.30 EPS - AlphaStreet",
-      "summary": "Monster Beverage reportará resultados del Q3 2026 el 5 de noviembre con expectativas de mercado de $0.30 EPS. Como uno de los líderes globales en bebidas energéticas, cualquier variación en sus result",
+      "title": "Monster Beverage Q3 Earnings Around the Corner: Is a Surprise Brewing? - TradingView",
+      "summary": "Monster Beverage está próximo a reportar resultados del Q3, generando expectativas sobre posibles sorpresas en sus números. Como competidor directo en la categoría de bebidas energéticas en mercados c",
       "companies": [
         "Monster Beverage"
       ],
@@ -2718,20 +2759,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola expands beverage portfolio reach through FooDee Global Concepts partnership - marketech apac",
-      "summary": "Coca-Cola amplía su portafolio de bebidas mediante una asociación estratégica con FooDee Global Concepts. Esta alianza le permite acceder a nuevos canales de distribución y segmentos de mercado, forta",
+      "title": "Jefferies raises Constellation Brands stock price target on beer margin outlook - Investing.com UK",
+      "summary": "Jefferies elevó el precio objetivo de las acciones de Constellation Brands basándose en perspectivas positivas de márgenes en su negocio cervecero. Constellation Brands es un player estratégico en beb",
       "companies": [
-        "The Coca-Cola Company"
+        "Constellation Brands"
       ],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "Mirae Asset Global Investments Co. Ltd. Acquires 1,701,788 Shares of Monster Beverage Corporation $MNST - MarketBeat",
-      "summary": "Mirae Asset Global Investments adquirió 1,7 millones de acciones de Monster Beverage Corporation, reflejando movimientos de inversores institucionales en el sector de bebidas energéticas. Monster es u",
+      "summary": "Mirae Asset Global Investments adquirió 1,701,788 acciones de Monster Beverage Corporation (MNST), reflejando movimientos de capital relevantes en el mayor productor de bebidas energéticas del mundo. ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2743,7 +2784,7 @@
     },
     {
       "title": "Is Softer Full Year Loss Guidance Altering The Investment Case For Boston Beer (SAM)? - Simply Wall St",
-      "summary": "Boston Beer Company revisó a la baja su guidance de pérdidas para el año fiscal completo, señalando deterioro en su desempeño operativo. Este movimiento impacta directamente la tesis de inversión en u",
+      "summary": "Boston Beer Company ajustó su guidance de pérdidas para el año fiscal completo, señalando un deterioro en su desempeño operativo. Este movimiento impacta directamente la valuación y atractivo inversió",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2755,7 +2796,7 @@
     },
     {
       "title": "Yakult Danone India Taps Diwali Season with Special Packaging for Probiotic Drinks - Indian Retailer",
-      "summary": "Yakult Danone India lanza packaging especial para la temporada de Diwali en sus bebidas probióticas, capitalizando en una de las épocas de mayor consumo en el mercado indio. La estrategia de packaging",
+      "summary": "Yakult Danone India lanza packaging especial para la temporada de Diwali dirigido a bebidas probióticas, aprovechando el pico de consumo estacional en el mercado indio. Esta estrategia de innovación e",
       "companies": [
         "Danone",
         "Yakult Honsha"
@@ -2768,7 +2809,7 @@
     },
     {
       "title": "Keurig Dr Pepper (KDP) to report earnings tomorrow: here is what to expect - TradingView",
-      "summary": "Keurig Dr Pepper reportará resultados financieros mañana. La empresa es uno de los mayores productores de bebidas en EE.UU., con portafolio que incluye marcas como Dr Pepper, Snapple y bebidas de café",
+      "summary": "Keurig Dr Pepper reportará resultados financieros mañana. Como uno de los mayores fabricantes de bebidas en EE.UU. con marcas como Dr Pepper, Snapple y Keurig, sus resultados impactarán el sector de b",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2778,19 +2819,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Food as medicine: Danone speaks to FoodBev about its new Shanghai R&I facility | FoodBev Media",
-      "summary": "Danone inaugura un nuevo centro de R&D en Shanghai con más de 130 expertos multidisciplinarios enfocados en nutrición funcional, incluyendo nutrición infantil y médica. Esta inversión estratégica posi",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Oatly to raise US prices in 2027, weighs increases in Europe",
-      "summary": "Oatly planea incrementar precios en EE.UU. a partir de 2027 y evalúa aumentos similares en Europa, mientras lanza una nueva línea de bebidas con fibra en categoría wellness. La estrategia combina subi",
+      "summary": "Oatly planifica incrementos de precios selectivos en EE.UU. a partir de 2027 y evalúa aumentos similares en Europa. La estrategia incluye lanzamiento de una nueva línea de bebidas con fibra en enero d",
       "companies": [
         "Oatly"
       ],
@@ -2800,63 +2830,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation $MNST Stock: Profund Advisors LLC Grows Position - MarketBeat",
-      "summary": "Profund Advisors LLC aumentó su posición accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía. Este movimiento refleja el atractivo del segmento de bebidas ener",
+      "title": "Food as medicine: Danone speaks to FoodBev about its new Shanghai R&I facility | FoodBev Media",
+      "summary": "Danone inauguró un nuevo Centro de Investigación e Innovación en Shanghai con más de 130 expertos multidisciplinarios enfocados en nutrición funcional, incluyendo nutrición infantil temprana y nutrici",
       "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "28,253 Monster Beverage Corporation $MNST Shares Purchased by Choreo LLC - MarketBeat",
-      "summary": "Choreo LLC adquirió 28.253 acciones de Monster Beverage Corporation (MNST), reflejando movimiento institucional en uno de los mayores actores globales de bebidas energéticas. Monster es competidor dir",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Europe Is Cracking Down on Greenwashing. What Does That Mean For Wine Labels? | SevenFifty Daily",
-      "summary": "New restrictions on environmental marketing claims are putting terms like “natural” and “eco-friendly” under the microscope, prompting questions about what…",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "National Beverage (FIZZ) Rebounds, But Does The Valuation Case Still Hold? - Simply Wall St",
-      "summary": "National Beverage, productor de marcas clave como Fanta y Sparkling Ice, experimenta una recuperación en su cotización pero enfrenta cuestionamientos sobre su valuación actual. El análisis sugiere eva",
-      "companies": [
-        "National Beverage Corp"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Chef Robert Sandberg Launches Pulped, a Flavor-First Rebellion Against Functional Drinks",
-      "summary": "Chef Robert Sandberg lanza Pulped, una marca de bebida espumante con 50% jugo de fruta real y sin azúcar agregado, posicionándose contra la tendencia de bebidas funcionales. El producto está disponibl",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper (KDP) Could Be 1% Below Fair Value As Alta Launch Draws Focus - Simply Wall St",
-      "summary": "Keurig Dr Pepper está siendo evaluada en valuación cercana a su valor justo, con atención en el lanzamiento de Alta, su nueva marca de bebidas energéticas. Este movimiento refleja la estrategia de KDP",
-      "companies": [
-        "Keurig Dr Pepper"
+        "Danone"
       ],
       "segments": [
         "company_news"
@@ -2864,27 +2841,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Waitrose adds craft beer cans to bottled ale fixture",
-      "summary": "Waitrose introduce latas de cerveza artesanal de 440ml en su sección de cervezas premium en 100 tiendas del Reino Unido, respondiendo a la caída de ventas de ales en supermercados británicos. El lanza",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Previsão do mercado de xarope de milho com alto teor de frutose até 2035, impulsionada pela demanda de bebidas e pela vantagem de custo - IndexBox",
-      "summary": "El mercado global de jarabe de maíz de alta fructosa proyecta crecimiento hasta 2035, impulsado por la demanda de bebidas y ventajas de costo. Este insumo clave para la industria de bebidas azucaradas",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Gut as core: Danone advances health span, early life nutrition in new China lab",
-      "summary": "Danone inauguró un centro de investigación de 5.200 m² en China con enfoque en nutrición temprana y salud intestinal, incluyendo el OneBiome Lab de 900 m² dedicado a microbioma. Es el tercer laborator",
+      "summary": "Danone inauguró un nuevo centro de investigación de 5.200 m² en China con enfoque en nutrición de la primera infancia y salud intestinal, incluyendo su tercer laboratorio OneBiome dedicado a microbiom",
       "companies": [
         "Danone"
       ],
@@ -2895,7 +2853,7 @@
     },
     {
       "title": "Constellation Brands (STZ) Rebounds On Beer Focus, Is It Trading At A 11% Discount? - Simply Wall St",
-      "summary": "Constellation Brands, uno de los mayores productores de bebidas alcohólicas a nivel mundial, muestra recuperación enfocándose en su negocio cervecero. La compañía está siendo cotizada con descuento de",
+      "summary": "Constellation Brands rebota en bolsa refocalizando su estrategia en cerveza, mostrando valorización mejorada. La acción podría estar cotizando con descuento del 11% respecto a su valor intrínseco, lo ",
       "companies": [
         "Constellation Brands"
       ],
@@ -2905,8 +2863,72 @@
       "region": "Mundial"
     },
     {
+      "title": "Europe Is Cracking Down on Greenwashing. What Does That Mean For Wine Labels? | SevenFifty Daily",
+      "summary": "La UE implementa la Directiva 2024/825 que restringe claims ambientales vagos en etiquetas de vino (términos como 'natural', 'eco-friendly', 'clean'). Las bodegas europeas deben fundamentar sus afirma",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "National Beverage (FIZZ) Rebounds, But Does The Valuation Case Still Hold? - Simply Wall St",
+      "summary": "National Beverage (FIZZ) experimenta una recuperación en cotización, pero analistas cuestionan si la valoración actual se justifica fundamentalmente. Como productor de bebidas no alcohólicas con marca",
+      "companies": [
+        "National Beverage Corp"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Q3 2026 Earnings Preview — November 5, Street Expects $0.30 EPS - AlphaStreet",
+      "summary": "Monster Beverage reportará resultados de Q3 2026 el 5 de noviembre con expectativas de mercado de $0.30 EPS. Esta información es crítica para evaluar la performance de un competidor global clave en la",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer Company Jumps 7.6% After Morgan Stanley Maintains Equal-Weight - AlphaStreet",
+      "summary": "Boston Beer Company registró un alza de 7.6% en bolsa tras mantener Morgan Stanley su calificación de Equal-Weight. El movimiento refleja confianza del mercado en la cervecera estadounidense. Esta rea",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Chef Robert Sandberg Launches Pulped, a Flavor-First Rebellion Against Functional Drinks",
+      "summary": "Chef Robert Sandberg lanza Pulped, una marca de bebidas espumosas con 50% jugo de fruta real y sin azúcar agregado, disponible en Amazon a nivel nacional. La propuesta posiciona a Pulped como alternat",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Waitrose adds craft beer cans to bottled ale fixture",
+      "summary": "Waitrose lanza prueba de cervezas artesanales en latas de 440ml en 100 tiendas del Reino Unido, con siete nuevos productos incluyendo colaboraciones de St Austell y Northern Monk. La iniciativa busca ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "High Fructose Corn Syrup Market Forecast to 2035, Driven by Beverage Demand and Cost Advantages - IndexBox",
-      "summary": "El mercado de jarabe de maíz de alta fructosa proyecta crecimiento hasta 2035, impulsado por la demanda del sector de bebidas y ventajas de costos. Esta tendencia es estratégica para empresas de bebid",
+      "summary": "IndexBox proyecta crecimiento del mercado de jarabe de maíz de alta fructosa (JMAF) hasta 2035, impulsado por la demanda de bebidas y ventajas de costo. El JMAF es un insumo crítico para refrescos, ju",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2915,48 +2937,12 @@
     },
     {
       "title": "Tres grandes productores de bebidas se pelean el creciente mercado de las 0% alcohol - Las2orillas",
-      "summary": "Tres grandes productores de bebidas compiten por capturar cuota en el segmento de bebidas 0% alcohol, que exhibe crecimiento acelerado en el mercado. Esta tendencia responde a cambios en hábitos de co",
+      "summary": "Tres grandes productores de bebidas compiten por el mercado en expansión de bebidas sin alcohol (0%). Este segmento refleja cambios en los patrones de consumo hacia opciones de menor contenido alcohól",
       "companies": [],
       "segments": [
         "consumer_market_trends"
       ],
       "region": "Regional"
-    },
-    {
-      "title": "Arca Continental anticipa aumentos en precios de Coca-Cola por encima de la inflación - Mi Punto de Vista",
-      "summary": "Arca Continental, principal embotellador de Coca-Cola en Latinoamérica, anticipa incrementos de precios superiores a la tasa de inflación para productos Coca-Cola. Esta estrategia de pricing por encim",
-      "companies": [
-        "The Coca-Cola Company",
-        "Arca Continental"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "From Carlsberg to Coca-Cola: Global beverage giants gear up for India IPOs - Moneycontrol.com",
-      "summary": "Gigantes globales de bebidas como Carlsberg y Coca-Cola se preparan para salidas a bolsa en India, reflejando apuestas estratégicas en el mercado indio de alto crecimiento. Las IPOs representan movimi",
-      "companies": [
-        "The Coca-Cola Company",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Europacific Partners (ASX:CCL): Can Pricing Power Hold Volumes? - Kalkine Media",
-      "summary": "Coca-Cola Europacific Partners enfrenta el dilema estratégico de mantener su poder de precios sin comprometer volúmenes de venta en mercados maduros. La tensión entre incrementos de precios (implement",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
     }
   ]
 }
