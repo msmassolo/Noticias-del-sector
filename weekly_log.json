@@ -2561,8 +2561,18 @@
   ],
   "2026-11-04": [
     {
+      "title": "Del plástico para boliches a la economía circular: la reinvención de una pyme que superó cambios y crisis",
+      "summary": "Pyme argentina de 35 años evolucionó desde fabricación de vasos de plástico para boliches hacia un modelo de economía circular. La empresa aprovechó crisis coyunturales (parate automotriz de los '90) ",
+      "companies": [],
+      "segments": [
+        "distribution_execution",
+        "packaging_sustainability"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Mientras las EXPORTACIONES crecen, qué pasa con el VINO",
-      "summary": "Las exportaciones argentinas de bebidas, licores alcohólicos y vinagres mostraron caída en volúmenes durante los primeros nueve meses de 2026, contrastando con el crecimiento general de exportaciones.",
+      "summary": "Las exportaciones argentinas de bebidas, licores alcohólicos y vinagres registraron caída en volúmenes durante los primeros nueve meses de 2026, contrariamente a la tendencia general de crecimiento de",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2571,7 +2581,7 @@
     },
     {
       "title": "El impuesto no detiene a la Coca-Cola: Arca Continental vende más refrescos que agua en 2026",
-      "summary": "Arca Continental, segundo embotellador de Coca-Cola en México, logró incrementar ventas de bebidas azucaradas un 4.2% en volumen durante 2026 a pesar del aumento del impuesto IEPS aplicado a refrescos",
+      "summary": "Arca Continental, segundo embotellador de Coca-Cola en México, incrementó ventas de bebidas azucaradas un 4.2% en volumen durante 2026 a pesar del aumento del impuesto IEPS. La estrategia comercial lo",
       "companies": [
         "The Coca-Cola Company",
         "Arca Continental"
@@ -2584,7 +2594,7 @@
     },
     {
       "title": "PepsiCo descubre que vender porciones pequeñas es un gran negocio: sus multipaquetes ya generan más de 3,500 millones de dólares al año",
-      "summary": "PepsiCo reporta que sus multipaquetes (porciones pequeñas) ya generan más de US$3,500 millones anuales, consolidándose como un segmento de crecimiento estratégico. Esta estrategia le permite expandir ",
+      "summary": "PepsiCo reporta que sus multipaquetes (porciones pequeñas) generan más de $3,500 millones anuales, consolidándose como estrategia clave de crecimiento. Esta táctica permite aumentar volumen de ventas ",
       "companies": [
         "PepsiCo"
       ],
@@ -2594,21 +2604,19 @@
       "region": "Regional"
     },
     {
-      "title": "Marcas levam experiências da Fórmula 1 ao varejo e a São Paulo",
-      "summary": "Heineken y Moët & Chandon, entre otras marcas, activan estrategias de marketing experiencial en el Gran Premio de Fórmula 1 de São Paulo (noviembre 2026). Las iniciativas incluyen activaciones en reta",
+      "title": "Para promover Guaraná Zero com Fibras, Ambev lança tênis com Olympikus",
+      "summary": "Ambev lanza edición limitada de zapatillas Corre 5 con Olympikus para promover Guaraná Antarctica Zero con Fibras entre corredores de ruta. La estrategia busca establecer conexiones emocionales con es",
       "companies": [
-        "Heineken",
-        "LVMH Wines & Spirits"
+        "Ambev"
       ],
       "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
+        "company_news"
       ],
       "region": "Regional"
     },
     {
       "title": "Congreso: plantean nuevos controles para la venta de bebidas alcohólicas por aplicativos y delivery",
-      "summary": "El Congreso peruano analiza un proyecto de ley que impondría verificación de mayoría de edad obligatoria en plataformas digitales y delivery de bebidas alcohólicas. La iniciativa modifica la Ley 28681",
+      "summary": "Un proyecto de ley en el Congreso propone nuevos controles para la venta de bebidas alcohólicas a través de plataformas digitales, aplicativos y delivery, requiriendo verificación de mayoría de edad. ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2617,8 +2625,31 @@
       "region": "Regional"
     },
     {
+      "title": "Vickys se une a Belinda para lanzar una cerveza sabor gomichela edición limitada",
+      "summary": "Vickys lanza Vicky Gomichela, una cerveza de edición limitada con sabor a gomitas enchiladas, en colaboración con Belinda. La iniciativa aprovecha tendencias de innovación en sabores y marketing basad",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo’s Poppi devaluation raises questions about prebiotic soda’s next chapter",
+      "summary": "PepsiCo redujo significativamente su estimación de pagos futuros (earnout) para la adquisición de Poppi, la marca de gaseosas prebióticas comprada por casi $2.000 millones en 2025. El movimiento refle",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola vs PepsiCo: Why the cola wars are far from over",
-      "summary": "KFC finalizará su asociación de 40 años con PepsiCo y migrará a Coca-Cola en sus 3,600 restaurantes estadounidenses a partir de enero de 2027. Este cambio estratégico de distribución representa una pé",
+      "summary": "KFC romperá su alianza de 40 años con PepsiCo y migrará a Coca-Cola en sus 3.600+ restaurantes estadounidenses a partir de enero 2027. Este cambio representa una victoria estratégica significativa par",
       "companies": [
         "The Coca-Cola Company",
         "PepsiCo"
@@ -2629,8 +2660,44 @@
       "region": "Mundial"
     },
     {
+      "title": "Sazerac Acquires Oregon’s Full Sail Brewing | Brewbound",
+      "summary": "Sazerac adquirió Full Sail Brewing de Oregon para expandir su capacidad productiva enfocada en bebidas listas para consumo (RTD). Esta operación refuerza la estrategia del grupo en el segmento de mayo",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "ma_and_strategy",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg reports robust third-quarter revenue growth from alcohol-free drinks despite weakness in China",
+      "summary": "Carlsberg reportó crecimiento robusto en ingresos del tercer trimestre impulsado por bebidas sin alcohol, a pesar de debilidad en China. El grupo mantuvo su pronóstico de ganancia anual en 4%-6% tras ",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Energy Perks Up KDP Q3 Earnings as Coffee Consumers Cut Back - BevNET.com",
+      "summary": "Keurig Dr Pepper reportó resultados de Q3 mostrando crecimiento en su negocio de bebidas energéticas mientras enfrenta contracción en consumo de café. El desempeño diferenciado entre categorías sugier",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola vs. Monster Beverage: Measuring Quarter-Over-Quarter Revenue Trends - The Motley Fool",
-      "summary": "Análisis comparativo de tendencias de ingresos trimestrales entre Coca-Cola y Monster Beverage, dos actores clave del mercado global de bebidas. El estudio examina la performance financiera de estos c",
+      "summary": "Análisis comparativo de tendencias de ingresos trimestrales entre Coca-Cola y Monster Beverage, dos actores clave del mercado global de bebidas. La comparación de desempeño financiero QoQ de estos com",
       "companies": [
         "The Coca-Cola Company",
         "Monster Beverage"
@@ -2642,8 +2709,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Concha y Toro expects sales growth of up to 4.7% in 2027",
+      "summary": "Concha y Toro proyecta crecimiento de ventas de hasta 4,7% para 2027, marcando recuperación tras caída de 2,2% en Q3. La demanda más fuerte en EE.UU. indica fin de la contracción que afectó a la empre",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Heineken Puts Its South African Wine Portfolio Under Strategic Review",
-      "summary": "Heineken inició una revisión estratégica de su portafolio de vinos en Sudáfrica, reconociendo que este segmento rezaga comparado con sus negocios de cerveza, spirits y bebidas listas para consumir. La",
+      "summary": "Heineken está realizando una revisión estratégica de su portafolio de vinos en Sudáfrica, indicando potencial desinversión. El segmento de vinos ha mostrado underperformance comparado con cerveza, des",
       "companies": [
         "Heineken"
       ],
@@ -2654,32 +2733,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Sazerac acquires Full Sail Brewing to expand ready-to-drink production",
-      "summary": "Sazerac adquirió Full Sail Brewing, una cervecería de Oregón, para expandir su capacidad de producción en bebidas listas para consumir enlatadas. La operación responde a la estrategia de los destilado",
+      "title": "Monster Beverage Poised for 'Sold' Q3 Print With Top, Bottom Line Delivery, RBC Says - marketscreener.com",
+      "summary": "RBC proyecta que Monster Beverage entregará resultados sólidos en Q3 tanto en ingresos como en ganancias. La calificación positiva del banco de inversión refleja confianza en el desempeño operativo de",
       "companies": [
-        "Sazerac Company"
+        "Monster Beverage"
       ],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Ambev’s nonalcoholic beer volume in Brazil rose 42.9% in the third quarter",
-      "summary": "Ambev registró un crecimiento del 42.9% en volumen de cerveza sin alcohol en Brasil durante Q3, acelerando respecto al trimestre anterior mientras su portafolio de cerveza tradicional se contrae. Este",
+      "title": "How Celsius Stays Hot — And Avoids Getting Burned by Its Own Growth",
+      "summary": "Celsius, convertida en una plataforma de bebidas de casi $3 mil millones, comparte lecciones estratégicas sobre escalamiento sin pérdida de control bajo liderazgo del CEO John Fieldly. La nota aborda ",
       "companies": [
-        "Ambev"
+        "Celsius Holdings"
       ],
       "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Monster Beverage stock heads into a key quarterly results catalyst - ad-hoc-news.de",
-      "summary": "Monster Beverage se prepara para reportar resultados trimestrales clave que funcionarían como catalizador para su cotización. Este evento es relevante para la industria de bebidas energéticas globales",
+      "summary": "Monster Beverage se aproxima a la divulgación de resultados trimestrales, un catalizador clave para el mercado. Como uno de los mayores productores de bebidas energéticas a nivel global, sus resultado",
       "companies": [
         "Monster Beverage"
       ],
@@ -2690,8 +2768,30 @@
       "region": "Mundial"
     },
     {
-      "title": "‘India’s top 10 brands grow double digits’: Coca-Cola CEO flags volume momentum, affordability push in Q3 2026 - Storyboard18",
-      "summary": "El CEO de Coca-Cola reporta crecimiento de dos dígitos en las 10 marcas líderes de India durante Q3 2026, señalando momentum en volumen y estrategia de asequibilidad. India emerge como mercado de alto",
+      "title": "Skip the Shaker: Rancho La Gloria's New 13.9% ABV Apple Cinnamon Martini Is Ready for Holiday Hosting",
+      "summary": "Rancho La Gloria lanza una bebida lista para consumir (RTD) de coctel martini con sabor a manzana y canela, 13.9% ABV, posicionada como producto de edición limitada para la temporada navideña. La estr",
+      "companies": [
+        "Bacardi"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coors Distributing, Mark Anthony File Jointly to Move Case to Arbitration | Brewbound",
+      "summary": "Mark Anthony Brands y Coors Distributing Company ganaron una moción conjunta para trasladar su disputa a arbitraje en lugar de litigio. Este movimiento es estratégico para ambas partes dado que Mark A",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "APAC volume rises 6% as Coca Cola Company posts 7% revenue growth in Q3 2026 - Storyboard18",
+      "summary": "The Coca-Cola Company reportó crecimiento de ingresos del 7% en Q3 2026, con un aumento de volumen del 6% en la región APAC (Asia-Pacífico). Este desempeño indica fortaleza en mercados clave de alto c",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2701,8 +2801,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola Europacific Partners Exceeds Q3 Revenue Expectations as Volumes Rise, Maintains Full-Year Guidance - Yahoo Finance",
-      "summary": "Coca-Cola Europacific Partners (CCEP) superó expectativas de ingresos en Q3 con crecimiento en volúmenes de venta y mantiene su guidance para el año completo. Este desempeño de un embotellador clave r",
+      "title": "What Coca-Cola Europacific Partners (CCEP) Said on Its Q3 Earnings Call - TradingView",
+      "summary": "Coca-Cola Europacific Partners reportó resultados del Q3, proporcionando datos clave sobre desempeño operacional y financiero de uno de los mayores embotelladores de Coca-Cola a nivel mundial. La regi",
       "companies": [
         "The Coca-Cola Company",
         "Coca-Cola Europacific Partners"
@@ -2714,7 +2814,7 @@
     },
     {
       "title": "Sazerac plans to invest more than $600 million in four Kentucky distilling projects",
-      "summary": "Sazerac, uno de los mayores productores de bebidas destiladas de EE.UU., planea invertir más de USD 600 millones en cuatro proyectos de expansión de destilerías en Kentucky con apoyo de incentivos fis",
+      "summary": "Sazerac, uno de los mayores productores de bebidas alcohólicas en EE.UU., invertirá más de $600 millones en expansiones de destilerías en Kentucky, con apoyo de $5.6 millones en incentivos fiscales es",
       "companies": [
         "Sazerac Company"
       ],
@@ -2724,8 +2824,40 @@
       "region": "Mundial"
     },
     {
+      "title": "Molson Coors faces earnings test as premiumization battles weak demand - Investing.com",
+      "summary": "Molson Coors enfrenta presiones en resultados financieros mientras intenta ejecutar su estrategia de premiumización en un contexto de demanda débil. Esta tensión refleja un desafío clave de la industr",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Has modern soda become the third pillar of America’s carbonates market?",
+      "summary": "El mercado norteamericano de bebidas ha identificado una nueva categoría llamada 'modern soda' —lanzada por Walmart hace cinco años— que alcanzó valuación de USD 1.8bn en 2025 con crecimiento de 83% i",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bev-Alc Sales Nearly Flat as Spirits, RTDs Outperform Ahead of Halloween, per Latest Circana Weekly Scans | Brewbound",
+      "summary": "Las ventas de bebidas alcohólicas mostraron un desempeño plano en la semana previa a Halloween, pero con destaque en categorías de destilados y bebidas listas para consumir (RTDs). Los datos semanales",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "FSSAI accuses PepsiCo, Monster Beverage of misleading energy drink labels - NewsBytes",
-      "summary": "La autoridad regulatoria de seguridad alimentaria india (FSSAI) acusa a PepsiCo y Monster Beverage de etiquetado engañoso en bebidas energéticas. Este caso sienta precedente regulatorio crítico en un ",
+      "summary": "La autoridad regulatoria india FSSAI acusa a PepsiCo y Monster Beverage de etiquetado engañoso en bebidas energizantes. Esta acción regulatoria impacta directamente en dos competidores globales clave ",
       "companies": [
         "PepsiCo",
         "Monster Beverage"
@@ -2737,7 +2869,7 @@
     },
     {
       "title": "Keurig Dr Pepper Stock (KDP) Loses Fizz Despite Q3 Earnings Coffee Boost - TipRanks",
-      "summary": "Keurig Dr Pepper reportó resultados Q3 con impulso en su negocio de café, pero la cotización accionaria mostró debilidad post-earnings. La noticia es relevante para monitorear el desempeño financiero ",
+      "summary": "Keurig Dr Pepper reportó resultados Q3 con desempeño positivo en su negocio de café, pero el precio de sus acciones cayó, reflejando presiones del mercado más amplias. La compañía es un actor clave en",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2748,11 +2880,22 @@
       "region": "Mundial"
     },
     {
-      "title": "Embotelladora Andina B ADR earnings missed by $0.04, revenue fell short of estimates - Investing.com Australia",
-      "summary": "Embotelladora Andina reportó resultados financieros por debajo de las expectativas, con una brecha de $0.04 en ganancias por acción y ingresos inferiores a lo proyectado. Este desempeño afecta directa",
+      "title": "Keurig Dr Pepper warns of slower US coffee profit growth in Q4 - Food Business Middle East & Africa",
+      "summary": "Keurig Dr Pepper advierte sobre un crecimiento más lento de ganancias en su negocio de café estadounidense durante Q4, reflejando presiones competitivas y dinámicas de demanda en el segmento de bebida",
       "companies": [
-        "Embotelladora Andina",
-        "Coca-Cola Andina"
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Revenue reaches CLP 2.68T at Andina Bottling (AKO), with profit also rising. - Stock Titan",
+      "summary": "Andina Bottling (AKO), uno de los principales embotelladores de Coca-Cola en Sudamérica, reportó ingresos por CLP 2.68 billones con crecimiento simultáneo de rentabilidad. Este desempeño financiero só",
+      "companies": [
+        "Embotelladora Andina"
       ],
       "segments": [
         "distribution_execution",
@@ -2761,8 +2904,54 @@
       "region": "Mundial"
     },
     {
-      "title": "Keurig Dr Pepper warns of slower US coffee profit growth in Q4 - Food Business Middle East & Africa",
-      "summary": "Keurig Dr Pepper anticipa desaceleración en el crecimiento de ganancias del negocio de café en EE.UU. durante Q4, señalando presiones en la rentabilidad del segmento. Este aviso es crítico para monito",
+      "title": "What’s next for drinks? Five trends reshaping the beverage industry",
+      "summary": "BrauBeviale 2026 (noviembre 10-12) evidencia una tendencia clave: el crecimiento acelerado de bebidas sin alcohol, superando el posicionamiento tradicional como simples alternativas a cerveza. La feri",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Carlsberg delivers “robust revenue growth” in Q3 – The Brewers Journal",
+      "summary": "Carlsberg reportó crecimiento robusto de ingresos en Q3, impulsado por expansión en categorías sin alcohol y bebidas sin alcoholicas. El volumen orgánico creció 0.3% en Europa Occidental y 7.5% en Eur",
+      "companies": [
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Sazerac acquires Full Sail Brewing to expand ready-to-drink production",
+      "summary": "Sazerac adquirió Full Sail Brewing en Oregón para expandir su capacidad de producción de bebidas listas para consumir (RTD). La adquisición responde a la necesidad de los destiladores de incrementar c",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper Earnings Show U.S. Drink Sales Up 10.9% and U.S. Coffee Up 2.7% - Stock Titan",
+      "summary": "Keurig Dr Pepper reportó crecimientos significativos en sus ventas de bebidas en EE.UU.: +10.9% en bebidas y +2.7% en café. Estos resultados evidencian la recuperación post-pandemia en el segmento de ",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper gains after its U.S. refreshment beverage segment sparkles in Q3 (KDP:NASDAQ) - Seeking Alpha",
+      "summary": "Keurig Dr Pepper reportó un desempeño sólido en su segmento de bebidas refrescantes estadounidense durante Q3, generando ganancia accionaria. Este resultado es relevante para la industria de bebidas m",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2774,7 +2963,7 @@
     },
     {
       "title": "Brown-Forman Second Quarter Earnings Release and Conference Call Scheduled for December 3, 2026 - Business Wire",
-      "summary": "Brown-Forman realizará su conferencia de resultados del segundo trimestre fiscal el 3 de diciembre de 2026. La compañía es uno de los mayores productores de bebidas destiladas a nivel global (Jack Dan",
+      "summary": "Brown-Forman anunciará sus resultados del segundo trimestre fiscal el 3 de diciembre de 2026 mediante conferencia de resultados. Como uno de los mayores productores globales de bebidas alcohólicas (pr",
       "companies": [
         "Brown-Forman"
       ],
@@ -2785,7 +2974,7 @@
     },
     {
       "title": "Coaqua Launches Nationwide at Walmart, Bringing Premium Coconut Water to More Than 3,000 Stores",
-      "summary": "Coaqua, marca de agua de coco premium, logró su mayor expansión retail al ingresar a más de 3,000 tiendas Walmart en EE.UU. con 9 SKUs en 6 variedades desde octubre. Esta distribución masiva posiciona",
+      "summary": "Coaqua, marca de agua de coco premium, logró distribución nacional en más de 3.000 tiendas Walmart con nueve SKUs en seis variantes, iniciada en octubre. Este es el mayor movimiento de expansión retai",
       "companies": [
         "Walmart"
       ],
@@ -2795,158 +2984,24 @@
       "region": "Mundial"
     },
     {
-      "title": "Weaker consumer engagement drove a 3.8% drop in U.S. retail wine sales through Oct. 24",
-      "summary": "Las ventas de vino en retail estadounidense cayeron 3.8% hasta octubre 24, con una contracción de volumen de 5.3% impulsada por menor engagement del consumidor. El vino tranquilo concentra la caída mi",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. retail beer sales fell 2.6% in the four weeks ending Oct. 24",
-      "summary": "Las ventas minoristas de cerveza en EE.UU. cayeron 2.6% en el período de cuatro semanas al 24 de octubre, según NielsenIQ. El momentum estacional atenuó la caída, con segmentos de importadas, super pr",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. retail alcohol volume fell 2.4% before Halloween",
-      "summary": "Las ventas minoristas de alcohol en EE.UU. cayeron 2.4% en volumen en la semana previa a Halloween, con ventas en dólares bajando 0.6% a $1.365 mil millones. A diferencia de la caída general, los dest",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. spirits sales fell 2.5% in late October under pressure from weaker consumer demand",
-      "summary": "Las ventas de bebidas espirituosas en EE.UU. cayeron 2.5% a fines de octubre por debilidad en la demanda del consumidor, con descensos significativos en whiskey y vodka que no fueron compensados por e",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation $MNST Stake Boosted by Aware Super Pty Ltd as trustee of Aware Super - MarketBeat",
-      "summary": "Aware Super aumentó su participación accionaria en Monster Beverage Corporation, uno de los mayores jugadores globales en bebidas energéticas. Este movimiento refleja confianza institucional en MNST y",
+      "title": "‘India’s top 10 brands grow double digits’: Coca-Cola CEO flags volume momentum, affordability push in Q3 2026 - Storyboard18",
+      "summary": "El CEO de Coca-Cola reporta crecimiento de doble dígito en las 10 principales marcas de India durante Q3 2026, impulsado por momentum en volumen y estrategia de productos de menor precio. Este resulta",
       "companies": [
-        "Monster Beverage"
+        "The Coca-Cola Company"
       ],
       "segments": [
-        "consumer_market_trends"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
-      "title": "McDonald’s launches 5 new holiday drinks: How to try the wild Red Bull and sprinkles combo - Mashable",
-      "summary": "McDonald's lanzó 5 nuevas bebidas de temporada navideña, incluyendo una combinación experimental con Red Bull y sprinkles de colores. Esta estrategia de innovación en bebidas refuerza la importancia d",
+      "title": "Insider Selling: Coca-Cola (NYSE:KO) EVP Sells 67,548 Shares of Company Stock - MarketBeat",
+      "summary": "Un Vicepresidente Ejecutivo de Coca-Cola vendió 67,548 acciones de la compañía, señalando movimiento de insider trading. Estos eventos pueden reflejar cambios en la confianza del management o necesida",
       "companies": [
-        "Red Bull"
+        "The Coca-Cola Company"
       ],
       "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac Acquires Oregon’s Full Sail Brewing for RTD Capacity - BevNET.com",
-      "summary": "Sazerac adquirió Full Sail Brewing de Oregon para expandir su capacidad productiva de bebidas listas para beber (RTD). La compra responde a la creciente demanda de productos RTD en su portafolio, una ",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "ma_and_strategy",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper's Q3 results point to continued growth in the beverage and coffee categories - Vending Market Watch",
-      "summary": "Keurig Dr Pepper reportó resultados positivos en Q3 con crecimiento sostenido en bebidas y café, demostrando resiliencia en categorías clave. Los resultados del gigante estadounidense (propietario de ",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bitburger says Benediktiner annual sales reached 500,000 hectoliters for the first time",
-      "summary": "Benediktiner, marca de cerveza de trigo producida en conjunto por Bitburger y la Abadía de Ettal, alcanzó 500,000 hectolitros anuales por primera vez (50 millones de litros). Este hito refleja el crec",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Chile’s bottled wine exports fell 5.2% in the first nine months of 2026",
-      "summary": "Las exportaciones de vino embotellado chileno cayeron 5.2% en los primeros nueve meses de 2026, alcanzando $902.7 millones en ingresos. La caída fue impulsada por una contracción del 27.7% en ventas h",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Prepared cocktail sales rose 2.3% in the four weeks ending Oct. 24",
-      "summary": "Las ventas de cócteles preparados (RTD) crecieron 2.3% en el período de cuatro semanas previo al 24 de octubre. Los RTD a base de destilados lideraron con crecimiento en ventas de 19.1%, aunque la cat",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. wine market volume fell 7% to 340 million cases, industry outlook says",
-      "summary": "El mercado de vino estadounidense experimentó una contracción de volumen del 7% a 340 millones de cajas, aunque las ventas en valor crecieron 2% a USD 115 mil millones impulsadas por precios más altos",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "SNAP food and drink restrictions expand, pressuring CPG sales",
-      "summary": "Cuatro estados estadounidenses implementaron restricciones en el programa SNAP (asistencia alimentaria) prohibiendo la compra de bebidas energéticas, bebidas azucaradas, golosinas y ciertos productos,",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bunta Beer launches in bottle format – The Brewers Journal",
-      "summary": "Bunta Beer, marca de cerveza sin alcohol especializada en maridaje con comida india, lanzó presentación en botellas de vidrio de 330ml para acceder a bares premium, restaurantes y fine dining. Este mo",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kratom Drinks Remain on the Market Despite FDA Objections",
-      "summary": "Kratom, un ingrediente controvertido que la FDA objeta, continúa penetrando el mercado de bebidas funcionales en formatos de seltzer, té y bebidas listas para consumo. Se identificaron 107 productos R",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
