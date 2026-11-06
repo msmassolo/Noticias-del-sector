@@ -2581,18 +2581,18 @@
   ],
   "2026-11-06": [
     {
-      "title": "Supermercados Dia cambia de manos: el dueño de ChangoMás compró la cadena española",
-      "summary": "El Grupo de Narváez (propietario de ChangoMás) adquirió Supermercados Dia Argentina por aproximadamente USD 55 millones, marcando la salida del grupo español tras casi 30 años. La operación incorpora ",
+      "title": "El vino a granel volvió a impulsar las exportaciones vitivinícolas en octubre",
+      "summary": "Las exportaciones argentinas de vino crecieron 28% en octubre impulsadas principalmente por vino a granel (88% de incremento interanual), según el INV. Se exportaron 218.481 hectolitros con mejora tam",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "financial_results"
       ],
       "region": "Local"
     },
     {
       "title": "Walmart prepara más aperturas de tiendas para el cierre de 2026: el cuarto trimestre concentraría su mayor expansión",
-      "summary": "Walmart acelerará su expansión de tiendas hacia el cierre de 2026, concentrando la mayor apertura en Q4, con énfasis en Bodega Aurrera como vehículo de penetración en segmentos de precio bajo. Esta es",
+      "summary": "Walmart acelerará su expansión de tiendas hacia finales de 2026, priorizando el cuarto trimestre para su mayor crecimiento. Bodega Aurrera juega un rol estratégico en esta ofensiva de precios bajos y ",
       "companies": [
         "Walmart"
       ],
@@ -2603,8 +2603,18 @@
       "region": "Regional"
     },
     {
+      "title": "Expedição de papelão ondulado bate recorde em setembro e alcança 368 mil toneladas",
+      "summary": "Brasil registró un récord histórico de expediciones de cartón corrugado en septiembre con 368 mil toneladas, el máximo desde 2005. El crecimiento de 0,2% interanual indica recuperación en la demanda d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Heineken advierte que la recuperación del mercado cervecero en México aún es frágil",
-      "summary": "Heineken reporta recuperación frágil del mercado cervecero mexicano con incertidumbre sobre su continuidad. El CFO Harald van den Broek señala mejora en desempeño de México y Brasil entre julio-septie",
+      "summary": "Heineken advierte sobre la fragilidad de la recuperación del mercado cervecero mexicano, a pesar de mejoras observadas en el tercer trimestre. El CFO de la compañía señala incertidumbre sobre la soste",
       "companies": [
         "Heineken"
       ],
@@ -2614,18 +2624,8 @@
       "region": "Regional"
     },
     {
-      "title": "Grupo San Jorge busca duplicar exportaciones: el plan con el hub para América en Lima",
-      "summary": "Grupo San Jorge planea duplicar sus exportaciones mediante un hub regional basado en Lima para servir a América. La estrategia se sustenta en el crecimiento proyectado del consumo masivo en Perú (1.5%",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "PepsiCo renews KFC partnership across eight markets following US split",
-      "summary": "PepsiCo renovó su alianza de bebidas con KFC en ocho mercados internacionales (UK, Australia, India, España, Alemania, Francia, Países Bajos y Bélgica), reforzando una relación de décadas. La renovaci",
+      "summary": "PepsiCo renovó su acuerdo de distribución de bebidas con KFC en ocho mercados internacionales (UK, Australia, India, España, Alemania, Francia, Países Bajos y Bélgica), consolidando una relación de dé",
       "companies": [
         "PepsiCo"
       ],
@@ -2636,20 +2636,32 @@
       "region": "Mundial"
     },
     {
-      "title": "Diageo sees net sales improvements in Q1 2027 - Harpers Wine & Spirit Trade News",
-      "summary": "Diageo reportó crecimiento orgánico del 1.4% en ventas netas y 1.1% en volumen en Q1 2027, impulsado por el plan de reestructuración del CEO Dave Lewis. Para el año fiscal 2027, la empresa proyecta cr",
+      "title": "Monster Energy Growth Accelerates Despite Aluminum Costs, Tariff Pressure - BevNET.com",
+      "summary": "Monster Energy reportó crecimiento acelerado en Q3 con ingresos netos superando los $2.5 mil millones y desempeño positivo en todos sus segmentos. A pesar de presiones por costos de aluminio y arancel",
       "companies": [
-        "Diageo"
+        "Monster Beverage"
+      ],
+      "segments": [
+        "financial_results",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bell’s Wants New Two Hearted Stubby Bottles Everywhere; Kirin Aims to Close Gap with Sapporo; New Vodka RTD Coming | Brewbound",
+      "summary": "Bell's Brewery lanza botellas stubby de vidrio para su marca insignia Two Hearted IPA, buscando distribución masiva en bares y retail como parte de una estrategia de aniversario (30 años). Este movimi",
+      "companies": [
+        "Kirin Holdings"
       ],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "packaging_sustainability"
       ],
       "region": "Mundial"
     },
     {
       "title": "Can Diageo’s price cuts and restructure get it back on track?",
-      "summary": "Diageo, principal jugador global con marcas líderes (Johnnie Walker, Smirnoff, Guinness), reporta recuperación en Q1 FY2027 con ventas netas de $4.9bn (+1.2%) y crecimiento de volúmenes orgánicos de 1",
+      "summary": "Diageo reportó un crecimiento de 1.2% en ventas netas ($4.9bn) y aumento de volúmenes orgánicos de 1.1% en Q1 FY2027, superando expectativas tras período de debilidad. Los ajustes de precios y reestru",
       "companies": [
         "Diageo"
       ],
@@ -2661,7 +2673,7 @@
     },
     {
       "title": "Alani Nu Leads Celsius Q3; New Leaders, Restructuring to Revive Slumping Brands - BevNET.com",
-      "summary": "Celsius Holdings reportó crecimiento de 16.7% en Q3 2026 ($847.2M), impulsado por Alani Nu, mientras sus marcas estrella Celsius y Rockstar enfrentan desaceleración. La compañía implementa reestructur",
+      "summary": "Celsius Holdings reportó crecimiento de 16.7% en Q3 2026 ($847.2M), impulsado por Alani Nu, mientras sus marcas principales (Celsius y Rockstar) se rezagan. La empresa implementa reestructuración estr",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2673,7 +2685,7 @@
     },
     {
       "title": "Molson Coors Lowers FY26 Guidance Amid 'Intensified' Macroeconomic Headwinds | Brewbound",
-      "summary": "Molson Coors redujo su guidance para 2026 tras resultados decepcionantes en Q3, citando presiones macroeconómicas intensificadas. Esta revisión a la baja refleja deterioro en la demanda de cerveza y p",
+      "summary": "Molson Coors redujo su guidance financiero para 2026 tras un débil desempeño en Q3, atribuyendo la revisión a presiones macroeconómicas intensificadas. La decisión refleja headwinds externos que afect",
       "companies": [
         "Molson Coors"
       ],
@@ -2683,8 +2695,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Simply Apple debuts winter packaging",
+      "summary": "The Coca-Cola Company lanza edición limitada de packaging invernal para Simply Apple con diseño inspirado en sweaters. El producto mantiene su fórmula de 100% jugo de manzana sin concentrar ni edulcor",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola HBC’s Russian operations face Kremlin takeover threat",
-      "summary": "Coca-Cola HBC enfrenta una potencial expropiación de sus operaciones rusas. La empresa Bochkari, con base en Altai, solicita al gobierno ruso actuar como administrador temporal de Multon JSC y Multon ",
+      "summary": "Coca-Cola HBC enfrenta una potencial expropiación de sus operaciones rusas por parte del gobierno. La empresa Bochkari, con sede en Altái, solicita administración temporal de las filiales rusas Multon",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2694,20 +2718,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors reports 4.9% drop in beer brand volume in third quarter",
-      "summary": "Molson Coors reportó una caída del 4.9% en volumen de marcas de cerveza en Q3, con ventas netas retrocediendo 1.6% e ingresos pretax ajustados cayendo 17.4% en moneda constante. La contracción refleja",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heartland Coca-Cola announces leadership transition as Jeff Carter prepares to become president | FoodBev Media",
-      "summary": "Heartland Coca-Cola Bottling Company anuncia transición de liderazgo con Jeff Carter asumiendo como presidente en enero de 2028, sucediendo a Chuck Wyant. La transición iniciará en enero de 2027 con W",
+      "title": "Heartland Coca-Cola announces leadership transition as Jeff Carter prepares to become president",
+      "summary": "Heartland Coca-Cola anuncia cambio de liderazgo con Jeff Carter asumiendo la presidencia. Este movimiento es estratégico para el ecosistema de embotelladores de Coca-Cola en Norteamérica, región clave",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2718,7 +2730,7 @@
     },
     {
       "title": "Danone: Health, taste and digestive comfort drive plant-based dairy alternative consumption",
-      "summary": "Danone completó dos estudios globales con Ipsos abarcando 42,000 consumidores en 14 países para analizar patrones de consumo de bebidas de base vegetal. Los hallazgos identifican que la salud, el sabo",
+      "summary": "Danone completó dos estudios globales con Ipsos sobre bebidas de base vegetal, encuestando 42,000 adultos en 14 países. Los hallazgos indican que salud, sabor y confort digestivo son los principales d",
       "companies": [
         "Danone"
       ],
@@ -2730,7 +2742,7 @@
     },
     {
       "title": "Oatly Fibermaxxes & Mondelēz Goes Undercover",
-      "summary": "Oatly lanzó una nueva línea de productos con alto contenido de fibra como respuesta a presiones de costos, buscando diferenciación en el segmento de bebidas de base vegetal. Mondelēz realizó una inver",
+      "summary": "Oatly lanza una nueva línea de productos Fiber como respuesta a presiones de costos, buscando innovación en el segmento de bebidas funcionales. Mondelēz realiza una inversión mayoritaria en Oatly, con",
       "companies": [
         "Oatly"
       ],
@@ -2741,7 +2753,7 @@
     },
     {
       "title": "Earnings Flash (MNST) Monster Beverage Corporation Reports Q3 Revenue $2.56B, vs. FactSet Est of $2.49B - marketscreener.com",
-      "summary": "Monster Beverage reportó ingresos de Q3 por USD 2.56B, superando las estimaciones de FactSet de USD 2.49B (+2.8%), demostrando fortaleza operacional en el segmento de bebidas energéticas. Este desempe",
+      "summary": "Monster Beverage reportó ingresos de Q3 por $2.56B, superando las estimaciones de FactSet de $2.49B (+2.8%). Este desempeño positivo refleja fortaleza en la demanda global de bebidas energéticas y pos",
       "companies": [
         "Monster Beverage"
       ],
@@ -2752,8 +2764,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage shares slip after Q3 results as margin pressure offsets sales growth - TradingView",
-      "summary": "Monster Beverage reportó resultados del Q3 con crecimiento en ventas pero presión en márgenes, lo que derivó en caída del precio de sus acciones. Esta dinámica de deterioro de rentabilidad pese a top-",
+      "title": "Monster Beverage Corp (MNST) Q3 2026 Earnings Call Highlights: International Surge Drives Sales ... - Yahoo Finance",
+      "summary": "Monster Beverage reportó resultados de Q3 2026 con crecimiento impulsado por expansión internacional. Este movimiento de un competidor global clave en bebidas energéticas tiene implicancias directas p",
       "companies": [
         "Monster Beverage"
       ],
@@ -2764,20 +2776,44 @@
       "region": "Mundial"
     },
     {
-      "title": "How Can 16.7% Sales Growth Leave Monster Beverage (NASDAQ:MNST) Lower After Hours? - kalkine.ca",
-      "summary": "Monster Beverage reportó un crecimiento de ventas del 16.7%, pero su cotización cayó en operaciones after-hours, indicando una desconexión entre el desempeño operativo y las expectativas del mercado. ",
+      "title": "How Did Monster Beverage Corporation (NASDAQ:MNST) Grow Net Sales 16.7% in the Third Quarter of 2026? - Kalkine",
+      "summary": "Monster Beverage reportó un crecimiento de ventas netas del 16.7% en Q3 2026, demostrando fortaleza en su estrategia comercial en el segmento de bebidas energéticas. Este desempeño supera el crecimien",
       "companies": [
         "Monster Beverage"
       ],
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Q3 Adjusted Earnings in Line While Revenue Jumps; Shares Fall Pre-Bell - marketscreener.com",
+      "summary": "Monster Beverage reportó resultados de Q3 con ingresos por encima de lo esperado, aunque las ganancias ajustadas se mantuvieron en línea con pronósticos. A pesar del crecimiento en ingresos, las accio",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why Drinks Are Getting Weirder: 4 Uncanny Beverage Trends",
+      "summary": "Oatly Group publicó su segundo Future of Taste Report basado en más de 200 entrevistas con profesionales de la bebida en 21 países, identificando tendencias de consumo emergentes. Los hallazgos indica",
+      "companies": [
+        "Oatly"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
       "title": "AB InBev focuses on innovation as non-alcoholic beer grows by 25 per cent in supermarkets - Belga Share",
-      "summary": "AB InBev prioriza la innovación en cervezas sin alcohol, segmento que registra un crecimiento del 25% en canales de supermercados. Este movimiento refleja la estrategia global de los principales compe",
+      "summary": "AB InBev, principal productor global de bebidas, prioriza innovación en cervezas sin alcohol ante crecimiento del 25% en ventas de supermercados. Este segmento representa una oportunidad estratégica e",
       "companies": [
         "AB InBev"
       ],
@@ -2788,31 +2824,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors cuts outlook as UK beer market softens",
-      "summary": "Molson Coors redujo su guidance anual ante el deterioro del mercado cervecero en Reino Unido. En Q3, las ventas netas del grupo cayeron 1.6% a $2.93bn y la ganancia operativa descendió 17.4%, con part",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Diageo’s drastic cuts lead to unexpected growth",
-      "summary": "Diageo reportó crecimiento orgánico de ventas netas del 0,6% en Q3 2026, superando expectativas analistas (0,4%), con ventas reportadas de $4,9 mil millones (+1,2%). El crecimiento de volumen orgánico",
-      "companies": [
-        "Diageo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Coca-Cola invests $1.22m in Namibia water resilience project | FoodBev Media",
-      "summary": "Coca-Cola invierte $1.22M en un proyecto de resiliencia hídrica en Namibia enfocado en la cuenca del río Swakop, respondiendo a sequías recurrentes y presión creciente sobre recursos de agua. La inici",
+      "summary": "Coca-Cola invierte $1.22M en un proyecto de resiliencia hídrica en Namibia para fortalecer la seguridad del agua en la cuenca del río Swakop, afectada por sequías recurrentes. La iniciativa responde a",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2822,34 +2835,10 @@
       "region": "Mundial"
     },
     {
-      "title": "Rakuten Investment Management Inc. Acquires 233,428 Shares of Monster Beverage Corporation $MNST - MarketBeat",
-      "summary": "Rakuten Investment Management Inc. adquirió 233,428 acciones de Monster Beverage Corporation, uno de los mayores productores globales de bebidas energéticas. Este movimiento refleja confianza instituc",
+      "title": "Samuel Adams releases Winter Break Variety Pack",
+      "summary": "Samuel Adams lanzó su Winter Break Variety Pack con énfasis en el nuevo Cherry Chocolate Stout (6% ABV), una cerveza de especialidad con ingredientes diferenciadores como chocolate, cereza y vainilla.",
       "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo marketing beverages as 'energy drinks' to dupe consumers: FSSAI - Business Standard",
-      "summary": "La autoridad regulatoria india FSSAI acusa a PepsiCo de comercializar bebidas como 'bebidas energéticas' de manera engañosa para consumidores, lo que implica incumplimiento normativo en clasificación ",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Oatly Popcorn, Churros Barista Edition and Matcha Latte",
-      "summary": "Oatly lanzó tres productos innovadores: Oatly Popcorn Barista Edition, Churros Barista Edition y Matcha Latte, disponibles nacionalmente. Las nuevas variantes apuntan al segmento de bebidas funcionale",
-      "companies": [
-        "Oatly"
+        "Boston Beer Company"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2857,8 +2846,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Headwinds still blow hard for Molson Coors Beverage Co as sales dip again – results data - Global Drinks Intel",
-      "summary": "Molson Coors reportó una nueva caída en ventas, enfrentando vientos en contra persistentes en el mercado de bebidas. Como uno de los mayores productores globales de cerveza, sus resultados reflejan pr",
+      "title": "Molson Coors Beverage Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:TAP) 2026-11-06 - Seeking Alpha",
+      "summary": "Molson Coors reportó resultados del Q3 2026, proporcionando visibilidad sobre desempeño financiero, mix de portafolio y estrategia competitiva en el mercado norteamericano de bebidas. Como uno de los ",
       "companies": [
         "Molson Coors"
       ],
@@ -2869,8 +2858,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors Beverage Co (TAP) (Q3 2026) Earnings Call Highlights: Guidance Cut as Cost ... - Yahoo Finance",
-      "summary": "Molson Coors redujo su guidance financiera en Q3 2026 debido a presiones de costos, indicando desafíos operacionales significativos en la industria cervecera. Esta acción de un competidor global de pr",
+      "title": "Molson Coors facing sales pressure and increased inflation risks into 2027—Wells Fargo (TAP:NYSE) - Seeking Alpha",
+      "summary": "Wells Fargo proyecta presión en ventas para Molson Coors hasta 2027 debido a riesgos inflacionarios crecientes. El análisis apunta a desafíos en el volumen de cerveza, categoría competida en mercados ",
       "companies": [
         "Molson Coors"
       ],
@@ -2882,7 +2871,7 @@
     },
     {
       "title": "Morales Beverage Group Signs LOI to Acquire Green Light’s Texas and Florida Distribution Assets | Brewbound",
-      "summary": "Morales Beverage Group firmó una carta de intención para adquirir los activos y operaciones de distribución de Green Light Beverage en Texas y Florida. Esta expansión geográfica fortalece la presencia",
+      "summary": "Morales Beverage Group firmó una carta de intención para adquirir los activos y operaciones de distribución de Green Light Beverage en Texas y Florida, expandiendo su presencia geográfica en dos merca",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2891,8 +2880,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Bottler Coca-Cola HBC says no notification from Russia on asset changes - Yahoo Finance Singapore",
+      "summary": "Coca-Cola HBC, principal embotellador de Coca-Cola en Europa y Asia, reporta no haber recibido notificación oficial de Rusia sobre cambios en sus activos en el país. Esta situación refleja la incertid",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Booze News Weekly Roundup: U.S. Household Alcohol Spending Hits Record Low, EU Approves Chianti Rosé, and More",
-      "summary": "El gasto en alcohol en hogares estadounidenses alcanzó un mínimo histórico, señalando cambios en patrones de consumo que impactarán volúmenes y estrategias de pricing en mercados desarrollados. La apr",
+      "summary": "El gasto de los hogares estadounidenses en bebidas alcohólicas alcanzó un mínimo histórico, señal de cambios en patrones de consumo de un mercado clave para la industria. La UE aprobó la categoría Chi",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2902,7 +2902,7 @@
     },
     {
       "title": "New beverage launches: Functional innovation, bold flavours and a whisky twist",
-      "summary": "Las bebidas funcionales experimentan crecimiento impulsado por demanda de productos de wellness, modulación y bienestar mental. Marcas como Unwind, Hiyo y PRODA lideran innovación mediante ingrediente",
+      "summary": "La categoría de bebidas funcionales experimenta crecimiento acelerado con nuevos lanzamientos de marcas como Unwind, Hiyo y PRODA enfocadas en bienestar, modulación del estado de ánimo y consumo respo",
       "companies": [],
       "segments": [
         "alternative_ingredients",
@@ -2912,7 +2912,7 @@
     },
     {
       "title": "Guinness sees double-digit growth as Diageo sales rise",
-      "summary": "Diageo reportó incremento de ventas de 1.2% a USD 4.9bn en Q3 2026, con Guinness como marca estrella con crecimiento de doble dígito en Africa, mercados germanohablantes, US y Asia Pacífico (especialm",
+      "summary": "Diageo reportó un aumento de ventas de 1,2% a USD 4.900M en el Q3 2026, con Guinness como una de sus marcas de mejor desempeño. La marca de cerveza stout logró crecimiento de dos dígitos en África, me",
       "companies": [
         "Diageo"
       ],
@@ -2922,10 +2922,22 @@
       "region": "Mundial"
     },
     {
-      "title": "[Monster Beverage Q3 2026 Earnings Call] Monster Energy Tops $2.5 Billion Quarterly Sales for First Time as International Surges 28% - BigGo Finance",
-      "summary": "Monster Beverage alcanzó ventas trimestrales de $2.5 mil millones en Q3 2026 por primera vez, con crecimiento internacional de 28%. Este hito refleja la fortaleza de la marca en mercados emergentes y ",
+      "title": "Wil non-alcoholic beer save the shrinking beer market? AB InBev ramps up its efforts - RetailDetail EU",
+      "summary": "AB InBev intensifica su estrategia en cerveza sin alcohol como respuesta a la contracción del mercado cervecero tradicional. Esta categoría representa un movimiento corporativo deliberado de los princ",
       "companies": [
-        "Monster Beverage"
+        "AB InBev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors cuts outlook as UK beer market softens",
+      "summary": "Molson Coors redujo su outlook global tras debilitamiento del mercado cervecero en UK, con caída de ventas netas de 1.6% a $2.93bn y contracción de utilidades de 17.4%. En su división EMEA & APAC, las",
+      "companies": [
+        "Molson Coors"
       ],
       "segments": [
         "consumer_market_trends",
@@ -2934,8 +2946,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Diageo’s drastic cuts lead to unexpected growth",
+      "summary": "Diageo reportó crecimiento orgánico de ventas netas del 0.6% en Q3 2026, superando expectativas analistas (0.4%). Ventas totales alcanzaron $4.9B USD con crecimiento de volumen orgánico de 1.1%. La re",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "PepsiCo renews beverage deal with KFC across eight international markets - StreetInsider",
-      "summary": "PepsiCo renovó su acuerdo de suministro de bebidas con KFC en ocho mercados internacionales, consolidando su presencia en la red de franquicias de restaurantes de servicios rápidos. Esta renovación re",
+      "summary": "PepsiCo renovó su acuerdo de provisión de bebidas con KFC en ocho mercados internacionales, consolidando su posición como proveedor exclusivo en esta cadena de restaurantes de relevancia global. La re",
       "companies": [
         "PepsiCo"
       ],
@@ -2946,19 +2969,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Bottler Coca-Cola HBC says no notification from Russia on asset changes - Yahoo Finance Singapore",
-      "summary": "Coca-Cola HBC, principal embotellador de The Coca-Cola Company en Europa, reporta no haber recibido notificación formal de Rusia sobre cambios en sus activos operacionales en el país. Esta situación r",
+      "title": "Molson Coors stock falls 3% on revenue miss, cuts full-year outlook By Investing.com - Investing.com South Africa",
+      "summary": "Molson Coors redujo su outlook anual tras no alcanzar proyecciones de ingresos, generando caída de 3% en cotización. La noticia evidencia presiones en volumen y pricing en la industria cervecera globa",
       "companies": [
-        "The Coca-Cola Company"
+        "Molson Coors"
       ],
       "segments": [
-        "distribution_execution"
+        "financial_results"
       ],
       "region": "Mundial"
     },
     {
       "title": "Celsius Holdings Names Alex Zigliara and Rishi Daing Brand Presidents in Organizational Restructuring - citybiz",
-      "summary": "Celsius Holdings realizó una reestructuración organizacional nombrando a Alex Zigliara y Rishi Daing como presidentes de marca. Este movimiento refleja una estrategia de descentralización de liderazgo",
+      "summary": "Celsius Holdings realizó una restructuración organizacional nombrando a Alex Zigliara y Rishi Daing como presidentes de marca. Este movimiento refleja la estrategia de la empresa de fortalecer su lide",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2969,7 +2992,7 @@
     },
     {
       "title": "Spain’s wine cooperatives pivot to new markets after domestic consumption falls 8.3%",
-      "summary": "Las cooperativas vinícolas españolas enfrentan caída de consumo doméstico (-8.3%) y exportaciones por volumen (-9.4%), forzando reorientación estratégica hacia turismo, mercados emergentes como Brasil",
+      "summary": "Las cooperativas vinícolas españolas enfrentan caída del 8.3% en consumo doméstico y reducción del 9.4% en volumen de exportaciones, obligándolas a reorientar estrategia hacia turismo, mercado brasile",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2978,78 +3001,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Molson Coors Cuts 2026 Outlook As Beer Demand Weakens, Inflation Bites - Molson Coors Beverage (NYSE:TAP) - Benzinga",
-      "summary": "Molson Coors redujo su perspectiva de resultados para 2026 debido a debilitamiento de la demanda de cerveza e impacto de la inflación. Este movimiento de uno de los grandes players globales señala pre",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage Company reports results for the quarter ended September 30 - Earnings Summary - TradingView",
-      "summary": "Molson Coors reportó resultados del tercer trimestre (cierre 30 de septiembre), proporcionando visibilidad sobre desempeño financiero y operativo de uno de los principales competidores globales en beb",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors Beverage Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:TAP) 2026-11-06 - Seeking Alpha",
-      "summary": "Molson Coors reportó resultados del Q3 2026, proporcionando datos financieros clave sobre desempeño operativo y estrategia de la segunda mayor cervecería estadounidense. Los resultados incluyen métric",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "What Is Driving Molson Coors Beverage (NYSE:TAP) Toward a 16% to 19% Earnings Drop? - kalkine.ca",
-      "summary": "Molson Coors proyecta una caída de ganancias del 16-19%, señalando presiones significativas en la rentabilidad del grupo cervecero norteamericano. Este movimiento refleja desafíos estructurales en el ",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Molson Coors says sales, profit for 2026 will be less than projected - Milwaukee Journal Sentinel",
-      "summary": "Molson Coors revisa a la baja sus proyecciones financieras para 2026, anticipando menores ventas y ganancias que lo originalmente estimado. Este movimiento refleja desafíos en la industria cervecera g",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Guidance Cut Might Change The Case For Investing In Molson Coors Stock (TAP) - Yahoo Finance",
-      "summary": "Molson Coors redujo su guidance financiera, lo que genera dudas sobre el caso de inversión en la cervecera. Este movimiento refleja presiones en el mercado de bebidas alcohólicas que afectan a un comp",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "PepsiCo Extends KFC Beverage Partnership Across Eight International Markets - Yahoo Finance",
-      "summary": "PepsiCo amplía su alianza de bebidas con KFC en ocho mercados internacionales, consolidando su posición como proveedor exclusivo. Esta expansión refuerza la distribución de bebidas PepsiCo en el canal",
+      "summary": "PepsiCo amplió su acuerdo de provisión de bebidas con KFC a ocho mercados internacionales adicionales, fortaleciendo su posición en el canal food service global. Esta expansión consolida la relación e",
       "companies": [
         "PepsiCo"
       ],
@@ -3059,9 +3012,32 @@
       "region": "Mundial"
     },
     {
-      "title": "What Drives Today’s Luxury Wine Consumer? New Wine Market Council Research Explores Purchasing Motivations and Behaviors",
-      "summary": "Investigación del Wine Market Council revela que en contexto de caída en ventas globales de vino en EE.UU., los vinos premium mantienen resiliencia superior comparado con segmentos de menor precio. El",
+      "title": "PepsiCo renews beverage partnership with KFC in 8 markets By Investing.com - Investing.com India",
+      "summary": "PepsiCo renovó su acuerdo de asociación de bebidas con KFC en 8 mercados, consolidando su posición como proveedor exclusivo en esta cadena de foodservice global. Este tipo de partnerships de largo pla",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Grupo San Jorge busca duplicar exportaciones: el plan con el hub para América en Lima",
+      "summary": "Grupo San Jorge planifica duplicar sus exportaciones estableciendo un hub regional en Lima para servir a América Latina, en el contexto de crecimiento proyectado del consumo masivo en Perú (1.5% en vo",
       "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Monster Beverage shares slip after Q3 results as margin pressure offsets sales growth - TradingView",
+      "summary": "Monster Beverage reportó resultados Q3 con crecimiento en ventas pero presión en márgenes, provocando caída en el precio de sus acciones. La compresión de márgenes refuerza la presión de costos y comp",
+      "companies": [
+        "Monster Beverage"
+      ],
       "segments": [
         "consumer_market_trends",
         "financial_results"
@@ -3069,9 +3045,23 @@
       "region": "Mundial"
     },
     {
-      "title": "Anadolu Efes cuts its full-year beer outlook after Turkey volumes fall 14.3%",
-      "summary": "Anadolu Efes, uno de los mayores productores de cerveza en Europa y Asia, redujo su proyección de resultados anuales tras caídas de volumen del 14,3% en Turquía, su mercado core. A pesar del crecimien",
-      "companies": [],
+      "title": "Monster Beverage Q3 Net Sales Jump 16.7% but Gross Margin Slips to 54.7% - Minichart",
+      "summary": "Monster Beverage registró un crecimiento de ventas netas del 16.7% en Q3, demostrando fortaleza en demanda de bebidas energéticas. Sin embargo, el margen bruto contrajo a 54.7%, indicando presiones de",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+      "summary": "Monster Beverage reportó resultados del trimestre cerrado al 30 de septiembre, un evento financiero clave para monitorear el desempeño de uno de los competidores más fuertes en el segmento de bebidas ",
+      "companies": [
+        "Monster Beverage"
+      ],
       "segments": [
         "consumer_market_trends",
         "financial_results"
