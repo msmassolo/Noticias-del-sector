@@ -2730,7 +2730,7 @@
   "2026-11-08": [
     {
       "title": "La cerveza vuelve a ganar terreno en México, pero Heineken advierte que algo podría salir mal - Xataka México",
-      "summary": "Heineken reporta recuperación del mercado cervecero mexicano, pero advierte sobre riesgos potenciales que podrían afectar el crecimiento. México es el mayor productor y consumidor de cerveza de Latino",
+      "summary": "Heineken reporta recuperación del mercado cervecero en México, pero advierte sobre riesgos que podrían afectar el crecimiento. México es el segundo mayor productor y consumidor de cerveza a nivel mund",
       "companies": [
         "Heineken"
       ],
@@ -2741,7 +2741,7 @@
     },
     {
       "title": "Grupo San Jorge busca duplicar exportaciones: el plan con el hub para América en Lima",
-      "summary": "Grupo San Jorge, empresa peruana de consumo masivo, planea duplicar sus exportaciones mediante la creación de un hub regional en Lima para América Latina. El crecimiento se sustenta en la proyección f",
+      "summary": "Grupo San Jorge planea duplicar sus exportaciones mediante la instalación de un hub regional en Lima para servir a América Latina. El crecimiento del consumo masivo en Perú (1.5% en volumen para 2026)",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2751,7 +2751,7 @@
     },
     {
       "title": "Mercado de bebidas de origem vegetal: projeção até 2035 com avanço da demanda por bem-estar e sustentabilidade - Notícias e Estatísticas - IndexBox",
-      "summary": "El mercado de bebidas de origen vegetal proyecta crecimiento hasta 2035 impulsado por demanda de bienestar y sustentabilidad. Esta tendencia es estratégica para empresas de bebidas argentinas que debe",
+      "summary": "El mercado de bebidas de origen vegetal proyecta crecimiento significativo hasta 2035, impulsado por demanda de bienestar y sustentabilidad. Esta tendencia representa una oportunidad estratégica para ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2760,8 +2760,18 @@
       "region": "Regional"
     },
     {
+      "title": "Cómo subsiste la industria del vino ante un mercado que bebe menos alcohol: con venta de tierras, compra de viñas y foco en turismo - The Clinic",
+      "summary": "La industria vitivinícola enfrenta una contracción de consumo de alcohol y responde mediante reestructuración de activos, consolidación de propiedades viticultoras y diversificación hacia enoturismo. ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Diageo posts higher quarterly sales despite a weak U.S. market",
-      "summary": "Diageo reportó ventas netas orgánicas de $4.9 mil millones en el trimestre, con crecimiento compensatorio en mercados internacionales que contrarrestó una caída del 3.6% en Norteamérica, su principal ",
+      "summary": "Diageo reportó ventas netas orgánicas de $4.9 mil millones en el trimestre, con crecimientos en mercados internacionales compensando una contracción del 3.6% en Norteamérica, su principal mercado. La ",
       "companies": [
         "Diageo"
       ],
@@ -2772,7 +2782,7 @@
     },
     {
       "title": "Coca-Cola India bottler files IPO papers with SEBI; nearly 100 crore shares on offer, revenue rises 20% - Business Today",
-      "summary": "El embotellador de Coca-Cola en India presentó solicitud de IPO ante SEBI con oferta de casi 100 crores de acciones, aprovechando un crecimiento de ingresos del 20% anual. Esta operación refleja la co",
+      "summary": "Coca-Cola India's embotellador principal presenta solicitud de IPO ante SEBI con oferta de casi 100 crores de acciones, en contexto de crecimiento de ingresos del 20%. Esta salida a bolsa en uno de lo",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2784,7 +2794,7 @@
     },
     {
       "title": "How International Sales Growth At Monster Beverage (MNST) Has Changed Its Investment Story - Simply Wall St",
-      "summary": "Monster Beverage reporta crecimiento significativo en ventas internacionales, transformando su modelo de negocio y perfil de inversión. La expansión global de la compañía estadounidense reduce su depe",
+      "summary": "Monster Beverage experimenta un cambio significativo en su perfil de inversión impulsado por el crecimiento acelerado de ventas internacionales, diversificando su dependencia del mercado estadounidens",
       "companies": [
         "Monster Beverage"
       ],
@@ -2796,7 +2806,7 @@
     },
     {
       "title": "Sazerac plans to invest more than $605 million in Kentucky bourbon production",
-      "summary": "Sazerac anunció inversiones superiores a $605 millones en producción de bourbon en Kentucky, concentrando la mayoría en una destilería recientemente adquirida en el condado de Garrard, con $29.4 millo",
+      "summary": "Sazerac invertirá más de $605 millones en producción de bourbon en Kentucky, con la mayoría de recursos destinados a una destilería recientemente adquirida en Garrard County y $29.4 millones adicional",
       "companies": [
         "Sazerac Company"
       ],
@@ -2806,20 +2816,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Learn Why The Bull Case For Monster Beverage Stock Could Change Following Margin Pressure - Yahoo Finance",
-      "summary": "Monster Beverage enfrenta presiones en márgenes operativos que podrían revertir el caso alcista de su valuación de mercado. Los márgenes comprimidos son típicamente resultado de aumentos en costos de ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Monster Beverage Corporation $MNST Stock: Chicago Partners Investment Group LLC Grows Holdings - MarketBeat",
-      "summary": "Chicago Partners Investment Group LLC aumentó su participación accionaria en Monster Beverage Corporation (MNST), reflejando confianza institucional en el desempeño de la empresa. Este movimiento de u",
+      "summary": "Chicago Partners Investment Group LLC aumentó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía. Este movimiento refleja expectativas positi",
       "companies": [
         "Monster Beverage"
       ],
@@ -2830,8 +2828,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty - CNBC",
+      "summary": "Los fundadores de Poppi lanzan Jetty, una nueva startup de bebidas que compite directamente con Gatorade de PepsiCo en el segmento de bebidas funcionales/deportivas. Esta iniciativa representa un movi",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Keurig Dr Pepper (KDP) After Strong Q3 And Alta Launch Looks Near Fair Value - Simply Wall St",
-      "summary": "Keurig Dr Pepper reportó un sólido desempeño en Q3 con la inminente introducción de su marca Alta, posicionándose cerca de su valor justo de mercado. El lanzamiento de Alta representa una estrategia d",
+      "summary": "Keurig Dr Pepper reportó resultados sólidos en Q3 y se prepara para lanzar Alta, una nueva línea de productos que representa su estrategia de innovación de portafolio. La valuación de la compañía se p",
       "companies": [
         "Keurig Dr Pepper"
       ],
@@ -2842,7 +2852,7 @@
     },
     {
       "title": "Poland’s Senate backs a nationwide overnight ban on retail alcohol sales",
-      "summary": "El Senado de Polonia aprobó una prohibición nacional de ventas de alcohol en horario nocturno en retail, con excepciones para restaurantes y publicidad de cerveza sin alcohol. La medida, que requiere ",
+      "summary": "El Senado polaco aprobó una prohibición nacional de ventas minoristas de alcohol en horario nocturno, con posible aprobación final legislativa pendiente. La medida exime restaurantes, permite publicid",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2851,19 +2861,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Red Bull Soda takes dessert inspiration with new Butterscotch flavour - Mini Me Insights",
-      "summary": "Red Bull lanza una nueva variante de su línea Soda con sabor Butterscotch inspirado en postres, ampliando su portafolio de bebidas saborizadas. Esta estrategia responde a la tendencia de innovación de",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Why is Monster Beverage stock sliding today? By Investing.com - Investing.com Nigeria",
-      "summary": "Monster Beverage experimenta caída en cotización. Como competidor directo en el segmento de bebidas energéticas, movimientos significativos en el precio de sus acciones reflejan dinámicas de mercado, ",
+      "summary": "Las acciones de Monster Beverage experimentan caída, lo que refleja presiones en valuación o expectativas de mercado sobre el desempeño de la empresa. Monster es competidor directo crítico en el segme",
       "companies": [
         "Monster Beverage"
       ],
@@ -2873,8 +2872,30 @@
       "region": "Mundial"
     },
     {
+      "title": "Red Bull Soda takes dessert inspiration with new Butterscotch flavour - Mini Me Insights",
+      "summary": "Red Bull lanza un nuevo sabor Butterscotch para su línea Soda, expandiendo su portafolio con inspiración en postres. Esta estrategia responde a la tendencia global de sabores premium e indulgentes en ",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Poppi founder still thinks water's boring—her new beverage company is betting consumers feel the same - CNBC",
+      "summary": "Kara Laricks, fundadora de Poppi (bebida de kombucha funcional), lanza una nueva empresa de bebidas apostando a que los consumidores buscan alternativas más atractivas al agua. La estrategia refleja l",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Pepsi Baseball Cap - PepsiCo says snacks sodas could get pricier after scant consumer pushback Reuters - auroradesio.it",
-      "summary": "PepsiCo señala que podría incrementar precios en bebidas y snacks ante la débil resistencia del consumidor. La compañía evalúa aumentos de tarifa como respuesta a presiones de costo, aprovechando que ",
+      "summary": "PepsiCo señala que podría aumentar precios en sus categorías de snacks y bebidas gaseosas ante una débil resistencia del consumidor. La estrategia refleja el poder de mercado de la compañía y su confi",
       "companies": [
         "PepsiCo"
       ],
@@ -2884,8 +2905,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Colombia’s proposed tax overhaul could double craft beer prices",
-      "summary": "Colombia propone aumentar el IVA para bebidas alcohólicas de 5% a 19%, lo que podría duplicar precios de cervezas artesanales y afectar severamente a productores pequeños dependientes de ingredientes ",
+      "title": "Italian Wine Producers Turn to Brazil for Export Growth",
+      "summary": "Productores de vino italiano buscan expandir exportaciones hacia Brasil aprovechando la apertura comercial del acuerdo UE-Mercosur, compensando así desafíos regulatorios en mercados tradicionales. La ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brazil shields beer prices from a new 4.2% sin tax in 2027",
+      "summary": "Brasil implementará una medida provisional que protege los precios de la cerveza frente a un nuevo impuesto al pecado del 4,2% previsto para 2027, compensando el gravamen mediante reducciones en el CB",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2894,8 +2925,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Brazil shields beer prices from a new 4.2% sin tax in 2027",
-      "summary": "Brasil implementará una medida provisional que protege los precios de la cerveza frente a un nuevo impuesto del 4,2% previsto para 2027, compensando la carga tributaria mediante reducciones en la cont",
+      "title": "Colombia’s proposed tax overhaul could double craft beer prices",
+      "summary": "Colombia propone aumentar el IVA para bebidas alcohólicas del 5% al 19%, lo que duplicaría los precios de cervezas artesanales según los productores locales. La medida impactaría principalmente a pequ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2905,7 +2936,7 @@
     },
     {
       "title": "Britain plans a 4.55% alcohol duty increase for February 2027",
-      "summary": "Reino Unido implementará un aumento del 4,55% en los impuestos al alcohol a partir de febrero de 2027, afectando cerveza, vino y espirituosos. La medida implicará un incremento aproximado de 14 peniqu",
+      "summary": "Reino Unido aumentará el impuesto al alcohol en 4.55% a partir de febrero de 2027, afectando cerveza, vino y licores destilados. La medida incrementará aproximadamente 14 peniques el precio de una bot",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2915,7 +2946,7 @@
     },
     {
       "title": "Investors Lift Alcohol Importers on Hopes the Midterms Could Ease Tariffs",
-      "summary": "Inversores especulativos alcistas en importadores de bebidas alcohólicas anticipando posibles reducciones arancelarias post-elecciones legislativas estadounidenses. La expectativa de un Congreso demóc",
+      "summary": "Inversores impulsan acciones de importadores de bebidas alcohólicas tras esperanzas de que los resultados electorales estadounidenses puedan reducir aranceles. El movimiento refleja expectativas de un",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2924,44 +2955,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Heineken says its Mexico beer business returned to growth in the third quarter",
+      "summary": "Heineken reportó el retorno al crecimiento de su negocio cervecero en México durante Q3, impulsado por canales de retail tradicional y marcas selectas, aunque advierte que la recuperación es frágil tr",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Coca-Cola’s India bottling arm files draft papers for Rs 9,500 crore IPO - The Economic Times",
-      "summary": "Coca-Cola India Beverages, brazo embotellador de Coca-Cola en India, presentó papeles para una OPI de Rs 9.500 crores (~USD 1.140 millones). Esta operación refleja la estrategia de Coca-Cola de capita",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola's Indian bottling business files for IPO; 99.75 crore shares up for sale - The Times of India",
-      "summary": "Coca-Cola India Bottling Company presentó solicitud para salida a bolsa (IPO) con oferta de 99.75 crore de acciones. Esta operación refleja la estrategia de Coca-Cola de monetizar activos en mercados ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO - Business Standard",
-      "summary": "Hindustan Coca-Cola Beverages (HCCH), embotellador de Coca-Cola en India, presentó solicitud de IPO por 997.5 millones de acciones. Este movimiento permite a Coca-Cola monetizar su operación en el mer",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola's Indian bottling arm HCCH files IPO papers; entire issue to be OFS - ETLegalWorld.com",
-      "summary": "Hindustan Coca-Cola Beverages (HCCH), la embotelladora india de Coca-Cola, presentó documentos para una oferta pública inicial (IPO) que será íntegramente una Oferta de Venta de Accionistas (OFS). Est",
+      "summary": "Coca-Cola India Bottling Company presentó documentos preliminares para una IPO de Rs 9.500 crores (USD ~1.140M aprox.), consolidando su estrategia de acceso a capital en mercados emergentes clave. La ",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2973,7 +2980,43 @@
     },
     {
       "title": "Coca-Cola India bottler HCCH files DRHP for IPO; 99.75 crore shares on offer - The Financial Express",
-      "summary": "Hindustan Coca-Cola Beverages (HCCH), embotellador de Coca-Cola en India, presentó su prospecto regulatorio (DRHP) para salida a bolsa con una oferta de 99.75 crores de acciones. Esta IPO representa u",
+      "summary": "Hindustan Coca-Cola Beverages (HCCH), embotellador de Coca-Cola en India, presentó su DRHP (borrador de prospecto) para salir a bolsa con una oferta de 99,75 crores de acciones. Esta IPO representa un",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola's Indian bottling business files for IPO; 99.75 crore shares up for sale - The Times of India",
+      "summary": "Coca-Cola India Beverages (CCIB), el embotellador de Coca-Cola en India, presenta solicitud para salida a bolsa con oferta de 99,75 crores de acciones. Esta operación refleja la estrategia de Coca-Col",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO - Business Standard",
+      "summary": "Hindustan Coca-Cola Beverages (HCCH), embotellador de Coca-Cola en India, presentó su solicitud de IPO con 997,5 millones de acciones. Esta oferta pública es estratégica para Coca-Cola dado el potenci",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola's Indian bottling arm HCCH files IPO papers; entire issue to be OFS - ETLegalWorld.com",
+      "summary": "Hinduja Colas and Carbonated Beverages (HCCH), embotelladora de Coca-Cola en India, presentó documentos para su salida a bolsa (IPO), siendo toda la emisión una oferta de acciones existentes (OFS). Es",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2985,7 +3028,7 @@
     },
     {
       "title": "Coca-Cola-backed HCCH sets IPO ball rolling with 99.75 crore-share offer - Indian Television Dot Com",
-      "summary": "HCCH, empresa respaldada por Coca-Cola, lanzó una oferta pública inicial (IPO) de 99,75 crores de acciones. Este movimiento refleja la estrategia de Coca-Cola de capitalizar sus inversiones en operaci",
+      "summary": "HCCH, empresa respaldada por Coca-Cola, inicia proceso de oferta pública inicial (IPO) con emisión de 99,75 crores de acciones. Esta movida estratégica de Coca-Cola fortalece su presencia en el mercad",
       "companies": [
         "The Coca-Cola Company"
       ],
