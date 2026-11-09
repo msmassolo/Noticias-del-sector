@@ -1,236 +1,4 @@
 {
-  "2026-11-01": [
-    {
-      "title": "Crisis mundial del vino: el consumo cayó 2,7% y las exportaciones retrocedieron en 2025 - Sitio Andino",
-      "summary": "El consumo global de vino cayó 2,7% en 2025 y las exportaciones registraron retracción, señalando una contracción significativa en el mercado internacional. Esta crisis afecta directamente a Argentina",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Coca-Cola quiere construir una nueva planta en el sureste de México: transportar sus bebidas desde Toluca ya es demasiado caro - Xataka México",
-      "summary": "Coca-Cola planea construir una nueva planta de producción en el sureste de México para reducir costos logísticos que se han vuelto prohibitivos desde su actual ubicación en Toluca. Esta inversión en i",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Informe de resultados de Ambev: BPA supera previsiones en el 3T 2026, pero los ingresos decepcionan - Investing.com España",
-      "summary": "Ambev (AmBev SA), mayor productor de bebidas de América Latina, reportó resultados del tercer trimestre 2026 con ganancias por acción (BPA) superiores a las previsiones, pero ingresos por debajo de la",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "THE CPG INSIDER WEEKLY | Nosh.com",
-      "summary": "Resumen de reportes de ganancias de Hershey y Coca-Cola esta semana, incluyendo análisis de desempeño financiero de actores clave en CPG. Se investiga estrategia de Curd para revitalizar el segmento d",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Kweichow Moutai returned to quarterly growth with third-quarter revenue up 3.08%",
-      "summary": "Kweichow Moutai, el principal produtor de baijiu (licor destilado chino), reportó crecimiento en Q3 con ingresos up 3.08% y ganancia neta +3.78%, superando proyecciones en un sector bajo presión por d",
-      "companies": [
-        "Kweichow Moutai"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Alcohol lobbyists urged state attorneys general to preserve the federal hemp THC ban timetable",
-      "summary": "Cabilderos de las principales compañías de bebidas alcohólicas (Anheuser-Busch, Molson Coors y Diageo) presionaron a fiscales estatales estadounidenses para mantener el cronograma federal de prohibici",
-      "companies": [
-        "Molson Coors",
-        "Diageo"
-      ],
-      "segments": [
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "India will meet distillers over bulk Scotch tariff dispute on Nov. 2",
-      "summary": "India planea reunirse con productores de whisky escocés el 2 de noviembre para resolver una disputa arancelaria sobre importaciones a granel. Diageo y Pernod Ricard advierten que excluir importaciones",
-      "companies": [
-        "Diageo",
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Should Upcoming Earnings Require Action From Monster Beverage Stock Investors? - Simply Wall St",
-      "summary": "Monster Beverage enfrenta próximos resultados que podrían generar volatilidad accionaria relevante para inversores. La noticia señala la importancia de monitorear el desempeño financiero de uno de los",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Tilray will shrink its U.S. brewery network to six facilities",
-      "summary": "Tilray anuncia la reducción de su red de cervecerías estadounidenses de múltiples plantas a solo seis instalaciones, con recortes de personal asociados. La estrategia busca mejorar rentabilidad hacia ",
-      "companies": [
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Marie Brizard Wine & Spirits Q3 2026 Sales Edge Up as France Rebounds, International Markets Lag - TipRanks",
-      "summary": "Marie Brizard Wine & Spirits reportó un crecimiento leve en ventas Q3 2026 impulsado por la recuperación del mercado francés, aunque los mercados internacionales permanecen rezagados. La noticia es es",
-      "companies": [
-        "Marie Brizard Wine & Spirits"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Should Lowered Earnings Estimates Require Action From Molson Coors Stock Investors? - Simply Wall St",
-      "summary": "Molson Coors enfrenta revisiones a la baja en sus estimaciones de ganancias, lo que señala posibles presiones en su desempeño financiero. Este es un indicador crítico para monitorear la salud de un co",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Small and mid-sized Argentine wineries raised online case sales by 19.49% in 2025",
-      "summary": "Las bodegas pequeñas y medianas argentinas incrementaron sus ventas online un 19.49% en 2025, mientras que el volumen total del e-commerce vinícola cayó 3.21% impulsado por una contracción del 10.49% ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "From Carlsberg to Coca-Cola: Global beverage giants gear up for India IPOs - Moneycontrol.com",
-      "summary": "Gigantes globales de bebidas como Carlsberg y Coca-Cola se preparan para ofertas públicas iniciales en India, señalando una apuesta estratégica por uno de los mercados de consumo más dinámicos del mun",
-      "companies": [
-        "The Coca-Cola Company",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Colombia proposes steep new taxes on alcohol, cigarettes and vaping products",
-      "summary": "Colombia propone aumentar significativamente los impuestos a bebidas alcohólicas hasta 19% y crear nuevos gravámenes sobre bebidas azucaradas a partir de 2028, con recaudos destinados a cobertura sani",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper (KDP) Unveils Alta Brewer With Compostable Coffee Pods - Yahoo Finance",
-      "summary": "Keurig Dr Pepper lanzó la máquina Alta con cápsulas de café compostables, abordando un pain point crítico de sustentabilidad en la industria de bebidas. Esta innovación en packaging responde a presión",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "​United Spirits and Pernod Ricard Under Scrutiny Over Scotch Whisky Misclassification - The 420.in",
-      "summary": "United Spirits y Pernod Ricard enfrentan escrutinio regulatorio por clasificación incorrecta de whisky escocés, lo que afecta directamente su cumplimiento normativo en una categoría premium estratégic",
-      "companies": [
-        "Pernod Ricard"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Keurig Dr Pepper (KDP) Could Be 1% Below Fair Value As Alta Launch Draws Focus - Simply Wall St",
-      "summary": "Keurig Dr Pepper evalúa su valuación con una potencial subvaluación del 1% según análisis de Simply Wall St, con foco en el lanzamiento de Alta, su nueva línea de bebidas de mayor valor. Este movimien",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How festive demand is shaping pricing strategies across the FMCG and beverage industry - Indian Retailer",
-      "summary": "Las estrategias de pricing en la industria de bebidas y FMCG se están reajustando según la demanda estacional festiva en India, un mercado clave para las multinacionales. Los retailers adaptan márgene",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "“Desserts shine, alcoholic beverages dim” ... Food industry sees widening divide ahead of year-end peak season - 파이낸셜뉴스",
-      "summary": "La industria alimentaria enfrenta una divergencia creciente con postres en alza y bebidas alcohólicas en caída previo a la temporada pico de fin de año. Esta tendencia de consumidor sugiere cambios en",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation $MNST Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Boosts Stake - MarketBeat",
-      "summary": "Virginia Retirement Systems aumentó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía líder de bebidas energéticas. Este movimiento refleja ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage Corporation $MNST Stock: Left Brain Wealth Management LLC Raises Stake - MarketBeat",
-      "summary": "Left Brain Wealth Management LLC incrementó su participación accionaria en Monster Beverage Corporation (MNST), uno de los principales jugadores globales en bebidas energéticas. Este movimiento reflej",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-11-02": [
     {
       "title": "FEMSA factura 235,609 millones de pesos en tres meses mientras OXXO y Coca-Cola impulsan sus resultados",
@@ -3034,6 +2802,383 @@
       ],
       "segments": [
         "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-11-09": [
+    {
+      "title": "'Caos do Natal': a aposta da Coca-Cola para renovar campanha e reforçar tradição da marca",
+      "summary": "Coca-Cola lanzó su campaña de Navidad 2026 bajo el concepto 'Caos do Natal', posicionando la imperfección como valor central de las celebraciones. La iniciativa integra producción audiovisual, 300+ ca",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Carlsberg vende operações da Britvic no Brasil, dona da marca Maguary",
+      "summary": "Carlsberg vende las operaciones de Britvic en Brasil (marcas Maguary y Dafruta) al Grupo José Augusto Vieira por €80 millones, apenas un mes después de adquirirlas. Esta desinversión refleja una revis",
+      "companies": [
+        "Britvic",
+        "Carlsberg Group"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Mientras Starbucks apostó por bebidas de temporada y la colección de Snoopy, Alsea impulsa su estrategia de marketing para recuperar visitas a cafeterías",
+      "summary": "Alsea, operador de Starbucks en Latinoamérica, impulsa una estrategia de marketing centrada en bebidas de temporada y colecciones temáticas (como Snoopy) para recuperar tráfico en cafeterías. La estra",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Viñas chilenas se reinventan ante un mundo que bebe menos vino - Supermercado Al Día",
+      "summary": "Las viñas chilenas están adaptando sus estrategias comerciales frente a la reducción global del consumo de vino, un fenómeno que afecta directamente la demanda en mercados como Argentina. Esta reinven",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Huel retail sales surge past £100m",
+      "summary": "Huel alcanzó £114m en ventas minoristas en UK (crecimiento 29% anual), consolidando su posición en bebidas plant-based con productos RTD presentes en 120,000+ puntos de distribución. Danone, propietar",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "JPMorgan downgraded Molson Coors on fears that weak beer demand will prolong margin pressure",
+      "summary": "JPMorgan redujo la calificación de Molson Coors por preocupaciones sobre débil demanda de cerveza que prolongaría presión en márgenes. El banco identifica tres factores clave: costos de insumos en alz",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Allison Ellsworth Launches New Hydration Beverage Company Jetty After Selling Poppi to PepsiCo - SSBCrack",
+      "summary": "Allison Ellsworth, fundadora de Poppi, lanzó Jetty, una nueva empresa de bebidas de hidratación, tras vender Poppi a PepsiCo. El movimiento refleja la tendencia de emprendedores exitosos en el segment",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Poppi Founders Launch Jetty to Challenge Gatorade in Growing Hydration Market - Brand Icon Image",
+      "summary": "Los fundadores de Poppi lanzaron Jetty, una nueva marca de bebidas de hidratación posicionada para competir directamente contra Gatorade en el mercado de bebidas funcionales en crecimiento. Esta estra",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
+      ],
+      "segments": [
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bernstein SocGen raises Monster Beverage stock price target on sales - Investing.com",
+      "summary": "Bernstein SocGen elevó el precio objetivo de las acciones de Monster Beverage en base a un análisis positivo de ventas. Monster es un competidor global clave en la categoría de bebidas energéticas, co",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken says its Mexico beer business returned to growth in the third quarter",
+      "summary": "Heineken reporta retorno al crecimiento en su negocio cervecero mexicano durante Q3, impulsado por canales de retail tradicionales y marcas selectas, aunque reconoce que la recuperación es frágil tras",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo braces for prolonged US downturn despite return to sales growth - The Drinks Business",
+      "summary": "Diageo, el mayor productor de bebidas alcohólicas del mundo, anticiparía una desaceleración prolongada en el mercado estadounidense a pesar de haber logrado un retorno al crecimiento en ventas. Este p",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Reliance on International Sales: What Investors Need to Know - Yahoo Finance Singapore",
+      "summary": "Monster Beverage genera una dependencia significativa de ventas internacionales, factor crítico para entender su modelo de negocio y exposición a riesgos cambiarios y regulatorios. Este análisis es re",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Can PepsiCo's Zero-Sugar Strategy Strengthen Beverage Demand? - Zacks Investment Research",
+      "summary": "PepsiCo apunta a fortalecer la demanda de bebidas mediante una estrategia enfocada en productos sin azúcar, respondiendo a la creciente preferencia del consumidor por opciones más saludables. Esta est",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo Puts Its Brand Case Before the Supreme Court as Profit Guidance Tests the Growth Story - ad-hoc-news.de",
+      "summary": "PepsiCo enfrenta un caso ante la Corte Suprema mientras gestiona desafíos en su guía de ganancias, lo que cuestiona su narrativa de crecimiento. El litigio sobre propiedad de marca y los ajustes de pr",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Poppi Founders Launch jetty Hydration Drinks, Set to Disrupt a $13 Billion Category - Morningstar",
+      "summary": "Los fundadores de Poppi lanzaron jetty, una nueva línea de bebidas de hidratación, en un mercado valuado en USD 13 mil millones. Este movimiento representa una estrategia de expansión de emprendedores",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Poppi founder Allison Ellsworth’s new hydration beverage brand Jetty is here — she gave us a behind-the-scenes look - NBC News",
+      "summary": "Allison Ellsworth, fundadora de Poppi, lanzó una nueva marca de bebidas de hidratación llamada Jetty. Este movimiento representa la entrada de una emprendedora exitosa en el segmento de bebidas funcio",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Agrowgate Q4 2026 Snapshot - A Little Stability, Plenty of Risk",
+      "summary": "El reporte Q4 2026 de Agrowgate evidencia estabilización parcial en la cadena de suministro de bebidas para 2027, pero persisten riesgos críticos de costos y disponibilidad. A pesar de la caída de pre",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola's Indian bottling arm HCCH files IPO papers; entire issue to be OFS - ETLegalWorld.com",
+      "summary": "Hindustan Coca-Cola Bottling Company (HCCH), brazo embotellador de Coca-Cola en India, presentó documentos para una salida a bolsa (IPO). La operación será íntegramente una Oferta de Venta de Acciones",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage Corporation $MNST Stock: Chicago Partners Investment Group LLC Grows Holdings - MarketBeat",
+      "summary": "Chicago Partners Investment Group LLC incrementó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía. Este movimiento refleja interés de inver",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Inside Poppi founders’ bid for another billion-dollar beverage brand with Jetty - Retail Brew",
+      "summary": "Los fundadores de Poppi están en proceso de adquisición de Jetty, otra marca de bebidas valorizada en miles de millones. Esta operación refleja la estrategia de consolidación en el segmento de bebidas",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage (TAP) Could Be 8% Undervalued On Lower 2026 Guidance - Simply Wall St",
+      "summary": "Molson Coors podría estar infravalorada en ~8% según análisis de Simply Wall St, derivado de la reducción de guía para 2026. Este movimiento refleja presiones en rentabilidad y crecimiento del gigante",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Keurig Dr Pepper (KDP) After Strong Q3 And Alta Launch Looks Near Fair Value - Simply Wall St",
+      "summary": "Keurig Dr Pepper reportó un sólido desempeño en Q3, con expectativas positivas por el lanzamiento de Alta, su nueva marca de bebidas. La compañía está posicionada estratégicamente en el segmento de be",
+      "companies": [
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The European Commission Allows Germany to Label Mulled Wine With Under 0.5% Alcohol as Nonalcoholic Glühwein",
+      "summary": "La Comisión Europea autorizó a Alemania a etiquetar vino tinto caliente (Glühwein) con menos de 0.5% de alcohol como bebida sin alcohol, permitiendo comercializar versiones libres de alcohol bajo la d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "135,066 Monster Beverage Corporation $MNST Shares Bought by Ethic Inc. - MarketBeat",
+      "summary": "Ethic Inc. adquirió 135,066 acciones de Monster Beverage Corporation, posicionándose como inversor institucional en la compañía. Este movimiento refleja confianza en el desempeño de Monster, líder glo",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "McDonald’s launches 5 new holiday drinks: How to try the wild Red Bull and sprinkles combo - Mashable",
+      "summary": "McDonald's lanzó 5 nuevas bebidas de temporada, incluyendo una colaboración con Red Bull. Este movimiento refleja la estrategia de las cadenas de quick service restaurants de innovar en su portafolio ",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Reports 4.9% Decline in Beer Brand Volume in Q3 2026 as Sales and Profits Weaken - Aabkari Times",
+      "summary": "Molson Coors registró una contracción de 4.9% en volumen de marcas de cerveza en Q3 2026, con debilitamiento simultáneo en ventas y ganancias. Este dato señala presión competitiva y posibles cambios e",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Italian Wine Exports Fell 6.2% in the First Half of 2026",
+      "summary": "Las exportaciones italianas de vino cayeron 6.2% en el primer semestre de 2026, con una caída del 14.1% en ventas a EE.UU., precios más bajos e inventarios récord. Esta tendencia refleja presiones est",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Italy’s wine industry faces a margin squeeze after production costs rise 8.9%",
+      "summary": "La industria vinícola italiana enfrenta presión de márgenes con costos de producción aumentando 8.9% mientras los precios al consumidor caen 2.6%, reduciendo la capacidad de productores para compensar",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo Takes Brand-Strength Fight to Washington While Restocking Holiday Shelves - ad-hoc-news.de",
+      "summary": "PepsiCo está intensificando sus esfuerzos de advocacy regulatoria en Washington mientras refuerza su presencia en estanterías para la temporada navideña. La compañía combina estrategia política—presum",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Joyburst embraces functional beverage trends",
+      "summary": "Joyburst, empresa canadiense, capitaliza la convergencia de categorías de bebidas funcionales (hidratación, wellness, proteína) impulsada por cambios en el comportamiento del consumidor. La hidratació",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Italian Wine Producers Turn to Brazil for Export Growth",
+      "summary": "Productores de vino italiano exploran Brasil como mercado de crecimiento ante cambios en preferencias de consumo y la potencial apertura comercial UE-Mercosur. Aunque Brasil presenta obstáculos tribut",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The Boston Beer Company, Inc. (NYSE:SAM) Stock Has Average Price Target of $208.82 According to Brokerages - MarketBeat",
+      "summary": "Boston Beer Company (SAM) tiene un precio objetivo promedio de $208.82 según analistas de brokerages. Esta valoración refleja expectativas del mercado sobre la estrategia de crecimiento de la empresa,",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage (NYSE:TAP) Downgraded by JPMorgan Chase & Co. to \"Underweight\" - MarketBeat",
+      "summary": "JPMorgan Chase downgradeó a Molson Coors Beverage (NYSE:TAP) a 'Underweight', señalando debilidad en las perspectivas de la compañía. Este movimiento de un banco de inversión tier-1 refleja presiones ",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
