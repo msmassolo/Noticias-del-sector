@@ -2834,8 +2834,18 @@
   ],
   "2026-11-11": [
     {
+      "title": "Las exportaciones de vino se dispararon 19% en octubre, pero aún siguen en terreno negativo en el acumulado del año",
+      "summary": "Las exportaciones de vino argentino crecieron 19,3% en octubre, alcanzando USD 68,1 millones, mostrando recuperación tras meses de caída. Sin embargo, el acumulado de los primeros diez meses del año p",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Crece el consumo de nuevas bebidas sin alcohol en búsqueda del sabor y el bienestar - BorderPeriodismo",
-      "summary": "El mercado de bebidas sin alcohol experimenta crecimiento impulsado por la búsqueda de alternativas que combinen sabor y beneficios de bienestar. Esta tendencia representa una oportunidad estratégica ",
+      "summary": "El mercado de bebidas sin alcohol experimenta crecimiento impulsado por demanda de alternativas que combinen sabor y beneficios de bienestar. Esta tendencia refleja un cambio estructural en preferenci",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2844,8 +2854,19 @@
       "region": "Local"
     },
     {
+      "title": "Conexão local para marcas globais fica ainda mais importante com os jovens, diz executiva da Coca-Cola",
+      "summary": "Coca-Cola Argentina y Uruguay reconoce que mantener relevancia con nuevas generaciones requiere equilibrar la identidad global de marca con conexiones locales. Según la ejecutiva de marketing María Vi",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Walmart identifica cambios en el consumo de los mexicanos: los abarrotes impulsan las ventas, mientras las mercancías generales pierden dinamismo",
-      "summary": "Walmart México reporta estabilización en tráfico de clientes tras 9 trimestres de caída, con abarrotes (incluidas bebidas) impulsando ventas mientras mercancías generales se desaceleran. Este cambio d",
+      "summary": "Walmart México reporta estabilización en tráfico de clientes tras nueve trimestres de caídas, evidenciando recuperación en el canal retail. El desempeño de categorías de abarrotes (alimentos y bebidas",
       "companies": [
         "Walmart"
       ],
@@ -2857,7 +2878,7 @@
     },
     {
       "title": "Mientras Walmart y Bodega Aurrera impulsan Great Value y marcas propias, FEMSA apuesta por La Posada y Azálea para vender despensa con la Canasta OXXO en más de 24 mil tiendas en una nueva estrategia de marketing",
-      "summary": "FEMSA está ampliando su estrategia de marcas propias con La Posada y Azálea, distribuyendo la Canasta OXXO en más de 24,000 tiendas como respuesta a la intensificación de marcas privadas de Walmart y ",
+      "summary": "FEMSA intensifica su estrategia de marcas propias lanzando la Canasta OXXO en más de 24 mil tiendas, apostando por las marcas La Posada y Azálea para competir contra las estrategias de private label d",
       "companies": [
         "Walmart"
       ],
@@ -2869,7 +2890,7 @@
     },
     {
       "title": "Mientras PepsiCo enfrenta dificultades en Norteamérica, México figura entre los mercados que sostienen su crecimiento internacional",
-      "summary": "PepsiCo experimenta debilidad en Norteamérica pero México emerge como mercado clave sosteniéndola internacionalmente en Q3 2026. Para una empresa argentina en bebidas, esto señala la importancia estra",
+      "summary": "PepsiCo reporta desempeño mixto en Q3 2026 con debilidad en Norteamérica compensada por mercados emergentes. México destaca como uno de los mercados de crecimiento clave en el segmento internacional d",
       "companies": [
         "PepsiCo"
       ],
@@ -2879,27 +2900,21 @@
       "region": "Regional"
     },
     {
-      "title": "Resultados eleitorais impulsionam ações de empresas de bebidas alcoólicas com esperança de alívio nas tarifas de importação - Vinetur",
-      "summary": "Los resultados electorales en Brasil generan optimismo en empresas de bebidas alcohólicas, impulsando sus acciones bursátiles ante la expectativa de reducción de aranceles de importación. Este movimie",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
+      "title": "Poppi Creators Out to Disrupt Hydration With jetty",
+      "summary": "Los creadores de Poppi (marca vendida a PepsiCo por $1.95B) lanzan jetty, una nueva marca de bebidas de hidratación para competir con Gatorade. Según el CEO Stephen Ellsworth, jetty busca redefinir el",
+      "companies": [
+        "PepsiCo",
+        "Poppi"
       ],
-      "region": "Regional"
-    },
-    {
-      "title": "El boom de la nutrición funcional, oportunidad para la industria de bebidas colombiana",
-      "summary": "El mercado de suplementos y nutrición funcional alcanzará USD 758.990 millones en 2034, representando una oportunidad estratégica para la industria de bebidas. La nutrición funcional ha trascendido de",
-      "companies": [],
       "segments": [
-        "consumer_market_trends"
+        "product_innovation",
+        "supply_chain_commodities"
       ],
-      "region": "Regional"
+      "region": "Mundial"
     },
     {
       "title": "PepsiCo to cut 1,000 jobs as North America woes continue",
-      "summary": "PepsiCo reducirá aproximadamente 1.000 empleos en su operación de América del Norte debido a débiles desempeños de ventas sostenidos en la región. El anuncio podría formalizarse la próxima semana como",
+      "summary": "PepsiCo planea despedir 1.000 empleados en Norteamérica debido al débil desempeño de ventas en la región, buscando optimizar operaciones e integrar equipos. Con 306.000 empleados globales, esta reestr",
       "companies": [
         "PepsiCo"
       ],
@@ -2909,8 +2924,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Brazilian brewers enter year-end with weak demand despite the World Cup",
+      "summary": "Ambev reportó un crecimiento anémico del volumen de cerveza de solo 0,5% en Q3, evidenciando debilidad en la demanda a pesar del efecto World Cup. Los cerveceros brasileños dependen ahora de ventas de",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Monster Beverage nearing global tipping point",
-      "summary": "Monster Beverage expande su presencia global mediante nuevas asociaciones en el canal foodservice, acercándose a un punto de inflexión estratégico. Este movimiento diversifica los canales de distribuc",
+      "summary": "Monster Beverage está expandiendo su estrategia de distribución a través de nuevas alianzas en el canal foodservice, acercándose a un punto de inflexión global. Esta iniciativa busca incrementar la pe",
       "companies": [
         "Monster Beverage"
       ],
@@ -2922,7 +2949,7 @@
     },
     {
       "title": "Profits jump at Fuller’s – The Brewers Journal",
-      "summary": "Fuller's, operador de pubs y hoteles, reportó un crecimiento del 25% en ganancias operativas ajustadas (£28,2M vs £22,5M) en H1, impulsado por fuerte desempeño de marcas premium como Asahi Super Premi",
+      "summary": "Fuller's, empresa cervecera británica de pubs y hoteles, reportó un incremento del 25% en ganancias operativas ajustadas (£28.2M vs £22.5M) en el primer semestre, impulsado por fuerte desempeño de cer",
       "companies": [
         "Asahi Group"
       ],
@@ -2934,7 +2961,7 @@
     },
     {
       "title": "Costco is Winning the Grocery Wars",
-      "summary": "Costco superó a Kroger en participación de mercado minorista en Q3 2026 (8,4% vs 8,2% en ventas de alimentos y bebidas). El modelo de membresía de Costco genera lealtad y compras repetidas, posicionán",
+      "summary": "Costco superó a Kroger en participación de mercado retail en Q3 2026, capturando 8.4% del gasto en alimentos y bebidas versus 8.2% de Kroger. Este desplazamiento refleja la fortaleza del modelo de mem",
       "companies": [
         "Costco"
       ],
@@ -2945,8 +2972,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Constellation Brands Appeals Preliminary Injunction Blocking Exit from Coors Distributing | Brewbound",
+      "summary": "Constellation Brands apela una orden judicial preliminar que le impide abandonar su asociación de distribución con Coors Distributing Company (CDC). Este conflicto de salida de una joint venture de di",
+      "companies": [
+        "Molson Coors",
+        "Constellation Brands"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Is Constellation Brands (NYSE:STZ) Betting on Non-Alcoholic Drinks? - Kalkine Media",
-      "summary": "Constellation Brands, principal productor de bebidas alcohólicas en América del Norte, está explorando oportunidades en el segmento de bebidas no alcohólicas, reflejando la tendencia global de diversi",
+      "summary": "Constellation Brands evalúa una estrategia de diversificación hacia bebidas sin alcohol, un segmento en crecimiento acelerado. Esta reorientación responde a cambios demográficos y preferencias de cons",
       "companies": [
         "Constellation Brands"
       ],
@@ -2957,43 +2996,43 @@
       "region": "Mundial"
     },
     {
-      "title": "Noteworthy Launches: Poppi Founders Launch New Hydration Drink Jetty - Beverage-Digest",
-      "summary": "Los fundadores de Poppi lanzaron Jetty, una nueva bebida de hidratación, expandiendo su portafolio más allá de las bebidas probióticas. Este movimiento indica una estrategia de diversificación hacia l",
+      "title": "Coca-Cola Rolls Out Festive Packs And Loyalty Rewards To Drive Christmas Sales - KamCity",
+      "summary": "Coca-Cola lanzó empaques festivos y programa de recompensas de fidelización para impulsar ventas durante la temporada navideña. La estrategia combina innovación en packaging estacional con mecanismos ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands sells Nelson’s Green Brier to founding family - Global Drinks Intel",
+      "summary": "Constellation Brands desinvirtió de Nelson's Green Brier, marca de whisky estadounidense, vendiéndola de retorno a la familia fundadora. Esta transacción refleja la estrategia de Constellation de enfo",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "POPPI LAUNCHES LIMITED-EDITION CRAN FIZZ CRANBERRY SODA IN THE UK FOR CHRISTMAS 2026! - Verge Magazine",
+      "summary": "Poppi lanzará una bebida de edición limitada (Cran Fizz) en el mercado UK para Navidad 2026, ampliando su portafolio en la categoría de sodas funcionales. Este movimiento refleja la estrategia de la m",
       "companies": [
         "Poppi"
       ],
       "segments": [
         "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Can Coca-Cola Benefit From Rising Demand for Functional Drinks? - The Globe and Mail",
-      "summary": "Coca-Cola evalúa oportunidades en el segmento de bebidas funcionales, que crece por demanda de consumidores orientados hacia salud y bienestar. Este movimiento refleja la necesidad de diversificación ",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "FI Fast Break audio news: Nov. 11, 2026",
-      "summary": "PepsiCo implementará un plan de reestructuración que incluye el despido de casi 1.000 empleados, señalando ajustes estratégicos en la compañía. Simultáneamente, investigación de Penn State vincula pre",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
+        "marketing_innovation"
       ],
       "region": "Mundial"
     },
     {
       "title": "What Fevertree Drinks (AIM:FEVR)'s Australia Summer Campaign Means For Shareholders - Simply Wall St",
-      "summary": "Fevertree Drinks, empresa cotizada en AIM, lanzó una campaña estival en Australia dirigida a potenciar su posición en el mercado de bebidas premium. La iniciativa busca capitalizar la demanda de mixer",
+      "summary": "Fevertree Drinks, empresa cotizada en AIM, lanza una campaña de verano en Australia como parte de su estrategia de expansión regional. La iniciativa busca fortalecer su posición en el mercado de bebid",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -3004,32 +3043,8 @@
       "region": "Mundial"
     },
     {
-      "title": "POPPI LAUNCHES LIMITED-EDITION CRAN FIZZ CRANBERRY SODA IN THE UK FOR CHRISTMAS 2026! - Verge Magazine",
-      "summary": "Poppi lanzará una edición limitada de gaseosa cranberry (Cran Fizz) en el Reino Unido para Navidad 2026. Este movimiento representa la expansión geográfica de la marca hacia mercados europeos y reflej",
-      "companies": [
-        "Poppi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carlsberg agrees €80m sale of Britvic Brazil to Grupo JAV",
-      "summary": "Carlsberg vende su negocio de bebidas blandas en Brasil a Grupo JAV por €80 millones. La desinversión refleja la estrategia del grupo de enfocarse en su core business cervecero y optimizar su portafol",
-      "companies": [
-        "Britvic",
-        "Carlsberg Group"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Cruzcampo says it became Britain’s top-selling Spanish beer brand",
-      "summary": "Cruzcampo, marca de cerveza española propiedad de Heineken, alcanzó el liderazgo en ventas de cervezas españolas en Reino Unido, con distribución en más de 18.500 bares y pubs. Este logro refleja la e",
+      "summary": "Cruzcampo, propiedad de Heineken, reclama ser la marca de cerveza española líder en Reino Unido con presencia en más de 18.500 pubs y bares. Este posicionamiento refleja la estrategia de Heineken de e",
       "companies": [
         "Heineken"
       ],
@@ -3040,7 +3055,7 @@
     },
     {
       "title": "Jumex Hard, AriZona Beverage Co. launch Jumex Hard Nectar with Tequila",
-      "summary": "Grupo Jumex y AriZona Beverage Co. lanzan Jumex Hard Nectar with Tequila, una extensión de línea premium dentro de la marca Jumex Hard lanzada en 2024. El producto combina tequila reposado con la expe",
+      "summary": "Grupo Jumex y AriZona Beverage Co. lanzan Jumex Hard Nectar with Tequila, extensión premium de la línea Jumex Hard iniciada en 2024. El producto combina tequila reposado con la experiencia de 65 años ",
       "companies": [
         "Arizona Beverages"
       ],
@@ -3050,20 +3065,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Suntory Beverage & Food: Revenue grew, but cost pressures drove lower full-year profit guidance - TradingView",
-      "summary": "Suntory Beverage & Food reportó crecimiento de ingresos pero redujo su guía de ganancias anual debido a presiones de costos. Esta revisión a la baja refleja los desafíos estructurales de la industria ",
+      "title": "Carlsberg agrees €80m sale of Britvic Brazil to Grupo JAV | FoodBev Media",
+      "summary": "Carlsberg vende su negocio de bebidas blandas en Brasil (Britvic Brazil) a Grupo JAV por €80 millones, con cierre esperado en diciembre 2026. La desinversión responde a una reorientación estratégica d",
       "companies": [
-        "Suntory Beverage & Food"
+        "Britvic",
+        "Carlsberg Group"
       ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "An Interview with Dan Vass, Head of Category and Commercial Strategy, Danone - Food & Beverage Outlook",
-      "summary": "Danone, uno de los líderes globales en bebidas y productos lácteos, presenta insights estratégicos a través de su Head of Category and Commercial Strategy. La entrevista aborda perspectivas sobre estr",
+      "summary": "Entrevista con Dan Vass, responsable de Estrategia de Categoría y Comercial de Danone, líder global en bebidas y productos lácteos. La conversación aborda la estrategia comercial y de categoría de uno",
       "companies": [
         "Danone"
       ],
@@ -3074,8 +3089,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Suntory Beverage & Food: Revenue growth continued, but Middle East-related costs cut FY2026 income guidance - TradingView",
+      "summary": "Suntory Beverage & Food reportó crecimiento en ingresos pero redujo su guía de ganancias para FY2026 debido a costos incrementales relacionados con Medio Oriente. La decisión refleja presiones geopolí",
+      "companies": [
+        "Suntory Beverage & Food"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "New glassware for pubs in Asahi’s ‘Pull A Peroni’ campaign",
-      "summary": "Asahi lanza campaña 'Pull A Peroni' enfocada en el canal on-trade (bares y pubs) con estrategia de activación integrada: distribución de más de 5.000 cases de cristalería edición limitada navideña en ",
+      "summary": "Asahi lanza campaña 'Pull A Peroni' enfocada en canales on-trade (bares/pubs) durante temporada navideña, distribuyendo 5.000+ cajas de vasos de edición limitada en 3.000+ locales de hostelería. La es",
       "companies": [
         "Asahi Group"
       ],
@@ -3086,7 +3113,7 @@
     },
     {
       "title": "Heineken acquires multi-category Better Drinks Participações in Brazil - Global Drinks Intel",
-      "summary": "Heineken adquirió Better Drinks Participações, una empresa multimarca en Brasil, ampliando su portafolio de bebidas más allá de cerveza. Esta adquisición estratégica permite a Heineken diversificar su",
+      "summary": "Heineken adquirió Better Drinks Participações, empresa multi-categoría brasileña, expandiendo su portafolio más allá de cerveza en el mercado de bebidas de Brasil. Esta adquisición refuerza la posició",
       "companies": [
         "Heineken"
       ],
@@ -3098,7 +3125,7 @@
     },
     {
       "title": "Diageo invests in Guinness ahead of Xmas spike",
-      "summary": "Diageo invierte en capacitación, equipamiento y soporte comercial para maximizar la demanda de Guinness durante la temporada festiva. La estrategia incluye entrenamiento en técnicas de vertido, higien",
+      "summary": "Diageo invierte en capacitación de personal, equipamiento y soporte de ventas para impulsar Guinness durante la temporada navideña, periodo crítico de demanda. La estrategia incluye entrenamiento en t",
       "companies": [
         "Diageo"
       ],
@@ -3108,80 +3135,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Elton John Launches a Zero-Alcohol Sparkling Wine Alternative in the United States",
-      "summary": "Elton John lanzó una alternativa de vino espumante sin alcohol a $25 la botella en EE.UU., posicionándose en un segmento que creció 49% en ventas el último año. La iniciativa capitaliza la tendencia d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The decline in U.S. wine and spirits sales slowed in September",
-      "summary": "Las ventas de vino y spirits en EE.UU. mostraron desaceleración en la caída durante septiembre, según datos de SipSource. Spirits lideraron la recuperación en los últimos tres meses mientras que vino ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Southern Glazer’s targets 25% to 30% of revenue from beer, ready-to-drink products, non-alcoholic beverages",
-      "summary": "Southern Glazer's, mayor distribuidor de bebidas alcohólicas en EE.UU., planea aumentar la participación de cerveza, bebidas listas para consumir (RTD) y no alcohólicas del actual 10% a 25-30% de sus ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo Is Cutting 1,000 Jobs. America Hasn’t Quit Soda, So What Went Flat? - Open Magazine",
-      "summary": "PepsiCo anuncia despidos de 1.000 empleados en un contexto donde el consumo de bebidas carbonatadas en EE.UU. se mantiene estable. El recorte responde a presiones de rentabilidad y restructuración ope",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage: Protein Adds Another Growth Engine, But Stock Is Still Expensive (MNST) - Seeking Alpha",
-      "summary": "Monster Beverage expande su portafolio hacia bebidas proteicas, identificando un nuevo motor de crecimiento en el segmento de nutrición funcional. Esta diversificación estratégica responde a la demand",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Jones Soda Touts Fallout Colas, Functional Innovation After Record Q3 - BevNET.com",
-      "summary": "Jones Soda reportó un crecimiento de 204% en ingresos interanuales en Q3, marcando un récord para la empresa. El desempeño se sustenta en el lanzamiento de Fallout Colas y una estrategia enfocada en i",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Wine Suppliers Face Growing Pressure to Measure Trade Spend Performance During OND",
-      "summary": "Durante la temporada de ventas de fin de año, los proveedores de vino enfrentan presión creciente para medir y optimizar el desempeño de sus gastos en promociones comerciales. La industria reconoce qu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo reportedly cutting around 1,000 jobs in North America restructuring",
-      "summary": "PepsiCo anuncia despidos de aproximadamente 1.000 empleados en Norteamérica como parte de una reestructuración corporativa. Este movimiento refleja ajustes estratégicos en la operación de su mayor mer",
+      "title": "PepsiCo reportedly cutting around 1,000 jobs in North America restructuring | FoodBev Media",
+      "summary": "PepsiCo anuncia el recorte de aproximadamente 1,000 empleados en su división de América del Norte como parte de una restructuración estratégica, según comunicado de su CEO Ram Krishnan. Esta medida re",
       "companies": [
         "PepsiCo"
       ],
@@ -3191,19 +3146,32 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola Rolls Out Festive Packs And Loyalty Rewards To Drive Christmas Sales - KamCity",
-      "summary": "Coca-Cola lanza packs festivos y programas de lealtad para impulsar ventas en temporada navideña. Esta estrategia de innovación en packaging y promoción del consumo es típica de la industria para capt",
+      "title": "PepsiCo Layoffs: Why Is Beverage Manufacturer Cutting 1,000 Jobs? Here's All You Need To Know - NDTV Profit",
+      "summary": "PepsiCo anunció despidos de 1,000 empleados como parte de una reestructuración corporativa. Esta medida refleja cambios estratégicos en la operación del fabricante de bebidas más grande del mundo, imp",
       "companies": [
-        "The Coca-Cola Company"
+        "PepsiCo"
       ],
       "segments": [
+        "consumer_market_trends",
         "financial_results"
       ],
       "region": "Mundial"
     },
     {
+      "title": "Noteworthy Launches: Poppi Founders Launch New Hydration Drink Jetty - Beverage-Digest",
+      "summary": "Los fundadores de Poppi lanzaron Jetty, una nueva bebida de hidratación que expande su portafolio más allá de los refrescos funcionales. Esta jugada estratégica de diversificación refuerza la posición",
+      "companies": [
+        "Poppi"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Fuller’s profits rise 25% as pub sales outperform market",
-      "summary": "Fuller's, operador de pubs del Reino Unido, reportó incremento de ganancias del 25% con ingresos de £220.9M en el primer semestre de 2026. Las ventas comparables en pubs y hoteles crecieron 6.1%, supe",
+      "summary": "Fuller's, operador de pubs británico, reportó crecimiento de ingresos del 6,5% a £220,9m y aumento de ganancias del 25% en los primeros seis meses de 2026. Las ventas comparables crecieron 6,1%, super",
       "companies": [
         "Asahi Group"
       ],
@@ -3213,8 +3181,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Suntory Beverage & Food: Revenue growth continued, but Middle East-related costs cut FY2026 income guidance - TradingView",
-      "summary": "Suntory Beverage & Food reportó crecimiento en ingresos, pero redujo su guidance de ganancias para FY2026 debido a costos incrementados relacionados con operaciones en Medio Oriente. Esta decisión ref",
+      "title": "Suntory Beverage & Food: Revenue grew, but cost pressures drove lower full-year profit guidance - TradingView",
+      "summary": "Suntory Beverage & Food reportó crecimiento de ingresos pero redujo su guía de ganancias para el ejercicio completo debido a presiones de costos. Este movimiento refleja desafíos críticos en márgenes ",
       "companies": [
         "Suntory Beverage & Food"
       ],
@@ -3226,7 +3194,7 @@
     },
     {
       "title": "[Suntory Beverage & Food FY2026 Q3 Earnings Call] Suntory B&F Cuts Full-Year Operating Profit Forecast by 4.8% as Middle East Cost Pressures Bite; Sales Revised Up 2.2%, Revenue and Profit Growth Maintained - finance.biggo.com",
-      "summary": "Suntory Beverage & Food redujo su pronóstico de ganancia operativa anual en 4.8% debido a presiones de costos en Oriente Medio, aunque mantiene crecimiento de ingresos y ganancias. A pesar del ajuste ",
+      "summary": "Suntory Beverage & Food redujo su previsión de ganancia operativa anual en 4.8% debido a presiones de costos en Medio Oriente, aunque mantiene crecimiento en ingresos y ganancias generales. A pesar de",
       "companies": [
         "Suntory Beverage & Food"
       ],
@@ -3237,8 +3205,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Seasonal Demand Provides a Stronger Weekly Lift as Wine Declines Remain Unchanged – NielsenIQ",
-      "summary": "Nielsen IQ reporta una caída sostenida en la categoría vino durante los cuatro meses finalizados el 31 de octubre, con ventas en dólares descendiendo 3.8% y volumen -5.3% interanual. La presión en est",
+      "title": "Elton John Launches a Zero-Alcohol Sparkling Wine Alternative in the United States",
+      "summary": "Elton John lanzó una alternativa de vino espumante sin alcohol a USD 25 en EE.UU. coincidiendo con la temporada de fiestas. El movimiento se alinea con el crecimiento acelerado del segmento de bebidas",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3247,32 +3215,43 @@
       "region": "Mundial"
     },
     {
-      "title": "Good Drinks outpaces beer market with strong FY26 growth",
-      "summary": "Good Drinks Australia reportó crecimiento de 6% en ingresos (USD 127,3M) en FY26, superando el desempeño del mercado cervecero nacional con aumentos de volumen en todos los mercados principales. El éx",
+      "title": "Southern Glazer’s targets 25% to 30% of revenue from beer, ready-to-drink products, non-alcoholic beverages",
+      "summary": "Southern Glazer's, major distributor estadounidense, busca aumentar la participación de cerveza, bebidas listas para consumir y productos sin alcohol del 10% actual a 25-30% de sus ingresos. Esta reor",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Angola became Portugal’s largest wine export market by volume in early 2026",
-      "summary": "Portugal posicionó a Angola como su principal mercado de exportación de vino por volumen en 2026, alcanzando 20.5 millones de litros con un crecimiento del 12.6%. Simultáneamente, los mercados tradici",
+      "title": "The decline in U.S. wine and spirits sales slowed in September",
+      "summary": "Las ventas de vino y licores en EE.UU. moderaron su caída en septiembre, según datos de SipSource. Los destilados mostraron recuperación en los últimos tres meses, mientras que el vino sigue presionad",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
-      "title": "Sainsbury’s trademark points to new functional beverage line",
-      "summary": "Sainsbury's ha registrado exitosamente la marca 'Aquify By Sainsbury's' ante la oficina de patentes británica, indicando el lanzamiento de una línea propia de bebidas funcionales de hidratación. Esta ",
+      "title": "U.S. retail wine sales fell 3.8% in the four weeks ending Oct. 31",
+      "summary": "Las ventas minoristas de vino en EE.UU. cayeron 3.8% en las cuatro semanas hasta el 31 de octubre, impulsadas por menor engagement del consumidor. Los segmentos de vinos espumantes y bebidas sin alcoh",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "ma_and_strategy"
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pictet Asset Management Holding SA Purchases 1,490,285 Shares of Monster Beverage Corporation $MNST - MarketBeat",
+      "summary": "Pictet Asset Management adquirió 1.49 millones de acciones de Monster Beverage Corporation, señalando movimiento institucional significativo en uno de los mayores productores de bebidas energéticas gl",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
