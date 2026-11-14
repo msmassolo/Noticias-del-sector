@@ -2768,7 +2768,7 @@
   "2026-11-14": [
     {
       "title": "Cervecería y Maltería Quilmes exporta más de 970 mil toneladas de cebada y malta consolidando su presencia en la cadena de valor cervecera global – Mundo Cerveza - MundoCerveza",
-      "summary": "Cervecería y Maltería Quilmes exporta más de 970 mil toneladas de cebada y malta, consolidando su posición en la cadena de valor cervecera global. Esta operación representa una estrategia de integraci",
+      "summary": "Cervecería y Maltería Quilmes exporta más de 970 mil toneladas de cebada y malta, consolidando su posición en la cadena de valor global cervecera. Esta iniciativa estratégica diversifica el negocio má",
       "companies": [
         "AB InBev",
         "Cerveceria y Malteria Quilmes"
@@ -2780,8 +2780,17 @@
       "region": "Local"
     },
     {
+      "title": "Rappi acelera Turbo y proyecta quintuplicar el delivery en Argentina a diez años",
+      "summary": "Rappi proyecta quintuplicar su operación de delivery en Argentina a diez años con una inversión de US$ 40 millones, aprovechando la baja penetración actual de apps de delivery (6%). La estrategia Turb",
+      "companies": [],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Walmart vende más, pero gana menos: sus gastos crecen casi el doble que sus ingresos",
-      "summary": "Walmart reporta crecimiento en ventas pero contracción en ganancias debido a que los gastos operacionales crecen al doble de la velocidad de los ingresos. Esta dinámica de compresión de márgenes es cr",
+      "summary": "Walmart reporta crecimiento de ingresos pero contracción de márgenes debido a que sus gastos operativos crecen casi al doble que sus ventas, reflejo de inversión en transformación digital y expansión.",
       "companies": [
         "Walmart"
       ],
@@ -2793,7 +2802,7 @@
     },
     {
       "title": "Heineken traz cerveja italiana Birra Moretti ao Brasil",
-      "summary": "Heineken lanza Birra Moretti, cerveza italiana premium, en Brasil a partir de diciembre en canales selectos (bares, pizzarías, cantinas) de São Paulo, Belo Horizonte y Curitiba. La estrategia busca fo",
+      "summary": "Heineken lanza Birra Moretti, marca cervecera italiana, en Brasil a partir de diciembre en canales selectos (bares, pizzarías, cantinas) de São Paulo, Belo Horizonte y Curitiba. La estrategia busca fo",
       "companies": [
         "Heineken"
       ],
@@ -2804,21 +2813,22 @@
       "region": "Regional"
     },
     {
-      "title": "Johnnie Walker em Edimburgo: um parque de diversões do uísque",
-      "summary": "Johnnie Walker inauguró un nuevo espacio experiencial de 8 pisos en Edimburgo que combina retail, experiencias inmersivas y educación sobre la marca. Esta inversión en destino turístico y brand buildi",
+      "title": "Heineken vai produzir cerveja italiana Birra Moretti no Brasil - GKPB - Geek Publicitário",
+      "summary": "Heineken expandirá su portafolio de marcas en Brasil asumiendo la producción local de Birra Moretti, cerveza italiana de su portafolio. Esta estrategia permite al grupo holandés diversificar su oferta",
       "companies": [
-        "Diageo"
+        "Heineken"
       ],
       "segments": [
-        "company_news"
+        "consumer_market_trends",
+        "marketing_innovation"
       ],
       "region": "Regional"
     },
     {
-      "title": "Sam’s Club lanza ofertas especiales por el Buen Fin 2026; Banamex, Nu, Banorte y BBVA ofrecen bonificaciones, además de descuentos en LALA y Nescafé",
-      "summary": "Sam's Club activa promociones especiales para el Buen Fin 2026 con descuentos en categorías clave de bebidas (LALA y Nescafé) y bonificaciones bancarias de BBVA, Banorte, Nu y Banamex. Este movimiento",
+      "title": "Heineken vai produzir tradicional cerveja italiana de 166 anos em fábrica no Brasil - Bnews",
+      "summary": "Heineken expandirá su portafolio de marcas produciendo en Brasil la cerveza italiana Peroni, marca con 166 años de trayectoria. Esta estrategia de localización permite a Heineken acceder al mercado su",
       "companies": [
-        "Walmart"
+        "Heineken"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2827,7 +2837,7 @@
     },
     {
       "title": "Anheuser-Busch Distribution Arm Acquires Straub in SoCal | Brewbound",
-      "summary": "Anheuser-Busch InBev adquirió los derechos de distribución de sus marcas y otras bebidas craft y no alcohólicas de Straub Distributing en Anaheim, California. Este movimiento consolidar el control ver",
+      "summary": "Anheuser-Busch InBev adquirió los derechos de distribución de sus marcas y otras bebidas artesanales y no alcohólicas del distribuidor Straub Distributing en Anaheim, California. Esta operación consol",
       "companies": [
         "AB InBev"
       ],
@@ -2839,7 +2849,7 @@
     },
     {
       "title": "The Buyers & Investors Who Matter, A ‘Super’ Deal & A Jetty Emerges",
-      "summary": "Poppi founders lanzan Jetty, una nueva marca de bebidas que marca su retorno al segmento después de Poppi. Se destaca una adquisición mayor en la categoría de superalimentos que reúne a dos pioneros d",
+      "summary": "Poppi founders lanzan Jetty, una nueva marca de bebidas, marcando su regreso al segmento tras Poppi. Simultáneamente, una adquisición mayor en la categoría de superfoods une a dos pioneros del segment",
       "companies": [
         "Poppi"
       ],
@@ -2851,7 +2861,7 @@
     },
     {
       "title": "Constellation Brands CEO Nick Fink on SpikedAde, Pacifico and Sunnier Days Ahead | Brewbound",
-      "summary": "Constellation Brands, a través de su CEO Nick Fink, presentó su estrategia de integración de SpikedAde, una bebida deportiva con base de vodka recientemente adquirida. La compañía busca redimirse de u",
+      "summary": "Constellation Brands, a través de su CEO Nick Fink, aborda la integración de SpikedAde, una bebida deportiva a base de vodka adquirida recientemente. La compañía busca demostrar capacidad en M&A tras ",
       "companies": [
         "Constellation Brands"
       ],
@@ -2861,20 +2871,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Danone completes acquisition of Australia’s Made Group | FoodBev Media",
-      "summary": "Danone completó la adquisición de Made Group, empresa australiana con portfolio en bebidas proteicas listas para consumo, yogurts funcionales para salud digestiva y productos a base de coco. Made Grou",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Truly Hard Seltzer offers custom Potluck Pack",
-      "summary": "Truly Hard Seltzer lanza el 'Potluck Pack', un pack personalizable dirigido a la tendencia de Friendsgiving, aprovechando que el 52% de jóvenes estadounidenses planean participar en estos eventos. La ",
+      "summary": "Truly Hard Seltzer lanzó un pack personalizable (Potluck Pack) dirigido a la tendencia de Friendsgiving, aprovechando que el 52% de consumidores jóvenes planea participar en estos eventos y el 63% esp",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2885,8 +2883,20 @@
       "region": "Mundial"
     },
     {
+      "title": "Danone completes acquisition of Australia’s Made Group | FoodBev Media",
+      "summary": "Danone completó la adquisición de Made Group, empresa australiana con portafolio en bebidas proteicas listas para beber, yogures funcionales de salud intestinal y productos a base de coco. Made Group ",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "PepsiCo’s Turnaround Gets Tougher",
-      "summary": "PepsiCo anuncia despidos de 1.000 empleados en Norteamérica como parte de su plan de reestructuración frente a caída de volumen (-2% en bebidas durante Q3). La estrategia previa de reducción de precio",
+      "summary": "PepsiCo implementa recorte de 1.000 empleos en América del Norte como parte de su plan de reestructuración, en respuesta a la caída de 2% en volumen de bebidas durante Q3. La estrategia anterior de re",
       "companies": [
         "PepsiCo"
       ],
@@ -2897,30 +2907,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Press Clips: Beer Institute Honors Former HUSA CFO; Stateside, Tilray Ink NBA Deals | Brewbound",
-      "summary": "Dan Walsh, ex CFO de Heineken USA, recibió póstumamente el Premio al Servicio de la Industria Cervecera Jeff Becker del Beer Institute. Este reconocimiento destaca la trayectoria de un ejecutivo clave",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Carl’s Jr., Monster Energy introduce Star Energy",
-      "summary": "Carl's Jr. lanzó Star Energy, una línea de bebidas co-branded con Monster Energy disponible por tiempo limitado en sus restaurantes. La iniciativa incluye bebidas de 24 oz infusionadas con Monster Zer",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Is Monster Beverage (MNST) A Bargain Following Strong Earnings Growth? - Simply Wall St",
-      "summary": "Monster Beverage reportó un fuerte crecimiento en ganancias, posicionándose potencialmente como una oportunidad de valuación atractiva en el mercado. Este análisis es relevante para empresas de bebida",
+      "summary": "Monster Beverage reporta crecimiento sólido en ganancias, generando debate sobre su valoración actual en el mercado. La análisis sugiere que las acciones podrían estar infravaloradas tras los resultad",
       "companies": [
         "Monster Beverage"
       ],
@@ -2932,7 +2920,7 @@
     },
     {
       "title": "Quincy Teams Up with Content Creator Hallie Batchelder to Launch “Hallie’s Way” Spicy Dirty Martini Mix",
-      "summary": "Quincy, marca de mixers para cócteles fundada por mujeres, lanza 'Hallie's Way', una variante spicy del dirty martini mix en colaboración con la content creator Hallie Batchelder. La estrategia de co-",
+      "summary": "Quincy, marca de cócteles fundada por mujeres, lanza 'Hallie's Way', un nuevo mix para martini sucio picante en colaboración con la creadora de contenido Hallie Batchelder. La estrategia combina innov",
       "companies": [
         "Bacardi"
       ],
@@ -2943,7 +2931,7 @@
     },
     {
       "title": "Is Celsius Holdings (CELH) Trading At A Premium After Record Revenue? - Simply Wall St",
-      "summary": "Celsius Holdings reportó ingresos récord, posicionándose como uno de los principales jugadores en la categoría de bebidas energéticas funcionales de alto crecimiento. El análisis evalúa si la valuació",
+      "summary": "Celsius Holdings reportó ingresos récord, generando análisis sobre su valuación actual en el mercado. La empresa continúa siendo uno de los principales competidores en el segmento de bebidas energétic",
       "companies": [
         "Celsius Holdings"
       ],
@@ -2954,7 +2942,7 @@
     },
     {
       "title": "AB InBev earmarks spend to expand RTD production for Cutwater Spirits in US - Global Drinks Intel",
-      "summary": "AB InBev invertirá en expandir la producción de bebidas ready-to-drink (RTD) para su marca Cutwater Spirits en Estados Unidos. Esta inversión refleja la estrategia del grupo de fortalecer su portafoli",
+      "summary": "AB InBev invertirá en la expansión de capacidad de producción de bebidas listas para consumir (RTD) para su marca Cutwater Spirits en Estados Unidos. Esta inversión refuerza la estrategia del grupo en",
       "companies": [
         "AB InBev"
       ],
@@ -2966,7 +2954,7 @@
     },
     {
       "title": "How NCAA Beer Deal At Constellation Brands (STZ) Has Changed Its Investment Story - Simply Wall St",
-      "summary": "Constellation Brands cerró un acuerdo de patrocinio con la NCAA que transforma su posicionamiento estratégico en deportes y marketing. Esta alianza amplía la visibilidad de sus marcas de cerveza (Coro",
+      "summary": "Constellation Brands (STZ) cerró un acuerdo de derechos de bebidas con la NCAA, reforzando su posicionamiento en el segmento de cerveza deportiva y entretenimiento en EE.UU. Este deal amplía la presen",
       "companies": [
         "Constellation Brands"
       ],
@@ -2978,7 +2966,7 @@
     },
     {
       "title": "Monster Beverage: Buy The Energy Drink, Sell The Stock (NASDAQ:MNST) - Seeking Alpha",
-      "summary": "Análisis de inversión sobre Monster Beverage (NASDAQ:MNST) que recomienda comprar el producto pero vender la acción. La nota evalúa la fortaleza del portafolio de bebidas energéticas de Monster versus",
+      "summary": "Análisis de inversión sobre Monster Beverage (MNST) que recomienda comprar el producto pero vender las acciones, sugiriendo una desalineación entre la fortaleza operacional de la marca y su valoración",
       "companies": [
         "Monster Beverage"
       ],
@@ -2990,7 +2978,7 @@
     },
     {
       "title": "Microsoft outage hits global food and drink",
-      "summary": "Un apagón global de Microsoft afectó significativamente a empresas de alimentos y bebidas entre el 12 y 13 de noviembre, generando estrés operativo crítico. El incidente impactó sistemas de correo ele",
+      "summary": "Un apagón global de Microsoft (12-13 de noviembre) impactó severamente operaciones en empresas de alimentos y bebidas, afectando sistemas críticos como Outlook y plataformas de monitoreo. La industria",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2999,8 +2987,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Remy Cointreau deploys AI hosts to sell cognac to late-night shoppers in China",
+      "summary": "Remy Cointreau implementa presentadores virtuales impulsados por IA para vender cognac a consumidores en horarios nocturnos en China, adaptándose a cambios en patrones de consumo donde las bebidas de ",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Booze News Weekly Roundup: Modelo Named Official Beer of the NCAA, Stoli Returns to the U.S. After Bankruptcy, and More",
-      "summary": "Modelo aseguró un acuerdo de patrocinio como cerveza oficial de la NCAA, mientras que Stoli regresa al mercado estadounidense tras resolver su situación de insolvencia. Estos movimientos reflejan estr",
+      "summary": "Modelo aseguró un acuerdo de patrocinio como cerveza oficial de la NCAA, mientras que Stoli regresa al mercado estadounidense tras resolver una situación de insolvencia. Estos movimientos reflejan est",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3010,7 +3009,7 @@
     },
     {
       "title": "Jack Daniel’s Debuts 2026 Heroes Selection: a Single Barrel Barrel Proof Rye",
-      "summary": "Jack Daniel's lanza su edición limitada 2026 Heroes Selection, un whisky de centeno Tennessee a prueba de barril seleccionado por Jason Bobo, veterano del ejército y empleado de la destilería. Esta in",
+      "summary": "Jack Daniel's lanza la edición limitada 2026 Heroes Selection, un whiskey de centeno barrel proof de barril único seleccionado por veteranos militares. La estrategia de ediciones limitadas anuales ref",
       "companies": [
         "Brown-Forman"
       ],
@@ -3021,7 +3020,7 @@
     },
     {
       "title": "Canada Beer Recall: Coors Light, Molson Canadian and Blue Moon Recalled Over Metal Pieces - Culture Alberta",
-      "summary": "Recall de cerveza en Canadá que afecta marcas relevantes: Coors Light, Molson Canadian y Blue Moon contienen fragmentos metálicos. Este incidente de seguridad del producto tiene implicancias directas ",
+      "summary": "Molson Coors Canada emitió un recall de productos de marcas clave (Coors Light, Molson Canadian y Blue Moon) por presencia de fragmentos metálicos en las bebidas. Este tipo de incidente afecta directa",
       "companies": [
         "Molson Coors"
       ],
@@ -3032,18 +3031,8 @@
       "region": "Mundial"
     },
     {
-      "title": "AdVini Enters Exclusive Talks to Buy Bonne Nouvelle and Mythique",
-      "summary": "AdVini avanza en negociaciones exclusivas para adquirir las marcas de vino sin alcohol Bonne Nouvelle y Mythique, sumando aproximadamente 14 millones de euros en ventas anuales. La operación refuerza ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Karnataka’s alcohol-content tax cut per capita pure alcohol consumption 2.4%",
-      "summary": "Karnataka implementó una reducción fiscal en bebidas alcohólicas basada en contenido de alcohol, resultando en una caída del 2.4% en el consumo per cápita de alcohol puro. Los ingresos por impuestos e",
+      "summary": "Karnataka redujo los impuestos sobre bebidas alcohólicas en función del contenido de alcohol, generando una disminución del 2.4% en el consumo per cápita de alcohol puro. A pesar de ello, los ingresos",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3052,8 +3041,19 @@
       "region": "Mundial"
     },
     {
-      "title": "Has wine got caught up in a cultural revolution?",
-      "summary": "Las ventas de vino enfrentan una caída estructural vinculada a un cambio cultural más profundo, según analista Rod Phillips. Este desplazamiento representa una tendencia secular que impactará la estra",
+      "title": "Bernstein reiterates Pepsico stock rating citing beverage woes By Investing.com - Investing.com India",
+      "summary": "Bernstein reitera su calificación sobre las acciones de PepsiCo enfatizando dificultades en su negocio de bebidas. La evaluación de un analista de referencia sobre el principal competidor global impac",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Portugal’s wine export revenue fell 6.2% in the first half of 2026",
+      "summary": "Las exportaciones de vino portugués cayeron 6,2% en la primera mitad de 2026, principalmente por debilitamiento en formatos de menos de dos litros. Ocho de los diez principales mercados de Portugal re",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3063,7 +3063,7 @@
     },
     {
       "title": "Chile posted its weakest first-half wine export revenue since 2021",
-      "summary": "Las exportaciones de vino chileno cayeron 15,3% en el primer semestre a 568,48 millones de euros, el nivel más bajo desde 2021, impulsado por menores envíos de vino envasado en mercados principales. E",
+      "summary": "Las exportaciones de vino chileno cayeron 15,3% en la primera mitad de 2024, alcanzando 568,48 millones de euros, el nivel más bajo desde 2021. La contracción se explica por menores envíos de vino env",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3072,8 +3072,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Portugal’s wine export revenue fell 6.2% in the first half of 2026",
-      "summary": "Las exportaciones de vino portugués cayeron 6.2% en la primera mitad de 2026, impulsadas por la debilidad en ventas de envases menores a dos litros. Ocho de los diez principales mercados de Portugal r",
+      "title": "HiteJinro lifts third-quarter operating profit 6.2% despite weaker sales",
+      "summary": "HiteJinro, principal fabricante de licores en Corea del Sur, reportó caída de ingresos del 5.5% en Q3 pero logró incrementar ganancias operativas 6.2%, demostrando mejora en márgenes a pesar de debili",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3083,7 +3083,7 @@
     },
     {
       "title": "Táche launches first chocolate pistachio milk with limited-edition Peppermint Mocha Barista | FoodBev Media",
-      "summary": "Táche lanza Peppermint Mocha Barista, su primera leche de pistacho con chocolate en edición limitada, ampliando su portafolio de bebidas plant-based. Esta innovación refleja la estrategia de la marca ",
+      "summary": "Táche lanza Peppermint Mocha Barista, su primer producto de leche de pistacho con chocolate en edición limitada. Esta innovación expande el portafolio de bebidas plant-based de la marca, apuntando al ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3092,8 +3092,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Activequity Acquires Liberty Wines in a Deal That Reshapes Premium Wine Distribution in the U.K. and Ireland",
-      "summary": "Activequity adquirió Liberty Wines, restructurando la distribución premium de vinos en Reino Unido e Irlanda. La operación refuerza el control de canales modernos de distribución en el sector de bebid",
+      "title": "Anheuser-Busch acquires Straub Distributing in Southern California",
+      "summary": "Anheuser-Busch adquirió Straub Distributing, consolidando sus derechos de distribución en el competitivo mercado de bebidas del sur de California. La operación fortalece el control vertical de AB sobr",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3102,20 +3102,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Heineken vai produzir cerveja italiana Birra Moretti no Brasil - GKPB - Geek Publicitário",
-      "summary": "Heineken iniciará la producción local de Birra Moretti en Brasil, aprovechando su presencia manufacturera para expandir el portafolio de marcas premium. Esta estrategia de integración vertical reduce ",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Theon Global Makes Waves in the Functional Beverage Industry",
-      "summary": "Theon Global expande su posición en el segmento de bebidas funcionales con su marca AETHER Superfood Blend, enfocándose en formulaciones innovadoras de superalimentos y formatos de hidratación conveni",
+      "summary": "Theon Global expande su presencia en el segmento de bebidas funcionales con su línea AETHER Superfood Blend en formato polvo. La estrategia se enfoca en ingredientes innovadores, formulaciones con sup",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3125,7 +3113,7 @@
     },
     {
       "title": "Jetty reimagining hydration beverages",
-      "summary": "Jetty lanza su línea insignia de bebidas listas para beber (RTD) y polvos para preparar, ampliando su portafolio en el segmento de hidratación. Este movimiento representa la competencia creciente en l",
+      "summary": "Jetty lanzó su línea principal de bebidas RTD (ready-to-drink) e hidratantes en polvo listos para mezclar, expandiendo su portafolio en el segmento de bebidas funcionales de hidratación. Este movimien",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -3135,21 +3123,11 @@
     },
     {
       "title": "Slideshow: Building the next wave of functional beverages",
-      "summary": "La industria de bebidas está desarrollando la próxima generación de productos funcionales enfocados en atributos como energía, hidratación y salud digestiva. Este movimiento refleja una tendencia estr",
+      "summary": "La industria de bebidas funcionales continúa evolucionando con énfasis en atributos clave como energía, hidratación y salud digestiva. Este segmento representa una oportunidad estratégica de crecimien",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "New Beverages: Jetty Arrives, Kirkland Does Modern Soda, Bloom Pop Expands - BevNET.com",
-      "summary": "Jetty lanza su línea de bebidas RTD (ready-to-drink), marcando la expansión de Almave desde destilados sin alcohol hacia el segmento de bebidas listas para consumir. Además se registran nuevos lanzami",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
