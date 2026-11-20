@@ -2317,7 +2317,7 @@
   "2026-11-20": [
     {
       "title": "De cara a 2027: las expectativas de la industria siguen en rojo, pero mejoran las de los supermercados",
-      "summary": "La industria manufacturera argentina proyecta mayor pesimismo para 2027 con reducción esperada de producción y empleo, mientras que supermercados y autoservicios mayoristas muestran recuperación relat",
+      "summary": "La industria manufacturera argentina anticipa contracción en producción y empleo para 2027, mientras que supermercados y autoservicios mayoristas muestran recuperación en expectativas, aunque limitada",
       "companies": [],
       "segments": [
         "distribution_execution"
@@ -2326,7 +2326,7 @@
     },
     {
       "title": "Fábricas en ROJO, góndolas con OPTIMISMO: qué pasa con la ECONOMÍA real",
-      "summary": "La confianza empresarial en Argentina presenta divergencias críticas: la industria manufacturera reporta -20% en octubre (caída significativa), mientras que supermercados y autoservicios mayoristas mu",
+      "summary": "La confianza empresarial en Argentina diverge entre sectores: la industria manufacturera cae 20% en octubre mientras que supermercados y autoservicios mayoristas muestran leve optimismo (+0,4%). Esta ",
       "companies": [],
       "segments": [
         "distribution_execution"
@@ -2335,7 +2335,7 @@
     },
     {
       "title": "Brewbound Podcast: How Benny Boy is Bringing the Orchard to the City",
-      "summary": "Benny Boy se posiciona como la primera cidería de Los Ángeles con estrategia de diferenciación enfocada en productos artesanales de huerta. En paralelo, se registran movimientos significativos en la i",
+      "summary": "Benny Boy, la primera cidería de Los Ángeles, busca posicionarse en el mercado urbano con un concepto de producción local. Simultáneamente, se reportan movimientos estratégicos relevantes en la indust",
       "companies": [
         "AB InBev"
       ],
@@ -2346,8 +2346,32 @@
       "region": "Mundial"
     },
     {
+      "title": "Daiwa cuts China Resources Beer target price to HK$27 on weaker demand outlook",
+      "summary": "Daiwa redujo el precio objetivo de China Resources Beer a HK$27 por debajo de estimaciones previas, citando recuperación de volumen más lenta y costos de insumos elevados. Aunque mantiene calificación",
+      "companies": [
+        "China Resources Snow Breweries"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Distribution: Spacemilk Lifts Off In Sprouts, Pepsi Reloads With Hyatt",
+      "summary": "Spacemilk, polvo proteico a base de levadura sin suero de leche, ingresa a la distribución retail mediante Sprouts, marcando su debut en góndola. Simultáneamente, Once Upon A Coconut expande su presen",
+      "companies": [
+        "PepsiCo",
+        "Walmart"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Boston Beer COO Phil Hodges Promoted to CEO; Jim Koch to Remain Executive Chairman",
-      "summary": "Boston Beer Company promovió a su COO Phil Hodges a CEO a partir del 23 de noviembre, mientras que Jim Koch permanecerá como presidente ejecutivo. Este cambio en la estructura de liderazgo en una empr",
+      "summary": "Boston Beer Company promovió a su COO Phil Hodges a la posición de CEO, con efectividad desde el 23 de noviembre, mientras que Jim Koch permanece como Presidente Ejecutivo. Este cambio de liderazgo en",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2357,19 +2381,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Booze News Weekly Roundup: Pause Continues at Jim Beam Facility, Global Wine Output Remains at Record Low, and More",
-      "summary": "Jim Beam mantiene pausada su producción principal, impactando la oferta de whiskey en el mercado global. La producción mundial de vino se proyecta en mínimos históricos para 2026, generando presión en",
-      "companies": [
-        "Beam Suntory"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "PepsiCo (PEP) Stock: Drops as Company Secures 10-Year Beverage Deal With Hyatt Across 700+ Hotels in America - Blockonomi",
-      "summary": "PepsiCo aseguró un contrato de 10 años como proveedor exclusivo de bebidas en más de 700 hoteles Hyatt en América, reforzando su presencia en el canal de hospitalidad. El acuerdo representa una expans",
+      "summary": "PepsiCo aseguró un contrato de 10 años como proveedor exclusivo de bebidas para más de 700 hoteles Hyatt en América, reforzando su posición en el canal horeca de alto valor. Este acuerdo garantiza ing",
       "companies": [
         "PepsiCo"
       ],
@@ -2380,8 +2393,42 @@
       "region": "Mundial"
     },
     {
+      "title": "Booze News Weekly Roundup: Pause Continues at Jim Beam Facility, Global Wine Output Remains at Record Low, and More",
+      "summary": "Jim Beam mantiene pausa de producción en su planta principal, mientras que las proyecciones globales de vino para 2026 alcanzan mínimos históricos. Estos desarrollos impactan la oferta de categorías c",
+      "companies": [
+        "Beam Suntory"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "No more Red Bull or Monster for NJ teens? New bill could ban sales to kids under 16 - New Jersey 101.5",
+      "summary": "Nueva Jersey avanza hacia una prohibición de venta de bebidas energéticas a menores de 16 años, afectando marcas como Red Bull y Monster. Esta legislación representa un precedente regulatorio que podr",
+      "companies": [
+        "Red Bull"
+      ],
+      "segments": [
+        "financial_results",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "W.L. Weller grew 78.1% in tracked U.S. retail channels",
+      "summary": "W.L. Weller, marca premium de whiskey de Sazerac, registró un crecimiento del 78.1% en canales minoristas rastreados de EE.UU. durante 2025, con volumen de 325,000 cajas de nueve litros según datos de",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Total Wine Adult Non-Alc Sales Top $75M; NA Beer 6.5% of Beer Sales",
-      "summary": "Total Wine & More reporta ventas de bebidas sin alcohol para adultos (ANA) superiores a $75M, con un crecimiento del 125% entre 2022 y 2026. Las categorías de vino sin alcohol y bebidas funcionales li",
+      "summary": "Total Wine & More reporta ventas de bebidas sin alcohol para adultos (ANA) superiores a $75M, con crecimiento del 125% entre 2022 y 2026. El segmento de vino sin alcohol y bebidas funcionales son los ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2391,7 +2438,7 @@
     },
     {
       "title": "Welch’s launches low-sugar grape sparkling juice at Walmart | FoodBev Media",
-      "summary": "Welch's lanzó una variante de jugo espumante de uva con bajo contenido de azúcar (4g totales, sin azúcar añadida, 25 calorías por porción de 237ml) en Walmart. Este movimiento responde a la demanda cr",
+      "summary": "Welch's lanzó una nueva variante de jugo espumante con sabor a uva bajo en azúcar (4g de azúcar total, sin azúcares añadidos, 25 calorías por 237ml) en Walmart, alineada con su campaña navideña 'That'",
       "companies": [
         "Walmart"
       ],
@@ -2403,7 +2450,7 @@
     },
     {
       "title": "How GLP-1s are accelerating dairy protein demand",
-      "summary": "El auge de los medicamentos GLP-1 (como Ozempic y Wegovy) está impulsando significativamente la demanda de proteínas lácteas, particularmente suero de leche. Los usuarios de estos fármacos requieren a",
+      "summary": "El crecimiento de medicamentos GLP-1 (como semaglutida) está acelerando la demanda de proteínas lácteas de alto contenido proteico. Los usuarios de estos fármacos requieren alimentos más densos nutric",
       "companies": [
         "Danone"
       ],
@@ -2414,7 +2461,7 @@
     },
     {
       "title": "Molson Coors Canada Stock Outlook: Brand Strength Versus Beer Industry Headwinds - kalkine.ca",
-      "summary": "Análisis de perspectivas de Molson Coors Canada evaluando la fortaleza de marca frente a vientos en contra de la industria cervecera. La compañía enfrenta presiones de mercado típicas del sector (camb",
+      "summary": "Análisis de perspectivas de Molson Coors Canadá evaluando la fortaleza de sus marcas frente a los vientos en contra del mercado cervecero regional. La noticia examina la posición competitiva de uno de",
       "companies": [
         "Molson Coors"
       ],
@@ -2426,7 +2473,7 @@
     },
     {
       "title": "Why relaxation could be the next functional beverage frontier",
-      "summary": "El mercado de bebidas funcionales está evolucionando hacia un nuevo segmento enfocado en relajación y bienestar mental, dejando atrás la saturación de bebidas energéticas y de rendimiento. Retailers c",
+      "summary": "El mercado de bebidas funcionales evoluciona hacia productos de relajación y bienestar mental, desplazando el foco de energía y rendimiento. Walmart ha creado una categoría dedicada 'Mood and Mindset'",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2436,7 +2483,7 @@
     },
     {
       "title": "Stonegate Agrees to Sell 300 British Pubs to Heineken for £300 Million",
-      "summary": "Stonegate venderá 300 pubs británicos a Heineken por £300 millones, posicionando a la cervecera holandesa como el segundo grupo de pubs más grande del Reino Unido. La operación permite a Stonegate red",
+      "summary": "Stonegate vende 300 pubs británicos a Heineken por £300 millones, posicionando a Heineken como el segundo operador de bares más grande del Reino Unido. Esta expansión de canales directos de distribuci",
       "companies": [
         "Heineken"
       ],
@@ -2446,8 +2493,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Sazerac raises its Berentzen takeover offer to €6.65 a share",
+      "summary": "Sazerac elevó su oferta de adquisición de Berentzen a €6.65 por acción, un incremento del 19.8% respecto a la propuesta inicial, tras remover la condición de umbral mínimo de aceptación. Esta movida e",
+      "companies": [
+        "Sazerac Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Molson Coors Beverage Company $TAP Stock: Public Sector Pension Investment Board Raises Stake - MarketBeat",
-      "summary": "El Public Sector Pension Investment Board aumentó su participación accionaria en Molson Coors Beverage Company (TAP), uno de los principales productores de bebidas alcohólicas de América del Norte. Es",
+      "summary": "El Public Sector Pension Investment Board (fondo canadiense) incrementó su posición accionaria en Molson Coors Beverage Company, uno de los mayores productores de cerveza norteamericanos. Este movimie",
       "companies": [
         "Molson Coors"
       ],
@@ -2458,18 +2516,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Non-alcoholic beverage growth slows as category moves mainstream, pushing brands to consider next steps",
-      "summary": "Las ventas de bebidas sin alcohol para adultos crecieron 12.3% alcanzando USD 1.12 mil millones en los últimos 52 semanas, pero el ritmo se desaceleró tras años de crecimiento de doble dígito. Este ra",
+      "title": "7 drinks for dogs: From functional hydration to beer and wine",
+      "summary": "Emerge una nueva categoría de bebidas para mascotas que replica formatos e ingredientes de bebidas humanas, incluyendo bebidas funcionales con proteína y electrolitos, productos lácteos y bebidas insp",
       "companies": [],
       "segments": [
         "consumer_market_trends",
-        "distribution_execution"
+        "product_innovation"
       ],
       "region": "Mundial"
     },
     {
       "title": "Germany Drops a Sparkling Wine Tax Increase From Its 2027 Revenue Package",
-      "summary": "Alemania eliminó un aumento de impuestos específico a vinos espumantes de su paquete de ingresos 2027, aunque mantiene la estrategia de incrementar gravámenes a alcohol, tabaco y bebidas azucaradas pa",
+      "summary": "Alemania retira un aumento de impuestos específico a vinos espumantes de su paquete fiscal 2027, aunque mantiene su plan de aumentar gravámenes más amplios sobre alcohol, tabaco y bebidas azucaradas p",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2478,18 +2536,19 @@
       "region": "Mundial"
     },
     {
-      "title": "President Karol Nawrocki Signed a Law Raising Poland’s Alcohol Taxes in 2027",
-      "summary": "El presidente de Polonia, Karol Nawrocki, firmó una ley que aumentará los impuestos de accisas sobre cerveza, vino y destilados a partir de 2027. Los ingresos recaudados se destinarán al Fondo Naciona",
-      "companies": [],
+      "title": "Fitness beverage company Celsius to pay $3 million fine to settle US SEC accounting case - ETLegalWorld.com",
+      "summary": "Celsius, empresa líder en bebidas energéticas y fitness, pagará $3 millones para resolver un caso de irregularidades contables ante la SEC estadounidense. El acuerdo cierra investigaciones sobre práct",
+      "companies": [
+        "Celsius Holdings"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "financial_results"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Black Friday has overtaken winter as Brazil’s biggest wine sales season",
-      "summary": "Black Friday se ha convertido en la temporada de mayores ventas de vino en Brasil, superando a la temporada invernal tradicional. Los descuentos extendidos durante semanas generan aproximadamente el 2",
+      "summary": "Black Friday se consolidó como la principal temporada de ventas de vino en Brasil, superando la estación invernal tradicional. Los minoristas reportan que los descuentos prolongados durante este perío",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2499,7 +2558,7 @@
     },
     {
       "title": "Bero expands non-alcoholic beer range with limited-edition Big Apple Shandy | FoodBev Media",
-      "summary": "Bero, marca premium de cerveza sin alcohol, lanza Big Apple Shandy, una edición limitada estacional que combina perfiles florales, direccionada a capturar demanda de alternativas libres de alcohol en ",
+      "summary": "Bero, marca premium de cerveza sin alcohol, lanza Big Apple Shandy, una edición limitada estacional que combina perfiles florales con tendencia de bebidas sin alcohol. El lanzamiento nacional en EE.UU",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2508,18 +2567,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Bronco Wine Company Announces National Distribution Partnership with YUTUMOMO, the World’s First Milk Candy Whiskey",
-      "summary": "Bronco Wine Company, productor argentino relevante, expande su portafolio hacia destilados con la distribución nacional de YUTUMOMO, un whiskey de licor con sabor a caramelo de leche. Este movimiento ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Consumers seek functional products that promote rest",
-      "summary": "Investigación de Knit revela oportunidad estratégica desatendida: consumidores estadounidenses demandan productos funcionales para mejorar el sueño. Mientras marcas se enfocan en hidratación, inmunida",
+      "title": "Liquid I.V. Hydration Multiplier Cozy Caramel Hot Chocolate",
+      "summary": "Liquid I.V. lanzó Hydration Multiplier Cozy Caramel Hot Chocolate, una edición limitada que amplía su portafolio de bebidas funcionales hacia el segmento de bebidas calientes. El producto está disponi",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2529,47 +2578,17 @@
     },
     {
       "title": "IFF launches AI-powered tool for food and beverage concept development | FoodBev Media",
-      "summary": "IFF lanzó Concept Muse, una plataforma impulsada por IA que asiste a fabricantes de alimentos y bebidas en identificar oportunidades de mercado y desarrollar nuevos conceptos de productos. La herramie",
+      "summary": "IFF lanzó Concept Muse, una plataforma impulsada por IA que asiste a fabricantes de bebidas en identificar oportunidades de mercado y desarrollar nuevos conceptos de productos. La herramienta integra ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Liquid I.V. Hydration Multiplier Cozy Caramel Hot Chocolate",
-      "summary": "Liquid I.V. lanzó una edición limitada de su producto Hydration Multiplier con sabor Cozy Caramel Hot Chocolate, posicionado como solución de hidratación para la temporada navideña. El producto está d",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. beer shipments fell 3.9% through September",
-      "summary": "Los envíos de cerveza en EE.UU. cayeron 3,9% acumulado hasta septiembre, equivalente a 5,5 millones de barriles menos, con el tercer trimestre registrando una contracción cercana al 4%. A pesar del ap",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Air Water Ventures to acquire Proud Source Water in $150m deal | FoodBev Media",
-      "summary": "Air Water Ventures (Nasdaq) adquiere Proud Source Water por hasta USD 150 millones, ampliando su portafolio en el segmento de agua embotellada premium en EE.UU. La transacción fortalece las capacidade",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Hyatt and PepsiCo Ink a 10-Year F&B Deal Spanning 700+ U.S. Hotels - Food & Beverage Magazine",
-      "summary": "PepsiCo cerró un acuerdo de 10 años con Hyatt Hotels para abastecer bebidas y alimentos en más de 700 establecimientos en EE.UU. La alianza amplía significativamente la distribución de PepsiCo en el c",
+      "summary": "PepsiCo firmó un acuerdo de 10 años con Hyatt para surtir bebidas y alimentos en más de 700 hoteles estadounidenses. Este deal representa una expansión significativa del canal horeca para PepsiCo, con",
       "companies": [
         "PepsiCo"
       ],
@@ -2580,12 +2599,55 @@
       "region": "Mundial"
     },
     {
+      "title": "What happens to Stonegate pubs if Heineken buys them? Tenants, staff and the beer tie explained - Nacionale",
+      "summary": "Heineken evalúa la adquisición de Stonegate, la segunda cadena de pubs más grande del Reino Unido con ~4,400 establecimientos. La operación tendría implicaciones críticas en la estrategia de distribuc",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "NA Wine, Functional Drinks Lead Growth in Total Wine’s $75M Adult Non-Alc Set",
-      "summary": "Total Wine & More reporta crecimiento del 125% en ventas de bebidas sin alcohol para adultos (ANA) entre FY2022 y FY2026, alcanzando $75M. Los segmentos de vino sin alcohol y bebidas funcionales lider",
+      "summary": "Total Wine & More reporta crecimiento del 125% en ventas de bebidas no alcohólicas para adultos (ANA) entre FY 2022-2026, alcanzando $75M. Los segmentos de mayor dinamismo son vinos sin alcohol y bebi",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Total Wine passes $75 million in adult non-alcoholic beverage sales",
+      "summary": "Total Wine alcanzó $75 millones en ventas de bebidas no alcohólicas para adultos, con cerveza sin alcohol representando el 6.5% de su negocio cervecero. Este hito demuestra la penetración creciente de",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Non-alcoholic beverage growth slows as category moves mainstream, pushing brands to consider next steps",
+      "summary": "Las ventas de bebidas no alcohólicas crecieron 12.3% a $1.12 mil millones en 2026, pero el ritmo de expansión desaceleró tras años de crecimiento de dos dígitos. Esta ralentización refleja la maduraci",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stonegate agrees £300m sale of 300 pubs to Heineken, reports claim",
+      "summary": "Heineken adquiere 300 pubs premium de Stonegate por £300 millones, operación que podría completarse a fin de noviembre. La transacción se realiza sobre la cartera Platinum de mayor valor de Stonegate,",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "company_news"
       ],
       "region": "Mundial"
     }
