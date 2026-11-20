@@ -1,392 +1,4 @@
 {
-  "2026-11-12": [
-    {
-      "title": "La Serenísima volvió a ganar dinero: el plan de Arcor y Danone para recuperar ventas y alcanzar exportaciones récord",
-      "summary": "Mastellone Hermanos (La Serenísima) bajo control de Arcor y Danone reporta ganancia neta de $8.133M en primeros 9 meses de 2026, revirtiendo pérdida de $37.856M en igual período 2025. La reestructurac",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Mastellone redujo 64,4% su deuda financiera y reorganiza el negocio con Arcor y Danone",
-      "summary": "Mastellone, empresa controladora de la marca La Serenísima, redujo su deuda financiera en 64,4% y está reorganizando su estructura accionaria con los nuevos controlantes Arcor y Danone. Esta operación",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Tecate Ice Light extiende su llegada al sureste y occidente de México",
-      "summary": "Tecate Ice Light expande su distribución en México hacia regiones del sureste (Yucatán, Campeche, Quintana Roo) y occidente (Guanajuato, Querétaro, San Luis Potosí, Aguascalientes, Zacatecas), complet",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Bebidas lácteas ganham espaço na alimentação saudável",
-      "summary": "El mercado global de bebidas lácteas crecerá hasta US$210 mil millones en 2031, impulsado por la demanda de productos funcionales con beneficios para la salud. Este segmento representa una oportunidad",
-      "companies": [
-        "Yakult Honsha"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Walmart identifica cambios en el consumo de los mexicanos: los abarrotes impulsan las ventas, mientras las mercancías generales pierden dinamismo",
-      "summary": "Walmart México reporta estabilización de tráfico de clientes tras nueve trimestres de caída, con cambio significativo en mix de consumo: abarrotes (bebidas, alimentos) lideran crecimiento mientras mer",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Carl’s Jr. and Monster Energy Team Up to Launch a New Drink Menu: What’s Included and When It Will Be Available",
-      "summary": "Carl's Jr. lanzó una línea de bebidas en co-branding con Monster Energy, integrando Monster Zero Ultra con otras bebidas populares en seis opciones de menú. Esta alianza representa una estrategia de d",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Poppi Creators Out to Disrupt Hydration With jetty",
-      "summary": "Los creadores de Poppi (Allison y Stephen Ellsworth) lanzan jetty, una nueva marca de bebidas de hidratación para competir con Gatorade, tras vender Poppi a PepsiCo por US$1.95 mil millones. La estrat",
-      "companies": [
-        "PepsiCo",
-        "Poppi"
-      ],
-      "segments": [
-        "product_innovation",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brazilian brewers enter year-end with weak demand despite the World Cup",
-      "summary": "Ambev, principal productor de cerveza en Brasil, reporta débil desempeño con apenas 0.5% de crecimiento volumétrico en Q3, reflejando demanda deprimida incluso durante el Mundial. La industria cervece",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Profits jump at Fuller’s – The Brewers Journal",
-      "summary": "Fuller's, cadena británica de pubs y hoteles, reportó un incremento del 25% en ganancias ajustadas antes de impuestos (£28,2M vs £22,5M en H1), impulsado por fuertes ventas de cervezas premium como As",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "financial_results",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands Appeals Preliminary Injunction Blocking Exit from Coors Distributing | Brewbound",
-      "summary": "Constellation Brands apela una orden judicial que bloquea su salida de Coors Distributing Company (CDC). La disputa judicial sobre la terminación de esta relación de distribución tiene implicancias cr",
-      "companies": [
-        "Molson Coors",
-        "Constellation Brands"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Constellation Brands Is Building the Next Generation of Cultural Partnerships",
-      "summary": "Constellation Brands aseguró a Modelo como la cerveza oficial de la NCAA, reflejando una estrategia de crecimiento centrada en asociaciones culturales de alto valor. Esta alianza posiciona a Modelo en",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage stock balances record sales against margin pressure - ad-hoc-news.de",
-      "summary": "Monster Beverage reportó ventas récord, pero enfrenta presión en márgenes de ganancia. La empresa debe equilibrar el crecimiento de volumen con la contención de costos operacionales y de materia prima",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands sells Nelson’s Green Brier to founding family - Global Drinks Intel",
-      "summary": "Constellation Brands desinvirtió de Nelson's Green Brier, marca de whiskey estadounidense, vendiéndola de vuelta a la familia fundadora. Esta operación refleja la estrategia de Constellation de racion",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "McDonald's vs. Monster Beverage: One Is Growing Nearly 3 Times Faster. Which Is the Better Buy for 2027? - The Motley Fool",
-      "summary": "Monster Beverage crece a ritmo tres veces superior al de McDonald's, posicionándose como protagonista en el segmento de bebidas energéticas. El análisis comparativo destaca la dinámica de crecimiento ",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is Earnings And Alta Launch Altering The Investment Case For Keurig Dr Pepper (KDP)? - Simply Wall St",
-      "summary": "Keurig Dr Pepper (KDP) experimenta cambios en su caso de inversión derivados de resultados financieros recientes y el lanzamiento de Alta, su nueva línea de bebidas de alto rendimiento. Este movimient",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Coca-Cola Company (TAIWAN) is recognised for tea innovation at FMCG Asia Awards 2026 - Retail Asia",
-      "summary": "Coca-Cola Taiwan fue reconocida en los FMCG Asia Awards 2026 por innovación en té, evidenciando la apuesta de la compañía en categorías de bebidas calientes y productos regionales de alto crecimiento.",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "We Like The Quality Of Molson Coors Beverage's (NYSE:TAP) Earnings - Simply Wall St",
-      "summary": "Molson Coors Beverage (NYSE:TAP) recibe evaluación positiva sobre la calidad de sus resultados financieros según análisis de Simply Wall St. La empresa, uno de los principales fabricantes de bebidas a",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "The Coca-Cola Company Announces Participation in Morgan Stanley Global Consumer & Retail Conference - Business Wire",
-      "summary": "Coca-Cola participa en la Conferencia Global de Consumo y Retail de Morgan Stanley, plataforma clave para presentar estrategia corporativa a inversores institucionales. Este tipo de conferencias son c",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Oatly, a Swedish oat beverage brand, has launched its first plant-based cold form in Korea that bubb.. - 매일경제",
-      "summary": "Oatly, la marca sueca de bebidas de avena, lanzó su primer formato plant-based frío en Corea del Sur con características innovadoras de textura. Este movimiento refleja la expansión estratégica de Oat",
-      "companies": [
-        "Oatly"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Costco Canada offering refunds following recall on drinks with metal pieces - Daily Hive",
-      "summary": "Costco Canada inició un programa de reembolsos tras el retiro de bebidas del mercado contaminadas con fragmentos de metal. Este recall afecta la reputación de la cadena de distribución y genera pasivo",
-      "companies": [
-        "Costco"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. retail wine sales fell 3.8% in the four weeks ending Oct. 31",
-      "summary": "Las ventas minoristas de vino en EE.UU. cayeron 3,8% en las cuatro semanas hasta el 31 de octubre, impulsadas principalmente por menor engagement del consumidor. Sin embargo, los segmentos de vinos es",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Germany Drops Planned 20% Increase in Sparkling Wine Tax",
-      "summary": "Alemania canceló un aumento impositivo del 20% previsto en vinos espumantes tras advertencias de que profundizaría la crisis de ventas en el mercado vinícola. La reversión de esta política fiscal evit",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage: Protein Adds Another Growth Engine, But Stock Is Still Expensive (MNST) - Seeking Alpha",
-      "summary": "Monster Beverage expandió su portafolio hacia bebidas proteicas, abriendo un nuevo segmento de crecimiento en la categoría de bebidas funcionales de alto margen. La estrategia de diversificación busca",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (NASDAQ:MNST) Downgraded by Zacks Research to \"Hold\" - MarketBeat",
-      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beyond Red Bull: A new generation of energy drinks is being reshaped for focus and fuel - The Globe and Mail",
-      "summary": "La industria de bebidas energizantes está experimentando una transformación más allá de los modelos tradicionales como Red Bull, con nuevas formulaciones enfocadas en productividad y concentración. Es",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "LG H&H Subsidiary Coca-Cola Beverage Reported 'Delegation of Management Responsibility Under Serious Accidents Law' 10 Months Before Fatal Accident…Scope of CEO Lee Hee-gon's Responsibility at Issue - 뉴스필드",
-      "summary": "Coca-Cola Beverage, subsidiaria de LG H&H, reportó una delegación de responsabilidad gerencial bajo la Ley de Accidentes Graves 10 meses antes de un accidente fatal. El caso cuestiona el alcance de la",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Angola became Portugal’s largest wine export market by volume in early 2026",
-      "summary": "Portugal consolidó a Angola como su principal mercado de exportación de vino por volumen en 2026, alcanzando 20.5 millones de litros con crecimiento del 12.6%. Simultáneamente, las ventas por valor de",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Mientras PepsiCo enfrenta dificultades en Norteamérica, México figura entre los mercados que sostienen su crecimiento internacional",
-      "summary": "PepsiCo enfrenta desafíos en Norteamérica pero mantiene crecimiento en mercados internacionales, con México como uno de los pilares de su expansión en el tercer trimestre de 2026. Esta tendencia es cr",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Heineken toma el control de Better Drinks y refuerza su apuesta por las bebidas sin alcohol en Brasil - LexLatin",
-      "summary": "Heineken adquirió el control de Better Drinks, consolidando su estrategia en el segmento de bebidas sin alcohol en Brasil, mercado clave de Latinoamérica. La operación refleja la apuesta del gigante c",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Argentina’s wine export revenue rose 19.3% in October",
-      "summary": "Las exportaciones de vino argentino generaron un incremento de ingresos del 19,3% en octubre, impulsadas por un aumento en volumen de vino a granel de menor precio que alcanzó 21,8 millones de litros.",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Poppi’s co-founder is tweaking her viral marketing playbook for Jetty, a new beverage brand - Ad Age",
-      "summary": "La cofundadora de Poppi (marca viral de bebidas funcionales) está lanzando Jetty, una nueva marca de bebidas, adaptando su exitosa estrategia de marketing viral. Esta iniciativa es relevante porque ev",
-      "companies": [
-        "Poppi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Check your fridge: Molson, Coors Light & Blue Moon are all part of a Canadian beer recall - MTL Blog",
-      "summary": "Molson, Coors Light y Blue Moon están involucradas en un recall de cervezas en Canadá. Se trata de marcas clave del portafolio de Molson Coors, productor global con presencia significativa en Norteamé",
-      "companies": [
-        "Molson Coors"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. alcohol sales fell 1.4% in late October despite a Halloween lift",
-      "summary": "Las ventas de alcohol en EE.UU. cayeron 1.4% a fines de octubre, con una contracción de volumen total de 3.0%, aunque los cócteles preparados crecieron 3.7%. El vino experimentó la mayor caída entre c",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Halloween demand slowed the decline in U.S. beer sales",
-      "summary": "Las ventas de cerveza en EE.UU. cayeron 1,6% en dólares y 3,3% en volumen, con la demanda de Halloween moderando lo que habría sido una contracción más severa. La debilidad del consumidor explica el 8",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-11-13": [
     {
       "title": "La Serenísima volvió a ganar dinero: el plan de Arcor y Danone para recuperar ventas y alcanzar exportaciones récord",
@@ -2694,6 +2306,282 @@
     {
       "title": "U.S. prepared cocktail sales rose 4.1% in the latest four weeks",
       "summary": "Las ventas de cócteles preparados en EE.UU. crecieron 4,1% en las últimas cuatro semanas, con bebidas alcohólicas listas para consumir (RTD) a base de spirits mostrando un crecimiento explosivo del 22",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-11-20": [
+    {
+      "title": "De cara a 2027: las expectativas de la industria siguen en rojo, pero mejoran las de los supermercados",
+      "summary": "La industria manufacturera argentina proyecta mayor pesimismo para 2027 con reducción esperada de producción y empleo, mientras que supermercados y autoservicios mayoristas muestran recuperación relat",
+      "companies": [],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Fábricas en ROJO, góndolas con OPTIMISMO: qué pasa con la ECONOMÍA real",
+      "summary": "La confianza empresarial en Argentina presenta divergencias críticas: la industria manufacturera reporta -20% en octubre (caída significativa), mientras que supermercados y autoservicios mayoristas mu",
+      "companies": [],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Brewbound Podcast: How Benny Boy is Bringing the Orchard to the City",
+      "summary": "Benny Boy se posiciona como la primera cidería de Los Ángeles con estrategia de diferenciación enfocada en productos artesanales de huerta. En paralelo, se registran movimientos significativos en la i",
+      "companies": [
+        "AB InBev"
+      ],
+      "segments": [
+        "distribution_execution",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer COO Phil Hodges Promoted to CEO; Jim Koch to Remain Executive Chairman",
+      "summary": "Boston Beer Company promovió a su COO Phil Hodges a CEO a partir del 23 de noviembre, mientras que Jim Koch permanecerá como presidente ejecutivo. Este cambio en la estructura de liderazgo en una empr",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Booze News Weekly Roundup: Pause Continues at Jim Beam Facility, Global Wine Output Remains at Record Low, and More",
+      "summary": "Jim Beam mantiene pausada su producción principal, impactando la oferta de whiskey en el mercado global. La producción mundial de vino se proyecta en mínimos históricos para 2026, generando presión en",
+      "companies": [
+        "Beam Suntory"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo (PEP) Stock: Drops as Company Secures 10-Year Beverage Deal With Hyatt Across 700+ Hotels in America - Blockonomi",
+      "summary": "PepsiCo aseguró un contrato de 10 años como proveedor exclusivo de bebidas en más de 700 hoteles Hyatt en América, reforzando su presencia en el canal de hospitalidad. El acuerdo representa una expans",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Total Wine Adult Non-Alc Sales Top $75M; NA Beer 6.5% of Beer Sales",
+      "summary": "Total Wine & More reporta ventas de bebidas sin alcohol para adultos (ANA) superiores a $75M, con un crecimiento del 125% entre 2022 y 2026. Las categorías de vino sin alcohol y bebidas funcionales li",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Welch’s launches low-sugar grape sparkling juice at Walmart | FoodBev Media",
+      "summary": "Welch's lanzó una variante de jugo espumante de uva con bajo contenido de azúcar (4g totales, sin azúcar añadida, 25 calorías por porción de 237ml) en Walmart. Este movimiento responde a la demanda cr",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "supply_chain_commodities"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "How GLP-1s are accelerating dairy protein demand",
+      "summary": "El auge de los medicamentos GLP-1 (como Ozempic y Wegovy) está impulsando significativamente la demanda de proteínas lácteas, particularmente suero de leche. Los usuarios de estos fármacos requieren a",
+      "companies": [
+        "Danone"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Canada Stock Outlook: Brand Strength Versus Beer Industry Headwinds - kalkine.ca",
+      "summary": "Análisis de perspectivas de Molson Coors Canada evaluando la fortaleza de marca frente a vientos en contra de la industria cervecera. La compañía enfrenta presiones de mercado típicas del sector (camb",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Why relaxation could be the next functional beverage frontier",
+      "summary": "El mercado de bebidas funcionales está evolucionando hacia un nuevo segmento enfocado en relajación y bienestar mental, dejando atrás la saturación de bebidas energéticas y de rendimiento. Retailers c",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Stonegate Agrees to Sell 300 British Pubs to Heineken for £300 Million",
+      "summary": "Stonegate venderá 300 pubs británicos a Heineken por £300 millones, posicionando a la cervecera holandesa como el segundo grupo de pubs más grande del Reino Unido. La operación permite a Stonegate red",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Molson Coors Beverage Company $TAP Stock: Public Sector Pension Investment Board Raises Stake - MarketBeat",
+      "summary": "El Public Sector Pension Investment Board aumentó su participación accionaria en Molson Coors Beverage Company (TAP), uno de los principales productores de bebidas alcohólicas de América del Norte. Es",
+      "companies": [
+        "Molson Coors"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Non-alcoholic beverage growth slows as category moves mainstream, pushing brands to consider next steps",
+      "summary": "Las ventas de bebidas sin alcohol para adultos crecieron 12.3% alcanzando USD 1.12 mil millones en los últimos 52 semanas, pero el ritmo se desaceleró tras años de crecimiento de doble dígito. Este ra",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Germany Drops a Sparkling Wine Tax Increase From Its 2027 Revenue Package",
+      "summary": "Alemania eliminó un aumento de impuestos específico a vinos espumantes de su paquete de ingresos 2027, aunque mantiene la estrategia de incrementar gravámenes a alcohol, tabaco y bebidas azucaradas pa",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "President Karol Nawrocki Signed a Law Raising Poland’s Alcohol Taxes in 2027",
+      "summary": "El presidente de Polonia, Karol Nawrocki, firmó una ley que aumentará los impuestos de accisas sobre cerveza, vino y destilados a partir de 2027. Los ingresos recaudados se destinarán al Fondo Naciona",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Black Friday has overtaken winter as Brazil’s biggest wine sales season",
+      "summary": "Black Friday se ha convertido en la temporada de mayores ventas de vino en Brasil, superando a la temporada invernal tradicional. Los descuentos extendidos durante semanas generan aproximadamente el 2",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bero expands non-alcoholic beer range with limited-edition Big Apple Shandy | FoodBev Media",
+      "summary": "Bero, marca premium de cerveza sin alcohol, lanza Big Apple Shandy, una edición limitada estacional que combina perfiles florales, direccionada a capturar demanda de alternativas libres de alcohol en ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bronco Wine Company Announces National Distribution Partnership with YUTUMOMO, the World’s First Milk Candy Whiskey",
+      "summary": "Bronco Wine Company, productor argentino relevante, expande su portafolio hacia destilados con la distribución nacional de YUTUMOMO, un whiskey de licor con sabor a caramelo de leche. Este movimiento ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Consumers seek functional products that promote rest",
+      "summary": "Investigación de Knit revela oportunidad estratégica desatendida: consumidores estadounidenses demandan productos funcionales para mejorar el sueño. Mientras marcas se enfocan en hidratación, inmunida",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "IFF launches AI-powered tool for food and beverage concept development | FoodBev Media",
+      "summary": "IFF lanzó Concept Muse, una plataforma impulsada por IA que asiste a fabricantes de alimentos y bebidas en identificar oportunidades de mercado y desarrollar nuevos conceptos de productos. La herramie",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Liquid I.V. Hydration Multiplier Cozy Caramel Hot Chocolate",
+      "summary": "Liquid I.V. lanzó una edición limitada de su producto Hydration Multiplier con sabor Cozy Caramel Hot Chocolate, posicionado como solución de hidratación para la temporada navideña. El producto está d",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "U.S. beer shipments fell 3.9% through September",
+      "summary": "Los envíos de cerveza en EE.UU. cayeron 3,9% acumulado hasta septiembre, equivalente a 5,5 millones de barriles menos, con el tercer trimestre registrando una contracción cercana al 4%. A pesar del ap",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Air Water Ventures to acquire Proud Source Water in $150m deal | FoodBev Media",
+      "summary": "Air Water Ventures (Nasdaq) adquiere Proud Source Water por hasta USD 150 millones, ampliando su portafolio en el segmento de agua embotellada premium en EE.UU. La transacción fortalece las capacidade",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Hyatt and PepsiCo Ink a 10-Year F&B Deal Spanning 700+ U.S. Hotels - Food & Beverage Magazine",
+      "summary": "PepsiCo cerró un acuerdo de 10 años con Hyatt Hotels para abastecer bebidas y alimentos en más de 700 establecimientos en EE.UU. La alianza amplía significativamente la distribución de PepsiCo en el c",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "NA Wine, Functional Drinks Lead Growth in Total Wine’s $75M Adult Non-Alc Set",
+      "summary": "Total Wine & More reporta crecimiento del 125% en ventas de bebidas sin alcohol para adultos (ANA) entre FY2022 y FY2026, alcanzando $75M. Los segmentos de vino sin alcohol y bebidas funcionales lider",
       "companies": [],
       "segments": [
         "consumer_market_trends",
