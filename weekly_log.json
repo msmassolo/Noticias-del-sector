@@ -2297,8 +2297,18 @@
   ],
   "2026-11-21": [
     {
+      "title": "Consumo estancado, compras y más competencia",
+      "summary": "El sector supermercadista argentino enfrenta una transformación estructural impulsada por consumo débil, cambios en patrones de compra y presión por rentabilidad. Esta reconfiguración impacta directam",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Fábricas en ROJO, góndolas con OPTIMISMO: qué pasa con la ECONOMÍA real",
-      "summary": "La confianza empresarial en Argentina diverge significativamente por sector: la industria manufacturera registra -20,0% en octubre (INDEC), mientras que supermercados y autoservicios mayoristas muestr",
+      "summary": "El INDEC reporta divergencia crítica en confianza empresarial argentina: manufactura cae -20% en octubre mientras retail (supermercados y mayoristas) muestra optimismo marginal (+0,4%). Para la indust",
       "companies": [],
       "segments": [
         "distribution_execution"
@@ -2307,7 +2317,7 @@
     },
     {
       "title": "Norte lidera participação de bebidas alcoólicas nos mercados autônomos",
-      "summary": "En los mercados autónomos del Norte de Brasil, las bebidas alcohólicas representan el 45,1% de las unidades entre los 20 productos más vendidos, más del doble que en el Sur (21,8%). Este dato del anál",
+      "summary": "En los mercados autónomos del norte de Brasil, las bebidas alcohólicas representan el 45,1% de las unidades entre los 20 productos más vendidos, más que el doble que en la región Sur (21,8%). Este dat",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2315,18 +2325,8 @@
       "region": "Regional"
     },
     {
-      "title": "Las exportaciones chilenas de vino embotellado caen un 5,2% por la debilidad del consumo exterior - Vinetur",
-      "summary": "Las exportaciones chilenas de vino embotellado registraron una caída del 5,2% impulsada por debilitamiento de la demanda internacional. Chile es competidor directo en mercados clave de América Latina ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Consumo de bebidas alcoólicas na Austrália caiu 2% no início de 2026, mais do que no mercado global - Vinetur",
-      "summary": "El consumo de bebidas alcohólicas en Australia registró una caída del 2% en el inicio de 2026, superando la contracción del mercado global. Este dato es significativo para competidores regionales que ",
+      "title": "Bebidas en Colombia: las tendencias de consumo que marcarán el 2027 - Diario del Cauca",
+      "summary": "El artículo analiza las tendencias de consumo de bebidas en Colombia proyectadas para 2027, incluyendo cambios en preferencias de categorías, comportamientos del consumidor y oportunidades de mercado.",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2335,7 +2335,7 @@
     },
     {
       "title": "Daiwa cuts China Resources Beer target price to HK$27 on weaker demand outlook",
-      "summary": "Daiwa redujo el precio objetivo de China Resources Beer a HK$27 por debilidad en la demanda, aunque mantiene calificación de Compra. El analista anticipa una recuperación más lenta de volúmenes y pres",
+      "summary": "Daiwa redujo el precio objetivo de China Resources Beer a HK$27 ante perspectivas de demanda más débil en el mercado chino. El broker mantiene calificación de Compra pero advierte que la recuperación ",
       "companies": [
         "China Resources Snow Breweries"
       ],
@@ -2347,7 +2347,7 @@
     },
     {
       "title": "Distribution: Spacemilk Lifts Off In Sprouts, Pepsi Reloads With Hyatt",
-      "summary": "Spacemilk, polvo proteico a base de levadura sin suero, debutará en la cadena minorista Sprouts, ampliando su distribución en canales de consumo masivo. Once Upon A Coconut también expande su presenci",
+      "summary": "Spacemilk, polvo proteico a base de levadura sin suero, ingresa a distribución minorista a través de Sprouts, marcando su debut en retail. Simultáneamente, Once Upon A Coconut expande su presencia en ",
       "companies": [
         "PepsiCo",
         "Walmart"
@@ -2359,7 +2359,7 @@
     },
     {
       "title": "Booze News Weekly Roundup: Pause Continues at Jim Beam Facility, Global Wine Output Remains at Record Low, and More",
-      "summary": "Jim Beam mantiene pausa en su planta principal afectando la oferta de whiskey en un mercado global tenso. La producción mundial de vino alcanza mínimos históricos para 2026, comprimiendo disponibilida",
+      "summary": "Jim Beam mantiene pausa de producción en su planta principal, mientras la producción global de vino proyecta nuevamente niveles históricamente bajos para 2026. Estos movimientos impactan la oferta de ",
       "companies": [
         "Beam Suntory"
       ],
@@ -2370,7 +2370,7 @@
     },
     {
       "title": "No more Red Bull or Monster for NJ teens? New bill could ban sales to kids under 16 - New Jersey 101.5",
-      "summary": "Nueva Jersey analiza prohibir la venta de bebidas energéticas como Red Bull y Monster a menores de 16 años mediante legislación específica. Esta iniciativa regulatoria impacta directamente la comercia",
+      "summary": "Nueva Jersey estudia legislación para prohibir la venta de bebidas energizantes a menores de 16 años, afectando marcas como Red Bull y Monster. Esta iniciativa regulatoria refleja presión creciente en",
       "companies": [
         "Red Bull"
       ],
@@ -2381,19 +2381,67 @@
       "region": "Mundial"
     },
     {
-      "title": "TRIP Adds Walmart Vet, Club and Supply Chain Leaders",
-      "summary": "TRIP incorpora ejecutivos senior con experiencia en Walmart, canales mayorista y cadena de suministro para ejecutar planes de crecimiento al 2027. Este movimiento indica preparación estratégica para e",
+      "title": "W.L. Weller grew 78.1% in tracked U.S. retail channels",
+      "summary": "W.L. Weller, marca de whiskey premium de Sazerac, registró un crecimiento del 78.1% en canales minoristas rastreados de EE.UU. durante 2025, alcanzando 325,000 cajas de nueve litros según datos de Cir",
       "companies": [
-        "Walmart"
+        "Sazerac Company"
       ],
       "segments": [
-        "supply_chain_commodities"
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Costco Launches Kirkland Signature Prebiotic Soda: Flavors and Shopper Reactions Inside - Yahoo",
+      "summary": "Costco lanzó Kirkland Signature Prebiotic Soda, su marca propia de bebidas funcionales con prebióticos. Este movimiento refleja la estrategia de los grandes retailers de capturar la creciente demanda ",
+      "companies": [
+        "Poppi",
+        "Costco"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Enotria: Importer to take charge of Constellation Brands’ Craft Spirits portfolio - Harpers Wine & Spirit",
+      "summary": "Enotria, importador especializado, asumirá la gestión del portafolio de bebidas espirituosas artesanales de Constellation Brands. Este cambio de distribución refleja una estrategia de Constellation de",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "PepsiCo India's beverage head backs sugar-linked tax on drinks | 'Industry and govt should work together' | Inshorts - Inshorts",
+      "summary": "El jefe de bebidas de PepsiCo India respalda un impuesto vinculado al contenido de azúcar en bebidas y aboga por colaboración entre la industria y el gobierno. Esta posición refleja una estrategia cor",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard shareholders approve a flexible dividend with a cash-or-stock option",
+      "summary": "Pernod Ricard aprobó un dividendo flexible de €2,35 por acción que permite a accionistas elegir entre efectivo o nuevas acciones, generando potencialmente 9,73 millones de acciones adicionales. Esta e",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
     {
       "title": "Why relaxation could be the next functional beverage frontier",
-      "summary": "El mercado de bebidas funcionales está evolucionando hacia categorías enfocadas en relajación y bienestar mental, alejándose del tradicional énfasis en energía y rendimiento. Retailers como Walmart es",
+      "summary": "El mercado de bebidas funcionales evoluciona hacia productos de relajación y bienestar mental, desplazando el foco histórico en energía y rendimiento. Retailers como Walmart crean categorías dedicadas",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2402,30 +2450,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Stonegate Agrees to Sell 300 British Pubs to Heineken for £300 Million",
-      "summary": "Stonegate vende 300 pubs británicos a Heineken por £300 millones, posicionando a Heineken como el segundo grupo de pubs más grande del Reino Unido. La operación representa una estrategia de integració",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sazerac raises its Berentzen takeover offer to €6.65 a share",
-      "summary": "Sazerac elevar su oferta de adquisición por Berentzen a €6,65 por acción, representando un incremento del 19,8% sobre la propuesta original tras eliminar el umbral de aceptación mínima. La oferta perm",
-      "companies": [
-        "Sazerac Company"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "What happens to Stonegate pubs if Heineken buys them? Tenants, staff and the beer tie explained - Nacionale",
-      "summary": "Heineken negocia la adquisición de Stonegate, la segunda cadena de pubs más grande del Reino Unido con ~4,500 establecimientos. La operación implicaría cambios en las relaciones comerciales con provee",
+      "summary": "Heineken evalúa la adquisición de Stonegate, la segunda cadena de pubs más grande del Reino Unido con ~4,400 establecimientos. La operación implicaría cambios en la estructura de suministro de cerveza",
       "companies": [
         "Heineken"
       ],
@@ -2437,7 +2463,7 @@
     },
     {
       "title": "Brown-Forman to ‘relaunch’ Diplomático Rum with global marketing campaign – video - Global Drinks Intel",
-      "summary": "Brown-Forman relanza Diplomático Rum con una campaña de marketing global. Esta estrategia de reposicionamiento de marca busca revitalizar la presencia del ron en mercados clave, reflejando la importan",
+      "summary": "Brown-Forman relanza globalmente su marca Diplomático Rum con una nueva campaña de marketing internacional. Esta iniciativa refleja la estrategia de los grandes conglomerados de bebidas alcohólicas de",
       "companies": [
         "Brown-Forman"
       ],
@@ -2448,18 +2474,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Poland’s lower house sends alcohol bill with nonalcoholic beer ad ban to president",
-      "summary": "El parlamento polaco aprobó una ley restrictiva sobre alcohol que prohibiría publicidad de cerveza sin alcohol, restringiría ventas para llevar entre 22:00 y 6:00, y ampliaría límites a descuentos y m",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "U.S. tariffs cut Italian wine exports 6.2% in the first half of 2026",
-      "summary": "Los aranceles estadounidenses redujeron las exportaciones de vino italiano un 6.2% en la primera mitad de 2026, con caídas más severas en EE.UU. (-14.1%, €849M). Italia, principal productor de bebidas",
+      "summary": "Los aranceles estadounidenses redujeron las exportaciones de vino italiano en 6.2% durante el primer semestre de 2026, con caídas más agresivas en EE.UU. (-14.1%, €849M). Italia está diversificando ha",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2469,7 +2485,7 @@
     },
     {
       "title": "Costco’s new Kirkland soda packs 6 grams of fiber into every can (watch out Olipop) - NewsBreak: Local News & Alerts",
-      "summary": "Costco lanzó una nueva bebida de marca propia (Kirkland) con 6 gramos de fibra por lata, posicionándose directamente contra competidores como Olipop en el segmento de bebidas funcionales de rápido cre",
+      "summary": "Costco lanzó una bebida de marca propia Kirkland con 6 gramos de fibra por lata, posicionándose directamente contra competidores como Olipop en el segmento de bebidas funcionales de alto crecimiento. ",
       "companies": [
         "Olipop",
         "Costco"
@@ -2481,11 +2497,80 @@
     },
     {
       "title": "World wine trade group adopted Stellenbosch Principles for sustainable winegrowing",
-      "summary": "Un grupo comercial mundial de vinos adoptó los Principios de Stellenbosch para promover prácticas sustentables en la viticultura. Las autoridades estadounidenses destacan que estas directrices volunta",
+      "summary": "Un grupo comercial mundial de vino adoptó los Principios de Stellenbosch para la viticultura sostenible, estableciendo directrices voluntarias que promueven prácticas ambientales sin crear barreras re",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Direct sales propel China’s listed wine producers back to growth in 2026",
+      "summary": "Productores de vino chinos cotizados en bolsa registraron crecimiento acelerado en 2026 impulsado por ventas directas, con un incremento de 79.47% en el primer trimestre y generando más del 60% del au",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Spirits sales in Britain’s pubs fell 23.5% in early November",
+      "summary": "Las ventas de bebidas alcohólicas en pubs británicos cayeron 23,5% en noviembre temprano, según NielsenIQ, impulsadas por caída en consumo de spirits, vino y cerveza. La contracción refleja prudencia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bero expands non-alcoholic beer range with limited-edition Big Apple Shandy | FoodBev Media",
+      "summary": "Bero, marca premium de cerveza sin alcohol, lanza Big Apple Shandy, una edición limitada estacional en EE.UU. a partir del 19 de noviembre. La expansión de su línea Shandy responde a la creciente dema",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "IFF launches AI-powered tool for food and beverage concept development | FoodBev Media",
+      "summary": "IFF lanzó Concept Muse, una plataforma impulsada por IA que asiste a fabricantes de bebidas en la identificación de oportunidades de mercado y desarrollo de nuevos productos. La herramienta integra da",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "South African researchers propose a three-tier beer tax that could cut pure alcohol consumption from beer by 14.3%",
+      "summary": "Investigadores sudafricanos proponen un sistema tributario escalonado para cerveza según contenido alcohólico (bandas de 3.5% y 4.5%) que reduciría el consumo de alcohol puro en un 14.3%. El modelo as",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Germany plans a 20% increase in its federal spirits tax for 2027",
+      "summary": "Alemania planea aumentar su impuesto federal a bebidas espirituosas un 20% a partir de 2027. La medida, incluida en el proyecto de presupuesto, exempta al espumante tras revisión parlamentaria, mientr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "regulation_tax_policy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Australia’s alcohol consumption fell 2% in early 2026, a steeper drop than the global market",
+      "summary": "El consumo de alcohol en Australia cayó 2% en el primer semestre de 2026, superando la contracción global. Los RTDs (ready-to-drink) fueron la categoría resiliente evitando pérdidas de volumen, mientr",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     },
@@ -2500,97 +2585,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Direct sales propel China’s listed wine producers back to growth in 2026",
-      "summary": "Productores de vino chinos cotizados en bolsa registraron crecimiento del 79,47% en ventas directas durante los primeros nueve meses, representando más del 60% del incremento total en ventas de bebida",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Bero expands non-alcoholic beer range with limited-edition Big Apple Shandy | FoodBev Media",
-      "summary": "Bero, marca premium de cerveza sin alcohol, lanza Big Apple Shandy, una edición limitada estacional que combina perfiles florales con tendencia de bebidas sin alcohol. El lanzamiento nacional en EE.UU",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "IFF launches AI-powered tool for food and beverage concept development | FoodBev Media",
-      "summary": "IFF lanzó Concept Muse, una plataforma impulsada por IA que asiste a fabricantes de bebidas y alimentos en la identificación de oportunidades de mercado y desarrollo de nuevos conceptos de productos. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Liquid I.V. Hydration Multiplier Cozy Caramel Hot Chocolate",
-      "summary": "Liquid I.V. lanzó Hydration Multiplier Cozy Caramel Hot Chocolate, una bebida funcional de edición limitada dirigida al segmento de bebidas hidratantes con valor agregado. El producto está disponible ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "product_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Gen Z’s Sobering Shift Reshapes Bar Menus",
-      "summary": "Gen Z reduce su consumo de alcohol en un 13 puntos porcentuales (de 60.5% a 47.5% en consumo mensual) según datos de SAMHSA 2002-2024. Esta tendencia está impulsando cambios en las cartas de bares y r",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "South African researchers propose a three-tier beer tax that could cut pure alcohol consumption from beer by 14.3%",
-      "summary": "Investigadores sudafricanos proponen un sistema tributario escalonado para cerveza que reduciría el consumo de alcohol puro en un 14,3% mediante impuestos diferenciales por contenido alcohólico (3,5% ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Germany plans a 20% increase in its federal spirits tax for 2027",
-      "summary": "Alemania planea aumentar un 20% el impuesto federal a bebidas espirituosas a partir de 2027. El proyecto exenta vinos espumantes tras revisión parlamentaria, dejando fuera beer y wine del incremento. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sustainability, operational efficiency prompt interest in food-grade lubricants",
-      "summary": "Crece la demanda de lubricantes de grado alimentario en la industria de bebidas impulsada por tres factores clave: mayores estándares de seguridad alimentaria, automatización de plantas y presión para",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "packaging_sustainability"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Italian wine producers urged a halt to new vineyard plantings after stocks climbed to 41 million hectoliters",
-      "summary": "Productores de vino italiano solicitan detener nuevas plantaciones ante acumulación de stocks de 41 millones de hectolitros, impulsados por caída del 12% en consumo global de vino que presiona precios",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Stonegate agrees £300m sale of 300 pubs to Heineken, reports claim",
-      "summary": "Stonegate vende 300 pubs a Heineken por £300 millones, operación que se completaría en noviembre. Heineken expande su cartera de puntos de venta en Reino Unido mientras Stonegate reduce deuda. Este mo",
+      "summary": "Heineken acuerda la compra de 300 pubs de Stonegate por £300 millones, con cierre previsto para noviembre. La transacción reduce la cartera de Stonegate a 4,000 locales e incluye propiedades de alto v",
       "companies": [
         "Heineken"
       ],
