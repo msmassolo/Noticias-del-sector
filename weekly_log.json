@@ -2232,7 +2232,17 @@
   "2026-11-22": [
     {
       "title": "Consumo estancado, compras y más competencia",
-      "summary": "El sector supermercadista argentino enfrenta una transformación estructural impulsada por consumo débil, cambios en patrones de compra y presión en rentabilidad. Esto genera consolidación mediante M&A",
+      "summary": "El sector supermercadista argentino enfrenta transformación estructural por consumo débil, cambios en hábitos de compra y presión por rentabilidad. La consolidación se acelera con cierres de sucursale",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "El consumo masivo subió en octubre por primera vez en el año y hay un rubro que creció hasta 22% en los supermercados",
+      "summary": "El consumo masivo experimentó su primer incremento anual en octubre (+9% interanual, +62% mensual vs. septiembre), rompiendo una tendencia de caída acumulada de 23% en el año. El crecimiento se concen",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2242,7 +2252,7 @@
     },
     {
       "title": "Il Teggianese obtuvo Gran Oro en Argentina Spirits Awards 2026, en Mendoza",
-      "summary": "Il Teggianese, limoncello producido en Paraná, Entre Ríos, obtuvo la medalla Gran Oro en Argentina Spirits Awards 2026, reforzando su posicionamiento en el segmento premium de bebidas alcohólicas. La ",
+      "summary": "Il Teggianese, un limoncello producido en Paraná (Entre Ríos), ganó la medalla Gran Oro en Argentina Spirits Awards 2026, posicionándose como referente de calidad en destilados. La empresa busca expan",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2251,7 +2261,7 @@
     },
     {
       "title": "Cerveja Original vai investir na revitalização de 15 bares em 2027",
-      "summary": "Ambev invertirá en la revitalización de 15 bares tradicionales a través de su marca Original en 2027, bajo el programa Reduto Original. La iniciativa incluye mejoras de infraestructura, recuperación d",
+      "summary": "Ambev invertirá en la revitalización de 15 bares tradicionales a través de su marca Original durante 2027, iniciando con el Beco do Rato en Río de Janeiro. El programa Reduto Original incluye mejoras ",
       "companies": [
         "Ambev"
       ],
@@ -2263,7 +2273,7 @@
     },
     {
       "title": "Resultados do 3T26: margens pressionadas e custos elevados dividem desempenho de Ambev, JBS, M. Dias Branco e MBRF - Feed&Food",
-      "summary": "Ambev reportó resultados del tercer trimestre 2026 con márgenes presionados y costos elevados, impactando su desempeño financiero. La nota analiza cómo la compresión de márgenes y estructura de costos",
+      "summary": "Ambev reporta resultados del 3T26 con márgenes presionados y costos elevados, impactando negativamente su desempeño operativo. La presión de costos afecta a múltiples players de la industria de bebida",
       "companies": [
         "Ambev"
       ],
@@ -2274,7 +2284,7 @@
     },
     {
       "title": "Diageo India ultrapassa a Pernod Ricard e torna-se a maior empresa de bebidas alcoólicas da Índia em receitas - Vinetur",
-      "summary": "Diageo India superó a Pernod Ricard y se consolidó como la mayor empresa de bebidas alcohólicas de India por ingresos. Este movimiento refleja el liderazgo estratégico de Diageo en mercados emergentes",
+      "summary": "Diageo India se convirtió en la mayor empresa de bebidas alcohólicas de India por ingresos, superando a Pernod Ricard. Este cambio en el liderazgo del mercado indio, el segundo más grande del mundo en",
       "companies": [
         "Diageo",
         "Pernod Ricard"
@@ -2286,7 +2296,7 @@
     },
     {
       "title": "Norte lidera participação de bebidas alcoólicas nos mercados autônomos",
-      "summary": "En los mercados autónomos del Norte de Brasil, las bebidas alcohólicas representan el 45,1% de las unidades entre los 20 productos más vendidos, más del doble que en el Sur (21,8%). Este dato del estu",
+      "summary": "En los mercados autónomos (vending/máquinas expendedoras) del Norte de Brasil, las bebidas alcohólicas representan el 45,1% de las unidades entre los 20 productos más vendidos, más que el doble que en",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2295,7 +2305,7 @@
     },
     {
       "title": "Bebidas en Colombia: las tendencias de consumo que marcarán el 2027 - Diario del Cauca",
-      "summary": "Colombia experimenta cambios en las preferencias de consumo de bebidas que impactarán el mercado en 2027. Las tendencias incluyen mayor demanda por opciones funcionales, bebidas bajas en azúcar y prod",
+      "summary": "Análisis de tendencias de consumo de bebidas en Colombia proyectadas para 2027. El mercado colombiano, como región relevante para empresas argentinas con operaciones regionales, muestra patrones de de",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2303,8 +2313,19 @@
       "region": "Regional"
     },
     {
+      "title": "Verlinvest strikes deal to grow Oatly stake",
+      "summary": "Verlinvest, firma de inversión belga, se convierte en el principal accionista de Oatly tras adquirir la participación de su socio en el joint venture, elevando su stake a casi 43%. Esta consolidación ",
+      "companies": [
+        "Oatly"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Pernod Ricard shareholders approve a flexible dividend with a cash-or-stock option",
-      "summary": "Pernod Ricard aprobó un dividendo flexible de €2,35 por acción con opción de pago en efectivo o acciones, permitiendo la emisión de hasta 9,73 millones de nuevas acciones. Esta estructura preserva liq",
+      "summary": "Pernod Ricard aprobó un dividendo flexible de €2,35 por acción con opción de pago en efectivo o acciones, lo que podría generar hasta 9,73 millones de nuevas acciones. Esta estructura permite al grupo",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2315,7 +2336,7 @@
     },
     {
       "title": "Jim Beam extends shutdown of its Clermont distillery indefinitely",
-      "summary": "Jim Beam extiende indefinidamente el cierre de su destilería Clermont debido a débil demanda de whiskey e inventarios elevados, manteniendo solo operaciones en su planta Booker Noe. Esta decisión refl",
+      "summary": "Jim Beam extiende indefinidamente el cierre de su destilería Clermont debido a débil demanda de whiskey e inventarios elevados, manteniendo solo la producción en la planta Booker Noe. Esta decisión re",
       "companies": [
         "Beam Suntory"
       ],
@@ -2326,18 +2347,7 @@
     },
     {
       "title": "PepsiCo Stock Cut to Sell as Snacks and Drinks Giant Can’t Shake Problems in North America - Barron's",
-      "summary": "Un analista de Barron's rebajó la recomendación de acciones de PepsiCo a Vender debido a problemas persistentes en Norteamérica, su principal mercado. PepsiCo enfrenta desafíos en la combinación de sn",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Hyatt and PepsiCo Sign 10-Year Food and Beverage Agreement in the U.S. - TRAICY Global",
-      "summary": "PepsiCo firmó un acuerdo de 10 años con Hyatt Hotels para suministrar bebidas y alimentos en propiedades estadounidenses. Este contrato representa una oportunidad estratégica de distribución masiva en",
+      "summary": "Un analista de Barron's rebajó la recomendación de PepsiCo a Vender debido a problemas persistentes en Norteamérica, su mercado más importante. La compañía enfrenta desafíos en ambos segmentos clave: ",
       "companies": [
         "PepsiCo"
       ],
@@ -2348,7 +2358,7 @@
     },
     {
       "title": "Monster Beverage (MNST) Faces A Valuation Test, Is The Stock Still Cheap? - Simply Wall St",
-      "summary": "Monster Beverage enfrenta un punto de inflexión en su valuación de mercado, con analistas cuestionando si su stock mantiene potencial de crecimiento. La empresa, líder global en bebidas energéticas, e",
+      "summary": "Monster Beverage enfrenta una revisión de valuación en el mercado accionario, con análisis sobre si sus acciones mantienen atractivo de precio. La noticia es relevante para seguimiento competitivo ya ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2359,7 +2369,7 @@
     },
     {
       "title": "Direct sales propel China’s listed wine producers back to growth in 2026",
-      "summary": "Productores de vino chinos cotizados en bolsa registraron crecimiento del 79,47% en ventas directas durante los primeros nueve meses, impulsando más del 60% del aumento total en ventas de bebidas alco",
+      "summary": "Productores de vino chinos cotizados en bolsa registran crecimiento impulsado por ventas directas, con incrementos de 79,47% en los primeros nueve meses del año, que representan más del 60% del aument",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2369,7 +2379,7 @@
     },
     {
       "title": "Spirits sales in Britain’s pubs fell 23.5% in early November",
-      "summary": "Las ventas de bebidas alcohólicas en pubs británicos cayeron 23,5% a principios de noviembre, con descensos similares en vino y cerveza, según NielsenIQ. La caída refleja el gasto cauteloso de consumi",
+      "summary": "Las ventas de bebidas alcohólicas en pubs británicos cayeron 23.5% a principios de noviembre, impulsadas por una caída en el consumo de spirits, vino y cerveza debido a la cautela del consumidor. La d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2379,7 +2389,7 @@
     },
     {
       "title": "Fruit-flavored lager sales jumped 34% in Britain's pubs",
-      "summary": "Las ventas de cervezas lager con sabor a frutas crecieron 34% en pubs británicos, superando el desempeño del mercado cervecero general. Tesco ha asignado estanterías dedicadas para esta categoría, ref",
+      "summary": "Las ventas de lagers con sabor a frutas crecieron 34% en pubs británicos, superando el desempeño del mercado cervecero general. Tesco dedicó espacios exclusivos en góndolas para esta categoría, reflej",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2389,7 +2399,7 @@
     },
     {
       "title": "India Could Cut Wine Tariffs to 30% Under a Planned 2027 E.U. Trade Deal",
-      "summary": "India negocia una reducción de aranceles a vinos del 30% en un acuerdo comercial con la UE previsto para 2027, lo que reduciría barreras de entrada para exportadores europeos. Aunque representa una op",
+      "summary": "India negocia reducir aranceles a vinos a 30% en un acuerdo comercial con la UE previsto para 2027, lo que mejoraría la competitividad de importaciones europeas. El mercado indio, con alto potencial d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2398,8 +2408,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Germany plans a 20% increase in its federal spirits tax for 2027",
-      "summary": "Alemania planea aumentar el impuesto federal a licores en 20% a partir de 2027, según el proyecto de presupuestos aprobado por el parlamento. La medida excluye espumantes pero afecta directamente cerv",
+      "title": "Britain says the U.K.-E.U. border deal will leave wine and spirits outside its scope",
+      "summary": "El Reino Unido excluyó vinos y destilados del acuerdo sanitario y fitosanitario con la UE que entrará en vigor en marzo de 2028. Esta exclusión mantiene barreras regulatorias para bebidas alcohólicas ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Federal hemp THC ban threatens breweries’ fast-growing drinks business",
+      "summary": "Una regulación federal estadounidense que limita el contenido de THC en bebidas (0,4 mg por envase a partir del 11 de diciembre) amenaza el segmento de bebidas con cáñamo, que representa un negocio en",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2409,7 +2429,7 @@
     },
     {
       "title": "Italy Says the Decline in Wine Exports Is Easing",
-      "summary": "Italia reporta una desaceleración en la caída de exportaciones de vino, aunque persisten presiones por guerras, aranceles y cambios en preferencias de consumo. Los funcionarios comerciales instan a pr",
+      "summary": "Italia reporta una desaceleración en la caída de exportaciones de vino, aunque sigue enfrentando presiones por conflictos geopolíticos, aranceles y cambios en preferencias del consumidor. Funcionarios",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2418,28 +2438,18 @@
       "region": "Mundial"
     },
     {
-      "title": "Federal hemp THC ban threatens breweries’ fast-growing drinks business",
-      "summary": "Una regulación federal estadounidense que entra en vigor el 11 de diciembre limitará el contenido de THC derivado del cáñamo a 0.4 miligramos por recipiente, amenazando la naciente categoría de bebida",
+      "title": "Germany plans a 20% increase in its federal spirits tax for 2027",
+      "summary": "Alemania planea aumentar un 20% el impuesto federal a bebidas espirituosas a partir de 2027, según el proyecto de presupuestos aprobado. La medida excluye el champagne y espumantes tras revisión de co",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Britain says the U.K.-E.U. border deal will leave wine and spirits outside its scope",
-      "summary": "El Reino Unido excluirá vinos y destilados del acuerdo comercial UK-UE que entra en vigor en marzo de 2028, limitando los beneficios de la eliminación de barreras sanitarias y fitosanitarias. Esta exc",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
       ],
       "region": "Mundial"
     },
     {
       "title": "Australia’s alcohol consumption fell 2% in early 2026, a steeper drop than the global market",
-      "summary": "El consumo de alcohol en Australia cayó 2% en el primer semestre de 2026, superando la contracción global. Los RTDs (ready-to-drink) fueron la categoría resiliente, mientras que la cerveza retrocedió ",
+      "summary": "El consumo de alcohol en Australia cayó 2% en el primer semestre de 2026, superando la contracción global. Los RTDs (ready-to-drink) fueron la categoría resiliente sin caídas volumétricas, mientras qu",
       "companies": [],
       "segments": [
         "consumer_market_trends"
@@ -2447,8 +2457,18 @@
       "region": "Mundial"
     },
     {
+      "title": "Cognitive Performance Functional Beverage Additive Systems Market To 2035: Clinical Validation and Clean-Label Demand Shape Growth - News and Statistics - IndexBox",
+      "summary": "El mercado de aditivos para bebidas funcionales de rendimiento cognitivo proyecta crecimiento hasta 2035, impulsado por dos factores clave: validación clínica de ingredientes y demanda de etiquetado l",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "product_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Diageo India overtakes Pernod Ricard as India's top alcohol company by revenue",
-      "summary": "Diageo India (a través de United Spirits) superó a Pernod Ricard como la empresa de bebidas alcohólicas número uno de India por ingresos, registrando 27.816 crores de rupias en FY26. El desplazamiento",
+      "summary": "Diageo India (a través de United Spirits) superó a Pernod Ricard como la empresa de bebidas alcohólicas más grande de India por ingresos en FY26, alcanzando 27.816 crores de rupias. El desplazamiento ",
       "companies": [
         "Diageo",
         "Pernod Ricard"
@@ -2461,7 +2481,7 @@
     },
     {
       "title": "Diageo Is India's Biggest Liquor Company By Revenue In 2026; Check The Top-5 List Here - NDTV Profit",
-      "summary": "Diageo consolida su posición como la empresa de bebidas alcohólicas más grande de India por ingresos en 2026, superando a competidores locales. Este dato refleja la estrategia de expansión global de D",
+      "summary": "Diageo posiciona a India como su principal mercado en el ranking de empresas licoreras por ingresos en 2026, liderando un top-5 que refleja la consolidación de players globales en un mercado clave de ",
       "companies": [
         "Diageo"
       ],
@@ -2472,7 +2492,7 @@
     },
     {
       "title": "Diageo Topples Pernod Ricard as India's Biggest Spirits Maker After Imperial Blue Sale - BigGo Finance",
-      "summary": "Diageo desplazó a Pernod Ricard como el mayor fabricante de bebidas alcohólicas en India tras la venta de Imperial Blue. Este movimiento consolida a Diageo como líder regional en el mercado de bebidas",
+      "summary": "Diageo desplazó a Pernod Ricard como líder del mercado de destilados en India tras la venta de Imperial Blue. Este movimiento consolida la posición de Diageo en el segundo mercado de whisky más grande",
       "companies": [
         "Diageo",
         "Pernod Ricard"
@@ -2484,7 +2504,7 @@
     },
     {
       "title": "Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com",
-      "summary": "Pernod Ricard cede posición de liderazgo a Diageo en el mercado de bebidas alcohólicas de India tras la venta de su marca estrella Imperial Blue. Este movimiento refleja un cambio significativo en la ",
+      "summary": "Pernod Ricard cede posición de liderazgo en el mercado de bebidas alcohólicas de India a favor de Diageo, impulsado por las ventas de Imperial Blue. Este cambio refleja un reposicionamiento competitiv",
       "companies": [
         "Diageo",
         "Pernod Ricard"
