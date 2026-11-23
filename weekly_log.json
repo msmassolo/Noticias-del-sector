@@ -1,238 +1,4 @@
 {
-  "2026-11-15": [
-    {
-      "title": "Rappi acelera Turbo y proyecta quintuplicar el delivery en Argentina a diez años",
-      "summary": "Rappi proyecta quintuplicar su volumen de delivery en Argentina en diez años, impulsado por una penetración actual de apps del 6% y una inversión de US$ 40 millones. La estrategia Turbo se enfoca en e",
-      "companies": [],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Sam’s Club lanza ofertas especiales por el Buen Fin 2026; Banamex, Nu, Banorte y BBVA ofrecen bonificaciones, además de descuentos en LALA y Nescafé",
-      "summary": "Sam's Club promociona el Buen Fin 2026 con descuentos destacados en marcas de bebidas como LALA y Nescafé, combinados con bonificaciones bancarias de instituciones clave (Banamex, Nu, Banorte, BBVA). ",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Crisis del vino en Chile: viñas arrancan parras y cambian de negocio - Radio Contacto 90.7 FM",
-      "summary": "Chile, productor vitivinícola de relevancia global, enfrenta una crisis estructural que llevó a viñedores a erradicar viñas y diversificar hacia otros negocios. Este fenómeno refleja presiones de prec",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Mercado de misturas para bebidas e realçadores de bebidas: previsão até 2035 impulsionada pela hidratação funcional - IndexBox",
-      "summary": "IndexBox proyecta crecimiento del mercado de mezclas y potenciadores de bebidas hasta 2035, impulsado por la demanda de bebidas funcionales de hidratación. Este segmento representa una oportunidad est",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "How Earnings Beat At Fevertree Drinks (AIM:FEVR) Has Changed Its Investment Story - Yahoo Finance",
-      "summary": "Fevertree Drinks superó expectativas de ganancias, modificando significativamente su narrativa de inversión. La empresa, cotizada en AIM de Londres y principal player en mixers premium, demuestra recu",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Earnings Growth Might Change The Case For Investing In Monster Beverage (MNST) - Simply Wall St",
-      "summary": "Análisis de inversión sobre Monster Beverage que evalúa el potencial de crecimiento de ganancias como factor clave para decisiones de inversión. Relevante para monitorear la salud financiera y perspec",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is Celsius Holdings (CELH) Trading At A Premium After Record Revenue? - Simply Wall St",
-      "summary": "Celsius Holdings reportó ingresos récord, posicionándose como un jugador clave en el segmento de bebidas energéticas de alto rendimiento. El análisis cuestiona si la valuación actual refleja sostenibi",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Ahead of IPO, Coke bottler flags pricing pressure from Campa - The New Indian Express",
-      "summary": "Un embotellador de Coca-Cola en India señala presión en precios originada por Campa, competidor local, en el contexto previo a su salida a bolsa (IPO). La competencia agresiva en precios de marcas loc",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage: Buy The Energy Drink, Sell The Stock (NASDAQ:MNST) - Seeking Alpha",
-      "summary": "Análisis de valoración de Monster Beverage (MNST) que recomienda comprar el producto pero vender las acciones, sugiriendo sobrevaloración bursátil. Relevante para monitorear la percepción de mercado s",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Remy Cointreau deploys AI hosts to sell cognac to late-night shoppers in China",
-      "summary": "Remy Cointreau implementa presentadores virtuales basados en IA para vender cognac a consumidores nocturnos en China, adaptándose a cambios en patrones de consumo donde la bebida de banquete cede luga",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Weaker Q3 Profit At Asahi Group Holdings Stock Has Changed Its Investment Story - Simply Wall St",
-      "summary": "Asahi Group Holdings reportó ganancias más débiles en Q3, impactando su narrativa de inversión. Como uno de los principales productores de bebidas en Asia-Pacífico, los resultados cuestionan su desemp",
-      "companies": [
-        "Asahi Group"
-      ],
-      "segments": [
-        "financial_results",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "HiteJinro lifts third-quarter operating profit 6.2% despite weaker sales",
-      "summary": "HiteJinro, el mayor productor de licores de Corea del Sur, reportó una caída de ingresos del 5.5% en el tercer trimestre debido a demanda débil en soju y cerveza, pero logró incrementar la ganancia op",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "California wineries confront an 18% slump in demand despite vineyard removals",
-      "summary": "Las bodegas de California enfrentan una caída del 18% en la demanda de vino, con inventarios excedentes que podrían tomar años en aclararse debido a la debilidad sostenida en las ventas estadounidense",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Anheuser-Busch acquires Straub Distributing in Southern California",
-      "summary": "Anheuser-Busch adquirió Straub Distributing, asegurando control directo de derechos de distribución en el sur de California, uno de los mercados de bebidas más competitivos de EE.UU. Esta integración ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Stuttgarter Hofbräu will close its brewery site by the end of 2028",
-      "summary": "Stuttgarter Hofbräu cerrará su planta cervecera para finales de 2028 como parte de una operación de joint venture al 50% con Dinkelacker-Schwaben Bräu, sujeto a aprobación de la autoridad antimonopoli",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Brazil will impose a wine tax that can reach 11.6% on some imports in 2027",
-      "summary": "Brasil implementará un impuesto a vinos importados que comenzará en 8% a partir del 2 de febrero de 2027, con posibilidad de alcanzar 11.6% según el tipo de importación. La medida impactará directamen",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "French Senate Backs Higher Premix Tax on Sweet Alcoholic Drinks Up to 25% Strength",
-      "summary": "El Senado francés aprobó un aumento de impuestos sobre bebidas alcohólicas premezcladas (hasta 25° de alcohol) como cócteles enlatados tipo Vody, buscando desincentivar el consumo entre jóvenes. Esta ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "regulation_tax_policy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Chile’s wineries accelerate a restructuring after bottled wine exports fall 5.3%",
-      "summary": "Las bodegas chilenas aceleran una reestructuración ante la caída del 5.3% en exportaciones de vino embotellado. Los productores están vendiendo tierras, reemplazando viñedos con otros cultivos y pivot",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "risk_crisis_reputation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How Investors Are Reacting To Keurig Dr Pepper (KDP) $2b Share Sale - Yahoo Finance",
-      "summary": "Keurig Dr Pepper anunció una venta de acciones por $2 mil millones, movimiento que refleja cambios significativos en la estructura de capital de uno de los principales fabricantes de bebidas a nivel g",
-      "companies": [
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Argentina’s wine industry remains in critical condition for a 45th straight month",
-      "summary": "La industria vitivinícola argentina enfrenta su 45º mes consecutivo en crisis, con precios de productor subiendo apenas 8% mientras la inflación alcanza 33.4%, generando una brecha de compresión de má",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Is Celsius Holdings (CELH) Cheap As Earnings Rebound And Its Brand Overhaul Takes Shape? - Simply Wall St",
-      "summary": "Celsius Holdings (CELH) experimenta recuperación de ganancias mientras ejecuta una reformulación de marca estratégica. El análisis de valuación sugiere que la acción podría estar subvalorada en este c",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Fevertree Drinks (AIM:FEVR) Beats Expectations, Is The Stock Getting Pricey? - Simply Wall St",
-      "summary": "Fevertree Drinks superó las expectativas financieras en su último reporte, posicionándose como jugador relevante en el segmento premium de mezcladores (mixers) a nivel global. El análisis cuestiona si",
-      "companies": [
-        "Fevertree Drinks"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-11-16": [
     {
       "title": "Tetra Pak completó una inversión de €30,2 millones para modernizar su planta riojana",
@@ -2511,6 +2277,402 @@
       ],
       "segments": [
         "company_news"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-11-23": [
+    {
+      "title": "CABA tiene una carga tributaria menor que el resto del país: cuánto impacta en los precios",
+      "summary": "CABA presenta una carga tributaria menor sobre alimentos y bebidas en comparación con el promedio de 33 ciudades del interior, debido a que tributa a dos niveles de gobierno (nacional y local) mientra",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Il Teggianese obtuvo Gran Oro en Argentina Spirits Awards 2026, en Mendoza",
+      "summary": "Il Teggianese, productor de limoncello de Paraná (Entre Ríos), obtuvo la medalla Gran Oro en Argentina Spirits Awards 2026, máxima distinción del certamen. La empresa planea expandir su presencia come",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "FT: UE abre investigação antitruste contra engarrafadora da Coca-Cola",
+      "summary": "La UE inició una investigación antitruste formal contra la embotelladora londinense de Coca-Cola por presunto abuso de posición dominante al restringir la venta de bebidas entre países europeos. La in",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola deja fuera la IA de su anuncio navideño de 2026: así luce su nueva campaña",
+      "summary": "Coca-Cola modificó su estrategia creativa para la campaña navideña 2026, abandonando el uso de IA generativa tras dos años de implementación en la recreación de su icónico spot \"Holidays Are Coming\". ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "marketing_innovation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Médias avançam na diversificação de portfólio em 2026",
+      "summary": "La industria brasileña de transformación intensifica la diversificación de portafolio en 2026, con movimientos evidentes en 14 sectores de mediano porte según el Índice de Diversificación de Portafoli",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Resultados do 3T26: margens pressionadas e custos elevados dividem desempenho de Ambev, JBS, M. Dias Branco e MBRF - Feed&Food",
+      "summary": "Ambev reportó resultados del tercer trimestre 2026 con márgenes bajo presión y costos elevados afectando su desempeño. La compañía enfrenta desafíos estructurales de rentabilidad que impactan directam",
+      "companies": [
+        "Ambev"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Rede brasileira de mercados autônomos desembarca na Europa",
+      "summary": "Easy Market, empresa brasileña de mercados autónomos, expandió internacionalmente inaugurando su primera tienda Pronto Market en Madrid, España (octubre 2024), alcanzando presencia en tres continentes",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo sharpens Middle East beverage strategy through product and brand innovation",
+      "summary": "PepsiCo inauguró un centro de I+D regional de US$10M en Riyadh (Saudi Arabia) en septiembre 2026, enfocado en desarrollar bebidas y packaging adaptados a preferencias del Medio Oriente, incluyendo opc",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard India Slips Behind Diageo In FY26 Revenue Rankings After Imperial Blue Sale - BW Marketing World",
+      "summary": "Pernod Ricard India cayó en los rankings de ingresos del FY26 respecto a Diageo tras la venta de Imperial Blue, su marca de whisky más importante en India. Esta transacción reposiciona la jerarquía co",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Constellation Brands shares slide as investors weigh insider sales, cautious beer trends - Quiver Quantitative",
+      "summary": "Las acciones de Constellation Brands cayeron tras ventas de insiders y preocupaciones del mercado sobre tendencias cautelosas en la categoría cerveza. Constellation es el principal productor de cervez",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "CONSTELLATION BRANDS EXTENDS PARTNERSHIP WITH UK DISTRIBUTOR ENOTRIA BY TRANSFERRING CRAFT SPIRITS PORTFOLIO - Bar Magazine",
+      "summary": "Constellation Brands amplía su partnership con el distribuidor británico Enotria trasladando su portafolio de bebidas espirituosas artesanales. Esta movida refuerza la estrategia de distribución del g",
+      "companies": [
+        "Constellation Brands"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "e.l.f. Beauty vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley Fool",
+      "summary": "Análisis comparativo de inversión entre e.l.f. Beauty y Monster Beverage como opciones de stocks de consumo masivo para 2027. Monster Beverage, líder global en bebidas energéticas, es evaluado como al",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Bisleri, PepsiCo and Red Bull under FSSAI scanner: What has put India's beverage giants in the spotlight? - Livemint",
+      "summary": "Bisleri, PepsiCo y Red Bull están bajo revisión de la autoridad regulatoria india FSSAI (Food Safety and Standards Authority of India), posicionando a gigantes de bebidas en el foco regulatorio. Esta ",
+      "companies": [
+        "PepsiCo",
+        "Red Bull"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Boston Beer names Phil Hodges CEO as Jim Koch moves to executive chairman role | FoodBev Media",
+      "summary": "The Boston Beer Company designa a Phil Hodges como nuevo CEO a partir de noviembre 2026, quien asume desde su rol de COO desde octubre 2025. Jim Koch, fundador, transiciona a executive chairman. Este ",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken UK acquires 304 Stonegate pubs",
+      "summary": "Heineken UK adquirió 304 pubs de Stonegate, expandiendo su red Star Pubs a ~2.650 locales y posicionándose como segundo operador de pubs en Reino Unido, casi igualando a Greene King (2.600 sitios). La",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "New Survey of U.S. Consumers Reveals Beverages Sealed with Natural Cork Drive Premium Wine and Spirits Sales",
+      "summary": "Un estudio nacional de consumidores estadounidenses demuestra que el tapón de corcho natural es un factor decisivo en la compra de vinos y destilados premium, impulsando la percepción de lujo, equidad",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Monster Beverage (MNST) Faces A Valuation Test, Is The Stock Still Cheap? - Simply Wall St",
+      "summary": "Monster Beverage enfrenta un test de valuación en el mercado accionario, con análisis sobre si sus acciones mantienen niveles de descuento. La noticia evalúa la posición relativa de MNST frente a comp",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Pernod Ricard India IPO: 25% public float on the table as India emerges as potential largest global market - Storyboard18",
+      "summary": "Pernod Ricard planea una oferta pública inicial (IPO) en India con una flotación pública del 25%. India se posiciona como el mercado potencial más grande a nivel global para el grupo. Este movimiento ",
+      "companies": [
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola bottler facing EU antitrust probe",
+      "summary": "La Comisión Europea inició una investigación antimonopolio contra Coca-Cola Europacific Partners por presunta restricción del comercio transfronterizo de bebidas en Europa. La sonda se suma a redadas ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "UE abre investigação antitruste contra Coca-Cola Europacific Partners",
+      "summary": "La Comisión Europea inició investigación antitruste formal contra Coca-Cola Europacific Partners (CCEP) por presuntas violaciones a reglas de competencia. Se sospecha que la compañía obstaculizó el co",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diageo India Overtakes Pernod Ricard to Become India’s Largest Alcoholic Beverages Company by Revenue in FY26 - EventFAQs",
+      "summary": "Diageo India se posiciona como la empresa de bebidas alcohólicas más grande de India por ingresos en el año fiscal 2026, desplazando a Pernod Ricard del liderazgo. Este cambio en la jerarquía competit",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo India pips Pernod Ricard; now largest alco-beverage player by revenue - Exchange4Media",
+      "summary": "Diageo India superó a Pernod Ricard para convertirse en el mayor jugador de bebidas alcohólicas por ingresos en India. Este cambio en el liderazgo del mercado refleja un reposicionamiento estratégico ",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "EU Launches Antitrust Probe On Coca-Cola Bottler Over Alleged Restrictions On Cross-Border Sales - BusinessToday Malaysia",
+      "summary": "La UE inició una investigación antimonopolio contra un embotellador de Coca-Cola por presuntas restricciones en ventas transfronterizas. La acción busca evaluar si el embotellador está limitando arbit",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo Is India's Biggest Liquor Company By Revenue In 2026; Check The Top-5 List Here - NDTV Profit",
+      "summary": "Diageo posicionarse como la compañía de licores más grande de India por ingresos en 2026, superando a competidores locales. Este dato revela el crecimiento acelerado de la multinacional en el mercado ",
+      "companies": [
+        "Diageo"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Diageo India overtakes Pernod Ricard as India's top alcohol company by revenue - Vinetur",
+      "summary": "Diageo India desplazó a Pernod Ricard como la empresa de bebidas alcohólicas número uno en India por ingresos. Este cambio de liderazgo en el mercado indio tiene implicancias estratégicas significativ",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken Studio creates Lager Tonic for Formula 1 World Champion Max Verstappen - about-drinks.com",
+      "summary": "Heineken Studio desarrolló una bebida personalizada Lager Tonic para Max Verstappen, campeón mundial de F1, combinando innovación de producto con estrategia de marketing de alto perfil. La iniciativa ",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Concha y Toro se diversifica y entra al negocio de los snacks en barra - La Tercera",
+      "summary": "Concha y Toro, principal productor de bebidas alcohólicas de Chile, diversifica su portafolio ingresando al segmento de snacks en barra. Esta estrategia refleja la tendencia de empresas de bebidas de ",
+      "companies": [
+        "Concha y Toro"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "New platform aims to improve visibility for contract clients – The Brewers Journal",
+      "summary": "Ekos lanzó Co-packer Portal, una plataforma que mejora la visibilidad entre cervecerías contratistas y marcas clientes mediante datos de producción en tiempo real. Esta solución reduce asimetrías de i",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Lotte Chilsung Beverage's Recycled PET Bottle, Freia Replaces Virgin Content, and Jamnica Extends Recycled Plastic Use",
+      "summary": "Lotte Chilsung Beverage, Freia y Jamnica implementan botellas PET reciclado reemplazando plástico virgen en sus líneas de producción. Esta tendencia de sustentabilidad en packaging reduce dependencia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "packaging_sustainability"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Millions of consumers expected to ‘echo’ the behaviour of those on weight-loss drugs - Harpers Wine & Spirit Trade News",
+      "summary": "Hasta el 20% de adultos británicos están reduciendo su consumo de alcohol influenciados por conocidos que usan medicamentos GLP-1 para pérdida de peso (efecto 'eco'), según investigación de Escalent. ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Mercado de Sistemas de Aditivos Funcionais para Bebidas de Desempenho Cognitivo até 2035: Validação Clínica e Demanda por Rótulos Limpos Moldam o Crescimento - Notícias e Estatísticas - IndexBox",
+      "summary": "El mercado de aditivos funcionales para bebidas de desempeño cognitivo proyecta crecimiento hasta 2035, impulsado por demanda de etiquetas limpias y validación clínica de ingredientes. Esta tendencia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Diageo Takes Lead In India’s Alcoholic Beverages Market As Pernod Ricard Slips - Everything Experiential",
+      "summary": "Diageo asumió el liderazgo en el mercado de bebidas alcohólicas de India, desplazando a Pernod Ricard de su posición dominante. Este movimiento refleja cambios estratégicos en uno de los mayores merca",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "marketing_innovation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "European Commission opens antitrust investigation into Coca-Cola bottler — Anadolu Agency - UA.NEWS",
+      "summary": "La Comisión Europea abrió una investigación antimonopolio contra un embotellador de Coca-Cola, señalando posibles prácticas restrictivas en la distribución o comercialización de bebidas. Este tipo de ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Brussels opens an investigation into Coca-Cola for possible abuse of dominance to curb the cross-border sale of its soft drinks - Demócrata",
+      "summary": "La Comisión Europea abrió investigación formal contra Coca-Cola por presunta práctica abusiva de posición dominante orientada a restringir ventas transfronterizas de bebidas gaseosas. Este precedente ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "risk_crisis_reputation"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Johnnie Walker-owner overtakes Pernod Ricard as India's largest alco-bev firm; Radico Khaitan in 3rd place - ET Retail",
+      "summary": "Diageo, propietaria de Johnnie Walker, superó a Pernod Ricard como la empresa de bebidas alcohólicas más grande en India, con Radico Khaitan en tercer lugar. Este cambio en el ranking refleja una reco",
+      "companies": [
+        "Diageo",
+        "Pernod Ricard"
+      ],
+      "segments": [
+        "distribution_execution"
       ],
       "region": "Mundial"
     }
