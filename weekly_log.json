@@ -2249,8 +2249,28 @@
   ],
   "2026-11-25": [
     {
+      "title": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
+      "summary": "Las ventas en supermercados cayeron 3% en septiembre versus 2024, acumulando nueve meses consecutivos de caída según datos del INDEC. El descenso acumulado enero-septiembre alcanza 2,9% a precios cons",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Creció el consumo en mayoristas y shoppings y sigue bajo en supermercados",
+      "summary": "Las ventas en supermercados cayeron 3% en septiembre versus el mismo mes del año anterior, continuando una tendencia negativa acumulada en el año. Mientras tanto, mayoristas y shoppings mostraron repu",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "PepsiCo cambia su estrategia de bebidas: menos dependencia del refresco tradicional y más inversiones en Gatorade, Celsius y Pepsi Zero Sugar",
-      "summary": "PepsiCo reorienta su portafolio de bebidas priorizando marcas de crecimiento como Gatorade, Celsius y Pepsi Zero Sugar sobre refrescos tradicionales. Esta decisión refleja la transformación estructura",
+      "summary": "PepsiCo reorienta su estrategia de bebidas reduciendo dependencia de refrescos tradicionales e incrementando inversiones en marcas de mayor margen como Gatorade, Celsius y Pepsi Zero Sugar. Este movim",
       "companies": [
         "PepsiCo",
         "Celsius Holdings"
@@ -2262,22 +2282,11 @@
       "region": "Regional"
     },
     {
-      "title": "Indecopi inspecciona locales vinculados a Backus tras denuncia de Heineken, ¿qué evalúa?",
-      "summary": "Indecopi inició inspecciones en instalaciones de Backus tras denuncia de Heineken sobre prácticas competitivas en el mercado cervecero peruano. La acción regulatoria evalúa potenciales prácticas antic",
+      "title": "Heineken habría denunciado a Backus ante Indecopi por presunto abuso de posición dominante - Perú Retail",
+      "summary": "Heineken presentó una denuncia ante Indecopi (autoridad de competencia peruana) contra Backus por presunto abuso de posición dominante en el mercado cervecero peruano. Este caso es estratégico para la",
       "companies": [
         "Heineken",
         "Backus"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Concha y Toro lanza Nuva Oxi, su barra de snack hecha con uva - Supermercado Al Día",
-      "summary": "Concha y Toro, líder vitivinícola chileno, diversifica su portafolio con Nuva Oxi, una barra de snack elaborada a base de uva. Esta incursión en la categoría de alimentos procesados representa una est",
-      "companies": [
-        "Concha y Toro"
       ],
       "segments": [
         "distribution_execution"
@@ -2286,7 +2295,7 @@
     },
     {
       "title": "Bebidas sin alcohol: la nueva tendencia que transforma el mercado de licores - HSB Noticias",
-      "summary": "El mercado global de bebidas sin alcohol experimenta un crecimiento acelerado que redimensiona la industria licorista tradicional. Esta tendencia responde a cambios en preferencias de consumo (salud, ",
+      "summary": "El mercado de bebidas sin alcohol está experimentando un crecimiento acelerado que está transformando la industria de licores a nivel global. Esta tendencia refleja cambios en el comportamiento del co",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2295,21 +2304,8 @@
       "region": "Regional"
     },
     {
-      "title": "Coca-Cola bottler placed under EU antitrust investigation",
-      "summary": "La Comisión Europea inició investigación formal contra Coca-Cola Europacific Partners (CCEP), uno de los dos mayores embotelladoras europeas de marcas Coca-Cola, por presunta violación de normas de co",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Constellation Brands Argues Colorado Franchise Law Supports CDC Termination; Brand Rights Valued in Hundreds of Millions",
-      "summary": "Constellation Brands apela en Colorado para terminar su relación con Coors Distributing Company (CDC), distribuidor propiedad de Molson Coors en el mercado de Denver. El conflicto involucra derechos d",
+      "summary": "Constellation Brands apela en Colorado para rescindir su contrato de distribución con Coors Distributing Company (propiedad de Molson Coors), que comercializa su portafolio en Denver. El litigio invol",
       "companies": [
         "Molson Coors",
         "Constellation Brands"
@@ -2321,7 +2317,7 @@
     },
     {
       "title": "Gallo, Major Suppliers to Exit NY’s Empire Merchants",
-      "summary": "Empire Merchants, el segundo distribuidor de vinos y espirituosos más grande de Nueva York, está cerrando operaciones en el área metropolitana tras perder a proveedores mayores como Gallo. Este movimi",
+      "summary": "Empire Merchants, el segundo mayor distribuidor de vinos y espirituosos en Nueva York, está cerrando sus operaciones en el área metropolitana tras la pérdida de proveedores clave como Gallo. Este even",
       "companies": [
         "E. & J. Gallo Winery"
       ],
@@ -2332,7 +2328,7 @@
     },
     {
       "title": "Tetra Pak enters new packaging category with paper-based solution for spoonable foods | FoodBev Media",
-      "summary": "Tetra Pak lanza Tetra Reva, una solución de envase de cartón a base de papel para alimentos cucharables (yogur, postres, pudín, alternativas plant-based y quesos blandos). Esta innovación representa l",
+      "summary": "Tetra Pak lanzó Tetra Reva, una solución de envase a base de papel para alimentos de consistencia espesa (yogur, postres, alternativas plant-based, quesos blandos), posicionándose como la primera opci",
       "companies": [
         "Tetra Pak"
       ],
@@ -2343,8 +2339,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Heineken acquires 304 Stonegate Group pubs – The Brewers Journal",
+      "summary": "Heineken UK adquirió 304 pubs de Stonegate Group, expandiendo su negocio Star Pubs de 2,300 a aproximadamente 2,600 locales. Esta es la inversión más significativa en pubs británicos en años recientes",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Top U.S. cordial and liqueur brands posted 1% growth through September",
-      "summary": "El mercado de cordiales y licores en EE.UU. creció apenas 1% hasta septiembre en un contexto de desaceleración general del sector spirits. Marcas como 99, Aperol, Cointreau y Soonhari impulsaron el cr",
+      "summary": "El mercado estadounidense de licores y cordiales registró crecimiento modesto del 1% hasta septiembre en un contexto de desaceleración general del sector spirits. Las marcas Aperol, Cointreau, 99 y So",
       "companies": [
         "Campari Group",
         "Remy Cointreau"
@@ -2355,19 +2362,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Heineken acquires 304 Stonegate Group pubs – The Brewers Journal",
-      "summary": "Heineken UK adquirió 304 bares de Stonegate Group, expandiendo su negocio Star Pubs de 2.300 locales a un total significativamente mayor. Esta es la inversión más importante en pubs británicos en años",
-      "companies": [
-        "Heineken"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Verlinvest increases Oatly stake as China Resources prepares to exit | FoodBev Media",
-      "summary": "Verlinvest, firma de inversión belga, aumentará su participación en Oatly a 42.6% mediante la adquisición de la participación indirecta de China Resources en el fabricante sueco de bebidas de avena. E",
+      "summary": "Verlinvest, firma de inversión belga, aumentará su participación en Oatly a ~42.6% tras adquirir la participación indirecta de China Resources en la empresa sueca de bebidas de avena. Esta operación r",
       "companies": [
         "Oatly"
       ],
@@ -2378,7 +2374,7 @@
     },
     {
       "title": "Moët Hennessy shifts New York distribution to Southern Glazer’s for 2027",
-      "summary": "Moët Hennessy, división de bebidas alcohólicas de LVMH, cambió su distribuidor en Nueva York a Southern Glazer's a partir de 2027, dejando a Empire Merchants. Este cambio impacta significativamente la",
+      "summary": "Moët Hennessy, división de bebidas alcohólicas premium de LVMH, trasladará su distribución en Nueva York a Southern Glazer's a partir de 2027, dejando a Empire Merchants sin este portafolio estratégic",
       "companies": [
         "LVMH Wines & Spirits"
       ],
@@ -2390,7 +2386,7 @@
     },
     {
       "title": "How Kroger, Sam’s Club signal retail media’s future",
-      "summary": "Kroger y Sam's Club están transformando la estrategia de retail media mediante layouts experienciales basados en datos de tráfico de consumidores propios. Las marcas de bebidas migran del pago tradici",
+      "summary": "Kroger y Sam's Club están transformando sus estrategias de retail media, migrando desde el modelo tradicional de pagos por espacio físico (estantes, puntas de góndola) hacia plataformas basadas en dat",
       "companies": [
         "Walmart"
       ],
@@ -2401,7 +2397,7 @@
     },
     {
       "title": "October Hands Out Beer Growth; 19 of Top 25 Vendors Improve Trends vs. September",
-      "summary": "October mostró mejora en ventas de cerveza en canal off-premise (retail), con 19 de los top 25 proveedores mejorando tendencias respecto a septiembre, según datos de Circana. Este impulso de demanda e",
+      "summary": "La cerveza mostró crecimiento en octubre en canal off-premise (retailing) en EE.UU., con 19 de los 25 principales proveedores mejorando su desempeño versus septiembre, según Circana. Este dato indica ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2410,29 +2406,20 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola appoints David Elkins as CFO, succeeding John Murphy | FoodBev Media",
-      "summary": "Coca-Cola designa a David Elkins como CFO a partir de abril de 2027, sucediendo a John Murphy tras 38 años en la compañía. Este cambio en la máxima autoridad financiera de uno de los mayores competido",
+      "title": "Monster Beverage Corporation to Host Investor Meeting and Participate in Morgan Stanley Consumer & Retail Conference - Quiver Quantitative",
+      "summary": "Monster Beverage participará en la Conferencia de Consumo y Retail de Morgan Stanley, uno de los principales eventos de inversionistas del sector. Este tipo de participaciones señalan movimientos estr",
       "companies": [
-        "The Coca-Cola Company"
+        "Monster Beverage"
       ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "South Africa’s superfoods: Can untapped gold turn a profit?",
-      "summary": "Sudáfrica posiciona ingredientes locales (baobab, marula, rooibos y granos antiguos) como oportunidades de crecimiento en la categoría de bebidas funcionales y specialty, en línea con la tendencia glo",
-      "companies": [],
       "segments": [
         "consumer_market_trends",
-        "financial_results"
+        "distribution_execution"
       ],
       "region": "Mundial"
     },
     {
       "title": "GLP-1: Is snacking the next big drinks occasion?",
-      "summary": "El uso de medicamentos GLP-1 para pérdida de peso alcanza el 7% de la población británica, generando un nuevo patrón de consumo en bebidas. Consumidores bajo GLP-1 están reemplazando snacks tradiciona",
+      "summary": "El uso de medicamentos GLP-1 para pérdida de peso alcanza 7% de la población británica, generando un impacto potencial significativo en la industria de bebidas. Según Circana, los consumidores que usa",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2441,18 +2428,8 @@
       "region": "Mundial"
     },
     {
-      "title": "U.S. retail wine sales fell 3.6% in the four weeks through Nov. 14",
-      "summary": "Las ventas de vino en retail de EE.UU. cayeron 3.6% en las cuatro semanas hasta el 14 de noviembre, con una leve recuperación preholidaria de 2.6% que no revirtió la tendencia negativa. El vino tranqu",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Italian Wine Group Publishes First Guidance on E.U. Packaging Rules for Wineries",
-      "summary": "Italian Wine Group publica orientaciones sobre nuevas regulaciones de embalaje de la UE para bodegas, estableciendo que botellas envasadas antes del 12 de agosto requieren justificación caso a caso so",
+      "summary": "Italian Wine Group publica orientaciones sobre nuevas regulaciones de empaque de la UE para bodegas, estableciendo que las botellas llenadas antes del 12 de agosto requieren prueba individual de cuánd",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2461,10 +2438,11 @@
       "region": "Mundial"
     },
     {
-      "title": "Monster Beverage Corporation $MNST Stock: Healthcare of Ontario Pension Plan Trust Fund Raises Stake - MarketBeat",
-      "summary": "Healthcare of Ontario Pension Plan Trust Fund incrementó su participación accionaria en Monster Beverage Corporation, uno de los principales competidores globales en bebidas energéticas. Este movimien",
+      "title": "Coca-Cola Europacific Partners Faces EU Antitrust Probe Over Pricing and Trade Restrictions - Lawyer Monthly",
+      "summary": "La Comisión Europea inició una investigación antimonopolio contra Coca-Cola Europacific Partners por prácticas de fijación de precios y restricciones comerciales. La sonda examina posibles abuso de po",
       "companies": [
-        "Monster Beverage"
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2473,7 +2451,7 @@
     },
     {
       "title": "FTSE 100 Large Cap Value Stock Diageo plc (LSE:DGE) in Focus: Premium Spirits Demand Faces a Fresh Reality Check - kalkine.co.uk",
-      "summary": "Diageo, principal productor global de bebidas alcohólicas premium, enfrenta presiones en la demanda de spirits premium. Este análisis es crítico para empresas argentinas de bebidas pues Diageo es comp",
+      "summary": "Diageo enfrenta una desaceleración en la demanda de spirits premium, ajustando expectativas de crecimiento. Este movimiento refleja cambios en comportamiento de consumidores post-inflación y presión s",
       "companies": [
         "Diageo"
       ],
@@ -2483,8 +2461,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Is Monster Beverage (NASDAQ:MNST) Maintaining Its Competitive Edge? - Kalkine Media",
-      "summary": "Análisis de la posición competitiva de Monster Beverage en el mercado de bebidas energéticas. Monster enfrenta presión creciente de competidores regionales y marcas premium en un segmento en expansión",
+      "title": "Monster Beverage Corporation $MNST Stock: Healthcare of Ontario Pension Plan Trust Fund Raises Stake - MarketBeat",
+      "summary": "Healthcare of Ontario Pension Plan Trust Fund incrementó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía de bebidas energéticas. Este movi",
       "companies": [
         "Monster Beverage"
       ],
@@ -2494,8 +2472,29 @@
       "region": "Mundial"
     },
     {
+      "title": "Is Monster Beverage (NASDAQ:MNST) Maintaining Its Competitive Edge? - Kalkine Media",
+      "summary": "Análisis sobre la posición competitiva de Monster Beverage en el mercado de bebidas energéticas. La noticia evalúa si Monster mantiene su ventaja competitiva en un segmento de alto crecimiento donde c",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "EU spirits and liqueur exports jumped 12% in 2026’s first nine months",
+      "summary": "Las exportaciones de bebidas espirituosas y licores de la UE crecieron 12% en los primeros nueve meses de 2026, alcanzando €6.946 mil millones. El mercado estadounidense fue el principal motor de este",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Laird Superfood expands Instant Coffee Portfolio",
-      "summary": "Laird Superfood lanza dos nuevas líneas de café instantáneo: Functional Instant Coffee (con ingredientes funcionales como lion's mane y chaga) y Electrolyte Instant Coffee, posicionándose en el segmen",
+      "summary": "Laird Superfood lanza dos nuevas líneas de café instantáneo funcional (con lion's mane y chaga) y café instantáneo con electrolitos, ampliando su portafolio de productos ready-to-drink. La estrategia ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2505,7 +2504,7 @@
     },
     {
       "title": "Hatch Mansfield enters alcohol-free category - Harpers Wine & Spirit Trade News",
-      "summary": "Hatch Mansfield, distribuidor premium de vinos, ingresa en la categoría de bebidas sin alcohol mediante la distribución de NINO, un té espumante suizo premium fundado en 2023. El movimiento refleja la",
+      "summary": "Hatch Mansfield, distribuidor premium de vinos, ingresa a la categoría de bebidas sin alcohol mediante la adición de NINO, un té espumante suizo premium fundado en 2023. La marca se posiciona como beb",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2515,7 +2514,7 @@
     },
     {
       "title": "Coca-Cola revives iconic Gold Spot with a new can format and quick-commerce launch - MediaNews4U",
-      "summary": "Coca-Cola reactiva la marca icónica Gold Spot con un nuevo formato de lata y lanzamiento en canales de comercio rápido. Esta estrategia busca recuperar una marca histórica aprovechando las nuevas tend",
+      "summary": "Coca-Cola revive la marca icónica Gold Spot con un nuevo formato de lata y distribución a través de quick-commerce. La iniciativa combina innovación en packaging con estrategia omnicanal, aprovechando",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2525,18 +2524,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Chobani launches seven new yogurt and protein drink flavours | FoodBev Media",
-      "summary": "Chobani, líder global en yogur griego, lanza siete nuevos sabores en sus líneas de Greek Yogurt, bebidas proteicas 20G y Chobani Flip durante este mes. Las nuevas variedades incluyen sabores innovador",
-      "companies": [],
+      "title": "Deutsche Bank turns cautious on Coca-Cola Europacific Partners after strong rally. - Investing.com Nigeria",
+      "summary": "Deutsche Bank redujo su recomendación de inversión en Coca-Cola Europacific Partners (CCEP) tras una fuerte suba de cotización, señalando valoraciones menos atractivas. CCEP es el embotellador de Coca",
+      "companies": [
+        "The Coca-Cola Company",
+        "Coca-Cola Europacific Partners"
+      ],
       "segments": [
-        "consumer_market_trends",
-        "product_innovation"
+        "company_news"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola CFO John Murphy to retire. Here are his 3 pieces of career advice after nearly 40 years at the company - Fortune",
+      "summary": "John Murphy, CFO de Coca-Cola durante casi 40 años, se retira de la compañía. Este cambio en la cúpula financiera de uno de los mayores competidores globales en bebidas requiere monitoreo para identif",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
       ],
       "region": "Mundial"
     },
     {
       "title": "Constellation Brands asks court to let it end Colorado distributor deal worth hundreds of millions",
-      "summary": "Constellation Brands busca ante los tribunales rescindir un contrato de distribución en Colorado valorado en cientos de millones de dólares. El caso cuestiona si la ley de franquicias de Colorado perm",
+      "summary": "Constellation Brands, productor de bebidas alcohólicas de envergadura global, busca mediante una acción judicial terminar un acuerdo de distribución en Colorado avaluado en cientos de millones de dóla",
       "companies": [
         "Constellation Brands"
       ],
@@ -2548,7 +2560,7 @@
     },
     {
       "title": "Walmart rolls back prices as Target remakes the food aisle",
-      "summary": "Walmart y Target reportaron fuertes resultados en Q3 con alimentos como motor principal, pero con estrategias divergentes. Walmart priorizó rollback de precios en productos de despensa y promociones e",
+      "summary": "Walmart y Target reportaron sólidos resultados en Q3 con dinamismo en categoría alimentos, pero con estrategias divergentes. Walmart priorizó rollback de precios en productos de despensa y innovación ",
       "companies": [
         "Walmart"
       ],
@@ -2557,43 +2569,6 @@
         "financial_results"
       ],
       "region": "Mundial"
-    },
-    {
-      "title": "Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector - The European Sting",
-      "summary": "La Comisión Europea abrió una investigación formal contra Coca-Cola Europacific Partners por potencial conducta anticompetitiva en bebidas no alcohólicas. Este proceso regulatorio podría impactar las ",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "non_alcoholic_beverages"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola Europacific Partners Faces EU Antitrust Probe Over Pricing and Trade Restrictions - Lawyer Monthly",
-      "summary": "Coca-Cola Europacific Partners enfrenta investigación de la UE por prácticas antimonopolio relacionadas con fijación de precios y restricciones comerciales. La acción regulatoria de la autoridad europ",
-      "companies": [
-        "The Coca-Cola Company",
-        "Coca-Cola Europacific Partners"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Heineken habría denunciado a Backus ante Indecopi por presunto abuso de posición dominante - Perú Retail",
-      "summary": "Heineken presentó una denuncia ante Indecopi (autoridad de competencia peruana) contra Backus por presunto abuso de posición dominante en el mercado peruano de bebidas. Este movimiento refleja tension",
-      "companies": [
-        "Heineken",
-        "Backus"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Regional"
     }
   ]
 }
