@@ -2227,7 +2227,7 @@
   "2026-11-26": [
     {
       "title": "Cervecería y Maltería Quilmes apuesta al mercado de cerveza sin alcohol - Perspectiva Sur",
-      "summary": "Quilmes, principal cervecería argentina, expande su portafolio hacia el segmento de cerveza sin alcohol, reflejando la tendencia global de crecimiento en bebidas de bajo/cero contenido alcohólico. Est",
+      "summary": "Quilmes, el principal jugador cervecero argentino, expande su portafolio hacia el segmento de cerveza sin alcohol, alineándose con tendencias globales de consumo. Este movimiento estratégico busca cap",
       "companies": [
         "AB InBev",
         "Cerveceria y Malteria Quilmes"
@@ -2240,7 +2240,7 @@
     },
     {
       "title": "Se profundiza la caída del consumo masivo: retrocedió un 7,5% anual y todos los canales de venta registraron bajas",
-      "summary": "El consumo masivo en Argentina registró una caída de 7,5% en volumen durante septiembre-octubre 2026, la peor contracción de los últimos doce meses, según NielsenIQ. La tendencia se aceleró respecto a",
+      "summary": "El consumo masivo en Argentina registró una contracción de 7,5% en volumen durante septiembre-octubre 2026, la mayor caída del último año, con deterioro acelerado respecto al bimestre anterior según d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2250,7 +2250,7 @@
     },
     {
       "title": "Los supermercados no logran recuperar las ventas y siguen perdiendo puestos de trabajo",
-      "summary": "Las ventas en supermercados cayeron 3% interanual en septiembre 2026 a precios constantes, acumulando retroceso del 2,9% en los primeros 9 meses del año. Este debilitamiento del consumo en canal retai",
+      "summary": "Las ventas en supermercados cayeron 3% interanual en septiembre de 2026 a precios constantes, acumulando retroceso del 2,9% en los nueve meses del año. Este debilitamiento de consumo en canal retail i",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2260,7 +2260,7 @@
     },
     {
       "title": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
-      "summary": "Las ventas en supermercados cayeron 3% interanual en septiembre, acumulando nueve meses consecutivos de contracción. Entre enero y septiembre de 2026 se registra una baja del 29% respecto a igual perí",
+      "summary": "Las ventas en supermercados cayeron 3% interanual en septiembre, acumulando nueve meses consecutivos en baja. El período enero-septiembre 2026 registra una caída del 29% a precios constantes respecto ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2269,8 +2269,18 @@
       "region": "Local"
     },
     {
+      "title": "Las ventas en supermercados cayeron 3% en septiembre, mientras que mayoristas y shoppings repuntaron",
+      "summary": "Las ventas en supermercados cayeron 3% en septiembre versus el año anterior, acumulando una contracción de 2,9% en los primeros nueve meses de 2025. Simultáneamente, mayoristas y shoppings mostraron r",
+      "companies": [],
+      "segments": [
+        "distribution_execution",
+        "financial_results"
+      ],
+      "region": "Local"
+    },
+    {
       "title": "Creció el consumo en mayoristas y shoppings y en supermercados sigue bajo",
-      "summary": "Las ventas en supermercados cayeron 3% en septiembre vs. 2024, profundizando la tendencia negativa acumulada del año, mientras que mayoristas y shoppings mostraron recuperación. Este dato impacta dire",
+      "summary": "Las ventas en supermercados cayeron 3% en septiembre vs. 2024, profundizando la contracción acumulada del año. En contraste, mayoristas y shoppings mostraron repunte. Este patrón refleja cambios en há",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2280,7 +2290,7 @@
     },
     {
       "title": "PepsiCo cambia su estrategia de bebidas: menos dependencia del refresco tradicional y más inversiones en Gatorade, Celsius y Pepsi Zero Sugar",
-      "summary": "PepsiCo reorienta su portafolio hacia bebidas de mayor margen y crecimiento: reduce dependencia de refrescos tradicionales e incrementa inversión en marcas como Gatorade, Celsius y Pepsi Zero Sugar. E",
+      "summary": "PepsiCo reorienta su portafolio hacia bebidas funcionales y de menor contenido calórico, aumentando inversión en Gatorade, Celsius y Pepsi Zero Sugar, mientras reduce dependencia de refrescos tradicio",
       "companies": [
         "PepsiCo",
         "Celsius Holdings"
@@ -2293,7 +2303,7 @@
     },
     {
       "title": "¿Más competencia para Backus y Heineken? Este grupo brasileño busca presencia en Perú",
-      "summary": "Casa Di Conti, empresa cervecera brasileña con 80 años de trayectoria, busca expandirse hacia Perú como parte de su estrategia internacional en América, Europa y África. La entrada de este competidor ",
+      "summary": "Casa Di Conti, empresa cervecera brasileña con 80 años de trayectoria, está evaluando su entrada al mercado peruano como parte de su estrategia de expansión internacional. La compañía busca diversific",
       "companies": [
         "Heineken",
         "Backus"
@@ -2305,17 +2315,8 @@
       "region": "Regional"
     },
     {
-      "title": "Prévia da inflação fica em 0,22% em novembro e acumula 4,64% em 12 meses",
-      "summary": "La inflación de alimentos y bebidas registró un aumento de 1,51% en noviembre en Brasil, con impacto de 0,33 puntos porcentuales en el índice general de inflación. Este incremento es significativo par",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Bebidas sin alcohol: la nueva tendencia que transforma el mercado de licores - HSB Noticias",
-      "summary": "El mercado global de bebidas sin alcohol experimenta un crecimiento significativo, transformando la industria de licores tradicional. Esta tendencia responde a cambios en preferencias del consumidor h",
+      "summary": "El mercado global de bebidas sin alcohol está experimentando un crecimiento acelerado, transformando la industria de licores tradicional. Esta tendencia responde a cambios en preferencias de consumo, ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2324,8 +2325,17 @@
       "region": "Regional"
     },
     {
+      "title": "Mercado de aplicadores de tampas até 2035: envase de bebidas e esterilidade farmacêutica impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "summary": "El mercado global de aplicadores de tampas (máquinas de capping) proyecta crecimiento hasta 2035, impulsado por la demanda del sector de envasado de bebidas y esterilidad farmacéutica. Esta tendencia ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
       "title": "Rémy Cointreau Plans to Cut 12%-15% of Its Work Force",
-      "summary": "Rémy Cointreau, productor francés de bebidas espirituosas, planea reducir entre 12% y 15% de su plantilla como parte de una estrategia de cinco años orientada a reducir costos operativos. A pesar de l",
+      "summary": "Rémy Cointreau, productor francés de bebidas espirituosas, anunció reducciones de personal del 12-15% como parte de una estrategia de optimización de costos a cinco años. Las ventas del primer semestr",
       "companies": [
         "Remy Cointreau"
       ],
@@ -2337,7 +2347,7 @@
     },
     {
       "title": "Judge Rejects Constellation Brands’ Appeal to Permit CDC Termination",
-      "summary": "Un juez rechazó la apelación de Constellation Brands para terminar su relación con Coors Distributing Company (CDC), filial de Molson Coors, en el área de Denver. Las sentencias favorecen a CDC en su ",
+      "summary": "Un tribunal rechazó la apelación de Constellation Brands para terminar su contrato de distribución con Coors Distributing Company (CDC), filial de Molson Coors, en Denver. La decisión favorece a CDC e",
       "companies": [
         "Molson Coors",
         "Constellation Brands"
@@ -2349,7 +2359,7 @@
     },
     {
       "title": "Coca Cola bottler gears up for India IPO to rival Pepsi’s Varun Beverages. How do they stack up? - The Economic Times",
-      "summary": "Un embotellador de Coca-Cola en India prepara su salida a bolsa con el objetivo de competir directamente con Varun Beverages, el principal embotellador de PepsiCo en el mercado indio. Esta operación r",
+      "summary": "Un embotellador de Coca-Cola en India se prepara para lanzar una IPO, buscando competir directamente con Varun Beverages, el principal embotellador de PepsiCo en la región. Esta movida de capital refl",
       "companies": [
         "The Coca-Cola Company",
         "PepsiCo"
@@ -2362,7 +2372,7 @@
     },
     {
       "title": "Remy Cointreau raises its full-year margin outlook",
-      "summary": "Remy Cointreau elevó su guía de márgenes operativos para el año completo tras un desempeño fuerte en el primer semestre: ganancia operativa actual de 126,7 millones de euros (+16,6%) con crecimiento o",
+      "summary": "Rémy Cointreau elevó su proyección de márgenes para el año completo, reportando un crecimiento del beneficio operativo del primer semestre de 16.6% a 126.7 millones de euros con crecimiento orgánico d",
       "companies": [
         "Remy Cointreau"
       ],
@@ -2373,7 +2383,7 @@
     },
     {
       "title": "Pernod Ricard encourages ‘standout serves’ in Christmas on-trade programme - Harpers Wine & Spirit Trade News",
-      "summary": "Pernod Ricard UK lanza un programa navideño 2026 enfocado en propuestas de bebidas diferenciadas y valor para bares, pubs y restaurantes, buscando capitalizar el tráfico estacional en canales on-trade",
+      "summary": "Pernod Ricard UK lanza programa navideño 2026 enfocado en 'serves diferenciados' y 'valor claro' para canal on-trade (bares, pubs, restaurantes). Con datos de Navidad 2025 mostrando que 78% de consumi",
       "companies": [
         "Pernod Ricard"
       ],
@@ -2385,7 +2395,7 @@
     },
     {
       "title": "How Kroger, Sam’s Club signal retail media’s future",
-      "summary": "Kroger y Sam's Club están transformando la estrategia de retail media mediante layouts experienciales basados en datos de tráfico de consumidores, desplazando el modelo tradicional de pago por espacio",
+      "summary": "Kroger y Sam's Club están transformando el retail media mediante datos de consumidor propios, reemplazando el modelo tradicional de pago por espacio físico (góndolas, displays) con visibilidad dirigid",
       "companies": [
         "Walmart"
       ],
@@ -2396,7 +2406,7 @@
     },
     {
       "title": "October Hands Out Beer Growth; 19 of Top 25 Vendors Improve Trends vs. September",
-      "summary": "El mercado de cerveza en EE.UU. mostró crecimiento positivo en octubre en canal off-premise (retail), con 19 de los 25 principales proveedores mejorando sus tendencias versus septiembre, según datos d",
+      "summary": "En octubre, la categoría de cerveza mostró crecimiento en ventas off-premise (minorista) en EE.UU., con 19 de los 25 principales proveedores mejorando su tendencia respecto a septiembre, según datos d",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2405,8 +2415,21 @@
       "region": "Mundial"
     },
     {
+      "title": "Coca-Cola vs. Keurig Dr Pepper: Which Beverage Stock Looks Stronger? - Zacks Investment Research",
+      "summary": "Análisis comparativo de desempeño accionario entre Coca-Cola y Keurig Dr Pepper, dos actores principales en la industria de bebidas. El estudio examina métricas de valuación, rentabilidad y perspectiv",
+      "companies": [
+        "The Coca-Cola Company",
+        "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "India steps up scrutiny of bottled water market, including PepsiCo and Coca-Cola brands - 联合早报",
-      "summary": "India intensifica la supervisión regulatoria del mercado de agua embotellada, incluyendo marcas de PepsiCo y Coca-Cola. Esta acción regulatoria afecta directamente a dos de los mayores actores globale",
+      "summary": "India intensifica la supervisión regulatoria del mercado de agua embotellada, enfocándose en marcas de PepsiCo y Coca-Cola. Esta acción representa un riesgo estratégico significativo para los principa",
       "companies": [
         "The Coca-Cola Company",
         "PepsiCo"
@@ -2418,7 +2441,7 @@
     },
     {
       "title": "Bacardi says moderation will reshape cocktail drinking by 2027",
-      "summary": "Bacardi proyecta que la moderación redefinirá el consumo de cócteles hacia 2027, con 70% de consumidores planificando alternar bebidas alcohólicas con agua o bebidas sin alcohol, llegando a 82% en Gen",
+      "summary": "Bacardi proyecta que el consumo moderado de cócteles redefinirá el mercado hacia 2027, con el 70% de consumidores alternando bebidas alcohólicas con agua o bebidas sin alcohol, llegando al 82% en Gen ",
       "companies": [
         "Bacardi"
       ],
@@ -2428,8 +2451,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Rémy Cointreau raised its outlook after first-half operating profit climbed 16.6% - Vinetur",
+      "summary": "Rémy Cointreau elevó sus perspectivas anuales tras registrar un crecimiento del 16,6% en la ganancia operativa del primer semestre. Este desempeño en spirits premium refleja tendencias positivas en se",
+      "companies": [
+        "Remy Cointreau"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "GLP-1: Is snacking the next big drinks occasion?",
-      "summary": "El uso de medicamentos GLP-1 para pérdida de peso alcanza el 7% de la población británica, generando nuevas dinámicas de consumo en bebidas. Consumidores bajo estos fármacos están reemplazando snacks ",
+      "summary": "El uso de medicamentos GLP-1 para pérdida de peso alcanza el 7% de la población del Reino Unido, generando un nuevo patrón de consumo relevante para la industria de bebidas. Según Circana, usuarios de",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2449,7 +2483,7 @@
     },
     {
       "title": "Packaging fees derided by hospitality industry – The Brewers Journal",
-      "summary": "El gobierno británico confirmó las tarifas de responsabilidad extendida del productor (EPR) para 2026-2027, que la industria cervecera considera prohibitivamente altas. La British Beer and Pub Associa",
+      "summary": "El gobierno británico confirmó las tarifas de responsabilidad extendida del productor (EPR) para 2026-2027, generando rechazo de la British Beer and Pub Association por considerarlas «prohibitivamente",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2459,7 +2493,7 @@
     },
     {
       "title": "Northern Monk acquired by Sunrise Beverages – The Brewers Journal",
-      "summary": "Sunrise Beverages adquirió Northern Monk, sumándose a su cartera de cervecerías (Gipsy Hill, Portobello, Days). La operación se completará a fin de mes y busca proveer capital para crecimiento rentabl",
+      "summary": "Sunrise Beverages adquirió Northern Monk, integrando la cervecería a su portafolio que ya incluye Gipsy Hill, Portobello y Days. La operación cierra a fin de mes y busca proveer capital para crecimien",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2468,19 +2502,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Meerut: UP's New Global Manufacturing Hub with Ball Corp Investment - Rediff MoneyWiz",
-      "summary": "Ball Corporation, líder global en envases de aluminio, invierte en Meerut, Uttar Pradesh, para expandir su capacidad de manufactura en India. Esta inversión refuerza la posición de Ball en el mercado ",
-      "companies": [
-        "Ball Corporation"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Monster Beverage Corporation $MNST Stock: Healthcare of Ontario Pension Plan Trust Fund Raises Stake - MarketBeat",
-      "summary": "Healthcare of Ontario Pension Plan Trust Fund incrementó su participación accionaria en Monster Beverage Corporation, señalando confianza institucional en la compañía. Este movimiento refleja la atrac",
+      "summary": "Healthcare of Ontario Pension Plan Trust Fund incrementó su participación accionaria en Monster Beverage Corporation, reflejando confianza institucional en la compañía. Este movimiento de un fondo de ",
       "companies": [
         "Monster Beverage"
       ],
@@ -2491,7 +2514,7 @@
     },
     {
       "title": "Is Monster Beverage (NASDAQ:MNST) Maintaining Its Competitive Edge? - Kalkine Media",
-      "summary": "Análisis sobre la posición competitiva de Monster Beverage en el mercado global de bebidas energéticas. Monster enfrenta presión creciente de competidores regionales y marcas premium, mientras debe ma",
+      "summary": "Análisis sobre la posición competitiva de Monster Beverage en el mercado global de bebidas energéticas. La noticia evalúa si Monster mantiene su liderazgo frente a competidores como Red Bull y Celsius",
       "companies": [
         "Monster Beverage"
       ],
@@ -2502,7 +2525,7 @@
     },
     {
       "title": "PepsiCo brings its fastest-growing beverage brand to Australia - Convenience & Impulse Retailing",
-      "summary": "PepsiCo lanza su marca de bebidas de más rápido crecimiento en el mercado australiano, expandiendo su portafolio en la región Asia-Pacífico. Esta movida estratégica indica el enfoque del gigante en ca",
+      "summary": "PepsiCo lanza su marca de bebidas de mayor crecimiento en Australia, expandiendo su portafolio en el mercado de Asia-Pacífico. La entrada a este mercado representa una estrategia de penetración en reg",
       "companies": [
         "PepsiCo"
       ],
@@ -2512,30 +2535,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola vs. Keurig Dr Pepper: Which Beverage Stock Looks Stronger? - The Globe and Mail",
-      "summary": "Análisis comparativo de desempeño financiero y estratégico entre Coca-Cola y Keurig Dr Pepper, dos actores clave de la industria de bebidas. El artículo evalúa fortalezas competitivas, posición de mer",
-      "companies": [
-        "The Coca-Cola Company",
-        "Keurig Dr Pepper"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Australia's wine industry cut production 18% to 925 million liters in 2025-26",
-      "summary": "La industria vitivinícola australiana redujo producción 18% a 925 millones de litros en 2025-26, con ventas superando la producción y llevando inventarios a mínimos desde 2019-20. Esta contracción res",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Denver judge denies Constellation bid to leave Coors Distributing Company before arbitration",
-      "summary": "Un juez de Denver rechazó la solicitud de Constellation Brands de abandonar Coors Distributing Company antes de un arbitraje, preservando el acuerdo de distribución actual. La decisión mantiene vigent",
+      "summary": "Un juez de Denver rechazó la solicitud de Constellation Brands para abandonar anticipadamente su relación con Coors Distributing Company, manteniendo vigente una orden que bloquea la separación hasta ",
       "companies": [
         "Molson Coors"
       ],
@@ -2546,7 +2547,7 @@
     },
     {
       "title": "Rémy Cointreau beats profit forecasts as Cognac sales recover - The Drinks Business",
-      "summary": "Rémy Cointreau superó las previsiones de ganancias impulsado por la recuperación en ventas de Cognac, su categoría más importante. Esta noticia es relevante para el sector de bebidas premium ya que in",
+      "summary": "Rémy Cointreau superó las previsiones de ganancias impulsado por la recuperación de ventas de coñac, su categoría insignia. El desempeño del grupo refleja una reactivación de la demanda en mercados cl",
       "companies": [
         "Remy Cointreau"
       ],
@@ -2557,19 +2558,8 @@
       "region": "Mundial"
     },
     {
-      "title": "Rémy Cointreau raised its outlook after first-half operating profit climbed 16.6% - Vinetur",
-      "summary": "Rémy Cointreau elevó su perspectiva de resultados tras registrar un crecimiento del 16.6% en la ganancia operativa del primer semestre. Este desempeño superior refleja fortaleza en el segmento de bebi",
-      "companies": [
-        "Remy Cointreau"
-      ],
-      "segments": [
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Nineteen of the top 25 beer vendors improved sales trends in October",
-      "summary": "Diecinueve de los 25 principales vendedores de cerveza en EE.UU. mejoraron sus tendencias de ventas en octubre, señalando una recuperación más amplia en la demanda minorista tras la debilidad de septi",
+      "summary": "Diecinueve de los 25 principales vendedores de cerveza en EE.UU. mejoraron sus tendencias de ventas en octubre, indicando una recuperación más amplia en la demanda minorista tras un septiembre débil. ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2578,24 +2568,14 @@
       "region": "Mundial"
     },
     {
-      "title": "Coca-Cola revives iconic Gold Spot with a new can format and quick-commerce launch - MediaNews4U",
-      "summary": "Coca-Cola relanza Gold Spot, marca icónica, con nuevo formato de lata e integración en canales de quick-commerce. La iniciativa responde a la creciente demanda de bebidas regionales y la expansión del",
+      "title": "Coca-Cola vs. Keurig Dr Pepper: Which Beverage Stock Looks Stronger? - The Globe and Mail",
+      "summary": "Análisis comparativo de desempeño accionario entre Coca-Cola y Keurig Dr Pepper, dos actores globales de la industria de bebidas. La comparación evalúa la solidez financiera y perspectivas de crecimie",
       "companies": [
-        "The Coca-Cola Company"
+        "The Coca-Cola Company",
+        "Keurig Dr Pepper"
       ],
       "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Coca-Cola CFO John Murphy to retire. Here are his 3 pieces of career advice after nearly 40 years at the company - Fortune",
-      "summary": "John Murphy, CFO de Coca-Cola durante casi 40 años, se retira de la compañía. Este cambio en la cúpula financiera de uno de los mayores competidores globales del sector de bebidas es relevante para mo",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "company_news"
+        "consumer_market_trends"
       ],
       "region": "Mundial"
     }
