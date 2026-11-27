@@ -1,311 +1,4 @@
 {
-  "2026-11-19": [
-    {
-      "title": "Arcor y Danone reordenan su nuevo negocio: La Serenísima Unida concentrará el 100% de Mastellone",
-      "summary": "Arcor y Danone concluyeron la reorganización de su joint venture lácteo, concentrando el 100% de Mastellone Hermanos (propietaria de La Serenísima) en La Serenísima Unida. La operación, aprobada el 13",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Mercado Libre y Carrefour lanzan entregas de supermercado en 45 minutos: cómo funciona el servicio",
-      "summary": "Mercado Libre y Carrefour lanzan servicio de entrega de supermercado en 45 minutos en Argentina, ampliando su alianza comercial. Esta iniciativa intensifica la competencia en el canal de e-commerce y ",
-      "companies": [],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Walmart transforma sus supermercados en espacios publicitarios: Walmart Connect crece mientras las marcas buscan llegar al consumidor en el punto de venta",
-      "summary": "Walmart expande su plataforma publicitaria Walmart Connect como negocio complementario para mejorar rentabilidad. La estrategia transforma puntos de venta en espacios publicitarios, permitiendo a marc",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "PepsiCo fortalece su negocio agrícola en Colombia con compras directas de papa y plátano a pequeños productores",
-      "summary": "PepsiCo implementa un modelo de compras directas de papa y plátano a pequeños productores en cuatro departamentos colombianos, fortaleciendo su cadena de suministro agrícola. La iniciativa, coordinada",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Brewbound Podcast: How Benny Boy is Bringing the Orchard to the City",
-      "summary": "Benny Boy, la primera cidería de Los Ángeles, busca posicionarse con una propuesta de acercamiento de productos de huerta a consumidores urbanos. El podcast también cubre movimientos estratégicos rele",
-      "companies": [
-        "AB InBev"
-      ],
-      "segments": [
-        "distribution_execution",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Press Clips: Jim Beam’s Production Update, Full Sail’s Brewpub Closure and Mr Fancy’s $50K First Campaign",
-      "summary": "Jim Beam, uno de los principales productores de whiskey estadounidenses, mantiene suspendida la producción en su destilería insignia sin fecha estimada de reinicio, según reporta Courier Journal. Esta",
-      "companies": [
-        "Beam Suntory"
-      ],
-      "segments": [
-        "marketing_innovation"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster raises prices, Celsius weighs pricing changes as aluminum costs climb",
-      "summary": "Monster Beverage implementa aumentos de precios en EE.UU. mientras Celsius evalúa cambios en su estrategia de precios y promociones para 2027, en respuesta al incremento de costos de aluminio que pres",
-      "companies": [
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "PepsiCo launches proprietary syrup lineup, concentrated bases",
-      "summary": "PepsiCo lanzó DRIPS by Pepsi Signature Mixes, una línea de jarabes propios y bases concentradas como innovación standalone dentro de su plataforma de bebidas artesanales. La solución está diseñada par",
-      "companies": [
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Total Wine Adult Non-Alc Sales Top $75M; NA Beer 6.5% of Beer Sales",
-      "summary": "Total Wine & More reporta ventas de bebidas sin alcohol para adultos superiores a $75M, con un crecimiento del 125% entre 2022 y 2026. Las categorías de vino sin alcohol y bebidas funcionales lideran ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Sarti to get UK brand campaign amid Hugo Spritz craze",
-      "summary": "Campari Group intensificará la inversión en su marca Sarti Rosa en el Reino Unido para capitalizar la demanda creciente de spritzes más dulces, en respuesta al éxito del Hugo Spritz. La estrategia bus",
-      "companies": [
-        "Campari Group"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands stock: Nelson's Green Brier sale reshapes spirits portfolio - ad-hoc-news.de",
-      "summary": "Constellation Brands vendió Nelson's Green Brier, reposicionando su portafolio de spirits. Este movimiento estratégico refleja decisiones de optimización de categorías en un grupo que también opera en",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Welch’s launches low-sugar grape sparkling juice at Walmart | FoodBev Media",
-      "summary": "Welch's lanzó una nueva bebida en su línea de jugos espumantes con sabor a uva en Walmart, posicionándose en el segmento de bajo contenido de azúcar (4g totales, sin azúcar agregada, 25 calorías por 2",
-      "companies": [
-        "Walmart"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "supply_chain_commodities"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands (NYSE:STZ) Major Shareholder Sells 75,000 Shares of Company Stock - MarketBeat",
-      "summary": "Un accionista mayoritario de Constellation Brands vendió 75,000 acciones de la compañía. Constellation Brands es uno de los principales productores de bebidas alcohólicas a nivel global con presencia ",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "ma_and_strategy"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Beverage breakdown: Coca-Cola, Keurig Dr Pepper, and Celsius are top picks at Wolfe Research - Seeking Alpha",
-      "summary": "Wolfe Research posiciona a Coca-Cola, Keurig Dr Pepper y Celsius como sus mejores opciones de inversión en el sector de bebidas. Este análisis de research relevante refleja el consenso del mercado sob",
-      "companies": [
-        "The Coca-Cola Company",
-        "Keurig Dr Pepper",
-        "Celsius Holdings"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "How GLP-1s are accelerating dairy protein demand",
-      "summary": "El auge de medicamentos GLP-1 (como Ozempic y Wegovy) está acelerando la demanda de proteínas lácteas, particularmente suero de leche, debido a que los usuarios requieren alimentos densos en nutriente",
-      "companies": [
-        "Danone"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "South Korea's HK inno.N Secures Domestic Distribution Rights for Red Bull, Aims for Comeback Through Convenience Store Network - BigGo Finance",
-      "summary": "HK inno.N, empresa surcoreana, aseguró los derechos de distribución doméstica de Red Bull en Corea del Sur, con estrategia de recuperación de mercado a través de la red de tiendas de conveniencia. Est",
-      "companies": [
-        "Red Bull"
-      ],
-      "segments": [
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Senators Introduce Hemp Guardrails Act to Set Regulatory Framework, Avoid Hemp THC Prohibition",
-      "summary": "Senadores estadounidenses proponen la Hemp Guardrails Act para crear un marco regulatorio federal supervisado por la FDA que legalizaría productos derivados de cáñamo con THC y CBD, incluyendo bebidas",
-      "companies": [],
-      "segments": [
-        "alternative_ingredients",
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Craft tequila: How smaller brands can reach the next wave of drinkers",
-      "summary": "El tequila artesanal captura casi el 10% de las ventas minoristas de tequila en EE.UU. por valor, creciendo 18.6% en 52 semanas (hasta agosto 2026) versus una caída del 5.4% en marcas convencionales. ",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. spirits sales fell 1.9% in early November",
-      "summary": "Las ventas de destilados en EE.UU. cayeron 1,9% en noviembre temprano, con whiskey retrocediendo 5,0%. El tequila y los destilados sin alcohol lideran el crecimiento, reflejando cambios en preferencia",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Germany Drops a Sparkling Wine Tax Increase From Its 2027 Revenue Package",
-      "summary": "Alemania eliminó un aumento de impuestos específico a vinos espumantes de su paquete fiscal 2027, aunque mantiene la intención de aumentar impuestos generales a bebidas alcohólicas, tabaco y bebidas a",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Non-alcoholic beverage growth slows as category moves mainstream, pushing brands to consider next steps",
-      "summary": "Las ventas de bebidas no alcohólicas crecieron 12,3% a $1.12 mil millones en 52 semanas (hasta octubre 2026), desacelerándose desde crecimientos previos de doble dígito altos. Expertos interpretan est",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Constellation Brands enlists Enotria to distribute craft spirits - The Spirits Business",
-      "summary": "Constellation Brands, uno de los mayores productores de bebidas alcohólicas a nivel mundial, contrató a Enotria & Coe para distribuir su cartera de spirits artesanales en mercados clave. Este movimien",
-      "companies": [
-        "Constellation Brands"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Monster Beverage (NASDAQ:MNST) Stock Rated \"Outperform\" in New Coverage at Wolfe Research - MarketBeat",
-      "summary": "Wolfe Research inició cobertura de Monster Beverage con calificación 'Outperform', señalando confianza en el desempeño futuro del líder global en bebidas energéticas. Esta validación de analista refue",
-      "companies": [
-        "Monster Beverage"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "A Ambev quer comprar mais cevada — mas precisa convencer produtores a plantar no inverno",
-      "summary": "Ambev planea triplicar su programa de producción de cevada en Brasil, expandiendo de 15 mil a 50 mil hectáreas entre 2026 y 2030 en Rio Grande do Sul. El desafío estratégico es convencer a agricultore",
-      "companies": [
-        "Ambev"
-      ],
-      "segments": [
-        "company_news"
-      ],
-      "region": "Regional"
-    },
-    {
-      "title": "Bacardi Cocktail Trends Report explores how flavour, hospitality and human recommendations will shape the drinks experience - Retail Times",
-      "summary": "Bacardi publica un reporte de tendencias de cócteles que identifica sabor, hospitalidad y recomendaciones personales como drivers clave de la experiencia de bebidas. El análisis señala cambios en las ",
-      "companies": [
-        "Bacardi"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "NA Wine, Functional Drinks Lead Growth in Total Wine’s $75M Adult Non-Alc Set",
-      "summary": "Total Wine & More reporta un crecimiento del 125% en ventas de bebidas no alcohólicas para adultos entre FY2022-2026, alcanzando USD 75M. Los segmentos de vinos sin alcohol y bebidas funcionales lider",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. beer sales decline eased in early November, NielsenIQ says",
-      "summary": "Las ventas de cerveza en EE.UU. mostraron una desaceleración en la caída durante las primeras semanas de noviembre, con una contracción de solo 1,5% en dólares en el período de cuatro semanas terminad",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "U.S. prepared cocktail sales rose 4.1% in the latest four weeks",
-      "summary": "Las ventas de cócteles preparados en EE.UU. crecieron 4,1% en las últimas cuatro semanas, con bebidas alcohólicas listas para consumir (RTD) a base de spirits mostrando un crecimiento explosivo del 22",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "financial_results"
-      ],
-      "region": "Mundial"
-    }
-  ],
   "2026-11-20": [
     {
       "title": "De cara a 2027: las expectativas de la industria siguen en rojo, pero mejoran las de los supermercados",
@@ -2573,6 +2266,320 @@
       "companies": [
         "The Coca-Cola Company",
         "Keurig Dr Pepper"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    }
+  ],
+  "2026-11-27": [
+    {
+      "title": "Coca-Cola suma Smartwater en lata de 473 ml en Argentina junto a Ball",
+      "summary": "Coca-Cola lanzó Smartwater en lata de aluminio de 473 ml en Argentina en alianza con Ball, expandiendo su portafolio en el segmento de aguas premium. El nuevo formato responde a la tendencia de innova",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "company_news"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Bebidas y kioscos lideran la caída del consumo y todos los canales terminan en baja",
+      "summary": "El consumo de bebidas se contrae aceleradamente en Argentina, liderando la caída junto con el canal kiosco. Todos los canales de distribución cierran en baja mientras persisten aumentos de precios y l",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Hay MENOS EMPLEADOS en supermercados y mayoristas, y los SUELDOS suben menos que los precios",
+      "summary": "Las ventas en supermercados cayeron 3% en septiembre 2026 (descontado efecto precios) mientras mayoristas crecieron 1%, según INDEC. Ambos canales reducen plantilla y salarios reales se erosionan por ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "¿Más competencia para Backus y Heineken? Este grupo brasileño busca presencia en Perú",
+      "summary": "Casa Di Conti, cervecera brasileña con 80 años de trayectoria, busca expandirse hacia el mercado peruano tras consolidar presencia en América, Europa y África. Esta entrada representa nueva competenci",
+      "companies": [
+        "Heineken",
+        "Backus"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Sam’s encuentra nuevos clientes entre la Generación Z y los millennials: los jóvenes representan más de la mitad de sus nuevas membresías",
+      "summary": "Sam's Club (cadena de mayoristas del grupo Walmart) está atrayendo significativamente a Gen Z y millennials, que representan más del 50% de nuevas membresías en Q3 2026. Con ventas netas de $25.9B USD",
+      "companies": [
+        "Walmart"
+      ],
+      "segments": [
+        "financial_results"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "PepsiCo is taking Doritos beyond the snack aisle, partnering with KFC and Subway to transform the brand into new meal options",
+      "summary": "PepsiCo expande Doritos más allá del segmento snacks mediante asociaciones estratégicas con KFC y Subway para crear nuevas opciones de comidas. Esta estrategia busca multiplicar ocasiones de consumo y",
+      "companies": [
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Starbucks prepares 1,200 new coffee shops by 2027—nearly 3 international openings per day",
+      "summary": "Starbucks planea abrir 1.200 nuevas sucursales antes de 2027, alcanzando más de 42.800 locales globales con un ritmo de aproximadamente 3 aperturas internacionales diarias. Esta expansión agresiva res",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Regional"
+    },
+    {
+      "title": "Arizona adds lychee rose lemonade to its portfolio | FoodBev Media",
+      "summary": "Arizona Beverages lanzó un nuevo sabor de limonada con lichi y rosa en colaboración con Golf Wang (marca de Tyler, The Creator). Esta alianza estratégica representa una jugada de posicionamiento en el",
+      "companies": [
+        "Arizona Beverages"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "India steps up scrutiny of bottled water market, including PepsiCo and Coca-Cola brands - 联合早报",
+      "summary": "India intensifica la supervisión regulatoria del mercado de agua embotellada, enfocándose en marcas de PepsiCo y Coca-Cola. Esta acción refleja presiones gubernamentales sobre consumo de recursos hídr",
+      "companies": [
+        "The Coca-Cola Company",
+        "PepsiCo"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Did Coca-Cola bottler stop cheaper drinks from crossing EU borders? - EU Perspectives",
+      "summary": "Investigación sobre presunta práctica anticompetitiva de un embotellador de Coca-Cola en la UE que habría impedido el comercio transfronterizo de bebidas más económicas entre países miembros. Este cas",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Reflecting on beverages, alcohol, and tobacco stocks’ Q3 earnings: Boston Beer - TradingView",
+      "summary": "Boston Beer reportó resultados del Q3 en el contexto de análisis de empresas del sector bebidas, alcohol y tabaco. Este es un competidor relevante en la industria de bebidas alcohólicas con operacione",
+      "companies": [
+        "Boston Beer Company"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Coca-Cola bottling giant snaps up South African company for R45.19 billion to become the second-biggest business of its kind in the world - Daily Investor",
+      "summary": "Un embotellador gigante de Coca-Cola adquirió una empresa sudafricana por R45.19 mil millones (aproximadamente USD 2.4-2.5 mil millones), posicionándose como el segundo mayor negocio de embotellado a ",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "New beverage launches: From premium whisky to alcohol-free RTDs",
+      "summary": "El mercado de bebidas alcohólicas experimenta una transformación hacia productos premium y opciones sin alcohol (RTD). Los productores, tanto grandes como startups, se diferencian mediante premiumizac",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "A.G. Barr p.l.c. (LSE:BAG) Dips as Irn-Bru Brand Heritage and Soft Drinks Portfolio Remain Central to Sentiment - kalkine.co.uk",
+      "summary": "A.G. Barr p.l.c., empresa cotizada en LSE con presencia en el mercado de bebidas, experimentó una caída accionaria. La noticia destaca que el patrimonio de marca de Irn-Bru y su portafolio de bebidas ",
+      "companies": [
+        "AG Barr"
+      ],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Colombia’s alcohol tax alternative could raise 16.77 trillion pesos",
+      "summary": "Colombia estudia reemplazar su impuesto al alcohol actual por un gravamen vinculado al contenido alcohólico, que podría recaudar 16,77 billones de pesos. Los precios de cerveza aumentarían aproximadam",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Packaging fees derided by hospitality industry – The Brewers Journal",
+      "summary": "El gobierno británico confirmó las tarifas de responsabilidad extendida del productor (EPR) para envases 2026-2027, que la industria cervecera considera prohibitivamente altas. La British Beer and Pub",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Northern Monk acquired by Sunrise Beverages – The Brewers Journal",
+      "summary": "Northern Monk, cervecería independiente, fue adquirida por Sunrise Beverages (propietaria de Gipsy Hill, Portobello y Days), consolidando un portafolio multi-marca en el segmento cervecero premium. La",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Here's How Much $100 Invested In Monster Beverage 15 Years Ago Would Be Worth Today - Benzinga",
+      "summary": "Un análisis de Benzinga sobre la performance histórica de las acciones de Monster Beverage en los últimos 15 años, mostrando el retorno de una inversión de $100 en ese período. Esta información es rel",
+      "companies": [
+        "Monster Beverage"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "FTSE 250 Mid Cap Growth Stock: Fevertree Drinks stays in focus as premium mixers battle softer consumer confidence (LSE:FEVR) - kalkine.co.uk",
+      "summary": "Fevertree Drinks, líder global en mixers premium, enfrenta presiones por debilitamiento de la confianza del consumidor, impactando la demanda en segmento premium. La noticia es relevante para monitore",
+      "companies": [
+        "Fevertree Drinks"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "EU spirits exports rose 12% through September on stronger U.S. demand",
+      "summary": "Las exportaciones de bebidas espirituosas de la UE crecieron 12% hasta septiembre, alcanzando €6.946 mil millones, impulsadas por la demanda estadounidense que se recupera tras un débil 2025. Este dat",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Switzerland’s beer market grew 0.8% after nonalcoholic beer sales jumped 15.0%",
+      "summary": "El mercado cervecero suizo creció 0.8% impulsado por un salto de 15% en ventas de cerveza sin alcohol, indicando una tendencia de consumo en la categoría de bebidas bajas/sin alcohol. Las importacione",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Italian supermarket wine sales fell 1.5% in the first nine months of 2026",
+      "summary": "Las ventas de vino en supermercados italianos cayeron 1,5% en los primeros nueve meses de 2026, aunque los espumantes de método tradicional premium crecieron 9,6% en valor. La contracción más signific",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Javvy Coffee launches Girl Scout Cookie-inspired protein coffee and creamer | FoodBev Media",
+      "summary": "Javvy Coffee lanzó dos nuevos productos de café proteico y cremera inspirados en las galletas Girl Scout (Thin Mints y Coconut Caramel) mediante una licencia de GSUSA. Esta estrategia de co-branding a",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "The power of prediction: Stabilising food and beverage supply chains during peak season | FoodBev Media",
+      "summary": "El artículo aborda la planificación de cadenas de suministro en la industria de alimentos y bebidas durante el Q4, el período de mayor demanda del año. Con la lealtad de marca en declive, los fabrican",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "financial_results"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Heineken looks to recommence Prestige beer production in Haiti after local-'insecurity'-linked pause - Global Drinks Intel",
+      "summary": "Heineken planifica reanudar la producción de Prestige en Haití tras una pausa causada por inseguridad local. Esta decisión es relevante para la industria de bebidas porque evidencia la importancia est",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Se profundiza la caída del consumo masivo: retrocedió un 7,5% anual y todos los canales de venta registraron bajas",
+      "summary": "El consumo masivo en Argentina registró una caída de 7,5% en volumen durante septiembre-octubre 2026, la peor contracción de los últimos 12 meses, acelerando la tendencia contractiva observada en agos",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Sunrise Beverages Agrees to Buy Northern Monk",
+      "summary": "Sunrise Beverages adquirió Northern Monk, cervecería artesanal del Reino Unido ubicada en Leeds. El comprador planea duplicar la capacidad de producción de la planta para fines de 2028, señalando una ",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "ma_and_strategy"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Inside Heineken’s plans to build a major regional beverage plant in Rwamagana - IGIHE News",
+      "summary": "Heineken planifica la construcción de una planta regional de bebidas en Rwamagana, Rwanda, expandiendo su capacidad productiva en África Oriental. Este movimiento representa una estrategia de integrac",
+      "companies": [
+        "Heineken"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
+      "title": "Summit Street Capital Management LLC Purchases New Stake in Molson Coors Beverage Company $TAP - MarketBeat",
+      "summary": "Summit Street Capital Management adquirió una nueva posición accionaria en Molson Coors Beverage Company (TAP), uno de los mayores productores de cerveza en América del Norte. Este movimiento de un in",
+      "companies": [
+        "Molson Coors"
       ],
       "segments": [
         "consumer_market_trends"
