@@ -2276,7 +2276,7 @@
   "2026-11-27": [
     {
       "title": "Coca-Cola suma Smartwater en lata de 473 ml en Argentina junto a Ball",
-      "summary": "Coca-Cola lanzó Smartwater en lata de aluminio de 473 ml en Argentina en alianza con Ball, expandiendo su portafolio en el segmento de aguas premium. El nuevo formato responde a la tendencia de innova",
+      "summary": "Coca-Cola lanzó Smartwater en lata de aluminio de 473 ml en Argentina en asociación con Ball, ampliando su portafolio en la categoría de aguas premium. El nuevo formato responde a la tendencia de inno",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2287,7 +2287,17 @@
     },
     {
       "title": "Bebidas y kioscos lideran la caída del consumo y todos los canales terminan en baja",
-      "summary": "El consumo de bebidas se contrae aceleradamente en Argentina, liderando la caída junto con el canal kiosco. Todos los canales de distribución cierran en baja mientras persisten aumentos de precios y l",
+      "summary": "El consumo de bebidas en Argentina registra una caída acelerada en el último bimestre, liderando la contracción general del mercado de consumo masivo junto con los kioscos. La caída abarca todos los c",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "distribution_execution"
+      ],
+      "region": "Local"
+    },
+    {
+      "title": "Se profundiza la caída del consumo masivo: retrocedió un 7,5% anual y todos los canales de venta registraron bajas",
+      "summary": "El consumo masivo en Argentina registró una caída de 7,5% en volumen durante septiembre-octubre 2026, la peor performance del último año, acelerando la contracción respecto a períodos previos. Todos l",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2297,7 +2307,7 @@
     },
     {
       "title": "Hay MENOS EMPLEADOS en supermercados y mayoristas, y los SUELDOS suben menos que los precios",
-      "summary": "Las ventas en supermercados cayeron 3% en septiembre 2026 (descontado efecto precios) mientras mayoristas crecieron 1%, según INDEC. Ambos canales reducen plantilla y salarios reales se erosionan por ",
+      "summary": "Las ventas de supermercados cayeron 3% en septiembre 2026 (volumen descontado inflación) mientras mayoristas crecieron 1%, según INDEC. Ambos canales reducen plantilla y salarios reales se contraen ve",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2307,7 +2317,7 @@
     },
     {
       "title": "¿Más competencia para Backus y Heineken? Este grupo brasileño busca presencia en Perú",
-      "summary": "Casa Di Conti, cervecera brasileña con 80 años de trayectoria, busca expandirse hacia el mercado peruano tras consolidar presencia en América, Europa y África. Esta entrada representa nueva competenci",
+      "summary": "Casa Di Conti, empresa brasileña de bebidas con 80 años de historia, busca expandirse hacia Perú para competir en el mercado cervecero contra líderes como Backus y Heineken. La compañía ya tiene prese",
       "companies": [
         "Heineken",
         "Backus"
@@ -2320,7 +2330,7 @@
     },
     {
       "title": "Sam’s encuentra nuevos clientes entre la Generación Z y los millennials: los jóvenes representan más de la mitad de sus nuevas membresías",
-      "summary": "Sam's Club (cadena de mayoristas del grupo Walmart) está atrayendo significativamente a Gen Z y millennials, que representan más del 50% de nuevas membresías en Q3 2026. Con ventas netas de $25.9B USD",
+      "summary": "Sam's Club EE.UU. reporta crecimiento de 10% en Q3 2026 (USD 25.9B en ventas netas), con un cambio demográfico significativo: más del 50% de nuevas membresías provienen de Gen Z y millennials. Este de",
       "companies": [
         "Walmart"
       ],
@@ -2331,7 +2341,7 @@
     },
     {
       "title": "PepsiCo is taking Doritos beyond the snack aisle, partnering with KFC and Subway to transform the brand into new meal options",
-      "summary": "PepsiCo expande Doritos más allá del segmento snacks mediante asociaciones estratégicas con KFC y Subway para crear nuevas opciones de comidas. Esta estrategia busca multiplicar ocasiones de consumo y",
+      "summary": "PepsiCo expande la marca Doritos más allá de snacks mediante alianzas estratégicas con KFC y Subway para crear nuevas opciones de comidas. La iniciativa busca diversificar ocasiones de consumo y alcan",
       "companies": [
         "PepsiCo"
       ],
@@ -2341,18 +2351,8 @@
       "region": "Regional"
     },
     {
-      "title": "Starbucks prepares 1,200 new coffee shops by 2027—nearly 3 international openings per day",
-      "summary": "Starbucks planea abrir 1.200 nuevas sucursales antes de 2027, alcanzando más de 42.800 locales globales con un ritmo de aproximadamente 3 aperturas internacionales diarias. Esta expansión agresiva res",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "ma_and_strategy"
-      ],
-      "region": "Regional"
-    },
-    {
       "title": "Arizona adds lychee rose lemonade to its portfolio | FoodBev Media",
-      "summary": "Arizona Beverages lanzó un nuevo sabor de limonada con lichi y rosa en colaboración con Golf Wang (marca de Tyler, The Creator). Esta alianza estratégica representa una jugada de posicionamiento en el",
+      "summary": "Arizona Beverages lanzó una nueva bebida de limonada con rosa y lichi en colaboración con Golf Wang (marca del músico Tyler, The Creator). El producto combina frutas tropicales con notas florales, amp",
       "companies": [
         "Arizona Beverages"
       ],
@@ -2363,32 +2363,8 @@
       "region": "Mundial"
     },
     {
-      "title": "India steps up scrutiny of bottled water market, including PepsiCo and Coca-Cola brands - 联合早报",
-      "summary": "India intensifica la supervisión regulatoria del mercado de agua embotellada, enfocándose en marcas de PepsiCo y Coca-Cola. Esta acción refleja presiones gubernamentales sobre consumo de recursos hídr",
-      "companies": [
-        "The Coca-Cola Company",
-        "PepsiCo"
-      ],
-      "segments": [
-        "consumer_market_trends"
-      ],
-      "region": "Mundial"
-    },
-    {
-      "title": "Did Coca-Cola bottler stop cheaper drinks from crossing EU borders? - EU Perspectives",
-      "summary": "Investigación sobre presunta práctica anticompetitiva de un embotellador de Coca-Cola en la UE que habría impedido el comercio transfronterizo de bebidas más económicas entre países miembros. Este cas",
-      "companies": [
-        "The Coca-Cola Company"
-      ],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Mundial"
-    },
-    {
       "title": "Reflecting on beverages, alcohol, and tobacco stocks’ Q3 earnings: Boston Beer - TradingView",
-      "summary": "Boston Beer reportó resultados del Q3 en el contexto de análisis de empresas del sector bebidas, alcohol y tabaco. Este es un competidor relevante en la industria de bebidas alcohólicas con operacione",
+      "summary": "Boston Beer reportó resultados de Q3, relevante para analizar el desempeño del sector alcohólico en un trimestre clave. La empresa es fabricante destacado de bebidas alcohólicas (cervezas especiales y",
       "companies": [
         "Boston Beer Company"
       ],
@@ -2400,7 +2376,7 @@
     },
     {
       "title": "Coca-Cola bottling giant snaps up South African company for R45.19 billion to become the second-biggest business of its kind in the world - Daily Investor",
-      "summary": "Un embotellador gigante de Coca-Cola adquirió una empresa sudafricana por R45.19 mil millones (aproximadamente USD 2.4-2.5 mil millones), posicionándose como el segundo mayor negocio de embotellado a ",
+      "summary": "Un gigante embotellador de Coca-Cola adquirió una empresa sudafricana por R45.19 mil millones, posicionándose como el segundo embotellador más grande del mundo. Esta operación consolida la presencia d",
       "companies": [
         "The Coca-Cola Company"
       ],
@@ -2411,7 +2387,7 @@
     },
     {
       "title": "New beverage launches: From premium whisky to alcohol-free RTDs",
-      "summary": "El mercado de bebidas alcohólicas experimenta una transformación hacia productos premium y opciones sin alcohol (RTD). Los productores, tanto grandes como startups, se diferencian mediante premiumizac",
+      "summary": "El mercado de bebidas responde a tendencias de moderación y consumo premium en casa con nuevos lanzamientos de bebidas alcohólicas y sin alcohol en formato RTD. Tanto players establecidos como startup",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2421,7 +2397,7 @@
     },
     {
       "title": "A.G. Barr p.l.c. (LSE:BAG) Dips as Irn-Bru Brand Heritage and Soft Drinks Portfolio Remain Central to Sentiment - kalkine.co.uk",
-      "summary": "A.G. Barr p.l.c., empresa cotizada en LSE con presencia en el mercado de bebidas, experimentó una caída accionaria. La noticia destaca que el patrimonio de marca de Irn-Bru y su portafolio de bebidas ",
+      "summary": "A.G. Barr p.l.c., empresa cotizada en LSE, experimenta caída en cotización mientras su portafolio de bebidas, liderado por la marca Irn-Bru, sigue siendo determinante en el sentimiento de mercado. La ",
       "companies": [
         "AG Barr"
       ],
@@ -2433,7 +2409,7 @@
     },
     {
       "title": "Colombia’s alcohol tax alternative could raise 16.77 trillion pesos",
-      "summary": "Colombia estudia reemplazar su impuesto al alcohol actual por un gravamen vinculado al contenido alcohólico, que podría recaudar 16,77 billones de pesos. Los precios de cerveza aumentarían aproximadam",
+      "summary": "Colombia evalúa un gravamen alternativo vinculado al contenido alcohólico que podría recaudar 16.77 billones de pesos. La medida incrementaría los precios de cerveza aproximadamente 18%, generando la ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2443,7 +2419,7 @@
     },
     {
       "title": "Packaging fees derided by hospitality industry – The Brewers Journal",
-      "summary": "El gobierno británico confirmó las tarifas de responsabilidad extendida del productor (EPR) para envases 2026-2027, que la industria cervecera considera prohibitivamente altas. La British Beer and Pub",
+      "summary": "El gobierno británico confirmó las tarifas de responsabilidad extendida del productor (EPR) para 2026-2027, que la industria cervecera y de bares considera prohibitivamente altas. Esta regulación impa",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2453,7 +2429,7 @@
     },
     {
       "title": "Northern Monk acquired by Sunrise Beverages – The Brewers Journal",
-      "summary": "Northern Monk, cervecería independiente, fue adquirida por Sunrise Beverages (propietaria de Gipsy Hill, Portobello y Days), consolidando un portafolio multi-marca en el segmento cervecero premium. La",
+      "summary": "Sunrise Beverages adquirió Northern Monk, sumándose a su cartera de cervecerías (Gipsy Hill, Portobello, Days). La operación, que se completará a fin de mes, busca financiar el crecimiento rentable y ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2462,10 +2438,11 @@
       "region": "Mundial"
     },
     {
-      "title": "Here's How Much $100 Invested In Monster Beverage 15 Years Ago Would Be Worth Today - Benzinga",
-      "summary": "Un análisis de Benzinga sobre la performance histórica de las acciones de Monster Beverage en los últimos 15 años, mostrando el retorno de una inversión de $100 en ese período. Esta información es rel",
+      "title": "Coca-Cola vs. Keurig Dr Pepper: Which Beverage Stock Looks Stronger? - The Globe and Mail",
+      "summary": "Análisis comparativo de desempeño financiero entre Coca-Cola y Keurig Dr Pepper, dos de los mayores actores globales en bebidas. La evaluación de solidez bursátil de estos competidores clave proporcio",
       "companies": [
-        "Monster Beverage"
+        "The Coca-Cola Company",
+        "Keurig Dr Pepper"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2474,7 +2451,7 @@
     },
     {
       "title": "FTSE 250 Mid Cap Growth Stock: Fevertree Drinks stays in focus as premium mixers battle softer consumer confidence (LSE:FEVR) - kalkine.co.uk",
-      "summary": "Fevertree Drinks, líder global en mixers premium, enfrenta presiones por debilitamiento de la confianza del consumidor, impactando la demanda en segmento premium. La noticia es relevante para monitore",
+      "summary": "Fevertree Drinks, líder global en mezcladores premium, enfrenta presiones por debilitamiento de confianza del consumidor en mercados desarrollados. La compañía cotizada en LSE (FEVR) representa un com",
       "companies": [
         "Fevertree Drinks"
       ],
@@ -2485,7 +2462,7 @@
     },
     {
       "title": "EU spirits exports rose 12% through September on stronger U.S. demand",
-      "summary": "Las exportaciones de bebidas espirituosas de la UE crecieron 12% hasta septiembre, alcanzando €6.946 mil millones, impulsadas por la demanda estadounidense que se recupera tras un débil 2025. Este dat",
+      "summary": "Las exportaciones de bebidas espirituosas de la UE crecieron 12% hasta septiembre, alcanzando €6.946 mil millones, impulsadas principalmente por la demanda estadounidense tras un débil 2025. Este dese",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2495,7 +2472,7 @@
     },
     {
       "title": "Switzerland’s beer market grew 0.8% after nonalcoholic beer sales jumped 15.0%",
-      "summary": "El mercado cervecero suizo creció 0.8% impulsado por un salto de 15% en ventas de cerveza sin alcohol, indicando una tendencia de consumo en la categoría de bebidas bajas/sin alcohol. Las importacione",
+      "summary": "El mercado cervecero suizo creció 0.8% impulsado por un salto del 15% en cervezas sin alcohol, mientras que la cerveza tradicional contrajo 0.3%. Las importaciones aumentaron 4.4%, indicando un cambio",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2505,7 +2482,7 @@
     },
     {
       "title": "Italian supermarket wine sales fell 1.5% in the first nine months of 2026",
-      "summary": "Las ventas de vino en supermercados italianos cayeron 1,5% en los primeros nueve meses de 2026, aunque los espumantes de método tradicional premium crecieron 9,6% en valor. La contracción más signific",
+      "summary": "Las ventas de vino en supermercados italianos cayeron 1,5% en los primeros nueve meses de 2026, reflejando presiones en el canal retail de bebidas alcohólicas premium. Los vinos espumantes de método t",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2515,7 +2492,7 @@
     },
     {
       "title": "Javvy Coffee launches Girl Scout Cookie-inspired protein coffee and creamer | FoodBev Media",
-      "summary": "Javvy Coffee lanzó dos nuevos productos de café proteico y cremera inspirados en las galletas Girl Scout (Thin Mints y Coconut Caramel) mediante una licencia de GSUSA. Esta estrategia de co-branding a",
+      "summary": "Javvy Coffee lanzó dos nuevos productos de café proteico y crema inspirados en las galletas Girl Scout (Thin Mints y Coconut Caramel) mediante una alianza de licenciamiento con Girl Scouts of the USA.",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2524,8 +2501,18 @@
       "region": "Mundial"
     },
     {
+      "title": "What’s happening with non-alcoholic beer?",
+      "summary": "El mercado europeo de cerveza sin alcohol está ganando relevancia estratégica según datos recientes. Esta tendencia representa una oportunidad de portafolio para expandir categorías de bajo/cero alcoh",
+      "companies": [],
+      "segments": [
+        "consumer_market_trends",
+        "non_alcoholic_beverages"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "The power of prediction: Stabilising food and beverage supply chains during peak season | FoodBev Media",
-      "summary": "El artículo aborda la planificación de cadenas de suministro en la industria de alimentos y bebidas durante el Q4, el período de mayor demanda del año. Con la lealtad de marca en declive, los fabrican",
+      "summary": "El artículo aborda la optimización de cadenas de suministro en la industria de alimentos y bebidas durante el Q4, el período de mayor producción anual. Destaca cómo las empresas enfrentan desafíos de ",
       "companies": [],
       "segments": [
         "consumer_market_trends",
@@ -2534,8 +2521,19 @@
       "region": "Mundial"
     },
     {
+      "title": "Ball Corporation to invest US$300M in new beverage can plant in India - Food Business Middle East & Africa",
+      "summary": "Ball Corporation, líder global en envases de aluminio, invertirá US$300M en una nueva planta de latas para bebidas en India. Esta expansión estratégica responde al crecimiento acelerado de la demanda ",
+      "companies": [
+        "Ball Corporation"
+      ],
+      "segments": [
+        "consumer_market_trends"
+      ],
+      "region": "Mundial"
+    },
+    {
       "title": "Heineken looks to recommence Prestige beer production in Haiti after local-'insecurity'-linked pause - Global Drinks Intel",
-      "summary": "Heineken planifica reanudar la producción de Prestige en Haití tras una pausa causada por inseguridad local. Esta decisión es relevante para la industria de bebidas porque evidencia la importancia est",
+      "summary": "Heineken planifica reanudar la producción de Prestige en Haití tras una pausa causada por inseguridad local. Esta decisión es estratégica para el grupo, ya que Prestige es una marca emblemática en el ",
       "companies": [
         "Heineken"
       ],
@@ -2545,30 +2543,31 @@
       "region": "Mundial"
     },
     {
-      "title": "Se profundiza la caída del consumo masivo: retrocedió un 7,5% anual y todos los canales de venta registraron bajas",
-      "summary": "El consumo masivo en Argentina registró una caída de 7,5% en volumen durante septiembre-octubre 2026, la peor contracción de los últimos 12 meses, acelerando la tendencia contractiva observada en agos",
-      "companies": [],
-      "segments": [
-        "consumer_market_trends",
-        "distribution_execution"
-      ],
-      "region": "Local"
-    },
-    {
-      "title": "Sunrise Beverages Agrees to Buy Northern Monk",
-      "summary": "Sunrise Beverages adquirió Northern Monk, cervecería artesanal del Reino Unido ubicada en Leeds. El comprador planea duplicar la capacidad de producción de la planta para fines de 2028, señalando una ",
+      "title": "Starbucks prepares 1,200 new coffee shops by 2027—nearly 3 international openings per day",
+      "summary": "Starbucks planea abrir 1.200 nuevas sucursales hacia 2027, lo que implicaría casi 3 locales internacionales diarios y elevaría su red a más de 42.800 tiendas globalmente. Esta expansión agresiva respo",
       "companies": [],
       "segments": [
         "consumer_market_trends",
         "ma_and_strategy"
       ],
+      "region": "Regional"
+    },
+    {
+      "title": "Coca-Cola stock: Company closes sale of 75% African bottler stake - ad-hoc-news.de",
+      "summary": "Coca-Cola completó la venta del 75% de su participación en su embotellador africano, desinvirtiendo en operaciones directas en el continente. Esta desinversión es estratégica para Coca-Cola ya que bus",
+      "companies": [
+        "The Coca-Cola Company"
+      ],
+      "segments": [
+        "distribution_execution"
+      ],
       "region": "Mundial"
     },
     {
-      "title": "Inside Heineken’s plans to build a major regional beverage plant in Rwamagana - IGIHE News",
-      "summary": "Heineken planifica la construcción de una planta regional de bebidas en Rwamagana, Rwanda, expandiendo su capacidad productiva en África Oriental. Este movimiento representa una estrategia de integrac",
+      "title": "The Coca-Cola Company and Gutsche Family Investments Close on Sale of Controlling Interest in Coca-Cola Beverages Africa to Coca-Cola HBC AG - Business Wire",
+      "summary": "Coca-Cola Company y Gutsche Family Investments completaron la venta de su participación mayoritaria en Coca-Cola Beverages Africa a Coca-Cola HBC AG. Este movimiento consolida la operación de embotell",
       "companies": [
-        "Heineken"
+        "The Coca-Cola Company"
       ],
       "segments": [
         "consumer_market_trends"
@@ -2576,13 +2575,12 @@
       "region": "Mundial"
     },
     {
-      "title": "Summit Street Capital Management LLC Purchases New Stake in Molson Coors Beverage Company $TAP - MarketBeat",
-      "summary": "Summit Street Capital Management adquirió una nueva posición accionaria en Molson Coors Beverage Company (TAP), uno de los mayores productores de cerveza en América del Norte. Este movimiento de un in",
-      "companies": [
-        "Molson Coors"
-      ],
+      "title": "Sunrise Beverages Agrees to Buy Northern Monk",
+      "summary": "Sunrise Beverages adquirió Northern Monk, una cervecería artesanal de Leeds, con planes de duplicar su capacidad productiva hacia finales de 2028. Esta operación refleja la consolidación del segmento ",
+      "companies": [],
       "segments": [
-        "consumer_market_trends"
+        "consumer_market_trends",
+        "ma_and_strategy"
       ],
       "region": "Mundial"
     }
